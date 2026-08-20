@@ -1,0 +1,38 @@
+{
+  "id": "ln-g7-m1-t1",
+  "name": "Grade 7 Mathematics Term 1 Lesson Notes",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 35,
+  "strand": "Numbers",
+  "subStrand": "Place Value",
+  "lessonNumber": 1,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to identify place value up to 9999",
+    "By the end of the lesson, the learner should be able to read and write numbers in words"
+  ],
+  "learningActivities": [
+    "Mental maths warm-up: teacher calls out numbers, learners state place value of underlined digit",
+    "Board work: teacher writes 4-digit number, learners identify place value of each digit in pairs",
+    "Worksheet exercise: identify place value of underlined digits in various numbers",
+    "Class discussion: why is place value important in everyday life?"
+  ],
+  "keyPoints": [
+    "Place value determines the value of a digit based on its position",
+    "In the number 5,432: 5 is in thousands place, 4 is in hundreds place, 3 is in tens place, 2 is in ones place",
+    "Moving one place to the left multiplies by 10; moving one place to the right divides by 10"
+  ],
+  "commonMisconceptions": [
+    "Thinking the digit itself determines value, not its position",
+    "Confusing tens and ones place when writing numbers in words"
+  ],
+  "resourcesRequired": [
+    "Learner's Book Chapter 1",
+    "Place value charts",
+    "Number cards",
+    "Whiteboard and markers"
+  ],
+  "lessonEvaluation": "Learners complete a short exercise identifying place value of digits in 4-digit numbers. Teacher marks and provides feedback.",
+  "teacherReflection": "Most learners understood place value concept. Need more practice for those who confused tens and ones."
+}

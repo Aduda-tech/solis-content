@@ -1,0 +1,44 @@
+{
+  "id": "exam-g7-m1-t1",
+  "name": "Grade 7 Mathematics Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 50,
+  "instructions": "Write your name, admission number and class in the spaces provided. Answer ALL questions. All answers should be written in the spaces provided beside each question. The paper is marked out of 50. Time: 100 minutes.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (10 marks)",
+      "items": [
+        "1. Write the place value of 7 in 5,732 (1 mark)",
+        "2. Round 348 to the nearest ten (1 mark)",
+        "3. What is the value of 5 squared? (1 mark)",
+        "4. Express 3/4 as a percentage (1 mark)",
+        "5. Which of these is an even number: 7, 12, 15? (1 mark)"
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (40 marks)",
+      "items": [
+        "6. Add: 345 + 278 = ______ (4 marks)",
+        "7. Subtract: 864 - 357 = ______ (4 marks)",
+        "8. Multiply: 24 × 15 = ______ (5 marks)",
+        "8b. If a crate holds 36 apples and there are 12 crates, how many apples in total? (5 marks)",
+        "9. A rectangle has length 12 cm and width 8 cm. Find its perimeter. (4 marks)",
+        "10. Find the area of a triangle with base 10 cm and height 6 cm. (4 marks)",
+        "11. Simplify: 3a + 2a + a = ______ (2 marks)",
+        "12. Solve for x: 2x + 5 = 15, x = ______ (3 marks)",
+        "13. What fraction of the shape is shaded? (3 marks)",
+        "14. Convert 2.5 km to metres. (2 marks)",
+        "15. A bag contains 5 red and 3 blue balls. What is the probability of picking a red ball? (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": {
+    "sectionA": [1,1,1,1,1],
+    "sectionB": [4,4,5,5,4,4,2,3,4,3,3,2,2,3],
+    "total": 50,
+    "comments": "All working must be shown. Partial marks awarded for correct methods even if final answer is wrong."
+  }
+}

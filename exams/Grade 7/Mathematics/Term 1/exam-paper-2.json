@@ -1,0 +1,38 @@
+{
+  "id": "exam-g7-m1-t2",
+  "name": "Grade 7 Mathematics Term 1 Supplementary Exam",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 35,
+  "instructions": "Write your name, admission number and class in the spaces provided. Answer ALL questions. All answers should be written in the spaces provided beside each question. The paper is marked out of 35. Time: 90 minutes.",
+  "sections": [
+    {
+      "heading": "Section A: Calculation Questions (15 marks)",
+      "items": [
+        "1. Add: 456 + 789 = ______ (3 marks)",
+        "2. Subtract: 902 - 578 = ______ (3 marks)",
+        "3. Multiply: 12 × 15 = ______ (3 marks)",
+        "4. Divide: 144 ÷ 12 = ______ (3 marks)",
+        "5. What is 3/5 of 50? ______ (3 marks)"
+      ]
+    },
+    {
+      "heading": "Section B: Problem Solving (20 marks)",
+      "items": [
+        "6. A farmer has 25 rows of maize with 30 plants in each row. How many maize plants are there in total? (5 marks)",
+        "7. The perimeter of a rectangular garden is 40 m. If the length is 12 m, find the width. (5 marks)",
+        "8. A basket contains 8 oranges, 6 apples and 4 bananas. What fraction of the fruits are apples? (3 marks)",
+        "9. A piece of cloth 2.5 m long is cut into 5 equal pieces. What is the length of each piece? (2 marks)",
+        "10. A shirt costs 450 shillings. After a 20% discount, what is the sale price? (5 marks)"
+      ]
+    }
+  ],
+  "markingScheme": {
+    "sectionA": [3,3,3,3,3],
+    "sectionB": [5,5,3,2,5],
+    "total": 35,
+    "comments": "Show all working. Answers must include correct units where applicable."
+  }
+}

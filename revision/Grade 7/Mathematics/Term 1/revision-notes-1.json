@@ -1,0 +1,66 @@
+{
+  "id": "rev-g7-m1-t1",
+  "name": "Grade 7 Mathematics Term 1 Revision",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 50,
+  "totalMarks": 25,
+  "instructions": "Attempt all questions. Show your working where required. The test is marked out of 25. Time: 50 minutes.",
+  "questions": [
+    {
+      "question": "What is the place value of 4 in 4,832?",
+      "answer": "4 thousands or 4,000",
+      "marks": 2
+    },
+    {
+      "question": "Round 567 to the nearest ten.",
+      "answer": "570",
+      "marks": 2
+    },
+    {
+      "question": "What is 3/4 + 1/4?",
+      "answer": "1 whole",
+      "marks": 2
+    },
+    {
+      "question": "Multiply: 6 × 7 = ______",
+      "answer": "42",
+      "marks": 2
+    },
+    {
+      "question": "If a rectangle has length 8 cm and width 3 cm, its area is ______ cm².",
+      "answer": "24",
+      "marks": 3
+    },
+    {
+      "question": "The angle shown is a ______ angle.",
+      "answer": "right",
+      "marks": 2
+    },
+    {
+      "question": "Add: 45 + 38 = ______",
+      "answer": "83",
+      "marks": 2
+    },
+    {
+      "question": "Subtract: 72 - 45 = ______",
+      "answer": "27",
+      "marks": 2
+    },
+    {
+      "question": "What is 20% of 150?",
+      "answer": "30",
+      "marks": 2
+    },
+    {
+      "question": "Find the perimeter of a square with side 6 cm.",
+      "answer": "24 cm",
+      "marks": 3
+    }
+  ],
+  "markingScheme": {
+    "total": 25,
+    "comments": "Each question carries 2-3 marks. Partial marks for correct method."
+  }
+}

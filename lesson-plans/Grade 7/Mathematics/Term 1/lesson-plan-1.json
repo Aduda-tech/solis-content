@@ -1,0 +1,39 @@
+{
+  "id": "lp-g7-m1-t1",
+  "name": "Grade 7 Mathematics Term 1 Lesson Plan",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "strand": "Numbers",
+  "subStrand": "Place Value",
+  "lessonNumber": 1,
+  "topic": "Introduction to Place Value",
+  "durationMinutes": 35,
+  "specificLearningOutcomes": [
+    "By the end of the lesson, the learner should be able to identify place value up to 9999",
+    "By the end of the lesson, the learner should be able to read and write numbers in words"
+  ],
+  "coreCompetencies": [
+    "Critical Thinking and Problem Solving - when solving place value problems",
+    "Communication and Collaboration - during pair work activities"
+  ],
+  "values": ["Accuracy", "Neatness"],
+  "pertinentAndContemporaryIssues": ["Environmental conservation - using numbers in measuring rainfall"],
+  "learningResources": [
+    "Learner's Book Chapter 1",
+    "Place value charts",
+    "Number cards",
+    "Whiteboard and markers",
+    "Real objects for counting (stones, bottles)"
+  ],
+  "organisationOfLearning": [
+    ["Introduction", "5 min", "Review previous learning: counting to 1000. Ask: 'What is the value of digit 5 in 350?'"],
+    ["Step 1: Whole-class activation", "10 min", "Teacher uses place value chart to show 4-digit numbers. Learners repeat place value names aloud."],
+    ["Step 2: Guided practice", "10 min", "Learners work in pairs: one shows a 4-digit number on chart, other identifies place values. Teacher rotates to support."],
+    ["Step 3: Independent application", "5 min", "Learners complete worksheet: identify place value of underlined digits in 5 given numbers."],
+    ["Conclusion", "5 min", "Teacher reviews answers. Learners share one thing they learned. Preview next lesson: fractions."]
+  ],
+  "assessment": "Observation during guided practice and collection of independent worksheet for marking.",
+  "reflection": "To be completed after the lesson: what worked well, what to adjust, and learners who need follow-up.",
+  "signature": "Teacher: ________________  Date: ________________"
+}

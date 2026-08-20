@@ -1,0 +1,153 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-08-20T15:50:00Z",
+  "curriculum": {
+    "Grade 7": ["Mathematics", "English", "Kiswahili"],
+    "Grade 8": ["Mathematics", "English", "Physics"]
+  },
+  "exams": {
+    "Grade 7": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-g7-m1-t1",
+            "name": "Grade 7 Mathematics Term 1 Exam",
+            "path": "exams/Grade 7/Mathematics/Term 1/exam-paper-1.json",
+            "questions": 20,
+            "marks": 50
+          },
+          {
+            "id": "exam-g7-m1-t2",
+            "name": "Grade 7 Mathematics Term 1 Supplementary",
+            "path": "exams/Grade 7/Mathematics/Term 1/exam-paper-2.json",
+            "questions": 15,
+            "marks": 35
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-g7-m2-t1",
+            "name": "Grade 7 Mathematics Term 2 Exam",
+            "path": "exams/Grade 7/Mathematics/Term 2/exam-paper-1.json",
+            "questions": 22,
+            "marks": 60
+          }
+        ],
+        "Term 3": [
+          {
+            "id": "exam-g7-m3-t1",
+            "name": "Grade 7 Mathematics Term 3 Exam",
+            "path": "exams/Grade 7/Mathematics/Term 3/exam-paper-1.json",
+            "questions": 18,
+            "marks": 45
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-g7-e1-t1",
+            "name": "Grade 7 English Term 1 Exam",
+            "path": "exams/Grade 7/English/Term 1/exam-paper-1.json",
+            "questions": 16,
+            "marks": 40
+          }
+        ]
+      }
+    },
+    "Grade 8": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-g8-m1-t1",
+            "name": "Grade 8 Mathematics Term 1 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-1.json",
+            "questions": 25,
+            "marks": 65
+          }
+        ]
+      }
+    }
+  },
+  "schemesOfWork": {
+    "Grade 7": {
+      "Mathematics": {
+        "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
+        "weeks": 39,
+        "strands": ["Numbers", "Algebra", "Geometry", "Measurement", "Data Handling"]
+      }
+    }
+  },
+  "revision": {
+    "Grade 7": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "rev-g7-m1-t1",
+            "name": "Grade 7 Mathematics Term 1 Revision",
+            "path": "revision/Grade 7/Mathematics/Term 1/revision-notes-1.json",
+            "questions": 10,
+            "marks": 25
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "rev-g7-m2-t1",
+            "name": "Grade 7 Mathematics Term 2 Revision",
+            "path": "revision/Grade 7/Mathematics/Term 2/revision-notes-1.json",
+            "questions": 12,
+            "marks": 30
+          }
+        ]
+      }
+    }
+  },
+  "lessonNotes": {
+    "Grade 7": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-g7-m1-t1",
+            "name": "Grade 7 Mathematics Term 1 Lesson Notes",
+            "path": "lesson-notes/Grade 7/Mathematics/Term 1/lesson-notes-1.json",
+            "questions": 8,
+            "marks": 20
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "ln-g7-m2-t1",
+            "name": "Grade 7 Mathematics Term 2 Lesson Notes",
+            "path": "lesson-notes/Grade 7/Mathematics/Term 2/lesson-notes-1.json",
+            "questions": 10,
+            "marks": 25
+          }
+        ]
+      }
+    }
+  },
+  "lessonPlans": {
+    "Grade 7": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "lp-g7-m1-t1",
+            "name": "Grade 7 Mathematics Term 1 Lesson Plan",
+            "path": "lesson-plans/Grade 7/Mathematics/Term 1/lesson-plan-1.json",
+            "questions": 6,
+            "marks": 15
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "lp-g7-m2-t1",
+            "name": "Grade 7 Mathematics Term 2 Lesson Plan",
+            "path": "lesson-plans/Grade 7/Mathematics/Term 2/lesson-plan-1.json",
+            "questions": 7,
+            "marks": 18
+          }
+        ]
+      }
+    }
+  }
+}

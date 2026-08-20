@@ -1,0 +1,107 @@
+{
+  "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
+  "weeks": 39,
+  "strands": ["Numbers", "Algebra", "Geometry", "Measurement", "Data Handling"],
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "strand": "Numbers",
+      "subStrand": "Place Value",
+      "lessonNumber": 1,
+      "objectives": ["Identify place value up to 9999", "Read and write numbers in words"],
+      "activities": ["Mental maths warm-up on place value", "Board work: writing numbers in expanded form"],
+      "resources": ["Learner's Book Chapter 1", "Place value charts", "Number cards"],
+      "assessment": "Quick quiz on place value concepts"
+    },
+    {
+      "week": 2,
+      "strand": "Numbers",
+      "subStrand": "Fractions",
+      "lessonNumber": 2,
+      "objectives": ["Identify half and quarter", "Shade fractions of shapes"],
+      "activities": ["Paper folding to show halves and quarters", "Shared reading of fraction examples"],
+      "resources": ["Fraction circles", "Shape templates"],
+      "assessment": "Worksheet on shading fractions"
+    },
+    {
+      "week": 3,
+      "strand": "Algebra",
+      "subStrand": "Simplifying Expressions",
+      "lessonNumber": 3,
+      "objectives": ["Simplify 3a + 2a", "Identify like terms"],
+      "activities": ["Group work: sorting like terms", "Class discussion"],
+      "resources": ["Algebra tiles", "Whiteboard"],
+      "assessment": "Exercise on simplifying expressions"
+    },
+    {
+      "week": 4,
+      "strand": "Geometry",
+      "subStrand": "Angles",
+      "lessonNumber": 4,
+      "objectives": ["Identify right, acute and obtuse angles", "Use a protractor to measure angles"],
+      "activities": ["Angle hunt around the classroom", "Protractor practice"],
+      "resources": ["Protractors", "Angle flash cards", "Classroom angle diagram"],
+      "assessment": "Measure and classify angles worksheet"
+    },
+    {
+      "week": 5,
+      "strand": "Measurement",
+      "subStrand": "Length",
+      "lessonNumber": 5,
+      "objectives": ["Convert between mm, cm, m, km", "Solve length word problems"],
+      "activities": ["Measure objects in the classroom", "Distance conversion drill"],
+      "resources": ["Rulers, metre sticks", "Conversion chart"],
+      "assessment": "Length conversion worksheet"
+    },
+    {
+      "week": 6,
+      "strand": "Data Handling",
+      "subStrand": "Pictograms",
+      "lessonNumber": 6,
+      "objectives": ["Interpret information from pictograms", "Create a pictogram from data"],
+      "activities": ["Collect class data on favourite fruits", "Draw pictogram on board"],
+      "resources": ["Pictogram templates", "Marker pens"],
+      "assessment": "Create a pictogram from given data"
+    },
+    {
+      "week": 7,
+      "strand": "Numbers",
+      "subStrand": "Decimal Fractions",
+      "lessonNumber": 7,
+      "objectives": ["Add and subtract decimals", "Multiply decimals by 10/100"],
+      "activities": ["Decimal grid work", "Real-life shopping problems"],
+      "resources": ["Decimal grids", "Price tags"],
+      "assessment": "Decimal operations worksheet"
+    },
+    {
+      "week": 8,
+      "strand": "Algebra",
+      "subStrand": "Solving Equations",
+      "lessonNumber": 8,
+      "objectives": ["Solve x + 5 = 12", "Solve 2x = 10"],
+      "activities": ["Balance scale method", "Step-by-step equation solving"],
+      "resources": ["Balance scale models", "Equation worksheets"],
+      "assessment": "Solve equations practice"
+    },
+    {
+      "week": 9,
+      "strand": "Geometry",
+      "subStrand": "Perimeter and Area",
+      "lessonNumber": 9,
+      "objectives": ["Find perimeter of rectangles and squares", "Find area of rectangles and squares"],
+      "activities": ["Measure classroom furniture", "Area by counting squares"],
+      "resources": ["Grid paper", "Rulers", "Classroom objects"],
+      "assessment": "Perimeter and area worksheet"
+    },
+    {
+      "week": 10,
+      "strand": "Data Handling",
+      "subStrand": "Bar Charts",
+      "lessonNumber": 10,
+      "objectives": ["Read and interpret bar charts", "Create a bar chart from data"],
+      "activities": ["Class survey: favourite sports", "Draw bar chart"],
+      "resources": ["Graph paper", "Marker pens", "Survey data"],
+      "assessment": "Interpret given bar chart"
+    }
+  ]
+}

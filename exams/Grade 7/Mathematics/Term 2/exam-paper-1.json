@@ -1,0 +1,47 @@
+{
+  "id": "exam-g7-m2-t1",
+  "name": "Grade 7 Mathematics Term 2 Exam",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 2",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Write your name, admission number and class in the spaces provided. Answer ALL questions. All answers should be written in the spaces provided beside each question. The paper is marked out of 60. Time: 100 minutes.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (15 marks)",
+      "items": [
+        "1. The fraction 5/8 expressed as a decimal is ______ (2 marks)",
+        "2. The angle measuring exactly 90° is called a ______ angle (2 marks)",
+        "3. The formula for the area of a rectangle is length × ______ (2 marks)",
+        "4. 150 cm = ______ m (2 marks)",
+        "5. How many sides does a hexagon have? (2 marks)",
+        "6. The value of π (pi) to 2 decimal places is ______ (2 marks)",
+        "7. Write five thousand and seven in figures: ______ (2 marks)",
+        "8. What is the next prime number after 7? ______ (1 mark)"
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (45 marks)",
+      "items": [
+        "9. Add: 4.5 + 3.25 + 1.75 = ______ (3 marks)",
+        "10. Take away: 10 – 3.62 = ______ (3 marks)",
+        "11. What is 25% of 200? ______ (2 marks)",
+        "12. A rectangle has area 48 cm² and length 8 cm. Find its width. (4 marks)",
+        "13. Triangle area: base 10 cm, height 5 cm. Find area. (3 marks)",
+        "14. A shirt costs 350 shillings. Find the cost after 15% increase. (4 marks)",
+        "15. Plot the point (3, 4) on a graph paper. (3 marks)",
+        "16. Find the mode of these numbers: 5, 7, 5, 9, 5, 3. (2 marks)",
+        "17. Find the range: 12, 8, 15, 3. (2 marks)",
+        "18. If 3x – 4 = 11, find the value of x. (3 marks)",
+        "19. A bag has 4 red, 3 white and 2 blue balls. What is the probability of not picking a red ball? (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": {
+    "sectionA": [2,2,2,2,2,2,2,1],
+    "sectionB": [3,4,2,4,3,3,2,3,2,3,3],
+    "total": 60,
+    "comments": "All answers in simplest form. Show all working for method marks."
+  }
+}
