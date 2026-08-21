@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-19T00:00:00Z",
+  "lastUpdated": "2026-08-19T12:00:00Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -167,18 +167,18 @@
   "pdfMaterials": {
     "source": "Teachers Arena (https://arena.co.ke/) \u2014 free downloads mirror",
     "pushedOn": "2026-08-19",
-    "totalDocuments": 1657,
+    "totalDocuments": 1950,
     "byFolder": {
       "curriculum-designs": 141,
-      "exams": 311,
+      "exams": 462,
       "forms": 124,
-      "lesson-notes": 286,
+      "lesson-notes": 319,
       "lesson-plans": 58,
-      "professional-docs": 126,
-      "revision": 393,
-      "schemes-of-work": 218
+      "professional-docs": 127,
+      "revision": 408,
+      "schemes-of-work": 311
     },
-    "note": "PDF/DOC materials added alongside the repo's native JSON content. Organized under the folder structure described in README.md.",
+    "note": "PDF/DOC materials added alongside the repo's native JSON content. Duplicate-label files are suffixed with a short Drive ID (e.g. 'Primary English Grammar (abc123).pdf').",
     "unavailableFiles": [
       "Metal Work Paper 1 KCSE 2015 (Google Drive sign-in restricted)",
       "KPSEA 2024 MARKING SCHEMES (dead link 404)",
