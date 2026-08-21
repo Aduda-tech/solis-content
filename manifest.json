@@ -1,6 +1,6 @@
-{
+﻿{
   "version": "1.0",
-  "lastUpdated": "2026-08-21T11:00:00Z",
+  "lastUpdated": "2026-08-21T14:57:49Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -187,3 +187,10 @@
     ]
   }
 }
+  "educationnewshubMaterials": {
+    "source": "Education News Hub (https://educationnewshub.co.ke/) - free CBC/CBE downloads mirror",
+    "pushedOn": "2026-08-21",
+    "totalDocuments": 93,
+    "byFolder": { "exams": 23, "lesson-notes": 36, "schemes-of-work": 34 },
+    "note": "Second free-download mirror batch covering PP1-PP2 schemes, Grade 1-10 notes/schemes/exams and Form 3-4 exams. Files sharing a label on the source site are suffixed with a short Drive ID."
+  }
