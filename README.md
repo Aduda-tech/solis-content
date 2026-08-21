@@ -6,10 +6,10 @@ Learning & teaching content repository — originally hosting structured (JSON) 
 
 | Folder | Contents |
 |---|---|
-| `revision/` | **KCSE** 2005–2017 (171) · **KCPE** 2000–2017 (137) · **KPSEA** G6 (47) · **KJSEA** G9 (25) · KCPE 2022 w/ schemes (13) | 409 |
-| `exams/` | Form 1–4 exams & marking schemes (by Form) · KNEC SBA (G3–9) · KNEC primary tests · holiday homework | 460 |
-| `lesson-notes/` | Primary (Class 4–8) · CBC (G1–6) · Junior Secondary + JSS teacher training · Secondary F1–4 by subject | 319 |
-| `schemes-of-work/` | CBC schemes G1–6 — all subjects, Terms 1–3 | 312 |
+| `revision/` | **KCSE** 2005–2017 (171) · **KCPE** 2000–2017 (137) · **KPSEA** G6 (47) · **KJSEA** G9 (25) · KCPE 2022 w/ schemes (13) | 414 |
+| `exams/` | Form 1–4 exams & marking schemes (by Form) · KNEC SBA (G3–9) · KNEC primary tests · holiday homework | 463 |
+| `lesson-notes/` | Primary (Class 4–8) · CBC (G1–6) · Junior Secondary + JSS teacher training · Secondary F1–4 by subject | 323 |
+| `schemes-of-work/` | CBC schemes G1–6 — all subjects, Terms 1–3 | 313 |
 | `curriculum-designs/` | CBC designs G1–9 + syllabi + combined designs | 141 |
 | `lesson-plans/` | CBC lesson plans PP1–PP2 & G1–6 | 56 |
 | `forms/` | TSC · KNEC exams · MOE schools · scholarships & loans · other | 124 |
