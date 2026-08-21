@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-21T11:00:00Z",
+  "lastUpdated": "2026-08-21T18:30:00Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -186,11 +186,170 @@
       "KCPE Composition Themes Analysis (dead link 404)"
     ]
   },
-"educationnewshubMaterials": {
+  "educationnewshubMaterials": {
     "source": "Education News Hub (https://educationnewshub.co.ke/) - free CBC/CBE downloads mirror",
     "pushedOn": "2026-08-21",
     "totalDocuments": 93,
-    "byFolder": { "exams": 23, "lesson-notes": 36, "schemes-of-work": 34 },
+    "byFolder": {
+      "exams": 23,
+      "lesson-notes": 36,
+      "schemes-of-work": 34
+    },
     "note": "Second free-download mirror batch covering PP1-PP2 schemes, Grade 1-10 notes/schemes/exams and Form 3-4 exams. Files sharing a label on the source site are suffixed with a short Drive ID."
+  },
+  "batch3Materials": {
+    "source": "Batch 3: educationnewshub.co.ke + newsblaze.co.ke + teacher.co.ke free-download mirror (Form 3-4 exams & marking schemes, PP1-PP2 exams, Grade 1-10 schemes/notes, Grade 10 assessments, 2025 KCSE/KJSEA papers, syllabi, topical revision)",
+    "pushedOn": "2026-08-21",
+    "totalDocuments": 761,
+    "byFolder": {
+      "exams": 464,
+      "schemes-of-work": 111,
+      "lesson-notes": 93,
+      "revision": 91,
+      "curriculum-designs": 2
+    },
+    "note": "Third free-download mirror batch. Prioritized thinnest-coverage levels (PP1/PP2 exams, Grade 5-6, Grade 8-9, Form 3 exams, Grade 10 schemes/exams) and 2025-2026 editions with marking schemes. Files sharing a label are suffixed with a short Drive ID.",
+    "unavailableFiles": [
+      {
+        "name": "LABORATORY PREPARATION GASES.",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "KISWAHILI KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "ENGLISH MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "KISWAHILI MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "MATHEMATICS KCSE PAST PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "BIOLOGY KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "PHYSICS KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "BIOLOGY MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "CHEMISTRY KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "CHEMISTRY MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "HISTORY KCSE PAST PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "HISTORY MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "GEOGRAPHY KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "GEOGRAPHY MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "CRE PDF",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "CRE MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "CLICK ME NOW TO GET EXAMS FOR ALL SUBJECTS IN EVERY FORM & CLASS.",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "AGRICULTURE KCSE PDF",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "COMPUTER STUDIES KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "AGRICULTURE MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "BUSINESS STUDIES MOCKS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "Download free on this link.",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "FRENCH PAST DISTRICT MOCK PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "BUSINESS STUDIES KCSE PAPERS",
+        "reason": "Google Drive HTTP 500 / persistent fetch failure"
+      },
+      {
+        "name": "BIOLOGY FORM 3 EXAM",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "BIOLOGY FORM 3 MARKING SCHEME",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "ENGLISH FORM 3 EXAM",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "HISTORY & GOVERNMENT FORM 3 MARKING SCHEME",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "KISWAHILI FORM 3 EXAMS",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "MATHEMATICS FORM 3 EXAM",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "PHYSICS FORM 3 EXAMS",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "GRADE 4 HOME SCIENCE SCHEMES",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "GRADE 4 MUSIC SCHEMES",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "GRADE 4 PE SCHEMES",
+        "reason": "Google Drive permission-restricted"
+      },
+      {
+        "name": "PP1 & PP2 Assessment Report Book",
+        "reason": "Google Drive permission-restricted"
+      }
+    ]
   }
 }

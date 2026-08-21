@@ -29,3 +29,18 @@ Learning & teaching content repository ΓÇö originally hosting structured (JSO
 | `schemes-of-work/` | 34 |
 
 Source: educationnewshub.co.ke free downloads (PP1-PP2 schemes, Grade 1-10 notes/schemes/exams, Form 3-4 exams). See "educationnewshubMaterials" in manifest.json.
+
+## Third batch (educationnewshub + newsblaze + teacher.co.ke mirror)
+
+| Folder | Added |
+|---|---|
+| `exams/` | 464 |
+| `schemes-of-work/` | 111 |
+| `lesson-notes/` | 93 |
+| `revision/` | 91 |
+| `curriculum-designs/` | 2 |
+
+Sources: educationnewshub.co.ke (Form 3-4 exams & marking schemes, PP1-PP2 exams,
+Grade 1-10 schemes/notes, 2025-2026 editions), newsblaze.co.ke (Grade 7 CBC set),
+teacher.co.ke (direct PDFs: syllabi, Grade 10 assessments, 2025 KCSE/KJSEA papers,
+topical revision). See "batch3Materials" in manifest.json for the unavailable-file list.
