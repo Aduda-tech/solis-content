@@ -1,9 +1,17 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-20T15:50:00Z",
+  "lastUpdated": "2026-08-19T00:00:00Z",
   "curriculum": {
-    "Grade 7": ["Mathematics", "English", "Kiswahili"],
-    "Grade 8": ["Mathematics", "English", "Physics"]
+    "Grade 7": [
+      "Mathematics",
+      "English",
+      "Kiswahili"
+    ],
+    "Grade 8": [
+      "Mathematics",
+      "English",
+      "Physics"
+    ]
   },
   "exams": {
     "Grade 7": {
@@ -74,7 +82,13 @@
       "Mathematics": {
         "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
         "weeks": 39,
-        "strands": ["Numbers", "Algebra", "Geometry", "Measurement", "Data Handling"]
+        "strands": [
+          "Numbers",
+          "Algebra",
+          "Geometry",
+          "Measurement",
+          "Data Handling"
+        ]
       }
     }
   },
@@ -149,5 +163,27 @@
         ]
       }
     }
+  },
+  "pdfMaterials": {
+    "source": "Teachers Arena (https://arena.co.ke/) \u2014 free downloads mirror",
+    "pushedOn": "2026-08-19",
+    "totalDocuments": 1657,
+    "byFolder": {
+      "curriculum-designs": 141,
+      "exams": 311,
+      "forms": 124,
+      "lesson-notes": 286,
+      "lesson-plans": 58,
+      "professional-docs": 126,
+      "revision": 393,
+      "schemes-of-work": 218
+    },
+    "note": "PDF/DOC materials added alongside the repo's native JSON content. Organized under the folder structure described in README.md.",
+    "unavailableFiles": [
+      "Metal Work Paper 1 KCSE 2015 (Google Drive sign-in restricted)",
+      "KPSEA 2024 MARKING SCHEMES (dead link 404)",
+      "KPSEA 2025 MARKING SCHEMES (dead link 404)",
+      "KCPE Composition Themes Analysis (dead link 404)"
+    ]
   }
 }
