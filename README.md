@@ -61,3 +61,22 @@ Ad-like content (site watermarks, contact info, social CTAs, repeated
 headers/footers) was removed; document content is preserved otherwise. 121
 image-only scanned PDFs have no text layer yet (OCR is a follow-up). See
 `indexed/README.md` for details.
+
+## search/ — full-text search index
+
+Prebuilt search artifacts over all 2,787 documents (incl. OCR):
+
+| File | Contents |
+|---|---|
+| `search/documents.json` | metadata for every doc (browse/filter/Fuse.js) |
+| `search/inverted.json` | inverted index (449K terms) over title+text+OCR+image-OCR |
+| `search/README.md` | wiring guide (server-side / Fuse.js / hosted engine) |
+
+## OCR & image indexing
+
+- **OCR pass**: 342 scanned/image-only documents OCR'd (tesseract LSTM) —
+  ~4.7M characters in `ocrText` (KLB Books 3 & 4 fully recovered: 309+118 pages).
+- **Image indexing**: 1,964 embedded images extracted from exams/notes/revision
+  PDFs into `indexed/assets/`, each OCR'd — diagram labels, figures and tables
+  are searchable via `imageOcrText` / `images[].ocrText`.
+- 11 corrupt PDFs remain without text (quality: none).

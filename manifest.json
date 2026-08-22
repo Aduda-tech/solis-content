@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-22T09:57:42Z",
+  "lastUpdated": "2026-08-22T13:41:45Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -366,5 +366,30 @@
     "location": "indexed/ (per-doc JSON), indexed/catalog.json (metadata), indexed/_jsonl/*.jsonl (full-text bulk feeds)",
     "note": "Each document converted to JSON with cleaned full text; ad/watermark content removed (site names, contact info, social CTA, repeated footers). 121 scanned image-only PDFs have no text layer (OCR follow-up available). Originals preserved.",
     "schema": "see indexed/README.md"
+  },
+  "ocrPass": {
+    "runOn": "2026-08-22",
+    "documentsOcr": 342,
+    "ocrChars": 4670762,
+    "note": "Scanned/image-only PDFs OCR'd with tesseract (LSTM). 11 corrupt PDFs have no extractable text."
+  },
+  "imageIndex": {
+    "runOn": "2026-08-22",
+    "documentsWithImages": 289,
+    "totalImages": 1964,
+    "imageAssets": "indexed/assets/<docid>/img-*.{png,jpg}",
+    "note": "Embedded images extracted from exams/lesson-notes/revision PDFs, OCR'd; per-image ocrText in each doc's JSON `images` array and in `imageOcrText`."
+  },
+  "searchIndex": {
+    "runOn": "2026-08-22",
+    "location": "search/",
+    "documents": 2787,
+    "terms": 449476,
+    "files": [
+      "search/documents.json",
+      "search/inverted.json",
+      "search/README.md"
+    ],
+    "note": "Inverted index over title+text+ocrText+imageOcrText. See search/README.md."
   }
 }
