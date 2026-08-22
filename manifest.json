@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-21T18:30:00Z",
+  "lastUpdated": "2026-08-22T09:57:42Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -351,5 +351,20 @@
         "reason": "Google Drive permission-restricted"
       }
     ]
+  },
+  "indexedMaterials": {
+    "source": "Machine-readable conversion of all repo documents",
+    "convertedOn": "2026-08-22",
+    "totalDocuments": 2787,
+    "totalTextChars": 104494408,
+    "byQuality": {
+      "text": 2411,
+      "sparse": 232,
+      "rough": 23,
+      "none": 121
+    },
+    "location": "indexed/ (per-doc JSON), indexed/catalog.json (metadata), indexed/_jsonl/*.jsonl (full-text bulk feeds)",
+    "note": "Each document converted to JSON with cleaned full text; ad/watermark content removed (site names, contact info, social CTA, repeated footers). 121 scanned image-only PDFs have no text layer (OCR follow-up available). Originals preserved.",
+    "schema": "see indexed/README.md"
   }
 }

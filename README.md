@@ -44,3 +44,20 @@ Sources: educationnewshub.co.ke (Form 3-4 exams & marking schemes, PP1-PP2 exams
 Grade 1-10 schemes/notes, 2025-2026 editions), newsblaze.co.ke (Grade 7 CBC set),
 teacher.co.ke (direct PDFs: syllabi, Grade 10 assessments, 2025 KCSE/KJSEA papers,
 topical revision). See "batch3Materials" in manifest.json for the unavailable-file list.
+
+## indexed/ — machine-readable corpus
+
+Every document in the repo has been converted to JSON with cleaned, searchable
+text (2,787 docs, ~104M characters):
+
+| Location | Contents |
+|---|---|
+| `indexed/<area>/<level>/<name>.json` | one JSON per document (metadata + clean full text) |
+| `indexed/catalog.json` | metadata for all documents (browsing/filtering) |
+| `indexed/_jsonl/<area>.jsonl` | full-text bulk feeds (JSON Lines) for search engines |
+| `indexed/README.md` | schema + usage guide |
+
+Ad-like content (site watermarks, contact info, social CTAs, repeated
+headers/footers) was removed; document content is preserved otherwise. 121
+image-only scanned PDFs have no text layer yet (OCR is a follow-up). See
+`indexed/README.md` for details.

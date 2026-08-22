@@ -1,0 +1,11 @@
+{
+ "processed": 2787,
+ "byQuality": {
+  "text": 2411,
+  "none": 121,
+  "sparse": 232,
+  "rough": 23
+ },
+ "totalTextChars": 104494408,
+ "generated": "2026-08-22T09:57:13Z"
+}
