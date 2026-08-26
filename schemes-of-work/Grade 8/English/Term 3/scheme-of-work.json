@@ -1,0 +1,616 @@
+{
+  "path": "schemes-of-work/Grade 8/English/Term 3/scheme-of-work.json",
+  "grade": 8,
+  "term": 3,
+  "subject": "English",
+  "weeks": 7,
+  "lessons": 36,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: ( modern fashion )",
+      "subStrand": "Listening to respond: Attitude",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -explain the message in a given song -use appropriate words and expressions to express their attitude -appreciate how choice of words affects the reader"
+      ],
+      "activities": [
+        "The learner is guided to: -listen to different from a digital device and describe the messages in them -in groups perform the songs and bring out relevant emotions -use words and expressions to describe their feelings about various issues in the songs including modern fashion"
+      ],
+      "resources": [
+        "Skills in English grade 8 page 170-171 digital devices"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What messages are found in songs?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Intensive reading C omprehension  strategies",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify mental images in a text correctly -use contextual clues to infer information and meaning of words -appreciate the role of comprehension in effective communication"
+      ],
+      "activities": [
+        "The learner is guided to: -read the passage on modern fashion and underline sentences that create mental images -infer the meaning of words  using contextual clues -read the passage on modern fashion in turns and answer questions"
+      ],
+      "resources": [
+        "Skills in English grade 8 page 171-172"
+      ],
+      "assessment": "-oral  questions  -written questions",
+      "inquiryQuestion": "What do you remember most after reading a text?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Phrasal verbs",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify phrasal verbs correctly in a text -use phrasal verbs correctly in sentences -appreciate the role of phrasal verbs in making conversations interesting"
+      ],
+      "activities": [
+        "The learner is guided to: -read a text and identify phrasal verbs formed from make, pass and look -construct sentences on modern fashion using the given phrasal verbs -use digital dictionaries of  phrasal verbs to check the meaning of the given phrasal verbs"
+      ],
+      "resources": [
+        "Skills in English grade 8 page  174-175"
+      ],
+      "assessment": "-oral  questions  -written questions",
+      "inquiryQuestion": "What are phrasal verbs?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Short story: Characters",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the characters in the short story -write a paragraph on the characters in the short story -appreciate the role of characters in stories"
+      ],
+      "activities": [
+        "The learner is guided: -read a story and identify the characters -categorize the characters as good or bad based on their actions and words -write paragraphs describing the traits of the characters in the story"
+      ],
+      "resources": [
+        "Skills in English grade 8 page  177-1778"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-what qualities do you admire in people? -How can character traits be described?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "The writing process",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: - explain the process of writing a dialogue -write a dialogue on a given topic correctly -acknowledge the importance of writing process"
+      ],
+      "activities": [
+        "The learner is guided to: -search online the stages of the writing process ie pre-writing, drafting, editing -discuss possible topics for a dialogue on modern fashion - write a dialogue on a given topic correctly"
+      ],
+      "resources": [
+        "Skills in English grade  8 page 180-181 digital devices"
+      ],
+      "assessment": "",
+      "inquiryQuestion": "-how can a good dialogue be written -why should one write a dialogue?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: (modern fashion)",
+      "subStrand": "Listening to respond: Attitude",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -explain the message in a given song -use appropriate words and expressions to express their attitude -appreciate how choice of words affects the reader"
+      ],
+      "activities": [
+        "The learner is guided to: -listen to different from a  digital device and describe the messages in them -in groups perform the songs and bring out relevant emotions -use words and expressions to describe their feelings about various issues in the songs including modern fashion"
+      ],
+      "resources": [
+        "Skills in English grade 8 page 170-171 digital devices"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What messages are found in songs?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Intensive reading Comprehension strategies",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify mental images in a text correctly -use contextual clues to infer information and meaning of words -appreciate the role of comprehension in effective communication"
+      ],
+      "activities": [
+        "The learner is guided to: -read the passage on modern fashion and underline sentences that create mental images -infer the meaning of words using contextual clues -read the passage on modern fashion in turns  and answer questions"
+      ],
+      "resources": [
+        "Skills in English grade 8 page 171-172"
+      ],
+      "assessment": "-oral  questions  -written questions",
+      "inquiryQuestion": "What do you remember most after reading a text?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Phrasal verbs",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify phrasal verbs correctly in a text -use phrasal verbs correctly in sentences -appreciate the role of phrasal verbs in making conversations interesting"
+      ],
+      "activities": [
+        "The learner is guided to: -read a text and identify phrasal verbs formed from make, pass and look -construct sentences on modern fashion using the given phrasal verbs -use digital dictionaries of  phrasal verbs to check the meaning of the given phrasal verbs"
+      ],
+      "resources": [
+        "Skills in English grade 8 page  174-175"
+      ],
+      "assessment": "-oral  questions  -written questions",
+      "inquiryQuestion": "What are phrasal verbs?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Short story: Characters",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the characters in the short story -write a paragraph on the characters in the short story -appreciate the role of characters in stories"
+      ],
+      "activities": [
+        "The learner is guided: -read a story and identify the characters -categorize the characters as good or bad based on their actions and words -write paragraphs describing the traits of the characters in the story"
+      ],
+      "resources": [
+        "Skills in English grade 8 page  177-1778"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-what qualities do you admire in people? -How can character traits be described?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "The writing process",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -explain the process of writing a dialogue -write a dialogue on a given topic correctly -acknowledge the importance of writing process"
+      ],
+      "activities": [
+        "The learner is guided to: -search online the stages of the writing process ie pre-writing, drafting, editing -discuss possible topics for a dialogue on modern fashion - write a dialogue on a given topic correctly"
+      ],
+      "resources": [
+        "Skills in English  grade  8 page 180-181 digital devices"
+      ],
+      "assessment": "",
+      "inquiryQuestion": "-how can a good dialogue be written -why should one write a dialogue?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: (consumer protection)",
+      "subStrand": "Extensive listening: poems",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -  identify messages in poems -perform poems using appropriate techniques -acknowledge the role of poems in the society"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss the different messages in poems -discuss performance techniques that make the  presentation appealing -discuss poems on the need for consumer protection and perform them"
+      ],
+      "resources": [
+        "Skills in English   grade     8 Page 183-184"
+      ],
+      "assessment": "-oral questions",
+      "inquiryQuestion": "-how can you improve the presentation of a poem? -what messages are conveyed poems?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Intensive Reading Comprehension strategies",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify points in     a passage -create mental  images of the characters, places and events in a text -   summarize the key points in a text -appreciate the role of reading in life l ong learning"
+      ],
+      "activities": [
+        "The learner is guided to: - read a text on the need for consumer protection and identify the key points -underline sentences that create mental images -write a paragraph that summarizes the key points in the story in own words"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page  184-186"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do you identify key points while reading?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Word classes: Compound sentences",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify compound sentences from a text -construct compound sentences using different coordinating conjunctions -appreciate the usage of compound sentences in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -   read a text on the need for consumer protection and identify  compound sentences - search online for coordinating conjunctions to be used in constructing compound sentences -construct compound sentences using different conjunctions"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 187-188"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-Why do we join sentences? -How do we join sentences?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Short story:   style",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify personification and flashback in  a short story -read and dramatise selected parts of a short story featuring personification and flashback -appreciate the creative use of language in short stories"
+      ],
+      "activities": [
+        "The learner is guided to: - identify personification and flashback in the selected short story   -in groups dramatise the selected parts of the story containing personification and flashback"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 189- 191"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-how does a writer make a story interesting? -which qualities of a person can be given to animals?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Creative narrative composition: idioms",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -explain the meaning of the specified idioms in context -compose a narrative composition using the specified idioms -appreciate the value of idioms in spoken and written communication"
+      ],
+      "activities": [
+        "The learner is guided to: -search online the meaning of  idioms e.g have guts -engage in language game such as use of task cards, on sentence construction featuring the given idioms -write a narrative composition using the given idioms"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 192-194"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-what makes a story outsta nding? -how can we improve our writing skills?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: (consumer protection)",
+      "subStrand": "Extensive listening: poems",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: - identify messages in poems -perform poems using appropriate techniques -acknowledge the role of poems in the society"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss the different messages in poems -discuss performance techniques that make the presentation appealing -discuss poems on the need for consumer protection and perform them"
+      ],
+      "resources": [
+        "Skills in English   grade     8 Page 183-184"
+      ],
+      "assessment": "-oral questions",
+      "inquiryQuestion": "-how can you improve the presentation of a poem? -what messages are conveyed poems?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Intensive Reading Comprehension strategies",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify points in  a passage -create mental images of the characters, places and events in a text -  summarize the key points in a text -appreci ate the role of reading in life long learning"
+      ],
+      "activities": [
+        "The learner is guided to: -read a text on the need for consumer protection and identify the key points -underline sentences that create mental images -write a paragraph that summarizes the key points in the story in own words"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 184-186"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do you identify key  points while reading?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Word classes: Compound sentences",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify compound sentences from a text -construct compound sentences using different coordinating conjunctions -appreciate the usage of compound sentences in communication"
+      ],
+      "activities": [
+        "The learner is guided to: - read a text on the need for consumer protection and identify compound sentences -search online for coordinating conjunctions to be used in constructing compound sentences -construct compound sentences using different conjunctions"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 187-188"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-Why do we join sentences? -How do we join sentences?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Short story: style",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify personification and flashback in a short story -read and dramatise selected parts of a short story featuring personification and flashback -appreciate the creative use of language in short stories"
+      ],
+      "activities": [
+        "The learner is guided to: - identify personification and flashback in the selected short story   -in groups dramatise the selected parts of the story containing personification and flashback"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 189- 191"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-how does a writer make a story interesting? -which qualities of a person can be given to animals?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Creative narrative composition: idioms",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -explain the meaning of the specified idioms in context -compose a narrative composition using the specified idioms -appreciate the value of idioms in spoken and written communication"
+      ],
+      "activities": [
+        "The learner is guided to: -search online the meaning of idioms e.g have guts -engage in language game such as use of task cards, on sentence construction featuring the given idioms -write a narrative composition using the given idioms"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 192-194"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "-what makes a story outstanding? -how can we improve our writing skills?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: Sports-Olympics",
+      "subStrand": "Pronunciation and intonation",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify silent consonant letters in words -pronounce words with silent consonant letters in sentences -acknowledge the importance of correct pronunciation and intonation in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -search online words with     silent  consonant letters e.g/r/,/h/ and practice the pronunciation of given words -use the correct intonation when reading declarative and exclamatory sentences -underline silent letters in words"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 195-196"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why should we use the right intonation when speaking?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Study skills",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the main ideas in texts -make notes from a descriptive text -summarise a descriptive text in a paragraph of stated number of words -acknowledge the role of note making and summarise texts"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss the steps to follow when writing a summary of a text -read samples of well written summaries and notes -share ideas on qualities of well written notes and summaries"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page201-202"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why is it important to summarise information?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Sentences: Active and Passive voice",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify sentences in active and passive voice -construct sentences in the active and passive voice -appreciate  the use of active and   passive  voice in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -read texts on Olympics and underline active and passive sentences -change simple sentences from active to passive voice and vice versa -construct sentences in active and passive voice"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page  201-202"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why should one use a variety of sentences?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Features of styles",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the ideas in the short story -relate ideas from the short story to real life experiences -appreciate the value of short stories in reflecting social issues"
+      ],
+      "activities": [
+        "The learner is guided to: -read a short story and identify the ideas it conveys -discuss the events and characters in a short story and the issues the writer brings out through them -dramatize sections of a short story that  reflect real life experiences"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 203-205"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How are stories related to what happens in real life?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Creative writing: Descriptive writing",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify words and expressions for describing people, places and events -write a descriptive composition on people, places and events -value the place of description in written and spoken communication"
+      ],
+      "activities": [
+        "The learner is guided to: -search online for words and expressions that can be used to appeal to the five senses -read a passage on various issues in Olympics  -create a descriptive composition based on one of the sports featured in the  Olympics"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 206-208 digital devices"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Which words or expressions do we use to describe things, events or people?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: Sports-Olympics",
+      "subStrand": "Pronunciation and intonation",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify silent consonant letters in words -pronounce words with silent consonant letters in sentences -acknowledge the importance of correct pronunciation and  intonation in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -search online words with   silent consonant letters e.g/r/,/h/ and practice the pronunciation of given words -use the correct intonation when reading declarative and exclamatory sentences -underline silent letters in words"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 195-196"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why should we use the right intonation when speaking?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Study skills",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the main ideas in texts -make notes from a descriptive text -summarise a descriptive text in a paragraph of stated number of words -acknowledge the role of note making and summarise texts"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss the steps to follow when writing a summary of a text -read samples of well written summaries and notes -share ideas on qualities of well written notes and summaries"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page201-202"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why is it important to summarise information?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Sentences: Active and Passive voice",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify sentences in active and passive voice -construct sentences in the active and passive voice -appreciate the use of active and   passive voice in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -read texts on Olympics and underline active and passive sentences -change simple sentences from  active to passive voice and vice versa -construct sentences in active and passive voice"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 201-202"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why should one use a variety of sentences?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Features of styles",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the ideas in the short story -relate ideas from the short story to real life experiences -appreciate the value of short stories in reflecting social issues"
+      ],
+      "activities": [
+        "The learner is guided to: -read a short story and identify the ideas it conveys -discuss the events and characters in a short story and the issues the writer brings out through them -dramatize sections of a short story that  reflect real life experiences"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page203-205"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How are stories related to what happens in real life?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Creative writing: Descriptive writing",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify words and expressions for describing people, places and events -write a descriptive composition on people, places and events -value the place of description in written and spoken communication"
+      ],
+      "activities": [
+        "The learner is guided to: -search online for words and expressions that can be used to appeal to the five senses -read a passage on various issues in Olympics  -create a descriptive composition based on one of the sports featured in the Olympics"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 206-208 digital devices"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Which words or expressions do we use to describe things, events or people?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Listening and speaking theme: (Tourists attractions  sites in Africa)",
+      "subStrand": "Oral reports: Events",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -mention events that take place outside classroom -present a report on occurrences taking place out of the classroom using verbal-nonverbal cues -appreciate the role of oral reports in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss pictures taken in a tourists attraction site -search online oral reports and note the steps taken  -present oral reports on the activities as they took place using verbal and non-verbal cues"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page 209-210 digital devices"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why do we give oral reports?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Reading fluency",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -outline reading fluency aspects and strategies observed while reading aloud -apply fluency strategies when reading text -appreciate the significance of poems in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss the reading fluency aspects such as accuracy, speed -practice  fluency strategies as he/she  read s -in groups recite choral poems"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page  211-213"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What emotions or feelings can we display when reading a text?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Grammar in use",
+      "subStrand": "Types of sentences: Interrogative sentences",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify interrogative sentences and question tags from a text -use interrogative sentences and question tags in varied contexts -appreciate the role of correctly framed questions in communication"
+      ],
+      "activities": [
+        "The learner is guided to: -read a text online on topics related to the theme -discuss interrogative sentences such as WH-questions, and alternative questions -form interrogatives and tag questions"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page  215-217"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do we ask questions?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Poems",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -identify the ideas in poems -state lessons learnt in the poem -appreciate the role of poems in addressing societal issues"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss the messages conveyed in the poems and make notes -discuss the lessons learnt from the poems  -recite and dramatize the  given poems for enjoyment"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page  219-220"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Which lesson s have    you  learnt from poems before?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Functional writing:  Personal journals",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -outline the components of a personal journal -create a personal journal on varied experiences -evaluate a journal for correctness and relevance"
+      ],
+      "activities": [
+        "The learner is guided to: -explain the purpose of keeping a diary or journal -view samples of diary and identify the components - create a personal journal"
+      ],
+      "resources": [
+        "Skills in English   grade   8 Page  221-223"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Why do we write journals?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "8 - 9 RE VISION &amp; END OF YEAR ASSESSMENT",
+      "inquiryQuestion": ""
+    }
+  ]
+}

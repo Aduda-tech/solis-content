@@ -1,0 +1,697 @@
+{
+  "path": "schemes-of-work/Grade 9/MATHEMATICS SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 9,
+  "term": 3,
+  "subject": "MATHEMATICS SCHEMES",
+  "weeks": 8,
+  "lessons": 41,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Similar figures and properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Identify similar figures and their properties; Measure corresponding sides and angles of similar figures; Appreciate the concept of similarity in real-life objects."
+      ],
+      "activities": [
+        "What makes two figures similar?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 203 -Ruler -Protractor -Cut-out shapes -Charts showing similar figures -Manila paper"
+      ],
+      "assessment": "-Oral questions -Observation -Written exercise -Checklist",
+      "inquiryQuestion": "Learners study diagrams of similar cross-sections. Learners measure the corresponding sides of the cross-sections and find the ratio between them. Learners measure all the corresponding angles and discover that they are equal."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Identifying similar objects",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Identify similar objects in the environment; Determine if given figures are similar; Value the concept of similarity in everyday life."
+      ],
+      "activities": [
+        "How do we recognize similar objects in our environment?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 204 -Ruler -Protractor -Various geometric objects -Charts with examples -Worksheets with diagrams"
+      ],
+      "assessment": "-Oral questions -Group work -Written exercise -Observation",
+      "inquiryQuestion": "Learners collect and classify objects according to similarity. Learners identify pairs of similar figures from given diagrams. Learners discuss real-life examples of similar objects and their properties."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Drawing similar figures",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Draw similar figures in different situations; Calculate dimensions of similar figures using scale factors; Enjoy creating similar figures."
+      ],
+      "activities": [
+        "How do we construct a figure similar to a given figure?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 206 -Ruler -Protractor -Pair of compasses -Drawing paper -Calculator -Charts with examples"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners draw triangle ABC with given dimensions (AB=3cm, BC=4cm, and AC=6cm). Learners are told that triangle PQR is similar to ABC with PQ=4.5cm, and they calculate the other dimensions. Learners construct triangle PQR and compare results with other groups."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Properties of enlargement",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Determine properties of enlargement of different figures; Locate the center of enlargement and find scale factors; Value the application of enlargement in real-life situations."
+      ],
+      "activities": [
+        "How do we determine the center and scale factor of an enlargement?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 209 -Ruler -Tracing paper -Colored pencils -Grid paper -Charts showing enlargements -Diagrams for tracing"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Observation",
+      "inquiryQuestion": "Learners trace diagrams showing an object and its enlarged image. Learners draw lines through corresponding points to find where they intersect (center of enlargement). Learners find the ratios of corresponding lengths to determine the scale factor."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Negative scale factors",
+      "objectives": [
+        "By the end of the lesson, the le arner should be able to : Determine properties of enlargement with negative scale factors; Locate centers of enlargement with negative scale factors; Appreciate the concept of negative scale factors in enlargements."
+      ],
+      "activities": [
+        "What happens when an enlargement has a negative scale factor?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 211 -Ruler -Tracing paper -Grid paper -Colored pencils -Charts showing negative scale factor enlargements -Diagrams for tracing"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Checklist",
+      "inquiryQuestion": "Learners trace diagrams showing an object and its image where the center of enlargement is between them. Learners join corresponding points to locate the center of enlargement. Learners find the ratio of distances from the center to corresponding points and note that the image is on the opposite side of the object."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Drawing images of objects",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Apply properties of enlargement to draw similar objects and their images; Use scale factors to determine dimensions of images; Enjoy creating enlarged images of objects."
+      ],
+      "activities": [
+        "How do we draw the image of an object under an enlargement with a given center and scale factor?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 214 -Ruler -Grid paper -Colored pencils -Charts showing steps of enlargement -Manila paper"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Peer assessment",
+      "inquiryQuestion": "Learners trace a given figure and join the center of enlargement to each vertex. Learners multiply each distance by the scale factor to locate the image points. Learners locate the image points and join them to create the enlarged figure."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Linear scale factor",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Determine the linear scale factor of similar figures; Calculate unknown dimensions using linear scale factors; Value the application of linear scale factors in real-life problems."
+      ],
+      "activities": [
+        "How do we use linear scale factors to calculate unknown dimensions of similar figures?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 216 -Ruler -Calculator -Similar objects of different sizes -Charts with examples -Worksheets"
+      ],
+      "assessment": "-Oral questions -Group work -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners consider similar cones and find the ratios of their corresponding dimensions. Learners study similar triangles and calculate the linear scale factor. Learners use the scale factor to find unknown dimensions of similar figures."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Using coordinates in enlargement",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Find the coordinates of images under enlargement; Determine the center of enlargement and scale factor from given coordinates; Appreciate the use of coordinates in describing enlargements."
+      ],
+      "activities": [
+        "How do we use coordinate geometry to describe and perform enlargements?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 218 -Grid paper -Ruler -Colored pencils -Calculator -Charts with coordinate examples"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Observation",
+      "inquiryQuestion": "Learners plot figures and their images on a grid. Learners find the center of enlargement by drawing lines through corresponding points. Learners calculate the scale factor using the coordinates of corresponding points."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement - Applications of similarity",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Apply similarity concepts to solve real-life problems; Calculate heights and distances using similar triangles; Value the practical applications of  similarity in everyday life."
+      ],
+      "activities": [
+        "How can we use similarity to solve real-life problems?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 219 -Ruler -Calculator -Drawing paper -Charts with real-life applications -Manila paper for presentations"
+      ],
+      "assessment": "-Oral questions -Problem-solving -Written exercise -Group presentation",
+      "inquiryQuestion": "Learners solve problems involving similar triangles to find unknown heights and distances. Learners discuss how similarity is used in fields such as architecture, photography, and engineering. Learners work on practical  applications of similarity in the environment."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Angles and sides of right-angled triangles Trigonometry - Sine ratio",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Identify angles and sides of right-angled triangles in different situations; Distinguish between the hypotenuse, adjacent side, and opposite side; Appreciate the relationship between angles and sides in right-angled triangles."
+      ],
+      "activities": [
+        "How do we identify different sides in a right-angled triangle?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 220 -Ruler -Protractor -Set square -Drawing paper -Charts with labeled triangles -Colored markers -KLB Mathematics Grade 9 Textbook page 222 -Calculator -Charts showing sine ratio -Manila paper"
+      ],
+      "assessment": "-Oral questions -Observation -Written exercise -Checklist",
+      "inquiryQuestion": "Learners draw right-angled triangles with acute angles and identify the longest side (hypotenuse). Learners identify the side which together with the hypotenuse forms the angle θ (adjacent side). Learners identify the side facing the angle θ (opposite side)."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Cosine ratio",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Identify cosine ratio from a right-angled triangle; Calculate cosine of angles in right-angled triangles; Enjoy solving problems involving cosine ratio."
+      ],
+      "activities": [
+        "What is the cosine of an angle and how do we calculate it?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 223 -Ruler -Protractor -Calculator -Drawing paper -Charts showing cosine ratio -Worksheets"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Observation",
+      "inquiryQuestion": "Learners draw triangles with specific angles and sides. Learners calculate ratios of adjacent side to hypotenuse for different angles and discover the cosine ratio. Learners find the cosine of marked angles in various right-angled triangles."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Tangent ratio",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Identify tangent ratio from a right-angled triangle; Calculate tangent of  angles in right-angled triangles; Appreciate the importance of tangent ratio in problem-solving."
+      ],
+      "activities": [
+        "What is the tangent of an angle and how do we calculate it?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 225 -Ruler -Protractor -Calculator -Drawing paper -Charts showing tangent ratio -Manila paper"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Checklist",
+      "inquiryQuestion": "Learners draw triangle ABC with specific angles and mark points on BC. Learners draw perpendiculars from these points to AC and measure their lengths. Learners calculate ratios of opposite side to adjacent side for different angles and discover the tangent ratio."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Reading tables of sines",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Read tables of trigonometric ratios of acute angles; Find the sine values of different angles using tables; Value the importance of mathematical tables in finding trigonometric ratios."
+      ],
+      "activities": [
+        "How do we use mathematical tables to find the sine of an angle?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 227 -Mathematical tables -Calculator -Worksheets -Chart showing how to read tables -Sample exercises"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners study a part of the table of sines. Learners use the table to look for specific angles and find their sine values. Learners find sine values of angles with decimal parts using the 'ADD' column in the tables."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Reading tables of cosines and tangents",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Read tables of cosines and tangents for acute angles; Find cosine and tangent values using mathematical tables; Enjoy using mathematical tables to find trigonometric ratios."
+      ],
+      "activities": [
+        "How do we use mathematical tables to find cosine and tangent values?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 229-231 -Mathematical tables -Calculator -Worksheets -Chart showing how to read tables -Sample exercises"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Observation",
+      "inquiryQuestion": "Learners study parts of the tables of cosines and tangents. Learners use the tables to find cosine and tangent values of specific angles. Learners find values of angles with decimal parts using the 'SUBTRACT' column for cosines and 'ADD' column for tangents."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Using calculators for trigonometric ratios",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Determine  trigonometric ratios of acute angles using calculators; Compare values obtained from tables and calculators; Value the use of calculators in finding trigonometric ratios."
+      ],
+      "activities": [
+        "How do we use calculators to find  trigonometric ratios?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 233 -Scientific calculators -Mathematical tables -Worksheets -Chart showing calculator keys -Sample exercises"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written  exercise -Checklist",
+      "inquiryQuestion": "Learners use calculators to find trigonometric ratios of specific angles. Learners compare values obtained from calculators  with those from mathematical tables. Learners use calculators to find sine, cosine, and tangent of various angles."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Calculating lengths using trigonometric ratios",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Apply trigonometric ratios to calculate lengths of right-angled triangles; Use sine, cosine, and tangent ratios to find unknown sides; Appreciate the application of trigonometry in solving real-life problems."
+      ],
+      "activities": [
+        "How do we use trigonometric ratios to find unknown sides in right-angled triangles?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 234 -Scientific calculators -Mathematical tables -Ruler -Drawing paper -Charts with examples -Worksheets"
+      ],
+      "assessment": "-Oral questions -Group work -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners consider a right-angled triangle and find the trigonometric ratio appropriate for finding an unknown side. Learners find the value of the ratio from tables or calculators and relate it to the expression to find the unknown side. Learners solve problems involving finding sides of right-angled triangles."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Calculating angles using trigonometric ratios",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Use trigonometric ratios to calculate angles in right-angled triangles; Apply inverse trigonometric functions to find angles; Enjoy solving problems involving trigonometric ratios."
+      ],
+      "activities": [
+        "How do we find unknown angles in right-angled triangles using trigonometric ratios?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 235 -Scientific calculators -Mathematical tables -Ruler -Drawing paper -Charts with examples -Worksheets"
+      ],
+      "assessment": "-Oral questions -Group work -Written exercise -Observation",
+      "inquiryQuestion": "Learners consider right-angled triangles with known sides. Learners calculate trigonometric ratios using the known sides and use tables or calculators to find the corresponding angles. Learners solve problems involving finding angles in right-angled triangles."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Application in heights and distances",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Apply trigonometric ratios to solve problems involving heights and distances; Calculate heights of objects using angles of elevation; Value the use of trigonometry in real-life situations."
+      ],
+      "activities": [
+        "How do we use trigonometry to find heights and distances in real-life situations?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 237 -Scientific calculators -Mathematical tables -Ruler -Drawing paper -Charts with real-life examples -Manila paper"
+      ],
+      "assessment": "-Oral questions -Problem-solving -Written exercise -Group presentation",
+      "inquiryQuestion": "Learners solve problems involving finding heights of objects like flag poles, towers, and buildings using angles of elevation. Learners apply sine, cosine, and tangent ratios as appropriate to calculate unknown heights and distances. Learners discuss real-life applications of trigonometry in architecture, navigation, and engineering."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Application in navigation",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Apply trigonometric ratios in navigation problems; Calculate distances and bearings using trigonometry; Appreciate the importance of trigonometry in navigation."
+      ],
+      "activities": [
+        "How is trigonometry used in navigation and determining positions?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 238 -Scientific calculators -Mathematical tables -Ruler -Protractor -Maps -Charts with navigation examples"
+      ],
+      "assessment": "-Oral questions -Problem-solving -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners solve problems involving finding distances between locations given bearings and distances from a reference point. Learners calculate bearings between points using trigonometric ratios. Learners discuss how pilots, sailors, and navigators use trigonometry."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Trigonometry - Review and mixed applications",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Apply trigonometric concepts in mixed application problems; Solve problems involving both scale drawing and trigonometry; Value the integration of different geometric concepts in problem-solving."
+      ],
+      "activities": [
+        "How can we integrate different geometric concepts to solve complex problems?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 240 -Scientific calculators -Mathematical tables -Ruler -Protractor -Drawing paper -Past examination questions"
+      ],
+      "assessment": "-Oral questions -Problem-solving -Written exercise -Assessment test",
+      "inquiryQuestion": "Learners solve a variety of problems that integrate different geometric concepts learned. Learners apply scale drawing, bearings, similar figures, and trigonometric ratios to solve complex problems. Learners discuss how  different geometric concepts interconnect in solving real-world problems."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Appropriate class width",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Determine appropriate class width for grouping data; Work with data to establish suitable class widths; Appreciate the importance of appropriate class widths in data representation."
+      ],
+      "activities": [
+        "How do we determine an appropriate class width for a given set of data?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 244 -Calculator -Graph paper -Manila paper -Rulers -Colored markers"
+      ],
+      "assessment": "-Oral questions -Group presentations -Written exercise -Observation",
+      "inquiryQuestion": "Learners work in groups to consider masses of 40 people in kilograms. Learners find the difference between the smallest and highest mass (range). Learners group the masses in smaller groups with different class widths and identify the number of groups formed in each case."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Finding range and creating groups",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Calculate the range of a set of data; Divide data into suitable class intervals; Show interest in grouping data for better representation."
+      ],
+      "activities": [
+        "How does the range of data help us determine appropriate class intervals?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 245 -Calculator -Manila paper -Data sets -Chart with examples -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written exercise -Observation -Group work assessment",
+      "inquiryQuestion": "Learners are presented with marks scored by 40 students in a mathematics test. Learners find the range of the data. Learners complete a table using a class width of 10 and determine the number of classes formed."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Frequency distribution tables",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Draw frequency distribution tables of grouped data; Use tally marks to organize data into frequency tables; Value the importance of  organizing data in tables."
+      ],
+      "activities": [
+        "How do we organize data in a frequency distribution table?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 247 -Chart paper -Ruler -Calculator -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Group presentations -Written exercise -Checklist",
+      "inquiryQuestion": "Learners are presented with data on the number of tree seedlings that survived in 50 different schools. Learners copy and complete a frequency distribution table using tally marks and frequencies. Learners discuss and share  their completed tables with other groups."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Creating frequency tables with different class intervals",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Construct frequency tables starting with different class intervals; Use tally marks to represent data in frequency tables; Appreciate the use of different class intervals in data representation."
+      ],
+      "activities": [
+        "How do we choose appropriate starting points for class intervals?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 247 -Calculator -Ruler -Graph paper -Manila paper -Worksheets with data"
+      ],
+      "assessment": "-Oral questions -Written exercise -Group presentations -Observation",
+      "inquiryQuestion": "Learners construct a frequency table for given data starting from the class interval 60-64. Learners use tally marks to count frequency of data in each class. Learners compare and discuss different frequency tables."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Modal class",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Identify the modal class of grouped data; Determine the class with the highest frequency; Develop interest in finding the modal class in real-life data."
+      ],
+      "activities": [
+        "What is the modal class and how is it determined?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 248 -Calculator -Ruler -Graph paper -Chart showing frequency distribution tables -Colored markers"
+      ],
+      "assessment": "-Oral questions -Group work -Written exercise -Peer assessment",
+      "inquiryQuestion": "Learners are presented with assessment marks in a mathematics test for 32 learners. Learners draw a frequency distribution table to represent the information. Learners identify and write down the class with the highest frequency (modal class)."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Mean of ungrouped data",
+      "objectives": [
+        "By the end of the lesson, the learner should be ab le to : Calculate the mean of ungrouped data in a frequency table; Multiply each value by its frequency and find their sum; Show interest in calculating mean in real-life situations."
+      ],
+      "activities": [
+        "How do we calculate the mean of data presented in a frequency table?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 249 -Calculator -Chart showing frequency tables -Worksheets -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written exercise -Observation -Assessment rubrics",
+      "inquiryQuestion": "Learners consider the height, in  metres , of 10 people recorded in a frequency distribution table. Learners complete a table showing the product of height and frequency ( fx ). Learners find the sum of frequencies, sum of  fx , and divide to find the mean."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Mean of grouped data",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Calculate the mean of grouped data; Find the midpoint of class intervals and use in calculations; Value the importance of mean in summarizing data."
+      ],
+      "activities": [
+        "How do we calculate the mean of grouped data?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 250 -Calculator -Graph paper -Manila paper -Chart with examples -Worksheets"
+      ],
+      "assessment": "-Oral questions -Written exercise -Group presentations -Checklist",
+      "inquiryQuestion": "Learners consider a frequency distribution table representing masses in kilograms of learners in a class. Learners complete a table by finding midpoints of class intervals and calculating  fx . Learners find the sum of frequencies, sum of  fx , and divide to find the mean."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Mean calculation in real-life situations",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Calculate the mean of grouped data from real-life situations; Apply the formula for finding mean of grouped data; Appreciate the use of mean in summarizing data in real life."
+      ],
+      "activities": [
+        "How is the mean used to summarize real-life data?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 251 -Calculator -Manila paper -Chart with examples -Worksheets -Colored markers"
+      ],
+      "assessment": "-Oral questions -Group work -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners are presented with data about plants that survived in 50 sampled schools during an environmental week. Learners find midpoints of class intervals, multiply by frequencies, and sum them up. Learners calculate the mean number of plants that survived by dividing the sum of  fx  by the sum of f."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Interpretation - Median of grouped data",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : Determine the median of grouped data; Find cumulative frequencies to locate the median class; Value the importance of median in data interpretation."
+      ],
+      "activities": [
+        "How do we determine the median of grouped data?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 252 -Calculator -Chart showing cumulative frequency tables -Worksheets -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written exercise -Group presentations -Observation",
+      "inquiryQuestion": "Learners consider the mass of 50 learners recorded in a table. Learners complete the column for cumulative frequency. Learners find the sum of frequency, divide by 2, and identify the position of the median mass."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Data Handling  and Probability",
+      "subStrand": "Data Interpretation -  Calculating median using formula Data Interpretation - Median calculations in real-life situations",
+      "objectives": [
+        "By the end of the lesson, the learner  should be able to : Apply the formula for calculating median of grouped data; Identify class boundaries, frequencies, and cumulative frequencies; Show interest in finding median from real-life data."
+      ],
+      "activities": [
+        "How do we use the  formula to calculate the median of grouped data?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook  page 253 -Calculator -Graph paper -Chart showing median formula -Worksheets -Manila paper -KLB Mathematics Grade 9 Textbook page 254 -Chart with example calculations -Worksheets with real-life data -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written  exercise -Group work assessment -Assessment rubrics",
+      "inquiryQuestion": "Learners consider marks scored by 40 learners in a  test presented in a table. Learners complete the column for cumulative frequency and identify the median class. Learners identify the lower class boundary, cumulative frequency above median class, class width, and frequency of median class to substitute in the formula."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Equally likely outcomes",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Perform experiments involving equally likely outcomes; Record outcomes of chance experiments; Appreciate that some events have equal chances of occurring."
+      ],
+      "activities": [
+        "What makes events equally likely to occur?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 256 -Coins -Chart paper -Table for recording outcomes -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Practical activity -Group work assessment -Observation",
+      "inquiryQuestion": "Learners work in groups to flip a fair coin 20 times. Learners record the number of times heads and tails come up. Learners divide the number of times heads or tails comes up by the total number of tosses to find probabilities."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Range of probability",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Determine the range of probability of an event; Understand that probability ranges from 0 to 1; Value the concept of  probability range in real-life situations."
+      ],
+      "activities": [
+        "What is the range of probability values and what do these values signify?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 257 -Dice -Table for recording outcomes -Chart showing probability scale (0-1) -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Group presentations",
+      "inquiryQuestion": "Learners use a fair die in this activity and toss it 20 times. Learners record the number of times each face shows up and calculate relative frequencies. Learners find the sum of the fractions and discuss that  probabilities range from 0 to 1."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Complementary events",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Calculate probability of complementary events; Understand that sum of probabilities of complementary events is 1; Show interest in applying complementary probability in real-life situations."
+      ],
+      "activities": [
+        "How are complementary events related in terms of their probabilities?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 258 -Calculator -Chart showing complementary events -Worksheets with problems -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written exercise -Group work assessment -Observation",
+      "inquiryQuestion": "Learners discuss examples of complementary events. Learners solve problems where the probability of one event is given and they need to find the probability of its complement. Learners verify that the sum of probabilities of an event and its complement equals 1."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Mutually exclusive events",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Identify mutually exclusive events in real-life situations; Recognize events that cannot occur simultaneously; Appreciate the concept of mutually exclusive events."
+      ],
+      "activities": [
+        "What makes events mutually exclusive?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 258 -Coins -Chart with examples of mutually exclusive events -Flashcards with different scenarios -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Group discussions -Written exercise -Observation",
+      "inquiryQuestion": "Learners flip a fair coin several times and record the face that shows up. Learners discuss that heads and tails cannot show up at the same time (mutually exclusive). Learners identify mutually exclusive events from various examples."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Experiments with mutually exclusive events",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Perform experiments of single chance involving mutually exclusive  events; Calculate probability of mutually exclusive events; Value the application of mutually exclusive events in real-life."
+      ],
+      "activities": [
+        "How do we calculate the probability of mutually exclusive events?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 259 -Dice -Colored objects in boxes -Calculator -Chart showing probability calculations -Worksheets with problems"
+      ],
+      "assessment": "-Oral questions -Practical activity -Written exercise -Assessment rubrics",
+      "inquiryQuestion": "Learners toss a fair die several times and record the numbers that show up. Learners solve problems involving mutually exclusive events like picking a pen of a specific  color from a box. Learners find probabilities of individual events and their union."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Independent events",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Perform experiments involving independent events; Understand that outcome of one event doesn't affect another; Show interest in applying independent events probability in real-life."
+      ],
+      "activities": [
+        "What makes events independent from each other?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 260 -Coins and dice -Table for recording outcomes -Chart showing examples of independent events -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Practical activity -Group discussions -Observation",
+      "inquiryQuestion": "Learners toss a fair coin and a fair die at the same time and record outcomes. Learners repeat the experiment several times. Learners discuss that the outcome of the coin toss doesn't affect the outcome of the die roll (independence)."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Calculating probabilities of independent events",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Calculate probabilities of independent events; Apply the multiplication rule for independent events; Appreciate the application of independent events in real-life situations."
+      ],
+      "activities": [
+        "How do we calculate the probability of independent events occurring together?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 261 -Calculator -Chart showing multiplication rule -Worksheets with problems -Manila paper -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written exercise -Group presentations -Assessment rubrics",
+      "inquiryQuestion": "Learners solve problems involving independent events. Learners calculate probabilities of individual events and multiply them to find joint probability. Learners solve problems involving machines breaking down independently and other real-life examples."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Data Handling  and Probability",
+      "subStrand": "Probability - Tree diagrams  for single outcomes",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Draw a probability tree diagram for a single outcome; Represent probability situations using tree diagrams; Value the use of tree diagrams in organizing probability information."
+      ],
+      "activities": [
+        "How do tree diagrams help us  understand probability situations?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 262 -Chart paper -Ruler -Worksheets with blank tree diagrams -Chart showing completed tree diagrams -Colored markers"
+      ],
+      "assessment": "-Oral questions -Practical activity -Group  work assessment -Checklist",
+      "inquiryQuestion": "Learners write down possible outcomes when a fair coin is flipped once. Learners find the total number of all outcomes and probability of each outcome. Learners complete a tree diagram with possible outcomes and their probabilities."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Complex tree diagrams",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : Draw more complex probability tree diagrams; Use tree diagrams to solve probability problems; Appreciate the value of tree diagrams in visualizing probability."
+      ],
+      "activities": [
+        "How do we use tree diagrams to solve more complex probability problems?"
+      ],
+      "resources": [
+        "KLB Mathematics Grade 9 Textbook page 263 -Chart paper -Ruler -Calculator -Chart showing complex tree diagrams -Worksheets with problems -Colored markers"
+      ],
+      "assessment": "-Oral questions -Written exercise -Group presentations -Assessment rubrics",
+      "inquiryQuestion": "Learners draw tree diagrams for various probability scenarios like balls of different colors in a bag. Learners use tree diagrams to find probabilities of different outcomes. Learners interpret tree diagrams to solve probability problems."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "5",
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability - Complex tree diagrams",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to:"
+      ],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": ""
+    },
+    {
+      "week": 8,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "END TERM ASSESSMENT AND CLOSING",
+      "inquiryQuestion": ""
+    }
+  ]
+}

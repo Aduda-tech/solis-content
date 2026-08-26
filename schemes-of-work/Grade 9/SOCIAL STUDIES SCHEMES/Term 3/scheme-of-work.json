@@ -1,0 +1,565 @@
+{
+  "path": "schemes-of-work/Grade 9/SOCIAL STUDIES SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 9,
+  "term": 3,
+  "subject": "SOCIAL STUDIES SCHEMES",
+  "weeks": 8,
+  "lessons": 33,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "Management and Conservation of the Environment - Distinction",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Distinguish between management of the environment and conservation of the environment -Explain the key differences between management and conservation -Appreciate the importance of both management and conservation"
+      ],
+      "activities": [
+        "Why is it important to conserve degraded environment?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 105 -Pictures showing environmental management and conservation -Digital resources -Chart paper"
+      ],
+      "assessment": "- Oral questions -Written assignments -Group presentations",
+      "inquiryQuestion": "- Learners study pictures showing management and conservation of the environment -In groups, learners distinguish between management of the environment and conservation of the environment -Learners discuss key differences and write them in their notebooks"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "Management and Conservation of the Environment - Degradation Factors",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Explore factors that lead to degradation of the environment in the community -Classify factors into human and natural causes -Develop awareness on environmental degradation issues"
+      ],
+      "activities": [
+        "What factors lead to environmental degradation in our community?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 106 -Pictures showing environmental degradation -Digital resources -Chart paper"
+      ],
+      "assessment": "- Oral questions -Classification assessment -Written essays",
+      "inquiryQuestion": "- Learners study pictures showing environmental degradation -Learners research on factors that lead to environmental degradation using digital and print resources -Learners classify factors into human and natural causes"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "Management and Conservation of the Environment - Effects of  Degradation Management and Conservation of the Environment - Conservation Measures",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Describe the effects of environmental degradation in the  community -Explain how degradation affects health, biodiversity, and economy -Recognize the far-reaching consequences of environmental degradation"
+      ],
+      "activities": [
+        "What are the effects of environmental degradation on the community?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 108 -Pictures showing  effects of degradation -Digital resources -Chart paper - MENTOR Social Studies Learner's Book pg. 109 -Pictures of conservation measures"
+      ],
+      "assessment": "- Oral questions -Table completion assessment - Written assignments",
+      "inquiryQuestion": "- Learners study pictures showing effects of environmental degradation -Learners discuss how environmental  degradation affects health, biodiversity, and economic stability -Learners complete a table showing effects of environmental degradation"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "Management and Conservation of the Environment - Practical Applications",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Apply creative thinking skills in managing and conserving the immediate environment -Make dustbins and plant trees in the school compound -Take part in environmental conservation activities"
+      ],
+      "activities": [
+        "How can we actively participate in environmental conservation?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 110 -Local materials for dustbins -Tree seedlings -Gardening tools"
+      ],
+      "assessment": "- Practical assessment -Observation -Project evaluation",
+      "inquiryQuestion": "- Learners make simple dustbins using locally available materials -Learners place dustbins at strategic places around the school -Learners identify a place around the school to plant trees and organize planting activities"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "Management and Conservation of the Environment - Project Planning",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Plan for environmental conservation projects -Identify environmental issues in the community -Appreciate the  importance of managing and conserving the environment"
+      ],
+      "activities": [
+        "How can we implement environmental conservation projects?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 111 -Project planning materials -Poster materials -Digital resources"
+      ],
+      "assessment": "- Project plan evaluation -Poster assessment -Observation",
+      "inquiryQuestion": "- Learners plan for projects on environmental issues like waste management, tree planting, pollution control, or soil conservation -Learners identify specific actions to take in the school neighborhood -Learners create posters to inform community members on proper environmental management"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "World Heritage Sites in Africa - Identification",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify the selected world heritage sites in Africa -Locate world heritage sites on a map of Africa -Appreciate the existence of world heritage sites in Africa"
+      ],
+      "activities": [
+        "Why is it important to conserve the world heritage sites?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 112 -Map of Africa -Digital resources -Pictures of heritage sites"
+      ],
+      "assessment": "- Oral questions -Identification assessment -Written assignments",
+      "inquiryQuestion": "- Learners read a story about various world heritage sites in Africa -Learners identify five world heritage sites from the passage and name their locations -Learners discuss the features of different world heritage sites"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "World Heritage Sites in Africa - Cultural Heritage",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Examine importance of the selected world sites in promoting cultural heritage -Explain how heritage sites contribute to cultural preservation -Value the role of heritage sites in global cultural understanding"
+      ],
+      "activities": [
+        "How do world heritage sites promote cultural heritage?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 113 -Digital resources -Pictures of heritage sites -Song composition materials"
+      ],
+      "assessment": "- Oral questions -Song evaluation -Written assignments",
+      "inquiryQuestion": "- Learners discuss the importance of world heritage sites in promoting cultural heritage -Learners explain why it is important to conserve world heritage sites -Learners compose songs on the importance of world heritage sites in Africa"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "World Heritage Sites in Africa -  Conservation Measures",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Design measures to conserve the selected world heritage sites -Explain how heritage sites can be preserved -Appreciate efforts to conserve heritage sites"
+      ],
+      "activities": [
+        "What measures can we take to  conserve heritage sites?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book  pg. 114 -Digital resources -Field visit materials -Clean-up materials"
+      ],
+      "assessment": "- Oral questions -Field report  evaluation -Observation",
+      "inquiryQuestion": "- Learners plan a field visit to a nearby heritage site or invite a resource  person -Learners find out measures used to conserve heritage sites -Learners conduct clean-up sessions around heritage sites or plant seedlings"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS",
+      "subStrand": "World Heritage Sites in Africa - Conservation Strategies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Apply critical thinking skills in conserving heritage sites within the locality -Create posters with information on heritage site conservation -Value the need to preserve heritage sites for future generations"
+      ],
+      "activities": [
+        "How can communities participate in heritage site conservation?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 115 -Poster materials -Digital resources -Chart paper"
+      ],
+      "assessment": "- Poster evaluation -Poem assessment -Observation",
+      "inquiryQuestion": "- Learners study the measures designed by Grade 9 learners to conserve heritage sites in their locality -Learners create posters with the information showing measures to conserve world heritage sites -Learners compose poems on the importance of world heritage sites"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "NATURAL AND HISTORIC BUILT ENVIRONMENTS POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "World Heritage Sites in Africa - Global Significance Civic Engagement - Individual Activities",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Recognize the global significance of Africa's world heritage sites -Explain how heritage sites contribute to global  understanding -Appreciate Africa's contribution to world heritage"
+      ],
+      "activities": [
+        "What is the global significance of Africa's heritage sites?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 116 -Card making materials -Digital resources -Pictures of heritage sites - MENTOR  Social Studies Learner's Book pg. 125 -Slogans on civic engagement -Digital devices -The Constitution of Kenya"
+      ],
+      "assessment": "- Card evaluation -Oral questions -Written assignments",
+      "inquiryQuestion": "- Learners make cards about different world heritage sites in Africa -Learners display the cards at the Social Studies corner -Learners discuss the global significance of Africa's heritage sites"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Civic Engagement - Collective Activities",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify collective civic engagement activities in Kenya -Explain how collective activities promote democracy -Value collaborative efforts in civic participation"
+      ],
+      "activities": [
+        "How can citizens collectively engage in civic activities?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 126 -Pictures of civic activities -Digital devices -Chart paper"
+      ],
+      "assessment": "- Oral questions -Written assignments -Group discussions",
+      "inquiryQuestion": "- Learners study pictures showing collective civic engagement activities -Learners discuss how activities like voting, maintaining peace, and seeking justice promote democracy -Learners write points in their notebooks"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Civic Engagement - Creating Awareness",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Create posters on personal and collective civic engagement activities -Display posters for community awareness -Appreciate the role of civic education in democracy"
+      ],
+      "activities": [
+        "How can we promote civic awareness in our community?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 127 -Poster materials -Digital devices -Internet resources -Civic journals"
+      ],
+      "assessment": "- Poster evaluation -Oral questions -Peer feedback",
+      "inquiryQuestion": "- Learners search from internet, civic journals, or newspapers on civic engagement activities -Learners create posters on personal and collective civic engagement activities -Learners display their posters in class for feedback"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Civic Engagement - Political Parties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Illustrate the role of political parties in democratic governance -Explain how political parties promote democratic values -Appreciate the contribution of political parties to governance"
+      ],
+      "activities": [
+        "How do political parties contribute to democratic governance?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 128 -Digital devices -Newspapers -Political party manifestos"
+      ],
+      "assessment": "- Oral questions -Group presentations -Written assignments",
+      "inquiryQuestion": "- Learners read a conversation about the role of political parties in democratic governance -Learners identify how political parties promote national unity and democracy -In groups, learners name political parties in Kenya and discuss how they promote democratic governance"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Civic Engagement - Democratic Governance",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Debate on the role of political parties in democratic governance -Analyze successes and failures of political parties -Value the importance of objective analysis"
+      ],
+      "activities": [
+        "Do political parties enhance or hinder democratic governance?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 129 -Debate materials -Digital devices -Political party information"
+      ],
+      "assessment": "- Debate evaluation -Oral questions -Documentation quality",
+      "inquiryQuestion": "- Learners debate on the motion: \"Political parties have failed to promote democratic governance in Kenya\" -Learners identify highlights of the role of political parties in democratic governance -Learners document key points from the debate"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Civic Engagement - Electoral Positions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Complete diagrams showing various elective positions in Kenya -Explain the roles of different elective positions -Value the democratic electoral system"
+      ],
+      "activities": [
+        "How are elective positions structured in Kenya?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 131 -Diagram templates -Digital devices -The Constitution of Kenya"
+      ],
+      "assessment": "- Diagram completion assessment -Oral questions -Portfolio review",
+      "inquiryQuestion": "- Learners complete diagrams showing various elective positions in Kenya -Learners discuss the roles of different elected officials -Learners file completed  diagrams in their portfolios"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Civic Engagement - School Elections Civic Engagement - Promoting Values",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Exhibit values that promote ethical civic engagement in the community -Participate in mock school elections -Appreciate democratic processes in school governance"
+      ],
+      "activities": [
+        "How can students practice civic engagement in school?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 132 -Election materials -Ballot boxes -Campaign materials -Poem composition materials -Digital devices -Community resources"
+      ],
+      "assessment": "- Election participation assessment -Observation -Written reports",
+      "inquiryQuestion": "- Learners study pictures showing students promoting civic engagement in their school -Learners carry out mock elections of Students' Government -Learners participate in the process including campaigns, manifestos, and voting"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Understanding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explore Kenya's Bill of Rights for mutual social well-being -Identify human rights and freedoms in the Constitution -Appreciate the importance of the Bill of Rights"
+      ],
+      "activities": [
+        "How can we protect the special groups in the community?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 133 -The Constitution of Kenya -Pictures showing human rights -Digital devices"
+      ],
+      "assessment": "- Oral questions -Rights identification assessment -Written assignments",
+      "inquiryQuestion": "- Learners look at the Constitution of Kenya and identify Chapter Four -Learners study pictures showing different human rights and freedoms -Learners identify human rights and freedoms shown in the pictures"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "POLITICAL DEVELOPMENTS  AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Research",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Research on Kenya's Bill of Rights -Classify human rights and freedoms -Value the protection of rights and freedoms"
+      ],
+      "activities": [
+        "What rights and freedoms are guaranteed  in Kenya's Bill of Rights?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book  pg. 134 -The Constitution of Kenya -Digital devices -Chart paper"
+      ],
+      "assessment": "- Research quality assessment - Classification accuracy -Oral questions",
+      "inquiryQuestion": "- Learners use digital devices, textbooks, or Constitution to search for  information on Kenya's Bill of Rights -Learners write notes of their findings -Learners classify human rights and freedoms in a table"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Special Groups",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Examine human rights of special groups for promotion of social justice and inclusivity -Identify rights of elderly, refugees, and migrants -Appreciate the importance of protecting special groups"
+      ],
+      "activities": [
+        "What special protections do vulnerable groups need?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 135 -Pictures of special groups -The Constitution of Kenya -Digital devices"
+      ],
+      "assessment": "- Oral questions -Written assignments -Group presentations",
+      "inquiryQuestion": "- Learners study pictures showing special groups like elderly, refugees, and migrants -Learners discuss what makes these people special -Learners identify the human rights of special groups promoted in the pictures"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Protection of Special Groups",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Discuss how to protect special groups in the community -Identify specific rights for each special group -Value social justice and inclusivity"
+      ],
+      "activities": [
+        "How can we promote social justice and inclusivity for special groups?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 136 -The Constitution of Kenya -Digital devices -Chart paper"
+      ],
+      "assessment": "- Oral questions -Presentation assessment -Written assignments",
+      "inquiryQuestion": "- Learners discuss how to protect special groups in the community -Learners identify specific rights for elderly, refugees, and migrants -Learners present their points in class"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Application",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Apply the bill of rights for harmonious living -Identify ways to promote equality and respect for all -Value the application of the Bill of Rights in daily life"
+      ],
+      "activities": [
+        "How can we apply the Bill of Rights in our daily lives?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 137 -The Constitution of Kenya -Digital devices -Case studies"
+      ],
+      "assessment": "- Oral questions -Case study analysis -Written assignments",
+      "inquiryQuestion": "- Learners read passages about application of the Bill of Rights in school settings -Learners identify ways in which rights are applied for harmonious living -Learners discuss other ways human rights of special groups are applied in their community"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Assertiveness Kenya's Bill of Rights - Empathy for Special Groups",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Develop assertiveness necessary in standing up for human rights -Role play situations demonstrating assertiveness -Value the importance of standing up for rights"
+      ],
+      "activities": [
+        "How can we develop assertiveness in defending human rights?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 138 -Role play materials -Digital devices -Song/poem composition materials - MENTOR Social Studies Learner's Book pg. 139 -Pictures showing empathy -Chart paper"
+      ],
+      "assessment": "- Role play assessment -Song/poem evaluation -Declaration quality",
+      "inquiryQuestion": "- Learners role play situations that bring out assertiveness in standing up for human rights -Learners compose poems or songs that bring out assertiveness in standing up for human rights -Learners create declarations to stand up for human rights"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Strategies for Protection",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Complete tables showing strategies  for promoting protection of special groups -Devise practical ways to help special groups -Value empathy and protection for special groups"
+      ],
+      "activities": [
+        "What strategies can protect and support special groups?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 140 -Table templates -Digital devices -The Constitution of Kenya"
+      ],
+      "assessment": "- Table completion assessment -Oral questions -Peer feedback",
+      "inquiryQuestion": "- Learners read statements on promoting empathy and solidarity among special groups -Learners complete tables showing strategies for  promoting protection of special groups -Learners share their ideas with classmates"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Kenya's Bill of Rights - Practical Application",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify values that promote human rights -Explain how these values promote respect for human rights -Embrace respect for human rights in society"
+      ],
+      "activities": [
+        "How do values translate into human rights protection?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 141 -Human rights \"fruit tree\" diagram -Digital devices -Nearby homes for elderly"
+      ],
+      "assessment": "- Oral questions -Value explanation assessment -Visit reports",
+      "inquiryQuestion": "- Learners identify values from a \"fruit tree\" that promote human rights -Learners explain how the values picked promote respect for human rights in society -Learners visit nearby homes for the elderly to learn about human rights promotion"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - Global Recognition",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify cultural elements and practices that have acquired a global recognition and status -Explain how cultural elements make Kenya globally recognized -Appreciate Kenya's  cultural contributions globally"
+      ],
+      "activities": [
+        "How can we preserve aspects of cultural  globalisation  in the community?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 142 -Pictures of Kenyan cultural items -Digital devices -Chart paper"
+      ],
+      "assessment": "- Oral questions -Written assignments -Group discussions",
+      "inquiryQuestion": "- Learners discuss how aspects like Kenyan athletes, tea, beaches, wildlife, and cultural items make Kenya famous -Learners identify cultural items in Kenya which have acquired global status -Learners share their answers in class"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - Kenyan Cultural Items",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Examine Kenyan cultural items that have acquired global status -Explain the significance of these items to communities -Value Kenya's cultural heritage"
+      ],
+      "activities": [
+        "What Kenyan cultural elements have global recognition?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 143 -Pictures of cultural items -Digital devices -Cultural artifacts"
+      ],
+      "assessment": "- Oral questions -Written assignments -Item identification",
+      "inquiryQuestion": "- Learners study pictures of cultural items like  Kiondo  and  Maasai   Kikoi -Learners identify the communities associated with these items -Learners discuss the uses and global significance of these cultural items"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - African Cultural Practices",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Examine African cultural practices in promoting a common humanity -Identify practices that enhance cultural  globalisation -Appreciate how cultural practices promote common humanity"
+      ],
+      "activities": [
+        "How do African cultural practices promote common humanity?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 144 -Pictures of cultural practices -Digital devices -Cultural artifacts"
+      ],
+      "assessment": "- Oral questions -Written assignments -Group discussions",
+      "inquiryQuestion": "- Learners study pictures showing African cultural practices -Learners examine how the practices enhance cultural  globalisation  and common humanity -Learners discuss how they promote humanity in school, home, and community"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - African Philosophies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explain African cultural philosophies like African Socialism,  Ujamaa ,  and Ubuntu -Examine how these philosophies promote common humanity -Value African cultural philosophies"
+      ],
+      "activities": [
+        "How do African philosophies contribute to global cultural understanding?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 145 -Research materials -Digital devices -Cultural information"
+      ],
+      "assessment": "- Research quality assessment -Oral questions -Presentation evaluation",
+      "inquiryQuestion": "- Learners research on African cultural practices like African Socialism,  Ujamaa , and Ubuntu -Learners discuss how these practices promote common humanity -Learners present their findings in class"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - Cultural Preservation Cultural  Globalisation  - Healthy Relationships",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explore ways of preserving cultural elements that promotes global citizenship -Plan for preservation of cultural elements -Value the importance of cultural preservation"
+      ],
+      "activities": [
+        "How can we preserve cultural elements that promote global citizenship?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 146 -Cultural preservation materials -Digital devices -Local cultural centers - MENTOR Social Studies Learner's Book pg. 147 -Pictures of cultural activities -Chart paper"
+      ],
+      "assessment": "- Oral questions -Museum quality assessment -Participation observation",
+      "inquiryQuestion": "- Learners visit local cultural centers with teacher guidance -Learners prepare materials to preserve cultural elements that promote global citizenship -Learners establish cultural museum centers in class"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - Speeches on Cultural Relationships",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Analyze speeches on factors promoting healthy cultural relationships -Identify factors that promote cultural interconnectedness -Value the importance of  positive cultural exchange"
+      ],
+      "activities": [
+        "How can speeches promote cultural understanding?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 148 -Speech texts -Chart materials -Digital devices -Research materials"
+      ],
+      "assessment": "- Speech analysis assessment -Chart quality -Research evaluation",
+      "inquiryQuestion": "- Learners read speeches by Grade 9 learners on factors promoting healthy cultural relationships -Learners identify additional factors that promote cultural relationships -Learners research and create charts on these factors"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - Global Citizenship",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify cultural elements and values that promote global citizenship -Explain how these elements promote global citizenship -Appreciate values and cultural elements which promote responsible global citizenship"
+      ],
+      "activities": [
+        "How do cultural elements promote global citizenship?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 149 -Road map diagrams -Poster materials -Digital devices"
+      ],
+      "assessment": "- Oral questions -Poster evaluation -Written assignments",
+      "inquiryQuestion": "- Learners study road maps showing cultural elements and values that promote global citizenship -Learners discuss how these cultural elements and values promote global citizenship -Learners create posters with cultural elements and values that promote global citizenship"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "POLITICAL DEVELOPMENTS AND GOVERNANCE",
+      "subStrand": "Cultural  Globalisation  - International Cultural Exchange",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Debate on the role of international cultural exchange in promoting global citizenship -Document key points from the debate -Value international cultural exchange"
+      ],
+      "activities": [
+        "What is the role of international cultural exchange in promoting global citizenship?"
+      ],
+      "resources": [
+        "MENTOR Social Studies Learner's Book pg. 150 -Debate materials -Documentation materials -Digital devices"
+      ],
+      "assessment": "- Debate quality assessment -Documentation evaluation -Oral questions",
+      "inquiryQuestion": "- Learners organize class debates on the role of international cultural exchange in promoting global citizenship -Learners appoint secretaries to document key points during the debate -Learners share documented points at the end of the debate"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "EXAMS  ASSESSMENT AND CLOSING",
+      "inquiryQuestion": ""
+    }
+  ]
+}

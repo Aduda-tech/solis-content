@@ -1,0 +1,561 @@
+{
+  "path": "schemes-of-work/Grade 9/AGRINUTRITION SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 9,
+  "term": 3,
+  "subject": "AGRINUTRITION SCHEMES",
+  "weeks": 8,
+  "lessons": 33,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Waste Disposal Facilities - Importance of cleaning waste disposal facilities Cleaning Waste Disposal Facilities - Waste bins, sinks, and open drains",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Explain the importance of cleaning waste disposal facilities. -Identify different waste disposal facilities. -Value cleanliness of waste disposal facilities."
+      ],
+      "activities": [
+        "How does cleaning waste disposal facilities promote hygiene?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 52 -Digital devices -Pictures of waste disposal facilities -Resource person MENTOR Agriculture Learner's Book p. 53 -Print resources"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Study pictures of different waste disposal facilities. -Identify the facilities shown in the pictures. -Discuss ways in which each facility should be cleaned. -Share ideas with other groups."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Waste Disposal Facilities - Importance of cleaning waste bins",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Explain the importance of cleaning waste bins. -Describe qualities of a good waste bin. -Value cleaning of waste bins."
+      ],
+      "activities": [
+        "Why is it important to clean waste bins?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 53-54 -Digital devices -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Discuss the importance of cleaning waste bins. -Describe qualities of a good waste bin. -Share findings with classmates."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Waste Disposal Facilities - Importance of cleaning sinks Cleaning Waste Disposal Facilities - Importance of cleaning open drains",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Explain the importance of cleaning sinks. -Describe types of sinks. -Value cleaning of sinks."
+      ],
+      "activities": [
+        "Why is it important to clean sinks?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 54 -Digital devices -Resource person MENTOR Agriculture Learner's Book p. 54-55"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Discuss the importance of cleaning sinks. -Describe different types of sinks. -Share findings with classmates."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Waste Disposal Facilities -  Cleaning a galvanized iron waste bin",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Outline materials needed for cleaning a galvanized iron waste bin. -Clean a galvanized iron waste bin. -Appreciate a clean waste bin."
+      ],
+      "activities": [
+        "How do we clean a galvanized iron waste bin?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 56 -Warm soapy water -Soft brush -Cold water -Disinfectant -Soft cloth -Galvanized iron waste bin"
+      ],
+      "assessment": "Assessment rubrics -Activity  journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Identify materials needed  for cleaning a galvanized iron waste bin. -Clean a galvanized iron waste bin following these steps: -a) Tie the liner at the top and empty the bin. -b) Check for maggots or molds. -c) Scrub with a brush dipped in warm soapy water. -d) Dry with a soft cloth immediately."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Waste Disposal Facilities - Cleaning a stainless steel sink Cleaning Waste Disposal Facilities - Cleaning a ceramic sink",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: -Outline materials needed for cleaning a stainless steel sink. -Clean a stainless steel sink. -Appreciate a clean sink."
+      ],
+      "activities": [
+        "How do we clean a stainless steel sink?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 57 -Warm soapy water -Soft cloth -Vinegar -Baking soda -Stainless steel sink MENTOR Agriculture Learner's Book p. 58 -Soap -Nylon sponge or soft rag -Warm water -Disinfectant -Ceramic sink"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Identify materials needed for cleaning a stainless steel sink. -Clean a stainless steel sink following these steps: -a) Clean with warm soapy water. -b) Rinse with clean water. -c) Pour a mixture of vinegar and baking soda down the sink occasionally. -d) Flash with hot water and dry the sink."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Waste Disposal Facilities - Cleaning an open drain",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline materials needed for cleaning an open drain. -Clean an open drain. -Appreciate a clean open drain."
+      ],
+      "activities": [
+        "How do we clean an open drain?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 59 -Warm soapy water -Broom -Disinfectant -Baking soda"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Identify materials needed for cleaning an open drain. -Clean an open drain following these steps: -a) Pick any litter or leaves. -b) Scrub with warm soapy water or sweep it. -c) Rinse with clean water with disinfectant. -d) Occasionally use baking soda when cleaning."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Meaning of laundering and disinfecting Disinfecting  Clothing and Household Articles - Methods of disinfecting clothing and household articles",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Define the terms laundering and disinfecting. -Explain the difference between laundering and disinfecting. -Appreciate the importance of laundering and disinfecting."
+      ],
+      "activities": [
+        "What is the difference between laundering and disinfecting?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 62 -Digital devices -Print resources -Resource person MENTOR Agriculture Learner's Book p. 63"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In pairs, learners are guided to: -Use digital or print resources to find out the meaning of laundering and disinfecting. -Discuss how the processes are carried out in their homes. -Write down discussion points and share with classmates."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Using sunlight for disinfection Disinfecting Clothing and Household Articles - Using salt for disinfection",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explain how sunlight is used for disinfection. -Identify clothing and household articles suitable for sun disinfection. -Value disinfection using sunlight."
+      ],
+      "activities": [
+        "How is sunlight used for disinfection of clothing and household articles?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 64 -Digital devices -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Explain how sunlight is used for disinfection. -Identify clothing and household articles suitable for sun disinfection. -Discuss advantages and disadvantages of using sunlight for disinfection. -Share findings with classmates."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Using boiling for disinfection",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explain how boiling is used for disinfection. -Identify clothing and  household articles suitable for boiling disinfection. -Value disinfection using boiling."
+      ],
+      "activities": [
+        "How is boiling used for disinfection of clothing and household articles?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 65 -Digital devices -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Explain how boiling is used for disinfection. -Identify clothing and household articles suitable for boiling disinfection. -Discuss advantages and disadvantages of using boiling for disinfection. -Share findings with classmates."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Using disinfectants Disinfecting Clothing and Household Articles - Using ironing for disinfection",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explain how disinfectants are used for disinfection. -Identify clothing and household articles suitable for disinfectant use. -Value disinfection using disinfectants."
+      ],
+      "activities": [
+        "How are disinfectants used for disinfection of clothing and household articles?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 65 -Digital devices -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Explain how disinfectants are used for disinfection. -Identify different types of disinfectants (white vinegar, borax, hydrogen peroxide, pine oil, sodium hypochlorite). -Identify clothing and household articles suitable for disinfectant use. -Share findings with classmates."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Safety precautions during disinfection",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify safety precautions during disinfection. -Explain the importance of safety precautions. -Value safety during disinfection."
+      ],
+      "activities": [
+        "What safety precautions should be observed during disinfection?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 66 -Digital devices -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Brainstorm safety precautions that one should consider when using different disinfection methods. -Explain the importance of each safety precaution. -Share findings with classmates."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Disinfecting aprons using sunlight Disinfecting  Clothing and Household Articles - Disinfecting gloves using commercial disinfectants",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline steps for disinfecting aprons using sunlight. -Disinfect aprons using  sunlight. -Appreciate sunlight as a disinfection method."
+      ],
+      "activities": [
+        "How do we disinfect aprons using sunlight?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 67 -Warm water -Soap -Clothes line -Aprons -Commercial  disinfectant -Gloves"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Outline steps for disinfecting aprons using sunlight. -Disinfect aprons following these steps: -a) Sort the aprons. -b) Wash using correct method and detergents. -c) Rinse in warm then cold water. -d) Dry in direct sunlight until totally dry."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Disinfecting white cotton towel using boiling",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline steps for disinfecting a white cotton towel using boiling. -Disinfect a white cotton towel using boiling. -Appreciate boiling as a disinfection method."
+      ],
+      "activities": [
+        "How do we disinfect a white cotton towel using boiling?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 68 -White cotton towel -Warm soapy water -Clean water -Plastic buckets with lids -Wooden stick - Jiko  or stove - Sufuria -Pot holder -Protective clothing"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Outline steps for disinfecting a white cotton towel using boiling. -Disinfect a white cotton towel following these steps: -a) Wear protective clothing. -b) Wash the towel in warm soapy water. -c) Heat water until it boils. -d) Put towel in boiling water for 2-5 minutes. -e) Allow water to cool with towel inside. -f) Remove towel and rinse in warm then cold water. -g) Hang to dry in direct sunlight."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Disinfecting a dustcoat by ironing Disinfecting Clothing and Household Articles -  Disinfecting handkerchiefs using salt",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline steps for disinfecting a dustcoat by ironing. -Disinfect a dustcoat by ironing. -Appreciate ironing as a disinfection method."
+      ],
+      "activities": [
+        "How do we disinfect a dustcoat by ironing?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 69 -Warm water -Soap -Basin -Iron box -Ironing board -Dustcoat MENTOR Agriculture Learner's Book p. 70 -Salt -Cold water -Handkerchiefs"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Outline steps for disinfecting a dustcoat by ironing. -Disinfect a dustcoat following these steps: -a) Sort dustcoats according to fiber. -b) Wash using correct laundry method. -c) Rinse and dry appropriately, but leave slightly damp. -d) Set iron box to correct temperature. -e) Iron with high heat to complete dryness."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Hygiene Practices",
+      "subStrand": "Disinfecting Clothing and Household Articles - Disinfecting socks using commercial disinfectant",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline steps for disinfecting socks using commercial disinfectant. -Disinfect socks using commercial disinfectant. -Appreciate commercial disinfectant for socks."
+      ],
+      "activities": [
+        "How do we disinfect socks using commercial disinfectant?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 71 -Water -Soap -Disinfectant -Basin -Socks"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Outline steps for disinfecting socks using commercial disinfectant. -Disinfect socks following these steps: -a) Sort the socks. -b) Wash using correct laundry method. -c) Rinse in warm water. -d) Prepare disinfectant as per instructions. -e) Soak socks in solution for 5-10 minutes. -f) Rinse and dry appropriately."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Hygiene Practices Production Techniques",
+      "subStrand": "Disinfecting Clothing and Household Articles - Importance of disinfecting clothing and household articles Grafting in Plants - Meaning and methods of grafting",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explain the importance of disinfecting clothing and household articles. -Appreciate the importance of disinfecting for hygiene purposes. -Value disinfection as a hygiene practice."
+      ],
+      "activities": [
+        "Why is it important to disinfect clothing and household articles?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 71 -Digital devices -Print resources -Resource person MENTOR Agriculture Learner's Book p. 74"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Presentations",
+      "inquiryQuestion": "In groups, learners are guided to: -Use digital or printed resources to search for the importance of disinfecting clothing and household articles for hygiene purposes. -Make presentations to classmates on the findings."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Observing the grafting process",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Describe the grafting process from pictures. -Identify materials used in grafting. -Value grafting as a propagation method."
+      ],
+      "activities": [
+        "What happens during the grafting process?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 75 -Pictures of grafting process -Digital devices"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Study pictures showing the grafting process. -Describe what is happening in the pictures. -Identify materials used in grafting. -Share findings in class."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Reasons for grafting Grafting  in Plants - Grafting for aesthetic purposes",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Identify reasons for grafting plants. -Explain different purposes of grafting. -Appreciate various purposes of grafting."
+      ],
+      "activities": [
+        "What are the reasons for grafting plants?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 76 -Digital devices -Print resources -Resource person MENTOR Agriculture Learner's Book p. 77"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Identify reasons for grafting plants (repair, aesthetic value, rejuvenation, improvement). -Explain different purposes of grafting. -Share findings in class."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Practical grafting for aesthetic purposes",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Prepare materials for grafting for aesthetic purposes. -Carry out grafting for aesthetic purposes. -Embrace grafting for aesthetic purposes."
+      ],
+      "activities": [
+        "How do we carry out grafting for aesthetic purposes?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 77-78 -Ornamental plant (hibiscus or bougainvillea) -Scion of related species -Sharp knife -Grafting tape -Gloves -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups with the help of a resource person, learners are guided to: -Prepare materials for grafting for aesthetic purposes. -Carry out grafting for aesthetic purposes following these steps: -a) Select rootstock plant. -b) Prepare the scion. -c) Prepare the rootstock. -d) Insert the scion. -e) Secure the graft. -f) Care for the grafted plant."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Grafting for rejuvenation Grafting in Plants - Practical grafting for rejuvenation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline steps for grafting for rejuvenation. -Identify materials needed for grafting. -Value grafting for rejuvenation."
+      ],
+      "activities": [
+        "How is grafting done for rejuvenation?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 78 -Digital devices -Print resources -Resource person MENTOR Agriculture Learner's Book p. 78-79 -Old tree stump -Scions -Sharp knife -Grafting tape -Gloves -Wax"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Discuss grafting for rejuvenation. -Outline steps for grafting for rejuvenation. -Identify materials needed for grafting. -Share findings in class."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Grafting for improvement purposes",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Outline steps for grafting for improvement purposes. -Identify materials needed for grafting. -Value grafting for improvement."
+      ],
+      "activities": [
+        "How is grafting done for improvement purposes?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 79-80 -Digital devices -Print resources -Resource person"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Discuss grafting for improvement purposes. -Outline steps for grafting for improvement purposes. -Identify materials needed for grafting. -Share findings in class."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Practical grafting for improvement purposes Grafting in Plants - Caring for grafted plants",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Prepare materials for grafting for improvement purposes. -Carry out grafting for improvement purposes. -Embrace grafting for improvement purposes."
+      ],
+      "activities": [
+        "How do we carry out grafting for improvement purposes?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 79-80 -Orange plant seedling -Lemon plant seedling -Sharp knife -Grafting tape -Wax -Gloves -Resource person MENTOR Agriculture Learner's Book p. 81 -Pictures of plant care -Digital devices"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups with the help of a resource person, learners are guided to: -Prepare materials for grafting for improvement purposes. -Carry out grafting for improvement purposes following these steps: -a) Select rootstock plant (lemon seedling). -b) Prepare scion (orange seedling). -c) Prepare rootstock. -d) Insert scion. -e) Secure graft. -f) Care for grafted plant."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Practical care for grafted plants",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Demonstrate care for grafted plants. -Monitor grafted plants regularly. -Value proper care for grafted plants."
+      ],
+      "activities": [
+        "How do we practically care for grafted plants?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 81 -Grafted plants -Watering can -Pruning shears"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Demonstrate care for grafted plants following these methods: -a) Check graft union weekly. -b) Remove emerging shoots from rootstock. -c) Water plant if rainfall is insufficient. -d) Remove grafting tape once grafting is successful. -Monitor grafted plants regularly."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Production Techniques",
+      "subStrand": "Grafting in Plants - Selecting plants for grafting Grafting  in Plants - Record keeping for grafted plants",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Select suitable plants for grafting. -Identify factors to consider when selecting plants. -Value proper plant selection for grafting."
+      ],
+      "activities": [
+        "What factors should be considered when selecting plants for grafting?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 82 -School compound with plants -Resource person -Record keeping chart -Pencil -Grafted plants"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In groups, learners are guided to: -Select suitable plants in the school compound for grafting. -Identify plants to provide rootstock and scion. -Discuss factors to consider when selecting plants for grafting. -Share findings in class."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Concept and importance Homemade Sun Dryer - Materials for construction",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Explain the concept of a homemade sun dryer. -Identify reasons for preserving vegetables. -Value homemade sun dryers for preservation."
+      ],
+      "activities": [
+        "Why do we need a homemade sun dryer for vegetables?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 86 -Digital devices -Resource person MENTOR Agriculture Learner's Book p. 87 -Video clip"
+      ],
+      "assessment": "Assessment rubrics -Written questions -Oral questions -Observation",
+      "inquiryQuestion": "In pairs, learners are guided to: -Brainstorm on how a homemade sun dryer for preserving vegetables can be made. -Identify reasons for preserving vegetables  (reduce wastage, control spoilage, ensure availability, maintain quality). -Share points with classmates."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Design and sketching",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Draw a sketch of a homemade sun dryer. -Include measurements in the sketch. -Value proper design for functionality."
+      ],
+      "activities": [
+        "How do we design a homemade sun dryer?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 87 -Drawing materials -Ruler -Paper"
+      ],
+      "assessment": "Assessment rubrics -Sketches -Observation -Peer assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Use information from previous lessons to draw a sketch of a homemade sun dryer. -Include measurements in the sketch. -Share sketches with classmates."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Measuring and cutting materials Homemade Sun Dryer - Making the framework",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Measure and cut materials for a homemade sun dryer. -Use tools safely. -Value precision in measurement."
+      ],
+      "activities": [
+        "How do we measure and cut materials for a homemade sun dryer?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 88 -Timber -Measuring tape -Saw -Safety gear -Cut timber pieces -Nails -Hammer -Wire mesh"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Use the sketch of a homemade sun dryer to measure and cut materials. -Measure and cut pieces of timber to the length shown in the sketch. -Observe safety when using tools."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Covering the structure",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Cover the structure with polythene paper. -Ensure proper fitting of the cover. -Value proper covering for effectiveness."
+      ],
+      "activities": [
+        "How do we cover a homemade sun dryer?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 88 -Framework structure -Polythene paper -Scissors -Stapler/nails -Safety gear"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Cover the structure using polythene paper. -Cut polythene according to the size of the sides to be covered, including the door. -Ensure proper fitting of the cover."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Preparing vegetables for drying Homemade Sun Dryer - Using the sun dryer",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Prepare vegetables for drying. -Explain steps for preparing vegetables. -Value proper preparation for quality preservation."
+      ],
+      "activities": [
+        "How do we prepare vegetables for drying?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 89 -Fresh vegetables -Clean water -Knife -Cutting board -Container for blanching -Heat source -Homemade sun dryer -Prepared vegetables -Cleaning materials"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Choose fresh vegetables without physical damage. -Wash vegetables using clean water. -Cut or shred vegetables thinly. -Blanch vegetables to maintain original color. -Arrange vegetables in a single layer on the tray."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Monitoring the drying process",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Monitor the vegetable drying process. -Record changes during drying. -Value monitoring for quality preservation."
+      ],
+      "activities": [
+        "How do we monitor the vegetable drying process?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 89 -Homemade sun dryer with vegetables -Notebook -Pen"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation records -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Check the progress of vegetables regularly. -Note that vegetables in upper trays may dry faster. -Ensure vegetables are dried until brittle. -Monitor drying process every two days and record changes."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Packaging dried vegetables Homemade Sun Dryer - Promoting vegetable preservation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: -Package dried vegetables appropriately. -Identify suitable packaging materials. -Value proper packaging for storage."
+      ],
+      "activities": [
+        "How do we package dried vegetables?"
+      ],
+      "resources": [
+        "MENTOR Agriculture Learner's Book p. 89 -Dried vegetables -Airtight containers -Labels -Pen -Digital camera/phone -Digital platforms"
+      ],
+      "assessment": "Assessment rubrics -Activity journal -Observation -Practical assessment",
+      "inquiryQuestion": "In groups, learners are guided to: -Ensure vegetables are completely dry. -Remove dried vegetables from the dryer. -Package dried vegetables in airtight containers. -Label packages with type of vegetable and date."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Production Techniques",
+      "subStrand": "Homemade Sun Dryer - Promoting vegetable preservation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to:"
+      ],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": ""
+    },
+    {
+      "week": 8,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "END TERM ASSESSMENT AND CLOSING",
+      "inquiryQuestion": ""
+    }
+  ]
+}

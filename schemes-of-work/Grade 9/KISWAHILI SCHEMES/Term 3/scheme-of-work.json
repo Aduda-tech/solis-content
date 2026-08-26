@@ -1,0 +1,554 @@
+{
+  "path": "schemes-of-work/Grade 9/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 9,
+  "term": 3,
+  "subject": "KISWAHILI SCHEMES",
+  "weeks": 9,
+  "lessons": 32,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "HAKI ZA KIBINADAMU Sarufi",
+      "subStrand": "Mnyambuliko wa vitenzi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kutumia vitenzi katika kauli ya kutendeana na kutendesha ipasavyo katika matini, -kuchangamkia kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha ipasavyo katika matini ili kufanikisha mawasiliano."
+      ],
+      "activities": [
+        "Kwa nini ni muhimu kujifunza kauli za vitenzi?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 170"
+      ],
+      "assessment": "Kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha",
+      "inquiryQuestion": "- Kutenga vitenzi katika kauli ya kutendeana na kutendesha katika sentensi na vifungu kwenye vitabu, tarakilishi, chati kwa kuvikolezea wino au kuvipigia mstari -Kujaza mapengo kwa kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha akishirikiana na wenzake -Kutunga sentensi au vifungu kwa kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha akishirikiana na wenzake -Kumweleza mzazi, mlezi au mwenzake jinsi ya kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha watoe maoni yao"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "MAGONJWA YANAYOTOKANA NA MIENENDO YA MAISHA Kusikiliza na Kuzungumza",
+      "subStrand": "Ufahamu wa kusikiliza",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kueleza habari katika matini ya kusikiliza, -kukadiria maana ya msamiati mahususi na vifungu katika matini ya kusikiliza."
+      ],
+      "activities": [
+        "Je, kusikiliza kwa makini kuna manufaa gani?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 178"
+      ],
+      "assessment": "Kueleza habari katika matini ya kusikiliza",
+      "inquiryQuestion": "- Kushirikiana na wenzake kueleza hoja muhimu katika habari aliyosikiliza kuhusu suala lengwa kutoka kwa mwalimu, kifaa cha kidijitali, mgeni mwalikwa au wenzake -Kukadiria maana ya msamiati mahususi na vifungu katika matini ya kusikiliza akiwa na wenzake"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Ufahamu wa kusikiliza",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kuchanganua mitazamo na maoni katika kifungu cha kusikiliza, -kufurahia kusikiliza vifungu vya kusikiliza ili kuimarisha uwezo wa kusikiliza."
+      ],
+      "activities": [
+        "Je, kusikiliza kwa makini kuna manufaa gani?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 178"
+      ],
+      "assessment": "Kuchanganua mitazamo katika kifungu cha kusikiliza",
+      "inquiryQuestion": "- Kujadili mitazamo na maoni katika kifungu cha kusikiliza akiwa na wenzake katika kikundi -Kushirikisha mzazi, mlezi au mwenzake kusikiliza kifungu kutoka kifaa cha kidijitali na kujadili mitazamo katika kifungu hicho"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufasaha",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kusoma kifungu kwa kuzingatia matamshi bora, -kusoma kifungu kwa kasi ifaayo, -kusoma kifungu kwa kutumia sauti ipasavyo."
+      ],
+      "activities": [
+        "Je, unazingatia nini unaposoma kifungu cha nathari?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 180"
+      ],
+      "assessment": "Kusoma kifungu kwa kuzingatia matamshi bora na kasi ifaayo",
+      "inquiryQuestion": "- Kujadiliana na wenzake vipengele vya kuzingatia katika kusoma makala kwa ufasaha -Kutazama vielelezo vya video za watu wanaosoma kwa ufasaha makala akiwa na wenzake -Kusoma kifungu kuhusu suala lengwa katika matini andishi au ya kidijitali akizingatia matamshi bora -Kusoma kifungu cha habari kwa kasi ifaayo kuhusu suala lengwa -Kusoma kifungu akizingatia sauti ifaayo (k.v. kiwango cha sauti na kiimbo)"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufasaha",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kusoma kifungu kwa kuambatanisha ishara zifaazo, -kujenga mazoea ya kusoma vifungu kwa kuzingatia vipengele vya usomaji matini ufaao ili kufanikisha mawasiliano."
+      ],
+      "activities": [
+        "Je, unazingatia nini unaposoma kifungu cha nathari?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 180"
+      ],
+      "assessment": "Kusoma kifungu kwa kuambatanisha ishara zifaazo",
+      "inquiryQuestion": "- Kusoma kifungu kwa kuambatanisha ishara zifaazo panapofaa akiwa na wenzake katika kikundi -Kuwasomea wenzake matini mbalimbali vitabuni au katika vifaa vya kidijitali akizingatia vipengele vya usomaji ufaao ili watoe maoni yao -Kumsomea mzazi, mlezi au mwenzake kifungu akizingatia vipengele vya usomaji ufaao ili amtolee maoni"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Hotuba ya kushawishi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kueleza maana ya hotuba ya kushawishi  ili kuitofautisha na aina nyingine za hotuba, -kujadili vipengele vya kuzingatia katika uandishi wa hotuba ya kushawishi."
+      ],
+      "activities": [
+        "Unazingatia nini ili kufanya hotuba kuwa na ushawishi  kwa wasomaji?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 182"
+      ],
+      "assessment": "Kutambua vipengele vya hotuba ya kushawishi",
+      "inquiryQuestion": "- Kueleza maana ya hotuba ya kushawishi akishirikiana na wenzake -Kutambua hotuba ya kushawishi katika matini -Kujadili vipengele vya kuzingatia katika uandishi wa hotuba ya  kushawishi akiwa na wenzake -Kusoma kielelezo cha hotuba ya kushawishi na kujadili vipengele vilivyotumiwa katika hotuba hiyo akiwa na wenzake -Kujadili na wenzake vidokezo vinavyoweza kutumiwa katika kuandika hotuba ya kushawishi"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Kuandika",
+      "subStrand": "Hotuba ya kushawishi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kuandika hotuba ya kushawishi akizingatia vipengele vifaavyo, -kuchangamkia kuandika ipasavyo hotuba ya kushawishi."
+      ],
+      "activities": [
+        "Unazingatia nini ili kufanya hotuba kuwa na ushawishi kwa wasomaji?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 182"
+      ],
+      "assessment": "Kuandika hotuba ya kushawishi",
+      "inquiryQuestion": "- Kuandika hotuba ya kushawishi kuhusu suala lengwa akitumia vidokezo walivyovijadili -Kuwasomea wenzake hotuba yake au kumsambazia kupitia mtandao ili waitolee maoni"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Aina za sentensi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kueleza maana ya sentensi tata ili kuitofautisha na aina nyingine za sentensi, -kutambua sentensi tata katika matini."
+      ],
+      "activities": [
+        "Nini kinafanya sentensi kuwa tata?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 185"
+      ],
+      "assessment": "Kutambua sentensi tata katika matini",
+      "inquiryQuestion": "- Kutoa maelezo ya sentensi tata kwa usahihi -Kutambua sentensi tata kwenye orodha ya sentensi kwenye vitabu, chati au tarakilishi kwa kuzipigia mstari au kuzikolezea wino akishirikiana na wenzake -Kutambua sentensi tata zinazojitokeza katika vifungu akiwa na wenzake katika kikundi"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Sarufi",
+      "subStrand": "Aina za sentensi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze : kipindi, -kuchambua maana mbalimbali ya sentensi tata, -kujenga ujuzi wa kuchanganua maana  mbalimbali katika sentensi tata ili kufasiri habari kikamilifu."
+      ],
+      "activities": [
+        "Nini kinafanya sentensi kuwa tata?"
+      ],
+      "resources": [
+        "Kielekezi cha Kiswahili Gredi ya Tisa -Ukurasa 185"
+      ],
+      "assessment": "Kuchambua maana mbalimbali ya sentensi tata",
+      "inquiryQuestion": "- Kutolea wenzake maana tofauti za sentensi tata alizozitambua -Kutunga sentensi tata kwa kuzingatia masuala mtambuko mbalimbali likiwemo suala la magonjwa yanayotokana na mienendo ya maisha -Kuwasilisha darasani sentensi tata alizotunga ili wenzake wazitolee maoni kwa heshima na upendo -Kumtungia mzazi au mlezi wake sentensi tata zinazohusu shughuli katika mazingira ya nyumbani"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "MSHIKAMANO WA KIJAMII Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo Mawaidha",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kueleza maana ya mawaidha -Kujadili ujumbe na sifa za mawaidha ya kifasihi -Kueleza vipengele vya uwasilishaji wa mawaidha -Kutambua washiriki katika mawaidha ya fasihi simulizi -Kuchangamkia kushiriki katika uchanganuzi wa wahusika katika tungo za fasihi simulizi"
+      ],
+      "activities": [
+        "Mawaidha hushirikisha kina nani?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 104 -Kifaa cha kidijitali -Kinasa sauti -Kapu maneno"
+      ],
+      "assessment": "-Kutambua washiriki katika mawaidha ya fasihi simulizi -Kuwasilisha mawaidha kwa kuzingatia vipengele vifaavyo vya uwasilishaji",
+      "inquiryQuestion": "-Kueleza maana ya mawaidha akishirikiana na wenzake katika kikundi -Kujadili ujumbe wa mawaidha ya kifasihi akishirikiana na wenzake katika kikundi -Kujadili na wenzake sifa za mawaidha ya kifasihi -Kueleza vipengele vya uwasilishaji wa mawaidha -Kutambua washiriki (fanani, hadhira) katika mawaidha anayosikiliza"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo Mawaidha",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kuchambua sifa za washiriki katika mawaidha ya fasihi simulizi -Kuwasilisha mawaidha kwa kuzingatia vipengele vifaavyo vya uwasilishaji -Kufurahia kushiriki  katika uchanganuzi wa wahusika katika tungo za fasihi simulizi"
+      ],
+      "activities": [
+        "Mawaidha hushirikisha kina nani?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 104 -Kifaa cha kidijitali -Mgeni mwalikwa -Chati"
+      ],
+      "assessment": "-Kuchambua sifa za washiriki katika mawaidha anayosikiliza -Kuwasilisha mawaidha kwa kuzingatia vipengele vifaavyo vya uwasilishaji",
+      "inquiryQuestion": "-Kuchambua sifa za washiriki katika mawaidha anayosikiliza kutoka kwa vifaa vya kidijitali, mgeni mwalikwa au mwalimu akiwa na wenzake -Kutunga mawaidha kuhusu suala lengwa na kuwawasilishia wenzake darasani -Kusikiliza mawaidha atakayotolewa na mzazi au mlezi wake"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Kina - Ushairi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kutambua mbinu za lugha katika fasihi -Kuchanganua matumizi ya lugha katika mashairi -Kutumia mbinu mbalimbali za lugha katika mashairi"
+      ],
+      "activities": [
+        "Matumizi ya lugha katika shairi yana umuhimi gani kwa msomaji?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 106 -Tarakilishi -Mtandao -Kamusi"
+      ],
+      "assessment": "-Kutambua mbinu za lugha katika fasihi -Kutumia mbinu mbalimbali za lugha katika mashairi",
+      "inquiryQuestion": "-Kutambua mbinu za lugha akiwa na wenzake katika kikundi -Kujadili mbinu za lugha kwa mujibu wa mashairi aliyosoma akishirikiana na wenzake katika kikundi -Kutunga shairi jepesi (lisilozidi beti tatu) kwa kuzingatia mbinu mbalimbali za lugha akishirikiana na wenzake na kuliwasilisha darasani"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Kina - Ushairi",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kuchambua shairi kwa kuzingatia mbinu mbalimbali za lugha -Kuchangamkia matumizi ya lugha katika ushairi"
+      ],
+      "activities": [
+        "Matumizi ya lugha katika shairi yana umuhimi gani kwa msomaji?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 106 -Tarakilishi -Chati za mashairi -Mtandao"
+      ],
+      "assessment": "-Kuchambua shairi kwa kuzingatia mbinu mbalimbali za lugha",
+      "inquiryQuestion": "-Kuhakiki uwasilishaji wa wenzake kuhusu matumizi ya mbinu mbalimbali za lugha katika mashairi waliyotunga na kuyatolea maoni -Kuchambua shairi kwa kuzingatia mbinu mbalimbali za lugha akishirikiana na wenzake -Kufanya utafiti mtandaoni kuhusu matumizi ya lugha katika mashairi na kumweleza mzazi, mlezi au mwenzake"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni - Maelezo",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kueleza maana ya insha ya maelezo kuhusu hali -Kutambua vipengele vya insha ya maelezo kuhusu hali"
+      ],
+      "activities": [
+        "Je, ni mambo gani ya kuzingatia katika kuandika insha ya maelezo kuhusu hali?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 108 -Vielelezo vya insha -Kamusi -Chati"
+      ],
+      "assessment": "-Kueleza maana ya insha ya maelezo kuhusu hali -Kutambua vipengele vya insha ya maelezo kuhusu hali",
+      "inquiryQuestion": "-Kujadili dhana ya insha ya maelezo kuhusu hali akiwa na mwenzake -Kujadili vipengele vya insha ya maelezo kuhusu hali -Kutambua vipengele vya insha ya maelezo kuhusu hali katika kielelezo cha insha akiwa na wenzake"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni - Maelezo",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kuandika insha ya maelezo kuhusu hali akizingatia vipengele vyake -Kufurahia kutunga insha za maelezo kuhusu hali"
+      ],
+      "activities": [
+        "Je, ni mambo gani ya kuzingatia katika kuandika insha ya maelezo kuhusu hali?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 108 -Tarakilishi -Mtandao -Vielelezo vya insha"
+      ],
+      "assessment": "-Kuandika insha ya maelezo kuhusu hali akizingatia vipengele vyake",
+      "inquiryQuestion": "-Kuandika insha ya maelezo inayohusu hali kutumia tarakilishi akizingatia vipengele vyake -Kusomea au kumtumia mwenzake insha ya maelezo inayohusu hali kupitia mtandao ili kuitathmini -Kumsomea mzazi au mlezi wake insha ya maelezo kuhusu hali aliyoandika ili atoe maoni"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Ukanushaji",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kutambua ukanushaji wa hali ya masharti nge-, -ngali-, na -ki- katika matini -Kutumia hali ya ukanushaji wa hali ya masharti ya -nge, -ngali- na -ki- ipasavyo katika matini"
+      ],
+      "activities": [
+        "Ni nini kinachoonyesha kuwa sentensi iko katika hali ya masharti?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 110 -Chati za sentensi -Kapu maneno -Kadi -Orodha ya sentensi -Tarakilishi -Chati"
+      ],
+      "assessment": "-Kutambua ukanushaji wa hali ya masharti -nge-, -ngali-, na -ki- katika matini -Kutumia hali ya ukanushaji wa hali ya masharti ya -nge, -ngali- na -ki- ipasavyo katika matini",
+      "inquiryQuestion": "-Kutambua ukanushaji wa sentensi katika hali ya masharti ya -nge-, -ngali- na -ki- katika matini mbalimbali (k.v. orodha ya sentensi, chati) -Kukanusha sentensi katika hali ya masharti ya -nge-, -ngali na -ki- katika kikundi"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "MATUMIZI YA USHURU Kusikiliza na Kuzungumza",
+      "subStrand": "Mawaidha",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kutambua vipengele vya lugha vinavyotumika katika mawaidha -Kujadili umuhimu wa vipengele vya lugha vinavyotumika katika mawaidha -Kujadili ishara  zifaazo katika kutoa mawaidha"
+      ],
+      "activities": [
+        "Unazingatia nini unapotoa mawaidha?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 112 -Kifaa cha kidijitali -Kinasa sauti -Kapu maneno"
+      ],
+      "assessment": "-Kutambua vipengele vya lugha vinavyotumika katika mawaidha -Kujadili umuhimu wa vipengele vya lugha vinavyotumika katika mawaidha",
+      "inquiryQuestion": "-Kutambua vipengele vya lugha kwa kusikiliza mawaidha yakitolewa na mwalimu, mwanafunzi mwenzake, mgeni mwalikwa au katika vifaa vya kidijitali akishirikiana na wenzake -Kujadili umuhimu wa vipengele vya lugha vilivyotumika katika mawaidha aliyosikiliza akiwa na wenzake -Kujadili ishara zifaazo katika kutoa mawaidha"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mawaidha",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kutoa mawaidha kwa kuzingatia vipengele mbalimbali vya lugha ya mawaidha na ishara zifaazo -Kuonea fahari utoaji wa mawaidha katika maisha ya kila siku"
+      ],
+      "activities": [
+        "Unazingatia nini unapotoa mawaidha?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 112 -Kifaa cha kidijitali -Mgeni mwalikwa -Chati"
+      ],
+      "assessment": "-Kutoa mawaidha kwa kuzingatia vipengele mbalimbali vya lugha ya mawaidha na ishara zifaazo",
+      "inquiryQuestion": "-Kutoa mawaidha kwa mwenzake yanayohusiana na matumizi ya ushuru akizingatia vipengele mbalimbali vya lugha -Kusikiliza mawaidha yakitolewa na mzazi au mlezi wake na kutambua vipengele vya lugha katika mawaidha hayo -Kusakura mtandaoni na kusikiliza mawaidha mbalimbali kisha atambue vipengele vya lugha katika mawaidha hayo"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufahamu",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kudondoa habari mahususi katika kifungu cha mjadala -Kueleza maana ya msamiati na vifungu kama vilivyotumiwa katika kifungu cha mjadala"
+      ],
+      "activities": [
+        "Ni mambo gani hujidhihirisha katika kifungu cha ufahamu?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 114 -Tarakilishi -Mtandao -Kamusi"
+      ],
+      "assessment": "-Kudondoa habari mahususi katika kifungu cha mjadala -Kueleza maana ya msamiati na vifungu kama vilivyotumiwa katika kifungu cha mjadala",
+      "inquiryQuestion": "-Kudondoa habari mahususi kwa mujibu wa kifungu cha mjadala alichosoma akishirikiana na wenzake -Kusakura mtandaoni kifungu cha mjadala akisome na kudondoa habari mahususi katika kifungu hicho akiwa na wenzake -Kujadili na wenzake maana ya msamiati na vifungu kama vilivyotumiwa katika kifungu cha mjadala"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufahamu",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kuchanganua mitazamo katika kifungu cha mjadala -Kufurahia kusoma kwa ufahamu ili  kukuza uelewa wa habari"
+      ],
+      "activities": [
+        "Ni mambo gani hujidhihirisha katika kifungu cha ufahamu?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafuni -Gredi ya Tisa -Uk wa: 114 -Tarakilishi -Chati -Mtandao"
+      ],
+      "assessment": "-Kuchanganua mitazamo katika kifungu cha mjadala",
+      "inquiryQuestion": "-Kuchanganua mtazamo katika kifungu cha mjadala akiwa na wenzake katika kikundi -Kumweleza mzazi, mlezi au mwenzake jinsi ya kupata habari mahususi katika kifungu cha mjadala ili watoe maoni"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kiuamilifu - Shajara",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kujadili umuhimu wa shajara -Kueleza aina za shajara ili kuzibainisha"
+      ],
+      "activities": [
+        "Unazingatia nini unapoandika shajara?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 116 -Vielelezo vya shajara -Kamusi -Chati"
+      ],
+      "assessment": "-Kujadili umuhimu wa shajara -Kueleza aina za shajara ili kuzibainisha",
+      "inquiryQuestion": "-Kujadili umuhimu wa shajara -Kutafiti maktabani au mtandaoni aina za shajara -Kujadili na mwenzake aina za shajara alizozitafiti"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kiuamilifu - Shajara",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kuandika aina za shajara akizingatia vipengele vyake -Kuonea fahari matumizi ya shajara katika maisha ya kila siku"
+      ],
+      "activities": [
+        "Unazingatia nini unapoandika shajara?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisi -Uk wa: 116 -Tarakilishi -Mtandao -Vielelezo vya shajara"
+      ],
+      "assessment": "-Kuandika aina za shajara akizingatia vipengele vyake",
+      "inquiryQuestion": "-Kueleza vipengele vya shajara -Kuandika aina za shajara akizingatia vipengele vyake -Kuwasomea wenzake shajara aliyoandika ili waitolee maoni"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Udogo na Ukubwa wa Nomino",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kutambua hali ya udogo na ukubwa katika nomino -Kutumia nomino katika hali ya udogo na ukubwa ipasavyo katika matini"
+      ],
+      "activities": [
+        "Ni maneno gani unayoyajua yaliyo katika hali ya ukubwa?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 118 -Chati -Kapu maneno -Kadi"
+      ],
+      "assessment": "-Kutambua hali ya udogo na ukubwa katika nomino -Kutumia nomino katika hali ya udogo na ukubwa ipasavyo katika matini",
+      "inquiryQuestion": "-Kuchopoa nomino katika hali ya udogo na ukubwa kwenye chati, kadi maneno, kapu maneno au tarakilishi akiwa na mwenzake -Kutambua viambishi vya udogo na ukubwa katika maneno akishirikiana na wenzake -Kuandika majina ya vifaa vya darasani katika udogo na ukubwa"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Udogo na Ukubwa wa Nomino",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kuchangamkia  kutumia kwa ufasaha nomino katika hali ya udogo na ukubwa ili kufanikisha mawasiliano"
+      ],
+      "activities": [
+        "Ni maneno gani unayoyajua yaliyo katika  hali ya ukubwa?"
+      ],
+      "resources": [
+        "MENTOR -Kitabu cha Mwanafunzi -Gredi ya Tisa -Uk wa: 118 -Orodha ya nomino -Tarakilishi -Chati"
+      ],
+      "assessment": "-Kutunga sentensi akitumia nomino katika hali ya  udogo na ukubwa",
+      "inquiryQuestion": "-Kuambatanisha nomino za hali ya wastani na za hali ya udogo na ukubwa kwa usahihi kwenye chati za maneno akishirikiana na wenzake -Kujaza nafasi katika sentensi kwa  kutumia nomino katika hali ya udogo au ukubwa -Kutunga sentensi akitumia nomino katika hali ya udogo na ukubwa kwa kuzingatia masuala mtambuko mbalimbali likiwemo suala la matumizi ya ushuru akishirikiana na wenzake -Kumtajia mzazi au mlezi wake majina ya vifaa vya nyumbani katika udogo na ukubwa katika, mazingira ya nyumbani"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "MAADILI YA KITAIFA Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza kwa Kutathmini",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kueleza maana ya kusikiliza kwa kutathmini -Kujadili vipengele vya kuzingatia katika kutathmini mazungumzo"
+      ],
+      "activities": [
+        "Kusikiliza kwa kutathmini mazungumzo kuna umuhimu gani?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 120"
+      ],
+      "assessment": "Kueleza maana na vipengele vya kusikiliza kwa kutathmini",
+      "inquiryQuestion": "-Kueleza maana ya kusikiliza kwa kutathmini akishirikiana na mwenzake -Kujadili vipengele vya kuzingatia katika kutathmini mazungumzo"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza kwa Kutathmini",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kusikiliza mazungumzo na kuyatathmini kwa kuzingatia vipengele vifaavyo -Kuchangamkia kutathmini mazungumzo ili kuimarisha mawasiliano"
+      ],
+      "activities": [
+        "Unazingatia nini katika kutathmini ufaafu wa mazungumzo?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 120"
+      ],
+      "assessment": "Kutathmini mazungumzo kwa kuzingatia vipengele vifaavyo",
+      "inquiryQuestion": "-Kusikiliza mazungumzo kuhusu suala lengwa na kuyatathmini kwa kuzingatia vipengele mbalimbali -Kushiriki na mzazi au mlezi wake katika mazungumzo kuhusu suala lengwa"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Ufupisho",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kujadili vipengele vya kuzingatia katika ufupisho wa habari katika matini -Kuandika ufupisho wa habari kwa kuzingatia vipengele vifaavyo"
+      ],
+      "activities": [
+        "Unazingatia nini ili kuandika  ufupisho ufaao?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 122"
+      ],
+      "assessment": "Kueleza vipengele vya kuzingatia  katika ufupisho na kuandika ufupisho ufaao",
+      "inquiryQuestion": "-Kujadili vipengele vya ufupisho wa habari katika matini -Kuandika ufupisho wa habari kwa kuzingatia vipengele vifaavyo"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Ufupisho",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kufurahia kufupisha habari kwa usahihi katika miktadha mbalimbali"
+      ],
+      "activities": [
+        "Ufupisho una umuhimu gani katika uelewa wa habari?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 122"
+      ],
+      "assessment": "Kufupisha habari kutoka vyanzo mbalimbali",
+      "inquiryQuestion": "-Kusoma matini mbalimbali zikiwemo za mtandaoni na kufupisha habari -Kumsomea mzazi, mlezi au mwenzake habari aliyoifupisha"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Kujibu Baruapepe",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kujadili vipengele vya kuzingatia katika kujibu baruapepe -Kujibu baruapepe kwa kuzingatia vipengele vifaavyo"
+      ],
+      "activities": [
+        "Je, ni mambo gani ya kuzingatia unapoandika baruapepe?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 124"
+      ],
+      "assessment": "Kutambua vipengele vya kuzingatia katika kujibu baruapepe",
+      "inquiryQuestion": "-Kujadili na wenzake vipengele vya kuzingatia katika kujibu baruapepe -Kutambua na kutumia lugha inayofaa kwa uandishi wa barua ya kujibu baruapepe -Kujadili na wenzake vidokezo vya kutumia katika kujibu baruapepe"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Kujibu Baruapepe",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kujenga mazoea ya kujibu baruapepe ipasavyo"
+      ],
+      "activities": [
+        "Je, ni mambo gani ya kuzingatia katika kujibu baruapepe?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 124"
+      ],
+      "assessment": "Kujibu baruapepe kwa kuzingatia vipengele vifaavyo",
+      "inquiryQuestion": "-Kuandika barua baruapepe kuhusu suala lengwa kwenye tarakilishi -Kumweleza mzazi, mlezi au mwenzake namna ya kujibu baruapepe"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Usemi Halisi na Usemi wa Taarifa",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kujadili kanuni za kubadilisha usemi  halisi kuwa usemi wa taarifa -Kutumia usemi halisi ipasavyo katika matini"
+      ],
+      "activities": [
+        "Usemi halisi unatofautianaje na usemi wa taarifa?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 126"
+      ],
+      "assessment": "Kutambua kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa",
+      "inquiryQuestion": "-Kujadiliana na wenzake kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa -Kushiriki kugeuza sentensi zilizo katika usemi halisi ziwe katika usemi  wa taarifa -Kutunga sentensi sahili katika usemi halisi"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Usemi Halisi na Usemi wa Taarifa",
+      "objectives": [
+        "Kufika mwisho wa funzo mwanafunzi aweze: -Kutumia usemi wa taarifa ipasavyo katika matini -Kuchangamkia matumizi ya usemi halisi na usemi wa taarifa katika mawasiliano ya kila siku"
+      ],
+      "activities": [
+        "Unazingatia nini unapoandika usemi halisi na usemi wa taarifa?"
+      ],
+      "resources": [
+        "MENTOR -Kiswahili -Gredi ya 9 -Uk. 126"
+      ],
+      "assessment": "Kubadilisha sentensi kutoka usemi halisi kwenda usemi wa taarifa na kinyume chake",
+      "inquiryQuestion": "-Kushiriki kugeuza sentensi zilizo katika usemi wa taarifa ziwe katika usemi halisi -Kushiriki katika mchezo wa kuchopoa kadi katika vikundi -Kutunga sentensi sahili katika usemi wa taarifa"
+    }
+  ]
+}

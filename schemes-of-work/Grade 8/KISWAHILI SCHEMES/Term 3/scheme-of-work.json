@@ -1,0 +1,486 @@
+{
+  "path": "schemes-of-work/Grade 8/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 8,
+  "term": 3,
+  "subject": "KISWAHILI SCHEMES",
+  "weeks": 8,
+  "lessons": 28,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "KUSIKILIZA NA KUZUNGUMZA : MAGONJWA YASIOAMBUKIZWA",
+      "subStrand": "Kusikiliza kwa MAKINI",
+      "objectives": [
+        "Kufikia mwisho wa  somo    mwanafunzi aweze: -K ueleza habari katika matini ya k usikiliza -kuziwasilisha hoja muhimu katika habari aliyosikiliza kwa kufuata mpangilio ufaao -kujenga mazoea ya kufurahia Kusikiliza vifungu vya Kusikiliza ili kuimarisha uwezo wa kusikiliza"
+      ],
+      "activities": [
+        "Je,   kwa nini ni muhimu kuwa na mpangilio ufaao wa hoja kutoka habari uliyosikiliza?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  138"
+      ],
+      "assessment": "- Kuuliza na kujibu maswali -zoezi",
+      "inquiryQuestion": "Mwanafunzi aweze: -kutambua hola muhimu katika habari aliyosikiliza kuhusu suala legwa kutoka kwa mwalimu au kifaa cha kidijitali -kueleza hoja muhimu aliyoitambua kutoka matini aliyosikiliza  kwa maneno machache -kueleza maana ya msamiati katika matini ya Kusikiliza -kumsomea mzazi habari kuhusu suala legwa na kushirikiana kutambua hoja muhimu"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa  ufasaha",
+      "objectives": [
+        "kusoma kifungu kwa kuzingatia matamshi  bora -kusoma kifungu kwa kasi ifaayo -kusoma kifungu kwa kuambatanisha ishara zifaazo -kuridhia kusoma makala  kwa kuzingatia vipengele vinavyofanikisha mawasiliani"
+      ],
+      "activities": [
+        "Je, unaposo ma kifungu unazingatia mambo gani ili kufanikisha usomaji?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili  Gredi ya nane ukurasa  139-140"
+      ],
+      "assessment": "- Kuuliza na kujibu  maswali  -zoezi",
+      "inquiryQuestion": "-kujadiliana na wenzake vipengele  vya kuzingatia katika kusoma makala kwa ufasaha -kutazama vielelezo vya video za watu wanaosoma kwa ufasaha makala  kama vile hotuba,taarifa ya habari -kusoma  mbele ya  Wenzake kazi yake ili wamtolee maoni"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Insha za kiuaminifu Hotuba",
+      "objectives": [
+        "k ueleza maana ya hotuba ya kutoa  ufafanuzi -ku tambua hotuba ya ufafanuzi  katika matini -kuandika hotu ba ya kutoa ufafanuzi kwa kuzingatia vipengele vyake -ku changamkia nafasi ya hotuba ya kutoa ufafanuzi katika mawasiliano"
+      ],
+      "activities": [
+        "Ni mambo gani ya kuzingatia katika kutoa hotuba ya ufafanuzi?"
+      ],
+      "resources": [
+        "Gredi ya nane  Akili Pevu Kiswahili  ukurasa   141 -143"
+      ],
+      "assessment": "- Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kueleza m aana ya hotuba ya  kutoa ufafanuzi  -kujadi li na wenzake kuhusu ujumbe  na muundo ufaao wa hotuba ya kutoa ufafanuzi -ku andika hotuba ya kutoa ufafanuzi kuhusu suala legwa akizinga tia ujumbe,lugha na muundo ufaao"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Aina za sentensi",
+      "objectives": [
+        "kueleza maan a ya sentensi changamano ili kuipambanua -kutambua sentensi changamano katika matini -kutumia sentensi changamano ipasavyo -kuonea fahari matumizi ya sentensi changamano katika mawasiliano ya kila siku"
+      ],
+      "activities": [
+        "Ni nini tofauti kati ya sentensi changamano na aina zingine za sentensi unazozijua?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  144-147"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kueleza maan a ya sentensi changamano -ku bainisha sentensi changamano zinazojitokeza  katika vifungu -kutunga sentensi changamano ipasavyo"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "KUSIKILIZA NA KUZUNGUMZA: MAGONJWA YASIOAMBUKIZWA",
+      "subStrand": "Kusikiliza kwa MAKINI",
+      "objectives": [
+        "Kueleza habari katika matini ya kusikiliza -kuziwasilisha hoja muhimu katika habari aliyosikiliza kwa kufuata mpangilio ufaao -kujenga mazoea ya kufurahia Kusikiliza vifungu vya Kusikiliza ili kuimarisha uwezo wa kusikiliza"
+      ],
+      "activities": [
+        "Je, kwa nini ni muhimu kuwa na mpangilio ufaao wa hoja kutoka habari uliyosikiliza?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 138"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali -zoezi",
+      "inquiryQuestion": "-kutambua hola muhimu katika habari aliyosikiliza kuhusu suala legwa kutoka kwa mwalimu au kifaa cha kidijitali -kueleza hoja muhimu aliyoitambua kutoka matini aliyosikiliza  kwa maneno machache -kueleza maana ya  msamiati katika matini ya Kusikiliza -kumsomea mzazi habari kuhusu suala legwa na kushirikiana kutambua hoja muhimu"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa ufasaha",
+      "objectives": [
+        "kusoma kifungu kwa kuzingatia matamshi bora -kusoma kifungu kwa kasi ifaayo -kusoma kifungu kwa kuambatanisha ishara zifaazo -kuridhia kusoma makala  kwa kuzingatia vipengele vinavyofanikisha mawasiliani"
+      ],
+      "activities": [
+        "Je, unaposoma kifungu unazingatia mambo gani ili kufanikisha usomaji?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 139-140"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kujadiliana na wenzake vipengele vya kuzingatia katika kusoma makala kwa ufasaha -kutazama vielelezo vya video za watu wanaosoma kwa ufasaha makala kama vile hotuba,taarifa ya habari -kusoma  mbele ya  Wenzake kazi yake ili wamtolee maoni"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Insha za kiuaminifu Hotuba",
+      "objectives": [
+        "kueleza maana ya hotuba ya kutoa  ufafanuzi -kutambua hotuba ya  ufafanuzi katika matini -kuandika hotuba ya kutoa ufafanuzi kwa kuzingatia vipengele vyake -kuchangamkia nafasi ya hotuba ya kutoa ufafanuzi katika mawasiliano"
+      ],
+      "activities": [
+        "Ni mambo gani ya kuzingat ia katika kutoa hotuba ya ufafanuzi?"
+      ],
+      "resources": [
+        "Gredi ya nane Akili Pevu Kiswahili ukurasa  141-143"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kueleza maana ya hotuba ya  kutoa ufafanuzi  -kujadili na  wenzake kuhusu ujumbe  na muundo ufaao wa hotuba ya kutoa ufafanuzi -kuandika hotuba ya kutoa ufafanuzi kuhusu suala legwa akizingatia ujumbe,lugha na muundo ufaao"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Aina za sentensi",
+      "objectives": [
+        "kueleza maana ya sentensi changamano ili kuipambanua -kutambua sentensi changamano katika matini -kutumia sentensi changamano ipasavyo -kuonea fahari matumizi ya sentensi changamano katika mawasiliano ya kila siku"
+      ],
+      "activities": [
+        "Ni nini tofauti kati ya sentensi changamano na aina zingine za sentensi unazozijua?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 144-147"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kueleza maana ya sentensi changamano -kubainisha sentensi changamano zinazojitokeza  katika vifungu -kutunga sentensi changamano ipasavyo"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "KUSILIZA NA KUZUNGUMZA: HESHIMA  KWA TAMADUNI ZA WENGINE",
+      "subStrand": "Wahusika katika Hadithi",
+      "objectives": [
+        "kutambua wahusika katika hadithi -kuchambua sifa za wahusika katika hadithi -kueleza mafunzo kutokana na wahusika katika hadithi -kufurahia kushiriki katika uchambuzi wa wahusika katika hadithi"
+      ],
+      "activities": [
+        "Je, hadithi uliyowahi  kusimuliwa ilikuwa na wahusika gani?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 148- 149"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua wahusika katika hadithi inayosimuliwa -kutambua sifa za wahusika  katika hadithi -kueleza mafunzo kutokana  na wahusika katika hadithi -kutunga hadithi fupi ambayo ina wahusika wanyama kuhusu suala legwa"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa kina Mbinu za lugha",
+      "objectives": [
+        "kutambua mbinu za ligha katika tamthilia -kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia -kufurahia kuchanganua matumizi ya mbinu za lugha katika fasihi"
+      ],
+      "activities": [
+        "Tamthilia hitumia mbinu gani za lugha?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa   150"
+      ],
+      "assessment": "Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua mbinu za lugha kama vile urudiaji,tashbihi - kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia katika kikundi -kufanya utafiti mtandaoni kuhusu matumizi ya mbinu za lugha katika tamthilia"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Insha za kubuni maelezo",
+      "objectives": [
+        "kutambua vipengele vya insha ya maelezo kuhusu mahali -kujadili vipengele vya insha ya maelezo kuhusu mahali -kuandika insha ya  maelezo inayodhihirisha sifa za mahali -kuonea fahari utoaji wa maelezo kamilifu kuhusu kitu au jambo"
+      ],
+      "activities": [
+        "Je, vigezo vipi vinavyotumika katika kuandika  insha ya maelezo?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  151-152"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kujadiki vipengele vya insha ya maelezo kutokana na kielelezo cha insha -kuandaa vidokezo vya insha ya  maelezo kuhusu mahali panapolegwa -kuandika insha ya maelezo inayotumia sifa za mahali akizingatia muundo ufaao"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "SARUFI",
+      "subStrand": "Ukanushaji kwa kuzingatia hali",
+      "objectives": [
+        "kutambua ukanushaji kwa kuzingatia hali ya mazoea na timilifu katika matini -kukanusha sentensi kwa kuzingatia hali ya mazoea timilifu -kuchangamkia kukanusha sentensi katika hali ya mazoea na timilifu"
+      ],
+      "activities": [
+        "Je, ukanushaji wa hali ya mazoea na timilifu hutofautianaje?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  153-155"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua ukanushaji wa sentensi katika hali ya mazoea  na timilifu -kutunga sentensi kwa kutumia hali ya mazoea na timilifu -kukanusha sentensi alizotunga"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "KUSILIZA NA KUZUNGUMZA: HESHIMA KWA TAMADUNI ZA WENGINE",
+      "subStrand": "Wahusika katika Hadithi",
+      "objectives": [
+        "kutambua wahusika katika hadithi -kuchambua sifa za wahusika katika hadithi -kueleza mafunzo kutokana na wahusika katika hadithi -kufurahia kushiriki katika uchambuzi wa wahusika katika hadithi"
+      ],
+      "activities": [
+        "Je, hadithi uliyowahi kusimuliwa ilikuwa na wahusika gani?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa148-149"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua wahusika katika hadithi inayosimuliwa -kutambua sifa za wahusika  katika hadithi -kueleza mafunzo kutokana  na wahusika katika hadithi -kutunga hadithi fupi ambayo ina  wahusika wanyama kuhusu suala legwa"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa kina Mbinu za lugha",
+      "objectives": [
+        "kutambua mbinu za ligha katika tamthilia -kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia -kufurahia kuchanganua matumizi ya mbinu za lugha katika fasihi"
+      ],
+      "activities": [
+        "Tamthilia hitumia mbinu gani za lugha?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  150"
+      ],
+      "assessment": "Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua mbinu za lugha kama vile urudiaji,tashbihi - kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia katika kikundi -kufanya utafiti mtandaoni kuhusu matumizi ya mbinu za lugha katika tamthilia"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Insha za kubuni maelezo",
+      "objectives": [
+        "kutambua vipengele vya insha ya maelezo kuhusu mahali -kujadili vipengele vya insha ya maelezo kuhusu mahali -kuandika insha ya maelezo inayodhihirisha sifa za mahali -kuonea fahari utoaji wa maelezo kamilifu kuhusu kitu au jambo"
+      ],
+      "activities": [
+        "Je, vigezo vipi vinavyotumika katika kuandika insha ya maelezo?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 151-152"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kujadiki vipengele vya insha ya maelezo kutokana na kielelezo cha insha -kuandaa vidokezo vya insha ya maelezo kuhusu mahali panapolegwa -kuandika insha ya maelezo inayotumia sifa za  mahali akizingatia muundo ufaao"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "SARUFI",
+      "subStrand": "Ukanushaji kwa kuzingatia hali",
+      "objectives": [
+        "kutambua ukanushaji kwa kuzingatia hali ya mazoea na timilifu katika matini -kukanusha sentensi kwa kuzingatia hali ya mazoea timilifu -kuchangamkia kukanusha sentensi katika hali ya mazoea na timilifu"
+      ],
+      "activities": [
+        "Je, ukanushaji wa hali ya mazoea na timilifu hutofautianaje?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 153-155"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua ukanushaji wa sentensi katika hali ya mazoea  na timilifu -kutunga sentensi kwa kutumia hali ya mazoea na timilifu -kukanusha sentensi alizotunga"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "KUSIKILIZA NA KUZUNGUMZA: KUWEKA AKIBA",
+      "subStrand": "Lugha katika  hadithi",
+      "objectives": [
+        "kutambua vipengele vya lugha vinavyotumika katika hadithi -kusimulia hadithi kwa kutumia vipengele vya lugha ipasavyo -kuonea fahari uchanganuzi wa lugha  katika hadithi kama utungo wa fasihi simulizi"
+      ],
+      "activities": [
+        "Ni mbinu gani za lugha zinazotumika katika masimulizi ya hadithi?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  158"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua vipengele vya lugha kama vile urudiaji,methali - kujadili umuhimu wa vipengele vya lugha vinavyotumika katika nyimbo teule -kutunga  hadithi inaohusiana na suala legwa akizingatia vipengele vya lugha katika hadithi"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa  ufahamu",
+      "objectives": [
+        "kudondoa habari mahususi katika  kifungu cha mjadala -kutambua msamiati mpya katika kifungu cha mjadala -kuchambua mitazamo katika kifungu cha mjadala -kuridhia kusoma kifungu cha mjadala ili kukuza uelewa wa habari"
+      ],
+      "activities": [
+        "Je, unazinga tia nini unaposoma vifungu vya ufahamu?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili  Gredi ya nane ukurasa  159-161"
+      ],
+      "assessment": "-Kuuliza na kujibu  maswali  -zoezi",
+      "inquiryQuestion": "-kudondoa habari mahususi  k.v.nani,wapi -kutambua msamiati mpya  -kueleza maana ya msamiati uliotumiwa kwenye ufahamu na kutunga sentensi akiutumia -kumsomea mzazi ki fungu cha mjadala kwenye kitabu"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Insha ya maelekezo",
+      "objectives": [
+        "kujadili vipengele vya insha ya maelekezo -kuandika insha ya maelekezo akizingatia vipengele muhimu vya insha ya maelekezo -kufurahia kuandika insha za maekezo akizingatia vipengele vyake muhimu"
+      ],
+      "activities": [
+        "Je, unapoandika insha ya maelekezo unazingatia mambo gani?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  162-163"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kujadili vipengele vya insha ya maelekezo k.v matumizi ya lugha -kuandika insha ya maelekezo akizingatia uteuzi mwafaka wa maneno,sentensi na hatua ili kumjengea  msomaji taswira kamili  ya kile kinachoelezewa"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "SARUFI",
+      "subStrand": "Udogo wa nomino",
+      "objectives": [
+        "kutambua nomino katika hali ya udogo  -kubadilisha nomino za hali ya wastani kuwa katika hali ya udogo -kutumia nomino  katika hali ya udogo ipasavyo -kuonea fahari kutumia nomino katika hali ya udogo katika sentensi"
+      ],
+      "activities": [
+        "Unazingatia nini unapoandika nomino  katika udogo?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa  164-167"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "- kutambua nomino katika hali ya udogo.k.v.kigoma, -kuandika majina ya vifaa vya  darasani katika udogo k.v.kijitabu -kutunga sentensi akitumia nomino katika hali ya udogo"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "KUSIKILIZA NA KUZUNGUMZA: KUWEKA AKIBA",
+      "subStrand": "Lugha katika  hadithi",
+      "objectives": [
+        "kutambua vipengele vya lugha vinavyotumika katika hadithi -kusimulia hadithi kwa kutumia vipengele vya lugha ipasavyo -kuonea fahari uchanganuzi wa lugha  katika hadithi kama utungo wa fasihi simulizi"
+      ],
+      "activities": [
+        "Ni mbinu gani za lugha zinazotumika katika masimulizi ya hadithi?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 158"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kutambua vipengele vya lugha kama vile urudiaji,methali - kujadili umuhimu wa vipengele vya lugha vinavyotumika katika nyimbo teule -kutunga  hadithi inaohusiana na suala legwa akizingatia vipengele vya lugha katika hadithi"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa ufahamu",
+      "objectives": [
+        "kudondoa habari mahususi katika kifungu cha mjadala -kutambua msamiati mpya katika kifungu cha mjadala -kuchambua mitazamo katika kifungu cha mjadala -kuridhia kusoma kifungu cha mjadala ili kukuza uelewa wa habari"
+      ],
+      "activities": [
+        "Je, unazingatia nini unaposoma vifungu vya ufahamu?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 159-161"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kudondoa habari mahususi k.v.nani,wapi -kutambua msamiati mpya  -kueleza maana ya msamiati uliotumiwa kwenye ufahamu  na kutunga sentensi akiutumia -kumsomea mzazi kifungu cha mjadala kwenye kitabu"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Insha ya maelekezo",
+      "objectives": [
+        "kujadili vipengele vya insha ya maelekezo -kuandika insha ya maelekezo akizingatia vipengele muhimu vya insha ya maelekezo -kufurahia kuandika insha za maekezo akizingatia vipengele vyake muhimu"
+      ],
+      "activities": [
+        "Je, unapoandika insha ya maelekezo unazingatia mambo gani?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 162-163"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kujadili vipengele vya insha ya maelekezo k.v matumizi ya lugha -kuandika insha ya maelekezo akizingatia uteuzi mwafaka wa maneno,sentensi na hatua ili kumjengea  msomaji taswira kamili  ya kile kinachoelezewa"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "SARUFI",
+      "subStrand": "Udogo wa nomino",
+      "objectives": [
+        "kutambua nomino katika hali ya udogo  -kubadilisha nomino za hali ya wastani kuwa katika hali ya udogo -kutumia nomino katika hali ya udogo ipasavyo -kuonea fahari kutumia nomino katika hali ya udogo katika sentensi"
+      ],
+      "activities": [
+        "Unazingatia nini unapoandika nomino katika udogo?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 164-167"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "- kutambua nomino katika hali ya udogo.k.v.kigoma, -kuandika majina ya vifaa vya darasani katika udogo k.v.kijitabu -kutunga sentensi akitumia nomino katika hali ya udogo"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "KUSIKILIZA NA KUZUNGUMZA: MAADILI YA KIJAMII",
+      "subStrand": "Kusikiliza husishi",
+      "objectives": [
+        "kueleza maana ya usikilizaji husishi -kujadili vipengele vya usikilizaji husishi ili kuvipambanua -kushiriki mazungumzo akizingatia vipengele vya usikilizaji husishi -kuchangamkia kushiriki katika Kusikiliza husishi"
+      ],
+      "activities": [
+        "Ni vipengele gani unazingatia katika kusikiliza husishi?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 168-169"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kueleza maana ya usikilizajib husishi  -kutambua vipengele vya kuzingatia katika Kusikiliza husishi -kusikiliza mazungumzo kuhusu suala lengwa na kuzingatia vipengele vya Kusikiliza husishi vilivyozingatiwa"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "KUSOMA",
+      "subStrand": "Ufupisho",
+      "objectives": [
+        "kueleza kwa usahihi ujumbe wa aya za matini kwa sentensi moja moja -kuandika ufupisho unaozingatia mtazamo wa matini ya kufupishwa -kufurahia kufupisha ujumbe kwa usahihi katika miktadha mbalimbali"
+      ],
+      "activities": [
+        "Je, unazingatia nini unapofupisha kifungu cha ufahamu?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 170-171"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "- kujadili vipengele vya ufupisho -kueleza kwa usahihi ujumbe wa haya zote za matini kwa haya moja -kuandika ufupisho unaozingatia mtazamo wa matini"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "KUANDIKA",
+      "subStrand": "Barua pepe ya kiofisi",
+      "objectives": [
+        "kutambua vipengele vya kimuundo vya barua pepe -kutumia lugha inayofaa katika uandishi wa barua  pepe ya kiofisi -kuandika barua pepe ya kiofisi kwa kuzingatia ujumbe,lugha na muundo  ufaao -kujenga mazoea ya kuwasiliana kwa kuandika barua pepe ya kiofisi"
+      ],
+      "activities": [
+        "Je, unazingatia nini  unapoandika barua pepe ya kiofisi?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane  ukurasa 172-174"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "-kujadili vipengele vya kimuundo vya  barua pepe ya kiofisi katika kikundi -kujadili kuhusu lugha inayofaa katika uandishi wa barua pepe ya kiofisi -kumwandikia mwalimu wake barua pepe ya kiofisi"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "SARUFI",
+      "subStrand": "Usemi halisi na usemi wa taarifa",
+      "objectives": [
+        "kutambua usemi halisi na usemi wa taarifa katika matini -kutambua kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa -kutumia usemi halisi na usemi wa taarifa ifaavyo -kuchangamkia matumizi ya usemi halisi na usemi wa taarifa katika mawasiliano"
+      ],
+      "activities": [
+        "Ni mambo gani unayozingatia wakati wa kubadilisha usemi halisi kuwa usemi wa taarifa?"
+      ],
+      "resources": [
+        "Akili Pevu Kiswahili Gredi ya nane ukurasa 175-176"
+      ],
+      "assessment": "-Kuuliza na kujibu maswali  -zoezi",
+      "inquiryQuestion": "- kutambua usemi halisi na usemi wa taarifa katika matini - kutambua kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa -kutunga sentensi za usemi halisi na usemi wa taarifa"
+    }
+  ]
+}

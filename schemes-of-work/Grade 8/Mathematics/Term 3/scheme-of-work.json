@@ -1,0 +1,616 @@
+{
+  "path": "schemes-of-work/Grade 8/Mathematics/Term 3/scheme-of-work.json",
+  "grade": 8,
+  "term": 3,
+  "subject": "Mathematics",
+  "weeks": 7,
+  "lessons": 36,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: -represent length to a given scale in different situations -convert actual length to scale length  -appreciate the use of scale drawing in maps"
+      ],
+      "activities": [
+        "The learner is guided to: - measure and represent length of different objects from immediate environment in his/her book -discuss and  represent length of a give n scale in different situations"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 143-145"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do we determine scale in real life?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "represent length to a given scale in different situations -convert actual length to scale length  -appreciate the use of scale drawing in maps"
+      ],
+      "activities": [
+        "measure and represent length of different objects from immediate environment in his/her book -discuss and  represent length of a given scale in different situations"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 143-145"
+      ],
+      "assessment": "-oral questions  -written questions",
+      "inquiryQuestion": "How do we determine scale in real life?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "convert scale l ength to actual length -interpret linear scales in statement form in different questions -appreciate the use of scale drawing in maps"
+      ],
+      "activities": [
+        "discuss and practice converting scale from one to another  - read,discuss  and interpret given linear scales in statement form -discuss and write given linear scales in statement form"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 146-149"
+      ],
+      "assessment": "-oral questions  -written questions",
+      "inquiryQuestion": "Where do we use scale dra wing in real life situation?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "convert scale length to actual length -interpret linear scales in statement form in different questions -appreciate the use of scale drawing in maps"
+      ],
+      "activities": [
+        "discuss and practice converting scale from one to another  - read,discuss  and interpret given linear scales in statement form -discuss and write given linear scales in statement form"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  146-149"
+      ],
+      "assessment": "-oral questions  -written questions",
+      "inquiryQuestion": "Where do we use scale drawing in real life situation?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "write linear scale in statement form in different situations -interpret linear scales in ratio form in different situations -appreciate the use of scale drawing in maps"
+      ],
+      "activities": [
+        "write linear scale in statement form -read,discuss and interpret given linear scales in ratio form"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  149-151"
+      ],
+      "assessment": "-oral questions Written exercise",
+      "inquiryQuestion": "How do we interpret  linear scales in ratio form?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "write linear scale in statement form in different situations -interpret linear scales in ratio form in different situations -appreciate the use of  scale drawing in maps"
+      ],
+      "activities": [
+        "write linear scale in statement form -read,discuss and interpret given linear scales in ratio form"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 149-151"
+      ],
+      "assessment": "-oral questions Written exercise",
+      "inquiryQuestion": "How do we interpret  linear scales in ratio form?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "convert linear scale from statement form to ratio form and ratio form to statement form  -make scale  drawing in different situations -apply scale drawing in real life situation -use digital devices to learn more on scale drawing -appreciate use of scale drawing in maps"
+      ],
+      "activities": [
+        "discuss and carry out conversions of scales from one to another -make scale drawings on different learning  materials using appropriate scale -use digital devices to learn more on scale -use maps to demonstrate scale"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 152-155 Maps  Digital devices"
+      ],
+      "assessment": "-oral questions Written exercise",
+      "inquiryQuestion": "how do we  convert linear scale from statement form  to ratio form?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "GEOMETRY",
+      "subStrand": "Scale drawing",
+      "objectives": [
+        "convert linear scale from statement form to ratio form and ratio form to statement form  -make scale drawing in different situations -apply scale drawing in real life situation -use digital devices to learn more on scale drawing -appreciate use of scale drawing in maps"
+      ],
+      "activities": [
+        "discuss and carry out conversions of scales from one to another -make scale drawings on different learning materials using appropriate scale -use digital devices to learn more on scale -use maps to demonstrate scale"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 152-155 Maps   Digital devices"
+      ],
+      "assessment": "-oral questions Written exercise",
+      "inquiryQuestion": "how do we convert linear scale from statement form to ratio form?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "GEOMETRY",
+      "subStrand": "Common  solids",
+      "objectives": [
+        "identify common  solids from the environment -sketch nets of  cubes,cuboids ,cylinders pyramids and cones  -appreciate use of common solids in real life"
+      ],
+      "activities": [
+        "collect common  solids such as  cubes,cuboids , Cylinders,pyramids  and cones from the immediate environment -discuss,open and sketch nets of hollow solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 158-165"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What are  common solids?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "identify common solids from the environment -sketch nets of  cubes,cuboids ,cylinders pyramids and cones  -appreciate use of common solids in real life"
+      ],
+      "activities": [
+        "collect common solids such as  cubes,cuboids , Cylinders,pyramids  and cones from the immediate environment -discuss,open and sketch nets of hollow solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 158-165"
+      ],
+      "assessment": "",
+      "inquiryQuestion": "What are common solids?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "identify common solids from the environment -sketch nets of  cubes,cuboids ,cylinders pyramids and cones  -appreciate use of common solids in real life"
+      ],
+      "activities": [
+        "collect common solids such as  cubes,cuboids , Cylinders,pyramids  and cones from the immediate environment -discuss,open and sketch nets of hollow solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 158-165"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What are common solids?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "work out surface area of solids from nets of solids in different situations -determine the distance between two points on the surface of solid in different situations -appreciate use of common solids in real life"
+      ],
+      "activities": [
+        "work out the surface area of solids from nets -discuss and practice measuring the distance between any two points on the surface of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 166-174"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do we determine surface areas of solids?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "work out surface area of solids from nets of solids in different situations -determine the distance between two points on the surface of solid in different situations -appreciate use of common solids in real life"
+      ],
+      "activities": [
+        "work out the surface area of solids from nets -discuss and practice measuring the distance between any two points on the surface of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 166-174"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do we determine surface areas of solids?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "work out surface area of solids from nets of solids in different situations -determine the distance between two points on the surface of solid in  different situations -appreciate use of common solids in real life"
+      ],
+      "activities": [
+        "work out the surface area of solids from nets -discuss and practice measuring the distance between any two points on the  surface of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  166-174"
+      ],
+      "assessment": "",
+      "inquiryQuestion": "How do we determine surface areas of solids?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "make models of hollow and compact solids for skills development -use IT devices to draw models and nets of solids  - appreciate use of common solids in real  life  appreciate  use of common solids in real life"
+      ],
+      "activities": [
+        "make models of hollow and compact solids using locally available material -use digital devices to watch videos on common  solids,nets  and draw the solids and nets -use other resources such as print to draw or trace nets of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  175-178"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do you determine the volume of common solids?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "make models of hollow and compact solids for skills development -use IT devices to draw models and nets of solids  - appreciate use of common solids in real  life  appreciate  use of common solids in real life"
+      ],
+      "activities": [
+        "make models of hollow and compact solids using locally available material -use digital devices to watch videos on common  solids,nets  and draw the solids and nets -use other resources such as  print to draw or trace nets of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 175-178"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "How do you determine the volume of common solids?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "make models of hollow and compact solids for skills development -use IT devices to draw models and nets of solids  - appreciate use of common solids in real  life  appreciate  use of common solids in real life"
+      ],
+      "activities": [
+        "make models of hollow and compact solids using locally available material -use digital devices to watch videos on common  solids,nets  and draw the solids and nets -use other resources such as print to draw or trace nets of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  175-178"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "How do you determine the volume of common solids?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "GEOMETRY",
+      "subStrand": "Common solids",
+      "objectives": [
+        "make models of hollow and compact solids for skills development -use IT devices to draw models and nets of solids  - appreciate use of common solids in real  life  appreciate  use of common solids in real life"
+      ],
+      "activities": [
+        "make models of hollow and compact solids using locally available material -use digital devices to watch videos on common  solids,nets  and draw the solids and nets -use other resources such as print to draw or trace nets of solids"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  175-178"
+      ],
+      "assessment": "-oral questions -observation -written questions  -oral questions -observation",
+      "inquiryQuestion": "How do you determine the volume of common solids?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "draw bar graphs of data from real life situations -interpret bars of data from real life situations -desire to use data in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "collect data from the immediate environment or experiences for  example  size  of shoes,height or test scores -use suitable scale to represent the data in bar graphs"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 178- 183"
+      ],
+      "assessment": "-oral questions -observation -written exercise",
+      "inquiryQuestion": "What are the different ways of representing data?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "draw bar graphs of data from real life situations -interpret bar  graphs  of  data from real life situations -desire to use data in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "collect data from the immediate environment or experiences for  example  size  of shoes,height or test scores -use suitable scale to represent the data in bar graphs"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 178- 183"
+      ],
+      "assessment": "-oral questions -observation -written exercise",
+      "inquiryQuestion": "What are the different ways of representing data?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "draw line graphs of given data from real life situations -interpret line graphs of data from real life situations -desire to use data in representation  and interpretation in real life situation"
+      ],
+      "activities": [
+        "discuss and represent data in line graphs -discuss  and  interpret  line graphs of given data"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  184-187"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do we draw line graphs to represent data?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "draw line graphs of given data from real life situations -interpret line graphs of  data  from  real life situations -desire to use data in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "discuss and represent data in line graphs -discuss  and  interpret  line graphs of given data"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  184-187"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How do we draw line graphs to represent data?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "draw line graphs of given data  -interpret line graphs of given data from real life situations -desire to use data in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "discuss and represent data in line graphs -discuss  and  interpret  line graphs of given data"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  184-187"
+      ],
+      "assessment": "-oral questions -observation -written exercise",
+      "inquiryQuestion": "How do we draw line graphs to represent data?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "draw line graphs of given data  -interpret line graphs of given data -desire to use data  in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "discuss and represent data in line graphs -discuss  and  interpret  line graphs of given  data"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  184-187"
+      ],
+      "assessment": "-oral questions -observation -written exercise",
+      "inquiryQuestion": "How do we interpret line graphs?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "identify the mode of a set of discrete data -calculate the mean of a set of discrete data -desire to use data in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "identify the mode of a set of discrete data  -discuss and work out the average from different sets of discrete data and relate it to mean"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  191-193"
+      ],
+      "assessment": "-oral questions -written exercise",
+      "inquiryQuestion": "How do we get the mean of a given data?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "DATA HANDLING AND PROBABILITY DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "identify the mode of a set of discrete data -calculate the mean of a set of discrete data -desire to use data in representation and interpretation in real life situation"
+      ],
+      "activities": [
+        "identify the mode of a set of discrete data  -discuss and work out the average from different sets of discrete data and relate it to mean"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  191-193"
+      ],
+      "assessment": "-oral questions -written exercise",
+      "inquiryQuestion": "How do we get the mean of a given data?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "determine the median of a set of discrete data  -use IT and other materials to determine the  mean,mode  and median of discre te data -desire to use data representation and interpretation in real life situations"
+      ],
+      "activities": [
+        "carry out different activities that involve getting the median position  -use IT and other materials to  determine the   mean,mode  and median of discre te data -use IT and other materials to determine the   mean,mode  and median of discre te data -use IT and other materials to determine the  mean,mode and median of discre te data"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  194-196"
+      ],
+      "assessment": "-oral questions -written exercise",
+      "inquiryQuestion": "How do you determine the median of data?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "Data presentation and interpretation",
+      "objectives": [
+        "determine the median of a set of discrete data  -use IT and other materials to determine the  mean,mode  and  median of discre te data -desire to use data representation and interpretation in real life situations"
+      ],
+      "activities": [
+        "carry out different activities that involve getting the median position  -use IT and other materials to determine the   mean,mode  and median of discre te data -use IT and other materials to determine the   mean,mode  and median of discre te data -use IT and other materials to determine the  mean,mode and median of discre te data"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page    194-196"
+      ],
+      "assessment": "-oral questions -written exercise",
+      "inquiryQuestion": "How do you determine the median of data?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "identify events involving chance in real life situations -perform chance experiments in different situations -recognise events that happen by chance in real life situation"
+      ],
+      "activities": [
+        "discuss daily events that are likely or unlikely to happen -discuss and carry out different chance experiments like flipping the coins,tossing the dice or drawing coloured balls from a bag  one ball at a time"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 197-199"
+      ],
+      "assessment": "-oral questions  -written exercise",
+      "inquiryQuestion": "When do we consider chances that an event is likely to happen?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "identify events involving chance in real life situation -perform chance experiments in different situation -recognise events that happen by chance in real life situation"
+      ],
+      "activities": [
+        "discuss daily events that are likely or unlikely to happen -discuss and carry out different chance experiments like flipping the coins,tossing the dice or drawing coloured balls  from a bag  one ball at a time"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 197-199"
+      ],
+      "assessment": "-oral questions  -written exercise",
+      "inquiryQuestion": "When do we consider chances that an event is likely to happen?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "identify events involving chance in real life situation -perform chance experiments in different situation -recognise events that happen by chance in real life situation"
+      ],
+      "activities": [
+        "discuss daily events that are likely or unlikely to happen -discuss and carry out different chance experiments like flipping the coins,tossing the dice or drawing coloured balls from a bag  one ball at a time"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page 197-199"
+      ],
+      "assessment": "-oral questions  -written exercise",
+      "inquiryQuestion": "When do we consider chances that an event is likely to happen?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "write experimental probability outcomes in different situations -express the probability outcomes in fractions in different situations -recognise events that happen by chance in real life situations"
+      ],
+      "activities": [
+        "discuss experimental probability outcomes in different situations -record the probability of the chance outcomes of fractions"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  199-202"
+      ],
+      "assessment": "-oral questions  -written exercise",
+      "inquiryQuestion": "Why is probability important in real life situations?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "DATA  HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "write  experimental probability outcomes in different situations -express the probability outcomes in fractions in different situations -recognise events that happen by chance in real life situations"
+      ],
+      "activities": [
+        "discuss  experimental probability outcomes in different situations -record the probability of the chance outcomes of fractions"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page  199-202"
+      ],
+      "assessment": "-oral questions  -written exercise",
+      "inquiryQuestion": "Why is  probability important in real life situations?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "express the probability outcome in decimals or percentages -use IT and other devices to play games involving probability -recognise events that happen by chance in real life situation"
+      ],
+      "activities": [
+        "record the probability of the chance outcomes in decimals, percentages -use digital devices to play games involving probability"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page   202-204"
+      ],
+      "assessment": "-oral questions -written exercise",
+      "inquiryQuestion": "Why is probability important in real life situations?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "DATA HANDLING AND PROBABILITY",
+      "subStrand": "probability",
+      "objectives": [
+        "express the probability outcome in decimals or percentages -use IT and other devices to play games involving probability -recognise events that happen by chance in real life situation"
+      ],
+      "activities": [
+        "record the probability of the chance outcomes in decimals, percentages -use digital devices to play games involving probability"
+      ],
+      "resources": [
+        "KLB Top  scholar  Mathematics Grade 8 page   202-204"
+      ],
+      "assessment": "-oral questions -written exercise",
+      "inquiryQuestion": "How do we express probability outcome in decimals and  percentages?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "8- 9 REVISION/END OF YEAR ASSESSMENT",
+      "inquiryQuestion": ""
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "path": "schemes-of-work/Grade 9/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 9,
+  "term": 3,
+  "subject": "PRETECHNICAL SCHEMES",
+  "weeks": 8,
+  "lessons": 33,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Identifying a problem in the locality",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - identify problems in the locality that can be solved using the skills acquired in Pre-Technical Studies. - analyze the problems to determine their suitability for a project. - appreciate the value of problem-solving in the community."
+      ],
+      "activities": [
+        "What  problems in the locality can be solved using skills acquired in Pre-Technical Studies?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, local environment, manila papers KLB Pre-Tech Studies Grade 9 P.B pg. 153"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - explore the locality to establish problems that can be solved using the skills acquired in this learning area. -  brainstorm  on the problems in the locality that can be solved using the skills acquired. - discuss and categorize the identified problems."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Selecting an item to solve the identified problem",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - suggest possible solutions to the identified problems. - select an appropriate item that can be made to solve the identified problem. - appreciate the creativity involved in problem-solving."
+      ],
+      "activities": [
+        "What items can be made to solve identified problems in the locality?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, local environment, manila papers KLB Pre-Tech Studies Grade 9 P.B pg. 154"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - use print or digital media to search for information on possible items to solve the identified problem. - discuss possible items that can be made to solve the identified problem. - select one item that can be made using the skills acquired to solve the identified problem."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Making an item to solve the identified problem",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - sketch the item that can be made to solve the identified problem. - identify materials and tools needed to make the item. -  value  creativity and innovation in problem-solving."
+      ],
+      "activities": [
+        "How can items be designed and planned to solve identified problems?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, local environment, manila papers KLB Pre-Tech Studies Grade 9 P.B pg. 155"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - sketch the item that can be made using the skills acquired to solve the identified problem. - identify and list the materials and tools needed to make the item. - plan the process of making the item step by step."
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Making an item to solve the identified problem",
+      "objectives": [
+        "By the end of the lesson, the  learner should be able to : - prepare materials for making the item. - use appropriate tools to work on the materials. -  value  precision and attention to detail in project work."
+      ],
+      "activities": [
+        "How can materials be prepared and worked on to make useful items?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, locally available materials, tools KLB Pre-Tech Studies Grade 9 P.B pg. 156"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - gather and prepare the materials needed for making the item. - select appropriate tools for working on the materials. - begin working on the materials following the planned steps."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Making an item to solve the identified problem",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - continue making the item using appropriate tools and techniques. - demonstrate proper use of tools in making the item. - appreciate the importance of safety in project work."
+      ],
+      "activities": [
+        "How can tools and techniques be used safely to make useful items?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, locally available materials, tools KLB Pre-Tech Studies Grade 9 P.B pg. 156"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - continue working on the item using appropriate tools and techniques. - apply proper skills in making the item. - observe safety measures while working on the item."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Making an item to solve the identified problem",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - finalize making the item. - evaluate the item against the initial design and purpose. - value the importance of evaluation in project work."
+      ],
+      "activities": [
+        "How can items be finished and evaluated for effectiveness?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, locally available materials, tools KLB Pre-Tech Studies Grade 9 P.B pg. 156"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - complete making the item. - add finishing touches to the item. - evaluate the item against the initial design and purpose. - make necessary adjustments to improve the item."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Making an item to solve the identified problem",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - calculate the cost of the item made. - demonstrate the use of the item in solving the identified problem. - appreciate the economic value of handmade items."
+      ],
+      "activities": [
+        "How can the cost and effectiveness of the made item be determined?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, locally available materials, tools KLB Pre-Tech Studies Grade 9 P.B pg. 157"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - estimate the cost of the materials used in making the item. - calculate the selling price for the item. - demonstrate how the item solves the identified problem. - display the item for peer assessment."
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Utilizing skills learnt in solving problems",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain how the skills learned in Pre-Technical Studies were applied in making the item. - evaluate the effectiveness of the item in solving the identified problem. - appreciate the application of technical skills in solving real-life problems."
+      ],
+      "activities": [
+        "How can skills learned in Pre-Technical Studies be applied to solve problems in day-to-day life?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, made items, manila papers KLB Pre-Tech Studies Grade 9 P.B pg. 157"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - study the illustration on application of knowledge and skills gained in Pre-Technical studies. - discuss the role of the knowledge and skills learned in Pre-Technical Studies as shown in the illustration. - discuss other roles of the knowledge and skills learned in Pre-Technical Studies in day-to-day life."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "TOOLS AND PRODUCTION",
+      "subStrand": "Project - Utilizing skills learnt in solving problems",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - present the made item and its application in solving the identified problem. - suggest improvements for future projects. -  value  lifelong learning and skill development."
+      ],
+      "activities": [
+        "How can knowledge and skills in Pre-Technical Studies improve life in the community?"
+      ],
+      "resources": [
+        "Digital devices, reference materials, made items, manila papers KLB Pre-Tech Studies Grade 9 P.B pg. 158"
+      ],
+      "assessment": "Portfolio, observation, rubrics, project work, oral questions",
+      "inquiryQuestion": "The learner is guided to : - make a presentation at a school forum on the role of the knowledge and skills learned in Pre-Technical Studies in the community. - display the made item and explain how it solves the identified problem. - discuss possible improvements for future projects. - summarize points about the role of the knowledge and skills learned in Pre-Technical Studies in day-to-day life."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Identifying financial  institutions in Kenya",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of financial institution. - identify financial institutions available in Kenya. - appreciate the role of financial institutions in the economy."
+      ],
+      "activities": [
+        "What financial institutions are available in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference  materials, photographs, pictures KLB Pre-Tech Studies Grade 9 P.B pg. 160"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral  questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the meaning of the term 'financial institution'. - study the illustration of  people receiving services at a financial institution. - discuss the financial institution shown in the illustration."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Identifying financial institutions in Kenya",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - list various financial institutions in Kenya. - explain the services offered by different financial institutions. - value the importance of financial institutions in economic development."
+      ],
+      "activities": [
+        "What financial institutions are available in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, photographs, pictures KLB Pre-Tech Studies Grade 9 P.B pg. 161"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - use print or digital media to search for more information on other financial institutions available in Kenya. - share findings with the class. - summarize points on the financial institutions available in Kenya."
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Classifying financial institutions in Kenya",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - explain classification of financial institutions. - categorize financial institutions in Kenya. - appreciate the diversity of financial institutions in Kenya."
+      ],
+      "activities": [
+        "How are financial institutions classified in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, resource person KLB Pre-Tech Studies Grade 9 P.B pg. 162"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - engage a resource person on the meaning of the word 'classification' in relation to financial institutions. -  listen  to the resource person explain how financial institutions are classified. - discuss examples of financial institutions in each classification."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Classifying financial institutions in Kenya",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - distinguish between banking and non-banking financial institutions. - categorize financial institutions according to their services. - value the role of different  types of financial institutions."
+      ],
+      "activities": [
+        "What are the different categories of financial institutions in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, resource person KLB Pre-Tech Studies Grade 9 P.B pg. 164"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the information given by the resource person. - use relevant textbooks and other reference materials to search for more information on the classification of financial institutions in Kenya. - share findings with the class. - summarize points on the classification of financial institutions in Kenya."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Analyzing services offered by financial institutions",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to : - identify services offered by different financial institutions. - explain the functions of various financial services. - appreciate the importance of financial services."
+      ],
+      "activities": [
+        "What services are offered by different financial institutions in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, photographs, pictures KLB Pre-Tech Studies Grade 9 P.B pg. 165"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - read the case study on  Mrembo  and Baraka's experience with financial institutions. - discuss the financial institutions mentioned in the case study. - discuss the services offered by the financial institutions mentioned in the case study."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Analyzing services offered by financial institutions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - analyze different financial services offered by various institutions. - compare services offered by different financial institutions. - value the importance of comparing financial services before use."
+      ],
+      "activities": [
+        "How do services differ across various financial institutions?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, photographs, pictures KLB Pre-Tech Studies Grade 9 P.B pg. 166"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - use print or digital media to search for more information on other services offered by financial institutions. - share findings with the class. - summarize points on the services offered by financial institutions in Kenya."
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Financial Services - Utilizing financial services for entrepreneurial development",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain how entrepreneurs can utilize financial services. - identify benefits of financial services to entrepreneurs. - value the role of financial services in business growth."
+      ],
+      "activities": [
+        "How can entrepreneurs utilize financial services for business development?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, financial institution KLB Pre-Tech Studies Grade 9 P.B pg. 167 P.B pg. 168"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the importance of financial services to an entrepreneur. - visit a financial institution in the locality and observe various financial services. - participate in role play as employees and  customers in a modeled financial institution."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Explaining reasons for government involvement in business",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of government involvement in business. - identify reasons for government involvement in business. - appreciate the role of government in regulating business activities."
+      ],
+      "activities": [
+        "Why does the government get involved in business activities?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, photographs, pictures KLB Pre-Tech Studies Grade 9 P.B pg. 169"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the meaning of the expression 'government involvement in business'. - study the information on reasons for government involvement in business. - discuss the reasons for government involvement in business as shown in the figure."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Explaining reasons for government involvement in business",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - analyze various reasons for government intervention in business. - explain the benefits of government involvement in business. - value the regulatory role of government in business."
+      ],
+      "activities": [
+        "How does government involvement benefit businesses and consumers?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, photographs, pictures KLB Pre-Tech Studies Grade 9 P.B pg. 171"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - use print or digital media to search for more information on other reasons for government involvement in business. - share findings with the class. - summarize points on the reasons for government involvement in business."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Describing ways of government involvement in business",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - identify different ways government involves itself in business. - describe how government regulates business activities. - appreciate the balance between government regulation and free enterprise."
+      ],
+      "activities": [
+        "In what ways does the government involve itself in business activities?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, resource person KLB Pre-Tech Studies Grade 9 P.B pg. 172"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - engage a resource person on ways of government involvement in business. - discuss the responses given by the resource person. - discuss other ways of government involvement in business."
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Describing ways of government involvement in business",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain various government interventions in business. - analyze the impact of government policies on business operations. - value the importance of government involvement in promoting fair business practices."
+      ],
+      "activities": [
+        "How do government interventions affect business operations?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, resource person KLB Pre-Tech Studies Grade 9 P.B pg. 173"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - continue discussing ways of government involvement in business. - analyze how different government interventions affect business operations. - summarize points on ways of government involvement in business in Kenya."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Exploring types of taxes in Kenya",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of tax. - identify reasons for paying taxes. - appreciate the importance of tax compliance."
+      ],
+      "activities": [
+        "What types of taxes are collected in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, businesses in locality KLB Pre-Tech Studies Grade 9 P.B pg. 174"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the meaning of the term 'tax'. - use print and digital media to search for information on the importance of paying taxes. - visit a business in the locality to learn about taxes paid."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Exploring types of taxes in Kenya",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - identify different types of taxes in Kenya. - explain the purpose of various tax types. - value the role of taxes in national development."
+      ],
+      "activities": [
+        "How do different types of taxes serve various economic purposes?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, businesses in locality KLB Pre-Tech Studies Grade 9 P.B pg. 176"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - engage with workers on the types of taxes they pay. - discuss the responses given by the workers. - discuss other types of taxes in Kenya. - summarize points on the types of taxes in Kenya."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Analyzing e-Government  services in business",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of e-government services. - identify e-government services available for businesses. - appreciate the role of technology in government service delivery."
+      ],
+      "activities": [
+        "What e-Government services are available for  businesses in Kenya?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference  materials, e-government platforms KLB Pre-Tech Studies Grade 9 P.B pg. 177"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral  questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the meaning of expression 'e-government services'. - read the case study on  use of e-government services. - analyze the case study to identify the highlighted e-government services in business."
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Analyzing e-Government services in business",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - analyze various e-government services for businesses. - demonstrate use of e-government platforms. - value the convenience of e-government services."
+      ],
+      "activities": [
+        "How have e-Government services improved business operations?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, e-government platforms KLB Pre-Tech Studies Grade 9 P.B pg. 178"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - use a digital device to search for information on other e-government services in business. -  where  possible, explore an e-government platform. - summarize points on e-government services in business."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Government and Business - Acknowledging the need to comply with government regulations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of compliance with government regulations. - identify the importance of complying with government regulations. - appreciate the value of regulatory compliance in business."
+      ],
+      "activities": [
+        "Why is it important for businesses to comply with government regulations?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, business regulations KLB Pre-Tech Studies Grade 9 P.B pg. 179"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the meaning of the expression 'complying with government regulations in business'. - discuss reasons for complying with government regulations in business. - summarize points on the need to comply with government regulations in business."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Explaining the importance of a business plan",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of a business plan. - identify the importance of a business plan. - appreciate the role of planning in business success."
+      ],
+      "activities": [
+        "Why is a business plan important to an entrepreneur?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, resource person KLB Pre-Tech  Studies Grade 9 P.B pg. 180"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - discuss the meaning of the term 'business plan'. - engage a resource person on the importance of a business plan in entrepreneurship. - discuss the responses  given by the resource person."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Explaining the importance of a business plan",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - analyze the benefits of a business plan to entrepreneurs. - explain how a business plan guides business operations. - value the role of planning in entrepreneurial success."
+      ],
+      "activities": [
+        "How does a business plan contribute to entrepreneurial success?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, resource person KLB Pre-Tech Studies Grade 9 P.B pg. 181"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - use print or digital media to search for more information on the importance of a business plan. - share findings with the class. - summarize points on the importance of a business plan in entrepreneurship."
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Describing the components of a business plan",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - identify the components of a business plan. - explain the purpose of each component. - appreciate the comprehensive nature of a business plan."
+      ],
+      "activities": [
+        "What components make up a comprehensive business plan?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, sample business plans KLB Pre-Tech Studies Grade 9 P.B pg. 182"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - read the case study on  Waridi's  business plan. - discuss the components of a business plan as highlighted in the case study. - analyze how each component contributes to the overall effectiveness of the business plan."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Describing the components of a business plan",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the details required in each component of a business plan. - analyze the relationships between different components. - value the importance of thorough planning in business."
+      ],
+      "activities": [
+        "How do the components of a business plan relate to each other?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, sample business plans KLB Pre-Tech Studies Grade 9 P.B pg. 183"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - use print or digital media to search for more information on the components of a business plan. -  present  findings to classmates. - summarize points on the components of a business plan."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Filling in a  business plan template",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain the meaning of a business plan template. - identify various sections of a business plan template. - appreciate the value of using templates in business planning."
+      ],
+      "activities": [
+        "How is a business plan template  structured and filled?"
+      ],
+      "resources": [
+        "Digital resources, relevant  textbooks and reference materials, business plan templates KLB Pre-Tech Studies Grade 9 P.B pg. 184"
+      ],
+      "assessment": "Assignments, self and peer assessment,  oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - brainstorm on the meaning of a business  plan template. - use print or digital media to search for information on business plan templates. - draw a business plan template in their notebooks."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Filling in a business plan template",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - fill in a business plan template with appropriate information. - develop a basic business plan for a business idea. - value the practical application of business planning."
+      ],
+      "activities": [
+        "How is information organized and presented in a business plan?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, business plan templates KLB Pre-Tech Studies Grade 9 P.B pg. 184"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - complete the business plan template by filling in the required information. - display the completed business plan for peers to see. - provide and receive feedback on completed business plans."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "ENTREPRENEURSHIP",
+      "subStrand": "Business Plan - Embracing the use of a business plan",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to : - explain how a business plan guides entrepreneurial activities. - demonstrate the use of a business plan in business decision-making. -  value  the continuous use of business plans in business operations."
+      ],
+      "activities": [
+        "How can entrepreneurs effectively use business plans in their operations?"
+      ],
+      "resources": [
+        "Digital resources, relevant textbooks and reference materials, business plan templates KLB Pre-Tech Studies Grade 9 P.B pg. 185"
+      ],
+      "assessment": "Assignments, self and peer assessment, oral questions, observation",
+      "inquiryQuestion": "The learner is guided to : - prepare a speech on the need for a business plan in entrepreneurship. - read the speech during a school forum. - make copies of a sample business plan template and assist entrepreneurs within their locality to fill in."
+    },
+    {
+      "week": 8,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "END TERM ASSESSMENT AND CLOSING",
+      "inquiryQuestion": ""
+    }
+  ]
+}

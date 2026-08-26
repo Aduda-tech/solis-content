@@ -1,0 +1,100 @@
+{
+  "path": "schemes-of-work/Grade 8/CRE SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 8,
+  "term": 3,
+  "subject": "CRE SCHEMES",
+  "weeks": 7,
+  "lessons": 6,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "CHRISTIA N  LIVING Sacredness   Of  life",
+      "subStrand": "Meaning of sacredness of life as guide by the Bible",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to:  Explain  the meaning of sacredness of life as guided by the  Bible,  Sings  songs on the sacredness of  Life  Desire  to uphold the sacredness of life in day-to-day life."
+      ],
+      "activities": [
+        "The  learner is guided to:  Brainstorm  on the meaning of sacredness of life"
+      ],
+      "resources": [
+        "Pictures, audio visual resources,   Mentor CRE. Grd 8  T.G. Pg.55-56  Mentor CRE. Grd 8  P.B. Pg.103-105"
+      ],
+      "assessment": "Question and answer, discussions",
+      "inquiryQuestion": "How is the  Right  to life violated?    What is the meaning of sacredness of life?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Bullying",
+      "subStrand": "Causes of bullying in schools",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to:  Identify  causes of bullying at school,  Analyze  the cause of bullying at school.  Develop curiosity in limiting the causes of bullying."
+      ],
+      "activities": [
+        "The learner is guided to:  Brainstorm  on the meaning and forms of bullying share experiences of when they were bullied and the negative effects it had on them  In  grou ps discuss why young people  Bully /dislike others"
+      ],
+      "resources": [
+        "Good news bible, Pictures, Hymn books, Posters,  Charts , bible story books  Mentor CRE. Grd 8  T.G. Pg.59   Mentor CRE. Grd 8  P.B. Pg.111-113"
+      ],
+      "assessment": "Test,  Observation, Project, portfolio",
+      "inquiryQuestion": "What are the causes of bullying?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "REVISION EXERCISE/TEST",
+      "inquiryQuestion": ""
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Work",
+      "subStrand": "Talents and abilities – God given  talents, gifts and abilities",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to:  identify his/her God given talents, gifts and abilities,  Analyze the God given talents and abilities.  Appreciate the importance of talents and abilities."
+      ],
+      "activities": [
+        "The learner is guided to:  brainstorm what they enjoy doing  while at home, school and in the community  in pairs share experiences of the talents, gifts and unique abilities they possess  showcase the gifts, abilities, talents that they possess (for example;  they can roleplay, dramatize a play or Bible story, draw, sing, paint, compose and recite poems)"
+      ],
+      "resources": [
+        "Good news bible, Pictures, Hymn books, Posters,  charts, bible story books  Mentor CRE.  Grd 8  T.G. Pg.62   Mentor CRE. Grd 8  P.B. Pg.118-119"
+      ],
+      "assessment": "Test,  Observation, Project, portfolio",
+      "inquiryQuestion": "How do you  discover your talents, gifts and abilities?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "COMMUNITY SERVICE-LEARNING PROJECT",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": ""
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Leisure",
+      "subStrand": "Ways of using leisure time",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to:  outline ways in which they use their free time,  Examine the ways in which youths utilize their leisure time.  apply lessons learnt by using leisure time responsibly."
+      ],
+      "activities": [
+        "The learner is guided to:  brainstorm on the meaning of leisure  in pairs discuss how they use their free time"
+      ],
+      "resources": [
+        "Good news bible, Pictures, Hymn books, Posters,  charts, bible story books  Mentor CRE. Grd 8  T.G. Pg.66   Mentor CRE. Grd 8  P.B. Pg.127-129"
+      ],
+      "assessment": "Test,  Observation, Project, portfolio",
+      "inquiryQuestion": "How do you use your free time?"
+    }
+  ]
+}

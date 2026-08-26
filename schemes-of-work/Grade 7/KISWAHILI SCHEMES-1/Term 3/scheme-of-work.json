@@ -1,0 +1,293 @@
+{
+  "path": "schemes-of-work/Grade 7/KISWAHILI SCHEMES-1/Term 3/scheme-of-work.json",
+  "grade": 7,
+  "term": 3,
+  "subject": "KISWAHILI SCHEMES-1",
+  "weeks": 8,
+  "lessons": 17,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "MAGONJWA YANAYOAMBUKIZWA",
+      "subStrand": "Kusikiliza na Kuzungumza  Kusikiliza kwa Makini",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua hoja muhimu katika habari aliyosikiliza b) kuwasilisha hoja muhimu katika habari c) Kujenga mazoea ya kutambua hoja katika habari anayosikiliza ili kuimarisha usikilizaji wa makini."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kutambua hoja muhimu katika habari aliyosikiliza kuhusu suala lengwa akiwa peke yake, wawiliwawili au katika kikundi ● kusikiliza habari kuhusu suala lengwa na kutaja hoja muhimu kwa maneno machache ● kutafiti mtandaoni kuhusu suala lengwa na kuwawasilishia wenzake hoja muhimu kuhusu suala hilo kwa maneno machache ● Kumsomea mzazi au mlezi habari kuhusu suala lengwa na kushirikiana kutambua hoja."
+      ],
+      "resources": [
+        "Vifaa vya kidijitali, KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.167-169 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.129-130"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Kwa nini ni muhimu kutambua hoja katika habari uliyosikiliza?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufasaha",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kusoma kifungu kwa kuzingatia matamshi bora b) kusoma kifungu kwa kasi ifaayo c) Kuridhia kusoma makala kwa kuzingatia vipengele vinavyofanikisha mawasiliano."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kujadiliana na wenzake vipengele vya kuzingatia katika kusoma makala kwa ufasaha ● kutazama vielelezo vya video za watu wanaosoma kwa ufasaha makala (k.v hotuba, habari, n.k.) akiwa peke yake au na wenzake ● kusoma kifungu kuhusu suala lengwa katika matini andishi au ya kidijitali akizingatia matamshi bora akiwa peke yake au katika kikundi"
+      ],
+      "resources": [
+        "Makala KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.170-172 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.130-131"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Unazingatia nini ili kusoma makala kwa ufasaha?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Hotuba ya Kupasha Habari",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kueleza maana ya hotuba ya kupasha habari b) kutambua hotuba ya kupasha habari katika matini c) Kuchangamkia nafasi ya hotuba ya kupasha habari katika mawasiliano."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kueleza maana ya hotuba ya kupasha habari akiwa peke yake, wawiliwawili au katika kikundi ● kujadiliana na wenzake kuhusu ujumbe (unaolenga kuelimisha kundi lengwa), lugha (nyepesi inayoeleweka) na muundo ufaao wa hotuba ya kupasha habari"
+      ],
+      "resources": [
+        "Kielelezo cha hotuba ya kupasha habari KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.172-174 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.131-133"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Ni mambo yepi ambayo yanaweza kuelezwa kupitia kwa hotuba?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Aina za Sentensi",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kueleza maana ya sentensi sahili na ambatano b) kutambua sentensi sahili na ambatano katika matini c) Kuchangamkia matumizi ya sentensi sahili na ambatano katika mawasiliano."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kueleza maana ya sentensi sahili na ambatano akiwa peke yake, wawiliwawili au katika kikundi ● kutenga sentensi sahili na ambatano katika orodha ya sentensi kwenye vitabu, chati au tarakilishi kwa kuzipigia mstari au kuzikolezea wino akiwa peke yake au katika kikundi ● kutaja sentensi sahili na ambatano zinazojitokeza katika vifungu akiwa na wenzake katika kikundi"
+      ],
+      "resources": [
+        "Chati ya aina za sentensi KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.175-178 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.133-136"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "1. Ni aina gani ya sentensi unazozijua?  2. Je, sentensi sahili na ambatano hutofautianaje?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "UTATUZI WA MIZOZO",
+      "subStrand": "Kusikiliza na Kuzungumza  Wahusika katika Nyimbo",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua wahusika katika wimbo b) kuchambua wahusika katika wimbo c) Kufurahia kushiriki katika uchanganuzi wa wahusika katika nyimbo."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kutambua wahusika katika wimbo anaosikiliza au kuimba na wenzake katika kikundi (k.v mwimbaji, hadhira na wahusika wengine kwenye wimbo) ● kuchambua akiwa na wenzake wahusika katika wimbo anaosikiliza au kuimba"
+      ],
+      "resources": [
+        "Nyimbo zilizorekodiwa KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.179-181 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.137-139"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Je, ni wahusika gani katika wimbo unaowajua?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Kina  Mbinu za Lugha",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kueleza maana ya mbinu za lugha katika fasihi b) kutambua mbinu za lugha katika novela c) Kufurahia kuchanganua matumizi ya mbinu za lugha katika fasihi."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kueleza maana ya mbinu za lugha katika fasihi akiwa peke yake, wawiliwawili au katika kikundi ● kutambua mbinu za lugha (k.v. tashbihi, sitiari, nahau, methali, tasfida, tanakali za sauti n.k.) katika novela iliyoteuliwa na mwalimu akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Novela KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.182-185 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.139-141"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Mbinu za lugha zina umuhimu gani zinapotumiwa katika kifungu?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni  Maelezo",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua mambo ya kimsingi katika uandishi wa insha ya maelezo b) kuandika insha ya maelezo inayodhihirisha sifa za mtu c) Kuchangamkia kutoa maelezo kamilifu kuhusu kitu au jambo."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: • kutambua dhana ya insha ya maelezo akiwa peke yake au katika kikundi • kutambua mambo ya kimsingi katika uandishi wa insha ya maelezo akiwa na wenzake katika kikundi • kujadiliana na wenzake kuhusu mada ya insha ya maelezo"
+      ],
+      "resources": [
+        "Kielelezo cha insha ya maelezo KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.186-188 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.141-142"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "1. Je, insha ya maelezo inahusu nini?  2. Je, ni vigezo vipi vinatumika katika kuandika insha ya maelezo?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Ukanushaji kwa Kuzingatia Nyakati",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kueleza maana ya ukanushaji b) kutambua nyakati katika matini c) Kuchangamkia kukanusha sentensi katika wakati uliopita, uliopo na ujao ili kukuza mawasiliano."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kueleza maana ya ukanushaji akiwa peke yake, wawiliwawili au katika kikundi ● kutambua nyakati tatu tofauti (uliopita, uliopo, ujao) kutoka kwenye chati, mti maneno, vitabu au vifaa vya kidijitali akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Chati kuhusu ukanushaji KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.189-194 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.142-146"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Tunakanusha sentensi kwa kuzingatia nyakati gani?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "MATUMIZI YA PESA",
+      "subStrand": "Kusikiliza na Kuzungumza  Lugha katika Nyimbo",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua vipengele vya lugha vinavyotumika katika nyimbo b) kujadili umuhimu wa vipengele vya lugha vinavyotumika katika nyimbo teule c) Kuonea fahari uchanganuzi wa lugha katika nyimbo kama utungo wa fasihi simulizi."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kutambua vipengele vya lugha (k.v urudiaji, nahau, methali, maneno yasiyokuwa na maana n.k.) kwa kusikiliza nyimbo kuhusu suala lengwa kutoka kwa mwalimu, kwenye maandishi (k.v vitabu, chati n.k) au vifaa vya kidijitali, akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Nyimbo zilizorekodiwa, picha KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.195-197 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.147-149"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "1. Nyimbo hutumia vipengele gani vya lugha?  2. Kutumia vipengele mbalimbali vya lugha katika wimbo kuna umuhimu gani?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Ufahamu wa Kifungu cha Mjadala",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kudondoa habari mahususi katika kifungu cha mjadala b) kutambua msamiati mpya katika kifungu cha mjadala c) Kuridhia kusoma kwa ufahamu ili kukuza uelewa wa habari."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kudondoa habari mahususi (k.v. nani, nini, wapi, lini) katika kifungu cha mjadala cha ufahamu akiwa peke yake,wawiliwawili au katika kikundi ● kutambua msamiati mpya (k.v. maneno na nahau) kuhusu suala lengwa katika kifungu cha mjadala na kuueleza kwa kutumia kamusi akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Picha KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.198-200 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.149-152"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "1. Kwa nini tunasoma ufahamu?  2. Je, ni mambo gani yanayoweza kukusaidia kuelewa kifungu cha ufahamu?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Insha ya Maelekezo",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua aina za insha za maelekezo b) kujadili sifa za insha ya maelekezo c) Kufurahia kutoa maelekezo ifaavyo katika maisha ya kila siku akizingatia anwani na mpangilio ufaao wa hatua."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kubainisha sifa za insha ya maelekezo kwa kuzingatia vielelezo vya insha kwenye matini za kimaandishi au za kidijitali (k.v usahihi wa habari, mpangilio wa maelezo wenye mantiki, lugha sahili, maelezo yanayotoka upande mmoja, n.k) ● kujadili na wenzake aina za insha za maelekezo ● kushiriki katika kikundi kujadili mpangilio ufaao wa hatua za kuelekeza"
+      ],
+      "resources": [
+        "Kielelezo cha insha ya maelekezo KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.201-203 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.152-154"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Unataka kumwelekeza rafiki yako nyumbani kwenu. Utatumia mpangilio gani wa hatua ili asipotee njia?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Ukubwa wa Nomino",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua nomino katika hali ya ukubwa katika matini b) kutambua viambishi vya ukubwa katika nomino c) Kuchangamkia kutumia nomino katika hali ya ukubwa katika sentensi."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kutambua nomino katika hali ya ukubwa (k.v. jitu, joka, jiji, kapu, goma, jisu, jishamba, n.k.) kwenye orodha ya nomino, chati, kadi maneno, kapu maneno, sentensi, vifungu vya maneno au tarakilishi akiwa peke yake, wawiliwawili au katika kikundi ● kutambua viambishi vya ukubwa katika maneno akiwa peke yake au katika kikundi"
+      ],
+      "resources": [
+        "Chati kuhusu ukubwa wa nomino KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.204-206 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.154-158"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Unazingatia nini unapoandika nomino katika ukubwa?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "MAADILI YA MTU BINAFSI",
+      "subStrand": "Kusikiliza na Kuzungumza  15.1.1Kusikiliza Habari na Kujibu",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua masuala katika matini aliyosikiliza b) kutambua msamiati wa suala lengwa katika matini aliyosikiliza c) kuchangamkia kushiriki katika kusikiliza kwa ufahamu ili kukuza stadi  ya kusikiliza."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kutambua masuala yanayoshughulikiwa katika matini kuhusu suala lengwa aliyosikiliza akiwa peke yake au katika kikundi ● kutambua msamiati wa suala lengwa uliotumiwa katika matini alizosikiliza kutoka kwenye kifaa cha kidijitali, kutoka kwa mwalimu au mgeni mwalikwa akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Vifaa vya kidijitali KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.207-210 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.159-160"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Je, ni mambo gani yanayokuelekeza kufasiri suala muhimu katika habari unayosikiliza?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Ufupisho",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kueleza kwa usahihi ujumbe wa aya za matini kwa sentensi mojamoja b) kueleza kwa usahihi ujumbe wa aya zote za matini kwa aya moja c) Kufurahia kufupisha ujumbe kwa usahihi katika miktadha mbalimbali."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: • kueleza kwa usahihi ujumbe katika kila aya kwa kutumia sentensi mojamoja akiwa peke yake, wawiliwawili au katika kikundi • kueleza kwa usahihi ujumbe wa aya zote za matini kwa aya moja akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Makala ya kufupisha KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.211-212 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.160-162"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "Ni mambo gani yanayokusaidia kuandika ufupisho?"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Kuandika Kidijitali  Baruapepe",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kutambua ujumbe unaoafiki baruapepe kwa rafiki b) kutambua vipengele vya kimuundo vya baruapepe kwa rafiki c) Kujenga mazoea ya kuwasiliana kuandika kwa baruapepe kwa rafiki."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kutambua ujumbe unaoafiki baruapepe kwa rafiki kwa kujadiliana na mwenzake ● kujadili vipengele vya kimuundo vya baruapepe kwa rafiki akiwa peke yake, wawiliwawili au katika kikundi ● kushiriki katika kujadili na wenzake kuhusu lugha inayofaa katika uandishi wa baruapepe kwa rafiki ● kuandika baruapepe kwa rafiki kwenye tarakilishi na kumsambazia mwenzake kupitia mtandao ili aitolee maoni"
+      ],
+      "resources": [
+        "Vifaa vya kidijitali, kielelezo cha baruapepe KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.213-215 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.162-164"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "1. Je, ni mambo gani yanayoweza kukufanya uandike baruapepe kwa rafiki?  2. Je, utazingatia nini unapoandika barua pepe kwa rafiki yako?"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Usemi Halisi na Usemi wa Taarifa",
+      "objectives": [
+        "Kufikia mwisho wa kipindi, mwanafunzi aweze: a) kueleza maana za usemi halisi na usemi wa taarifa b) kutambua kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa c) Kuchangamkia matumizi ya usemi halisi na usemi wa taarifa katika mawasiliano."
+      ],
+      "activities": [
+        "Mwanafunzi aelekezwe: ● kueleza maana za usemi halisi na usemi wa taarifa akiwa peke yake, wawiliwawili au katika kikundi ● kutambua kanuni za kimsingi za kubadilisha usemi halisi kuwa usemi wa taarifa (k.v leo kuwa siku hiyo, kwetu kuwa kwao, hapa kuwa hapo, kiambishi ‘ta’ cha wakati kuwa ‘nge’ n.k.) akiwa peke yake, wawiliwawili au katika kikundi"
+      ],
+      "resources": [
+        "Chati kuhusu usemi halisi na usemi taarifa KLB Top Scholar Kisw. Mwongozo wa mwalimu Uk.216-218 KLB Top Scholar Kisw. Ktb cha Wanafunzi Uk.164-167"
+      ],
+      "assessment": "Tafakuri, maswali na majibu, kusoma, kutunga sentensi",
+      "inquiryQuestion": "1. Ni kwa usemi gani tunaweza kuwasilisha ujumbe?  2. Je, ni mambo gani unayazingatia wakati wa kubadilisha usemi halisi kuwa usemi wa taarifa?"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "END TERM ASSESSMENT AND CLOSSING",
+      "inquiryQuestion": ""
+    }
+  ]
+}

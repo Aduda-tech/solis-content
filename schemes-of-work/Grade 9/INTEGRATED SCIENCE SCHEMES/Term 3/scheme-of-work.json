@@ -1,0 +1,701 @@
+{
+  "path": "schemes-of-work/Grade 9/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 9,
+  "term": 3,
+  "subject": "INTEGRATED SCIENCE SCHEMES",
+  "weeks": 8,
+  "lessons": 41,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Parts of a flower Reproduction in plants - Functions of flower parts",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Observe and identify parts of a flower - Draw and label parts of a flower - Appreciate the structure of a flower"
+      ],
+      "activities": [
+        "What are the different parts of a flower?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 71 - Flower specimens - Hand lens - Chart showing flower parts - Oxford Integrated Science pg. 72 - Charts showing flower parts"
+      ],
+      "assessment": "- Observation - Drawings - Oral questions",
+      "inquiryQuestion": "- Observe different parts of a flower - Use chart to identify flower parts - Cut flower longitudinally to observe ovules - Draw and label flower parts"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Types of pollination",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Differentiate between self and cross-pollination - Discuss characteristics of each type - Appreciate the diversity in pollination"
+      ],
+      "activities": [
+        "What are the different types of pollination?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 73 - Charts showing pollination - Digital resources"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Study charts showing types of pollination - Discuss differences between self and cross-pollination - Identify examples of each type"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Adaptations to insect pollination",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Identify adaptations of flowers to insect pollination - Explain how these adaptations aid pollination - Show interest in plant-insect interactions"
+      ],
+      "activities": [
+        "How are flowers adapted to insect pollination?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 74 - Insect-pollinated flowers - Hand lens - Charts"
+      ],
+      "assessment": "- Observation - Drawings - Oral questions - Written report",
+      "inquiryQuestion": "- Collect insect-pollinated flowers - Observe and identify adaptations - Dissect flowers to examine adaptations - Draw and label insect-pollinated flowers"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Living Things and  their Environment",
+      "subStrand": "Reproduction in plants -  Adaptations to wind pollination Reproduction in plants - Effects of agrochemicals on pollination",
+      "objectives": [
+        "By the end of the lesson,  the learner  should be able to: - Identify adaptations of flowers to wind pollination - Explain how these adaptations aid pollination - Compare wind and insect pollination adaptations"
+      ],
+      "activities": [
+        "How are flowers adapted  to wind pollination?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 75 - Wind-pollinated flowers (grass) - Charts showing wind pollination - Hand lens - Oxford Integrated Science pg. 76 - Science textbooks - Magazines - Digital resources"
+      ],
+      "assessment": "- Observation - Drawings -  Oral questions - Written report",
+      "inquiryQuestion": "- Collect wind-pollinated flowers - Observe and identify adaptations - Draw and label wind-pollinated flowers - Compare with insect-pollinated flowers"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Fertilization in flowering plants",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Describe fertilization in flowering plants - Explain the process of pollen tube growth - Appreciate the complexity of fertilization"
+      ],
+      "activities": [
+        "How does fertilization occur in flowering plants?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 77 - Charts showing fertilization - Digital resources"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Read and discuss fertilization process - Explain pollen tube growth and gamete fusion - Describe steps from pollination to fertilization"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Seed and fruit formation",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Describe fruit formation in flowering plants - Explain changes in flower parts after fertilization - Show interest in seed and fruit development"
+      ],
+      "activities": [
+        "How are seeds and fruits formed?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 78 - Charts showing fruit development - Fruit specimens - Digital resources"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Use textbooks to research seed/fruit formation - Study charts showing post-fertilization changes - Discuss development of ovules into seeds and ovary into fruit"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Fruit and seed dispersal Reproduction in plants - Importance of  fruit and seed dispersal",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Categorize fruits and seeds based on dispersal methods - Identify adaptive  features for dispersal - Appreciate adaptations for survival"
+      ],
+      "activities": [
+        "How are fruits and seeds adapted for dispersal?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 80 - Various fruits and seeds - Charts showing dispersal methods - Oxford Integrated  Science pg. 82 - Plants in school compound - Pictures of seedling distribution"
+      ],
+      "assessment": "- Observation - Classification activities - Oral questions -  Written report",
+      "inquiryQuestion": "- Collect different fruits and seeds - Identify adaptive features for dispersal - Group fruits and seeds by dispersal method - Study photographs of dispersal adaptations"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Role of flowers in nature",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Discuss the role of flowers in nature - Explain ecological importance of flowers - Appreciate the significance of flowers"
+      ],
+      "activities": [
+        "What is the role of flowers in nature?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 83 - Digital resources - Flower specimens"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group presentations",
+      "inquiryQuestion": "- Read and discuss roles of flowers in nature - Discuss flower roles in reproduction and ecology - List benefits of flowers to humans and animals"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants - Assessment The interdependence of life - Biotic components",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Attempt questions on reproduction in plants - Apply knowledge to explain plant reproduction - Show confidence in their understanding"
+      ],
+      "activities": [
+        "How does understanding plant reproduction help explain biodiversity?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 84 - Assessment questions - Previous notes - Oxford Integrated Science pg. 91 - School compound - Digital resources"
+      ],
+      "assessment": "- Written test - Peer assessment - Oral questions",
+      "inquiryQuestion": "- Answer assessment questions on plant reproduction - Discuss solutions to questions - Review key concepts"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Interrelationships between biotic components",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Identify interrelationships between biotic components - Discuss competition, predation and parasitism - Appreciate the complexity of interrelationships"
+      ],
+      "activities": [
+        "How do living things interact with one another?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 92 - English dictionary - Digital resources - Photographs of interactions"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Study scenarios showing different interactions - Identify types of interactions in photographs - Discuss effects of interactions on organisms"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Effects of biotic factors",
+      "objectives": [
+        "By the end of the lesson, the learne r should be able to: - Explain effects of biotic factors on organisms - Discuss parasitism, competition, predation and symbiosis - Show interest in ecological relationships"
+      ],
+      "activities": [
+        "How do biotic factors affect living organisms?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 94 - Science textbooks - Digital resources"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group presentations",
+      "inquiryQuestion": "- Read and discuss effects of biotic factors - Explain how different relationships affect organisms - Present findings to class"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Abiotic components The interdependence of life - Energy flow (Food chains)",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Identify abiotic components of the environment - Discuss effects of abiotic factors on living things - Appreciate the role of abiotic factors"
+      ],
+      "activities": [
+        "How do non-living factors affect living organisms?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 96 - Digital resources - Photographs of plants in different environments - Oxford Integrated Science pg. 99 - School neighborhood - Charts showing food chains"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Discuss effects of temperature, light, pH and minerals - Study photographs of plants in different environments - Compare plant growth under different conditions"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Energy flow (Food webs)",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Construct simple food webs - Link food chains to form a food web - Appreciate the complexity of energy flow"
+      ],
+      "activities": [
+        "How are food chains interconnected in an ecosystem?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 100 - Charts showing food webs - Digital resources"
+      ],
+      "assessment": "- Drawings - Written exercises - Oral questions",
+      "inquiryQuestion": "- Read story about feeding relationships - Identify organisms at different trophic levels - Construct multiple food chains - Link food chains to form a web"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Role of decomposers",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Discuss the role of  decomposers in an ecosystem - Explain how decomposers clean up the ecosystem - Show interest in decomposition"
+      ],
+      "activities": [
+        "What is the role of decomposers in an ecosystem?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 102 - Pictures of  decomposition - Digital resources"
+      ],
+      "assessment": "- Oral questions - Written exercises -  Group discussions",
+      "inquiryQuestion": "- Study pictures of decomposition - Identify organisms growing on a tree  stump - Discuss the role of decomposers - Explain importance of decomposition"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Recycling nutrients The interdependence of life - Effects of human activities",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Discuss importance of decomposers in recycling nutrients - Explain how nutrients are recycled - Appreciate the role of recycling in ecosystems"
+      ],
+      "activities": [
+        "How do decomposers help in recycling nutrients?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 102 - Chart showing nutrient recycling - Science textbooks - Oxford Integrated Science pg. 103 - Charts showing human activities - Photographs - Digital resources"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group presentations",
+      "inquiryQuestion": "- Study nutrient recycling cycles - Identify producers, consumers and decomposers - Explain how nutrients return to the soil - Discuss role of decomposers in element cycles"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Effects of human activities on environment",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Describe effects of human activities on environment - Explain impact of deforestation, hunting, and pollution - Show concern for environmental conservation"
+      ],
+      "activities": [
+        "How do human activities impact biodiversity?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 104 - Digital resources - Science textbooks - Journals"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group presentations",
+      "inquiryQuestion": "- Brainstorm effects of human activities - Research information on environmental impact - Present findings to class - Discuss solutions to environmental problems"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life - Importance of interdependence The interdependence  of life - Assessment",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Discuss importance of interdependence - Explain benefits of living and non-living interactions - Appreciate the significance of interdependence"
+      ],
+      "activities": [
+        "Why is the interdependence between living and non-living components important?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 105 - Digital resources - Science textbooks - Oxford Integrated Science pg. 107 - Assessment  questions - Previous notes"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group presentations",
+      "inquiryQuestion": "- Read conversation about interdependence - Identify importance of living and non-living interactions - Discuss benefits of interdependence - Present findings to class"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Force and Energy",
+      "subStrand": "Curved mirrors - Types of curved mirrors",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Identify different types of curved mirrors - Differentiate between concave, convex and parabolic mirrors - Show interest in curved mirrors"
+      ],
+      "activities": [
+        "How are curved mirrors used in day-to-day life?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 111 - Orange, aluminum foil, knife - Concave and convex mirrors"
+      ],
+      "assessment": "- Observation - Oral questions - Practical skills assessment",
+      "inquiryQuestion": "- Cut out an orange section as instructed - Make reflecting surfaces using aluminum foil - Compare reflecting surfaces with concave and convex mirrors - Discuss types of curved mirrors"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Force and Energy",
+      "subStrand": "Curved mirrors - Terms associated with curved mirrors",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Explain terms associated with curved mirrors - Identify center of curvature, pole, radius of curvature - Show interest in understanding key terms"
+      ],
+      "activities": [
+        "How  are curved mirrors  described using technical terms?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 113 - Concave and convex mirrors - Charts with illustrations"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Study charts showing curved reflectors - Identify key features on mirrors - Discuss meanings of terms such as center of curvature, pole, principal axis, and radius of curvature"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Force and Energy",
+      "subStrand": "Curved mirrors - Principal focus and focal length Curved mirrors - Focal length of a concave mirror",
+      "objectives": [
+        "By the end of the lesson, the  learner should be able to: - Explain the meaning of principal focus and focal length - Identify focal plane - Appreciate the relationship between radius and focal length"
+      ],
+      "activities": [
+        "What is the relationship between the focal length and radius of curvature?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 114 - Concave and convex mirrors - Charts on curved mirrors - Oxford Integrated Science pg. 115 - Concave mirror - Mirror holder - Screen - Meter rule"
+      ],
+      "assessment": "- Oral questions - Written exercises - Group discussions",
+      "inquiryQuestion": "- Study diagrams showing principal focus - Discuss how parallel rays are reflected - Investigate how concave and convex mirrors reflect light differently"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Force and Energy",
+      "subStrand": "Images formed by concave and convex mirrors - Using a screen",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Locate images formed by concave mirrors using a screen - Determine image positions for different object positions - Demonstrate real and virtual images"
+      ],
+      "activities": [
+        "What kinds of images are formed by concave mirrors at different positions?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 116 - Concave mirror - Mirror holder - Burning candle - Screen"
+      ],
+      "assessment": "- Observation - Practical skills - Written records - Group work",
+      "inquiryQuestion": "- Determine focal length of concave mirror - Place burning candle at different positions - Adjust screen position to see clear image - Record positions and characteristics of images"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Force and Energy",
+      "subStrand": "Images formed by concave and convex mirrors - Special rays",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Construct special rays for locating images - Draw rays for concave and convex mirrors - Appreciate geometrical constructions"
+      ],
+      "activities": [
+        "How do special rays help locate images formed by curved mirrors?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 118 - Geometrical set - Chart paper - Ruler"
+      ],
+      "assessment": "- Drawings - Accuracy of ray diagrams - Group work",
+      "inquiryQuestion": "- Draw two horizontal lines as principal axes - Mark center of curvature and draw arcs for mirrors - Draw different special rays (parallel to principal axis, through focus, through center)"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Force and Energy",
+      "subStrand": "Images formed by concave and convex mirrors - Ray diagrams (concave) Images formed by concave and convex mirrors - Ray diagrams (convex)",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Locate images using ray diagrams - Draw accurate ray diagrams for concave mirrors - Show confidence in ray diagram construction"
+      ],
+      "activities": [
+        "How can we use ray diagrams to locate images formed by concave mirrors?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 120 - Geometrical set - Chart paper - Graph paper - Oxford Integrated Science pg. 121"
+      ],
+      "assessment": "- Drawings - Accuracy of ray diagrams - Written explanations",
+      "inquiryQuestion": "- Draw principal axis and represent concave mirror - Mark object position and focus - Draw rays using special rays method - Locate image position through ray intersection"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Force and Energy",
+      "subStrand": "Images formed by concave and  convex mirrors - Graphical method",
+      "objectives": [
+        "By the end of the lesson,  the learner  should be able to: - Locate images using graphical construction - Use graph paper for accurate measurements - Appreciate the precision of graphical method"
+      ],
+      "activities": [
+        "How does graphical  construction provide more accurate image locations?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 124 - Graph paper - Geometrical set - Ruler - Calculator"
+      ],
+      "assessment": "- Accuracy of drawings -  Calculations - Written explanations",
+      "inquiryQuestion": "- Read the worked example - Draw accurately to scale on graph paper - Calculate image position and size - Verify results by measurements"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Force and Energy",
+      "subStrand": "Images formed by concave and convex mirrors - Characteristics of images Images  formed by concave and convex mirrors - Applications of concave mirrors",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Describe characteristics of images formed by curved mirrors - Use terms: erect, inverted, real, virtual, magnified, diminished - Compare images from different mirror types"
+      ],
+      "activities": [
+        "What are the characteristics of images formed by curved mirrors at different object positions?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 124 - Previous ray diagrams - Reference charts - Table templates - Oxford Integrated Science pg. 126 - Pictures of mirrors in use - Digital resources - Sample applications"
+      ],
+      "assessment": "- Oral questions - Written exercises - Completed tables",
+      "inquiryQuestion": "- Review ray diagrams from previous lessons - Identify image characteristics for different object positions - Complete table of image characteristics - Discuss findings"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Force and Energy",
+      "subStrand": "Images formed by concave and convex mirrors - Applications of convex mirrors",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Explain uses of convex mirrors in daily life - Relate mirror properties to specific applications - Appreciate the practical value of convex mirrors"
+      ],
+      "activities": [
+        "Why are convex mirrors preferred for driving and security?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 127 - Pictures of mirrors in use - Digital resources - Sample applications"
+      ],
+      "assessment": "- Oral presentations - Written explanations - Group discussions",
+      "inquiryQuestion": "- Discuss uses of convex mirrors in vehicles and security - Explain why wide field of view is important - Study images of convex mirrors in use - Complete table of curved mirror applications"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Force and Energy",
+      "subStrand": "Curved mirrors - Applications of parabolic mirrors",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Explain uses of  parabolic mirrors in daily life - Describe how parabolic reflectors work - Appreciate technological applications"
+      ],
+      "activities": [
+        "How are parabolic mirrors used in technology?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 128 - Pictures of parabolic reflectors - Digital resources - Sample applications"
+      ],
+      "assessment": "- Oral presentations - Written explanations  - Project work",
+      "inquiryQuestion": "- Discuss how parabolic mirrors focus light - Explore applications  in torches, headlights - Investigate solar concentrators - Research additional applications"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Force and Energy",
+      "subStrand": "Curved mirrors - Project work Curved mirrors - Assessment",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Identify curved mirrors in everyday life - Categorize mirrors by type and application - Show confidence in practical applications"
+      ],
+      "activities": [
+        "What curved mirrors can you identify in your environment?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 129 - Environment observations - Digital resources - Table template - Assessment questions - Graph paper - Geometrical set"
+      ],
+      "assessment": "- Project work - Presentations - Completed tables",
+      "inquiryQuestion": "- Find examples of curved mirrors in daily life - Determine if they are concave, convex or parabolic - Explain why each mirror is best for its purpose - Complete a table of curved mirror uses"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Meaning of waves",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: - Explain the meaning of waves in science - Define a wave as a disturbance - Show interest in wave phenomena"
+      ],
+      "activities": [
+        "What is a wave as used in science?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 130 - Dictionary - Science textbooks - Digital resources"
+      ],
+      "assessment": "- Oral explanations - Written definitions - Group presentations",
+      "inquiryQuestion": "- Search for meaning of 'wave' in a dictionary - Discuss meaning in scientific context - Define wave in own words - Present findings"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Generation of waves in water",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: - Demonstrate the generation of water waves - Explain how energy is transferred - Show interest in wave production"
+      ],
+      "activities": [
+        "How are waves generated in water?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 131 - Large basin with water - Stick - Visual aids"
+      ],
+      "assessment": "- Observation - Practical skills - Oral explanations",
+      "inquiryQuestion": "- Strike water surface in a basin - Observe ripples formed - Identify source of energy - Discuss energy transfer"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Generation of waves in rope and springs Waves - Classification of waves",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Generate waves using rope and springs - Observe wave patterns - Compare different wave generation methods"
+      ],
+      "activities": [
+        "How are waves generated in ropes and springs?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 132 - Rope (3m) - Slinky spring - Speaker - Paper strip - Oxford Integrated Science pg. 133 - Text resources - Charts showing wave types - Digital resources"
+      ],
+      "assessment": "- Observation - Practical skills - Drawings - Explanations",
+      "inquiryQuestion": "- Move rope up and down to create waves - Use Slinky spring to create waves - Observe speaker vibrations - Compare different wave types"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Parts of a wave",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Demonstrate the parts of a wave - Identify amplitude, wavelength, phase - Appreciate wave characteristics"
+      ],
+      "activities": [
+        "What are the parts of a wave?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 134 - Rope (3m) - Slinky spring - Meter rule"
+      ],
+      "assessment": "- Observation - Practical skills - Diagrams - Explanations",
+      "inquiryQuestion": "- Generate waves using rope - Measure amplitude at different speeds - Create longitudinal waves with Slinky spring - Identify compressed and expanded parts"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Wave terms Waves - Wave equations",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Define wave terms: amplitude, wavelength, frequency, period - Identify these properties on wave diagrams - Show interest in wave physics"
+      ],
+      "activities": [
+        "How are the parts of a wave measured and described?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 136 - Charts showing wave diagrams - Tables of wave terms - Digital resources - Wave equation reference - Calculator - Problem sets"
+      ],
+      "assessment": "- Oral explanations - Written definitions - Diagrams - Quizzes",
+      "inquiryQuestion": "- Study diagrams showing wave parts - Identify amplitude, wavelength on diagrams - Discuss meaning of frequency and period - Identify points in phase on a wave"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Straight line motion",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Demonstrate that waves travel in straight lines - Set up experiments to show straight line propagation - Apply knowledge to real situations"
+      ],
+      "activities": [
+        "How can we demonstrate that waves  travel in straight lines?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 138 - Cardboards - Wooden blocks - Candle - Matches"
+      ],
+      "assessment": "- Observation - Practical skills -  Explanations - Group work",
+      "inquiryQuestion": "- Set up cardboards with holes aligned - Observe light  through holes - Displace one cardboard to block light - Explain observations"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Bending of waves",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Explain how waves bend when passing through different media - Define refraction - Relate to everyday phenomena"
+      ],
+      "activities": [
+        "How do waves behave when they pass from one medium to another?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 139 - Glass block - Water container - Light source - Diagrams"
+      ],
+      "assessment": "- Observation - Diagrams - Explanations - Written exercises",
+      "inquiryQuestion": "- Observe how light bends through glass or water - Discuss refraction at boundaries - Relate to how light travels through lenses - Draw diagrams showing refraction"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Movement around objects Waves - Remote sensing meaning",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Demonstrate movement of waves around objects - Set up experiment with pencil slit - Explain diffraction pattern"
+      ],
+      "activities": [
+        "What happens when waves encounter small openings?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 139 - Two pencils - Rubber bands - White paper - Light source - Oxford Integrated Science pg. 140 - Dictionary - Images of remote sensing - Digital resources"
+      ],
+      "assessment": "- Observation - Practical skills - Diagrams - Explanations",
+      "inquiryQuestion": "- Create slit using two pencils - Shine light through the slit - Observe pattern on white paper - Explain how light moves around edges"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Remote sensing process",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: - Describe remote sensing in relation to waves - Explain transmission  of waves in sensing - Appreciate technological applications"
+      ],
+      "activities": [
+        "How does remote sensing use waves?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 141 - Diagrams of remote sensing - Digital resources - Manila papers - Felt pens"
+      ],
+      "assessment": "- Oral presentations - Written explanations - Diagrams - Group work",
+      "inquiryQuestion": "- Read and discuss technician's notes - Identify stages of remote sensing - Discuss transmission of waves from objects - Explain role of ground stations"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Applications in communication",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Describe applications of waves in communication - Explain how different devices use waves - Show interest in wave technology"
+      ],
+      "activities": [
+        "How are waves used in communication?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 143 - Images of communication devices - Digital resources - Chart paper"
+      ],
+      "assessment": "- Oral presentations - Written explanations - Group projects",
+      "inquiryQuestion": "- Study images of communication devices - Discuss how radio, TV, phones use waves - Explain Wi-Fi and drone control - Research additional applications"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Applications in medicine Waves - Other applications",
+      "objectives": [
+        "By the end of the lesson,  the learner should be able to: - Describe applications of waves in medicine - Explain ultrasound, X-rays, MRI - Appreciate medical technology"
+      ],
+      "activities": [
+        "How are waves used in medical diagnosis and treatment?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 144 - Images of medical equipment - Digital resources - Chart paper - Oxford Integrated Science pg. 145 - Images of applications"
+      ],
+      "assessment": "- Oral presentations - Written explanations - Group projects",
+      "inquiryQuestion": "- Discuss medical imaging techniques - Explain how ultrasound creates images - Learn about X-rays, CT scans and MRIs - Research uses in cancer treatment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "5",
+      "strand": "Force and Energy",
+      "subStrand": "Waves - Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: - Answer questions on waves - Apply knowledge to solve problems - Show confidence in understanding"
+      ],
+      "activities": [
+        "How can we apply our knowledge of waves to solve problems?"
+      ],
+      "resources": [
+        "Oxford Integrated Science pg. 146 - Assessment questions - Calculator - Previous notes"
+      ],
+      "assessment": "- Written test - Calculations - Explanations",
+      "inquiryQuestion": "- Answer assessment questions - Solve wave equation problems - Explain wave characteristics - Relate to applications"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "END TERM ASSESSMENT AND CLOSING",
+      "inquiryQuestion": ""
+    }
+  ]
+}

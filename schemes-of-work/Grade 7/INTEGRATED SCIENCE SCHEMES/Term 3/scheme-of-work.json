@@ -1,0 +1,616 @@
+{
+  "path": "schemes-of-work/Grade 7/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
+  "grade": 7,
+  "term": 3,
+  "subject": "INTEGRATED SCIENCE SCHEMES",
+  "weeks": 7,
+  "lessons": 36,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "By the end of the lesson  the learner should be able to : -define what are static charges -demonstrate the existence of static charges in objects -appr eciate use of static electricity"
+      ],
+      "activities": [
+        "The learner is guided to: -discuss what are static charges -demonstrate the existence of static charges in objects"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page  124-126"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "How can you demonstrate static electricity?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "define what are static charges -demonstrate the existence of static charges in objects -appreciate use of static electricity"
+      ],
+      "activities": [
+        "discuss what are static charges -demonstrate the existence of static charges in objects"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page  124-126"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "How can you demonstrate static electricity?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "identify types of charges -demonstrate charging objects by rubbing, induction -appreciate use of static electricity"
+      ],
+      "activities": [
+        "discuss types of charges -demonstrate charging objects by rubbing, induction"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "How many types of charges do we have?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "identify types of charges -demonstrate  charging objects by rubbing, induction -appreciate use of static electricity"
+      ],
+      "activities": [
+        "discuss types of charges -demonstrate charging objects by rubbing,  induction"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page  126-128"
+      ],
+      "assessment": "-oral questions -observation -written  questions",
+      "inquiryQuestion": "How many types of charges do  we have?"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "identify types of charges -demonstrate charging objects by rubbing, induction -appreciate use of static electricity"
+      ],
+      "activities": [
+        "discuss types of charges -demonstrate charging objects by rubbing, induction"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page  126-128"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "How many types of charges do we have?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "identify effects of force between charged objects -demonstrate the effect of force between objects with similar charges -demonstrate the effect of force between objects with opposite charges -appreciate use of static electricity"
+      ],
+      "activities": [
+        "discuss effects of force between charged objects -demonstrate the effect of force between objects with similar charges -demonstrate the effect of force between objects with opposite"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   129-130"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "What are the effects of force between charged objects?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "identify effects of force between charged objects -demonstrate the effect of force  between objects with similar charges -demonstrate the effect of force between objects with opposite charges -appreciate use of static electricity"
+      ],
+      "activities": [
+        "discuss effects of force between charged objects -demonstrate the effect of force between objects with similar charges -demonstrate the effect of force between objects with opposite"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   129-130"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "What are the effects of force between charged  objects?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "outline safety measures when dealing with static charges -identify safety measurers during lightning -identify uses of static charges in everyday life -appre ciate use of static electricity"
+      ],
+      "activities": [
+        "outline safety measures when dealing with static charges -discuss safety measurers during lightning -discuss uses of static charges in everyday life"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   129-130"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "Which are safety measures when dealing with static charges?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "outline safety measures when dealing with static charges -identify safety measurers during lightning -identify uses of static charges in everyday life -appre ciate use of  static electricity"
+      ],
+      "activities": [
+        "outline safety measures when dealing with static charges -discuss safety measurers during lightning -discuss uses of static charges in everyday life"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   129-130"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "Which are safety measures when dealing with static charges?"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Static electricity",
+      "objectives": [
+        "outline safety measures when dealing with static charges -identify safety measurers during lightning -identify uses of static charges in everyday life -appreciate use of static electricity"
+      ],
+      "activities": [
+        "outline safety measures when dealing with static charges -discuss safety measurers during lightning -discuss uses of static charges in everyday life"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   129-130"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "Which are safety measures when dealing with static charges?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "identify sources of electricity in the environment -use digital devices to search for sources of electricity -draw  the sources of electricity -appreciate use of electricity"
+      ],
+      "activities": [
+        "in groups discuss sources of electricity in the environment -use digital devices to search for sources of electricity -draw  the sources of electricity"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   136-137"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "Which      the source s  of  electricity in the environment?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "identify sources of electricity in the environment -use digital devices to search for sources of electricity -draw  the sources of electricity -appreciate use of electricity"
+      ],
+      "activities": [
+        "in groups discuss sources of electricity in the environment -use digital devices to search for sources of electricity -draw  the sources of electricity"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   136-137"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "Which    the sources of electricity in the environment?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "identify sources of electricity in the environment -use digital devices to search for sources of electricity -draw  the sources of electricity -appreciate use of electricity"
+      ],
+      "activities": [
+        "in groups discuss sources of electricity in the environment -use digital devices to search for sources of electricity -draw  the sources of electricity"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   136-137"
+      ],
+      "assessment": "-oral questions -observation -written questions",
+      "inquiryQuestion": "Which    the sources of electricity in the environment?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "connect simple electrical circuits to demonstrate the flow of  electric current -demonstrate a simple electrical circuit in which dry cells are in series  and in parrallel -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "In groups connect simple electrical circuits to demonstrate the flow of  electric current  -set up  a simple electrical circuit in which dry cells are in series and in parrallel"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    138-140"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How is electricity used in day to day life?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "connect simple electrical circuits to demonstrate the flow of  electric current -demonstrate a  simple electrical circuit in which dry cells are in series and in parrallel -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "In groups connect simple electrical circuits to demonstrate the flow of  electric current  -set up  a simple electrical circuit in which dry cells  are in series and in parrallel"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    138-140"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How is electricity used in day to day life?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "connect simple electrical circuits to demonstrate the flow of  electric current -demonstrate a simple electrical circuit in which bulbs are arranged in series and parallel -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "connect simple electrical circuits to demonstrate the flow of  electric current -demonstrate a simple electrical circuit in which bulbs are arranged in series and parallel"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   140"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What is the difference between the arrangement of bulbs in Activities 3A and 3 B?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "connect simple electrical circuits to demonstrate the flow of  electric current -demonstrate a simple electrical circuit in which bulbs are arranged in series and parallel -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "connect simple electrical circuits to demonstrate the flow of  electric current -demonstrate a simple electrical circuit in which bulbs are arranged in series and parallel"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   140"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What is the difference between the arrangement of bulbs in Activities 3A and 3 B?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "differentiate between conductors and non conductors  of electricity   -perform experiments to classify materials as either  conductors or non conductors of electricity -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "discuss the difference    between conductors and non conductors  of electricity  -perform experiments to classify materials as either  conductors or non conductors of electricity"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page     141"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What do we call materials which allow electricity to go through them?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "differentiate between conductors and non conductors  of electricity  -perform experiments to classify materials as either  conductors or non conductors of electricity -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "discuss the difference  between conductors and non conductors  of electricity  --perform experiments to classify materials as either  conductors or non conductors of electricity"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    141"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What do we call materials which allow electricity to go through them?"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "identify electrical appliances used in day to day life -draw electrical appliances used in day to day life  -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "discuss and identify common electrical appliances used in day to day life -draw and name electrical appliances -discuss uses of electrical appliances"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   142-143"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Name electrical appliances used at home?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "identify electrical appliances used in day to day life -draw electrical appliances used in day to day life  -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "discuss and identify common electrical appliances used in day to day life -draw and name electrical appliances -discuss uses of electrical appliances"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   142-143"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Name electrical appliances used at home?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "identify electrical appliances used in day to day life -draw electrical appliances used in day to day life  -appreciate the use of electricity in day to day life"
+      ],
+      "activities": [
+        "discuss and identify common electrical appliances used in day to day life -draw and name electrical appliances -discuss uses of electrical appliances"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   142-143"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "Name electrical appliances used at home?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "outline safety measurers followed while  using electrical appliances -discuss uses of electricity in daily life -appreciate the use of electricity  in day to day life"
+      ],
+      "activities": [
+        "identify and discuss safety measurers observed when using electrical  appliances -discuss uses of electricity in day to day life -use digital devices to search for more information on electrical appliances and safety measurers observed when using them"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   144-146"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How is electricity used in day  to day life?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "outline safety measurers followed while using electrical appliances -discuss uses of electricity in daily life -appreciate the use of electricity  in day to day life"
+      ],
+      "activities": [
+        "identify and discuss safety measurers observed when using electrical appliances -discuss uses of electricity in day to day life -use digital devices to search for more information on electrical appliances and safety measurers observed when using them"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   144-146"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How is electricity used in day to day life?"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Electrical energy",
+      "objectives": [
+        "outline safety measurers followed while  using electrical appliances -discuss uses of electricity in daily life -appreciate the use of electricity  in day to day life"
+      ],
+      "activities": [
+        "identify and discuss safety measurers observed when using electrical  appliances -discuss uses of electricity in day to day life -use digital devices to search for more information on electrical appliances and safety measurers observed when using them"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   144-146"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How is electricity used in day  to day life?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "define what is a magnet -classify materials as either magnetic or non-magnetic -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss what is a magnet -use a permanent magnet to test different materials,sort and classify them into either magnetic or non-magnetic materials"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    148 -magnetic materials -non magnetic materials"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What is the difference between magnetic and non -magnetic materials?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "define what is a magnet -classify materials as either magnetic or non-magnetic -appreciate  applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss what is a magnet -use a permanent magnet to test different materials,sort and classify them into either magnetic or non-magnetic materials"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    148 -magnetic  materials -non magnetic materials"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What is the difference between magnetic and non -magnetic  materials?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "define what is a magnet -classify materials as either magnetic or non-magnetic -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss what is a magnet -use a permanent magnet to test different materials,sort and classify them into either magnetic or non-magnetic materials"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    148 -magnetic materials -non magnetic materials"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What is the difference between magnetic and non -magnetic materials?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify the poles of a magnet -investigate the force between like and unlike poles -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "identify the poles of a magnet -investigate the force between like and unlike poles"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   149-150"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What happens when like poles of a magnet come close to one another?"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify the poles of a magnet -investigate the force between like and unlike poles -appreciate applications of magnets in day to  day life"
+      ],
+      "activities": [
+        "identify the poles of a magnet -investigate the force between like and unlike poles"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   149-150"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What happens when unlike poles of a magnet come close to one another?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify the poles of a magnet -investigate the force between like and unlike poles -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "identify the poles of a magnet -investigate the force between like and unlike poles"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page   149-150"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "What happens when unlike poles of a magnet come close to one another?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify uses of a magnet -use digital devices to search for information on applications of magnets -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss the applications of magnets in day to day life (separation of mixtures,in radios,speakers,refrigerator door,magnetic compass and magnets used in toys to give magic effect) -use digital devices to search for information on applications of magnets"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    151-156"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How are magnets used in day to day life?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify uses of a magnet -use digital devices to search for information on applications of magnets -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss the applications of magnets in day to day life (separation of mixtures,in radios,speakers,refrigerator door,magnetic compass and magnets used in toys to give magic effect) -use digital devices to search for information on applications of magnets"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    151-156"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How are magnets used in day to day life?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify uses of a magnet -use digital devices to search for information on applications of magnets -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss the applications of magnets in day to day life (separation of mixtures,in radios,speakers,refrigerator door,magnetic compass and magnets used in toys to give magic effect) -use digital devices to search for information on applications of magnets"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    151-156"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How are magnets used in day to day life?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "FORCE AND ENERGY",
+      "subStrand": "Magnetism",
+      "objectives": [
+        "identify uses of a magnet -use digital devices to search for information on applications of magnets -appreciate applications of magnets in day to day life"
+      ],
+      "activities": [
+        "discuss the applications of magnets in day to day life (separation of mixtures,in radios,speakers,refrigerator door,magnetic compass and magnets used in toys to give magic effect) -use digital devices to search for information on applications of magnets"
+      ],
+      "resources": [
+        "Active Integrated Science Grade 7 page    151-156"
+      ],
+      "assessment": "-oral questions -written questions",
+      "inquiryQuestion": "How are magnets used in day to day life?"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "Revision",
+      "strand": "",
+      "subStrand": "",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "RE VISION/END OF TERM 3 ASSESSMENT",
+      "inquiryQuestion": ""
+    }
+  ]
+}

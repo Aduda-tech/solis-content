@@ -1,9 +1,114 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-20T15:50:00Z",
+  "lastUpdated": "2026-08-21T12:00:00Z",
   "curriculum": {
     "Grade 7": ["Mathematics", "English", "Kiswahili"],
     "Grade 8": ["Mathematics", "English", "Physics"]
+  },
+  "schemesOfWork": {
+    "Grade 7": {
+      "Mathematics": {
+        "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
+        "weeks": 39,
+        "strands": ["Numbers", "Algebra", "Geometry", "Measurement", "Data Handling"]
+      },
+      "Agriculture": {
+        "path": "schemes-of-work/Grade 7/AGRICULTURE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "CRE": {
+        "path": "schemes-of-work/Grade 7/CRE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Creative Arts": {
+        "path": "schemes-of-work/Grade 7/CREATIVE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "English": {
+        "path": "schemes-of-work/Grade 7/ENGLISH SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Integrated Science": {
+        "path": "schemes-of-work/Grade 7/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Kiswahili": {
+        "path": "schemes-of-work/Grade 7/KISWAHILI SCHEMES-1/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Pre-Technical": {
+        "path": "schemes-of-work/Grade 7/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Social Studies": {
+        "path": "schemes-of-work/Grade 7/SOCIAL STUDIES SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      }
+    },
+    "Grade 8": {
+      "Mathematics": {
+        "path": "schemes-of-work/Grade 8/Mathematics/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "English": {
+        "path": "schemes-of-work/Grade 8/English/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "CRE": {
+        "path": "schemes-of-work/Grade 8/CRE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Integrated Science": {
+        "path": "schemes-of-work/Grade 8/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Kiswahili": {
+        "path": "schemes-of-work/Grade 8/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Pre-Technical": {
+        "path": "schemes-of-work/Grade 8/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      }
+    },
+    "Grade 9": {
+      "Agrinutrition": {
+        "path": "schemes-of-work/Grade 9/AGRINUTRITION SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "CRE": {
+        "path": "schemes-of-work/Grade 9/CRE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Creative Arts": {
+        "path": "schemes-of-work/Grade 9/CREATIVE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "English": {
+        "path": "schemes-of-work/Grade 9/ENGLISH SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Integrated Science": {
+        "path": "schemes-of-work/Grade 9/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Kiswahili": {
+        "path": "schemes-of-work/Grade 9/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Mathematics": {
+        "path": "schemes-of-work/Grade 9/MATHEMATICS SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Pre-Technical": {
+        "path": "schemes-of-work/Grade 9/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Social Studies": {
+        "path": "schemes-of-work/Grade 9/SOCIAL STUDIES SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      }
+    }
   },
   "exams": {
     "Grade 7": {
@@ -66,15 +171,6 @@
             "marks": 65
           }
         ]
-      }
-    }
-  },
-  "schemesOfWork": {
-    "Grade 7": {
-      "Mathematics": {
-        "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
-        "weeks": 39,
-        "strands": ["Numbers", "Algebra", "Geometry", "Measurement", "Data Handling"]
       }
     }
   },
