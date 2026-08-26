@@ -2,21 +2,21 @@
   "version": "1.0",
   "lastUpdated": "2026-08-21T12:00:00Z",
   "curriculum": {
-    "Grade 7": ["Mathematics", "English", "Kiswahili"],
-    "Grade 8": ["Mathematics", "English", "Physics"]
+    "Grade 7": ["Mathematics", "English", "Kiswahili", "Integrated Science", "Social Studies", "Christian Religious Education", "Creative Arts", "Agriculture", "Pre-Technical Studies"],
+    "Grade 8": ["Mathematics", "English", "Kiswahili", "Integrated Science", "Social Studies", "Christian Religious Education", "Pre-Technical Studies"],
+    "Grade 9": ["Mathematics", "English", "Kiswahili", "Integrated Science", "Social Studies", "Christian Religious Education", "Creative Arts", "Agriculture", "Pre-Technical Studies"]
   },
   "schemesOfWork": {
     "Grade 7": {
       "Mathematics": {
         "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
-        "weeks": 39,
-        "strands": ["Numbers", "Algebra", "Geometry", "Measurement", "Data Handling"]
+        "weeks": 39
       },
       "Agriculture": {
         "path": "schemes-of-work/Grade 7/AGRICULTURE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
-      "CRE": {
+      "Christian Religious Education": {
         "path": "schemes-of-work/Grade 7/CRE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
@@ -36,7 +36,7 @@
         "path": "schemes-of-work/Grade 7/KISWAHILI SCHEMES-1/Term 3/scheme-of-work.json",
         "terms": [3]
       },
-      "Pre-Technical": {
+      "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 7/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
@@ -54,7 +54,7 @@
         "path": "schemes-of-work/Grade 8/English/Term 3/scheme-of-work.json",
         "terms": [3]
       },
-      "CRE": {
+      "Christian Religious Education": {
         "path": "schemes-of-work/Grade 8/CRE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
@@ -66,17 +66,17 @@
         "path": "schemes-of-work/Grade 8/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
-      "Pre-Technical": {
+      "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 8/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       }
     },
     "Grade 9": {
-      "Agrinutrition": {
+      "Agriculture": {
         "path": "schemes-of-work/Grade 9/AGRINUTRITION SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
-      "CRE": {
+      "Christian Religious Education": {
         "path": "schemes-of-work/Grade 9/CRE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
@@ -100,7 +100,7 @@
         "path": "schemes-of-work/Grade 9/MATHEMATICS SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
-      "Pre-Technical": {
+      "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 9/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
         "terms": [3]
       },
@@ -120,13 +120,6 @@
             "path": "exams/Grade 7/Mathematics/Term 1/exam-paper-1.json",
             "questions": 20,
             "marks": 50
-          },
-          {
-            "id": "exam-g7-m1-t2",
-            "name": "Grade 7 Mathematics Term 1 Supplementary",
-            "path": "exams/Grade 7/Mathematics/Term 1/exam-paper-2.json",
-            "questions": 15,
-            "marks": 35
           }
         ],
         "Term 2": [
@@ -185,15 +178,6 @@
             "questions": 10,
             "marks": 25
           }
-        ],
-        "Term 2": [
-          {
-            "id": "rev-g7-m2-t1",
-            "name": "Grade 7 Mathematics Term 2 Revision",
-            "path": "revision/Grade 7/Mathematics/Term 2/revision-notes-1.json",
-            "questions": 12,
-            "marks": 30
-          }
         ]
       }
     }
@@ -209,15 +193,6 @@
             "questions": 8,
             "marks": 20
           }
-        ],
-        "Term 2": [
-          {
-            "id": "ln-g7-m2-t1",
-            "name": "Grade 7 Mathematics Term 2 Lesson Notes",
-            "path": "lesson-notes/Grade 7/Mathematics/Term 2/lesson-notes-1.json",
-            "questions": 10,
-            "marks": 25
-          }
         ]
       }
     }
@@ -232,15 +207,6 @@
             "path": "lesson-plans/Grade 7/Mathematics/Term 1/lesson-plan-1.json",
             "questions": 6,
             "marks": 15
-          }
-        ],
-        "Term 2": [
-          {
-            "id": "lp-g7-m2-t1",
-            "name": "Grade 7 Mathematics Term 2 Lesson Plan",
-            "path": "lesson-plans/Grade 7/Mathematics/Term 2/lesson-plan-1.json",
-            "questions": 7,
-            "marks": 18
           }
         ]
       }
