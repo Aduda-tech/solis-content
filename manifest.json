@@ -1,120 +1,200 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-21T12:00:00Z",
+  "lastUpdated": "2026-08-27T05:50:49Z",
   "curriculum": {
-    "Grade 7": ["Mathematics", "English", "Kiswahili", "Integrated Science", "Social Studies", "Christian Religious Education", "Creative Arts", "Agriculture", "Pre-Technical Studies"],
-    "Grade 8": ["Mathematics", "English", "Kiswahili", "Integrated Science", "Social Studies", "Christian Religious Education", "Pre-Technical Studies"],
-    "Grade 9": ["Mathematics", "English", "Kiswahili", "Integrated Science", "Social Studies", "Christian Religious Education", "Creative Arts", "Agriculture", "Pre-Technical Studies"]
+    "Grade 7": [
+      "Mathematics",
+      "English",
+      "Kiswahili",
+      "Integrated Science",
+      "Social Studies",
+      "Christian Religious Education",
+      "Creative Arts",
+      "Agriculture",
+      "Pre-Technical Studies"
+    ],
+    "Grade 8": [
+      "Mathematics",
+      "English",
+      "Kiswahili",
+      "Integrated Science",
+      "Social Studies",
+      "Christian Religious Education",
+      "Pre-Technical Studies"
+    ],
+    "Grade 9": [
+      "Mathematics",
+      "English",
+      "Kiswahili",
+      "Integrated Science",
+      "Social Studies",
+      "Christian Religious Education",
+      "Creative Arts",
+      "Agriculture",
+      "Pre-Technical Studies"
+    ]
   },
   "schemesOfWork": {
     "Grade 7": {
       "Mathematics": {
         "path": "schemes-of-work/Grade 7/Mathematics/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Agriculture": {
         "path": "schemes-of-work/Grade 7/AGRICULTURE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Christian Religious Education": {
         "path": "schemes-of-work/Grade 7/CRE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Creative Arts": {
         "path": "schemes-of-work/Grade 7/CREATIVE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "English": {
         "path": "schemes-of-work/Grade 7/ENGLISH SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Integrated Science": {
         "path": "schemes-of-work/Grade 7/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Kiswahili": {
         "path": "schemes-of-work/Grade 7/KISWAHILI SCHEMES-1/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 7/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Social Studies": {
         "path": "schemes-of-work/Grade 7/SOCIAL STUDIES SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       }
     },
     "Grade 8": {
       "Mathematics": {
         "path": "schemes-of-work/Grade 8/Mathematics/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "English": {
         "path": "schemes-of-work/Grade 8/English/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Christian Religious Education": {
         "path": "schemes-of-work/Grade 8/CRE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Integrated Science": {
         "path": "schemes-of-work/Grade 8/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Kiswahili": {
         "path": "schemes-of-work/Grade 8/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 8/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Creative Arts": {
         "path": "schemes-of-work/Grade 8/Creative Arts/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Agriculture": {
         "path": "schemes-of-work/Grade 8/Agriculture/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       }
     },
     "Grade 9": {
       "Agriculture": {
         "path": "schemes-of-work/Grade 9/AGRINUTRITION SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Christian Religious Education": {
         "path": "schemes-of-work/Grade 9/CRE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Creative Arts": {
         "path": "schemes-of-work/Grade 9/CREATIVE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "English": {
         "path": "schemes-of-work/Grade 9/ENGLISH SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Integrated Science": {
         "path": "schemes-of-work/Grade 9/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Kiswahili": {
         "path": "schemes-of-work/Grade 9/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Mathematics": {
         "path": "schemes-of-work/Grade 9/MATHEMATICS SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 9/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       },
       "Social Studies": {
         "path": "schemes-of-work/Grade 9/SOCIAL STUDIES SCHEMES/Term 3/scheme-of-work.json",
-        "terms": [3]
+        "terms": [
+          3
+        ]
       }
     }
   },
@@ -219,5 +299,20 @@
         ]
       }
     }
+  },
+  "indexedMaterials": {
+    "source": "JSON corpus on disk (post-flush)",
+    "convertedOn": "2026-08-27T05:50:49Z",
+    "totalDocuments": 33,
+    "totalTextChars": 514379,
+    "byQuality": {
+      "text": 33
+    },
+    "location": "indexed/catalog.json + indexed/_jsonl/"
+  },
+  "searchIndex": {
+    "documents": "search/documents.json",
+    "inverted": "search/inverted.json",
+    "note": "title x6 + body x2; no OCR/images in this tree"
   }
 }
