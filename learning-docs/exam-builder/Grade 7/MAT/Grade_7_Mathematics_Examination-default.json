@@ -1,0 +1,259 @@
+{
+  "kind": "exam-builder",
+  "grade": "Grade 7",
+  "subject": "MAT",
+  "topic": "Grade 7 Mathematics Examination",
+  "approved": {
+    "title": "Grade 7 Mathematics Examination",
+    "subtitle": "Term 1 Assessment",
+    "sections": [
+      {
+        "heading": "Section A: Multiple Choice (20 marks)",
+        "questions": [
+          {
+            "number": 1,
+            "question": "What is the place value of the digit 7 in the number 4,782,105?",
+            "options": [
+              "A) Hundreds of thousands",
+              "B) Tens of thousands",
+              "C) Thousands",
+              "D) Millions"
+            ],
+            "answer": "A) Hundreds of thousands",
+            "marks": 2
+          },
+          {
+            "number": 2,
+            "question": "Find the Greatest Common Divisor (GCD) of 36, 48, and 72.",
+            "options": [
+              "A) 6",
+              "B) 12",
+              "C) 24",
+              "D) 144"
+            ],
+            "answer": "B) 12",
+            "marks": 2
+          },
+          {
+            "number": 3,
+            "question": "Convert the fraction 3/8 into a decimal.",
+            "options": [
+              "A) 0.375",
+              "B) 0.380",
+              "C) 0.625",
+              "D) 0.830"
+            ],
+            "answer": "A) 0.375",
+            "marks": 2
+          },
+          {
+            "number": 4,
+            "question": "Simplify the algebraic expression: 5x + 3y - 2x + 4y",
+            "options": [
+              "A) 7x + 7y",
+              "B) 3x + 7y",
+              "C) 3x - y",
+              "D) 10xy"
+            ],
+            "answer": "B) 3x + 7y",
+            "marks": 2
+          },
+          {
+            "number": 5,
+            "question": "Solve for x in the linear equation: 3x - 5 = 16",
+            "options": [
+              "A) x = 5",
+              "B) x = 6",
+              "C) x = 7",
+              "D) x = 21"
+            ],
+            "answer": "C) x = 7",
+            "marks": 2
+          },
+          {
+            "number": 6,
+            "question": "Two adjacent angles on a straight line are (2x + 10)° and 70°. Find the value of x.",
+            "options": [
+              "A) 50",
+              "B) 55",
+              "C) 100",
+              "D) 110"
+            ],
+            "answer": "A) 50",
+            "marks": 2
+          },
+          {
+            "number": 7,
+            "question": "In triangle ABC, angle A = 55° and angle B = 65°. What is the size of angle C?",
+            "options": [
+              "A) 50°",
+              "B) 60°",
+              "C) 70°",
+              "D) 120°"
+            ],
+            "answer": "B) 60°",
+            "marks": 2
+          },
+          {
+            "number": 8,
+            "question": "A rectangular garden has a length of 15 m and a width of 8 m. Calculate its area.",
+            "options": [
+              "A) 46 m²",
+              "B) 60 m²",
+              "C) 120 m²",
+              "D) 240 m²"
+            ],
+            "answer": "C) 120 m²",
+            "marks": 2
+          },
+          {
+            "number": 9,
+            "question": "Find the circumference of a circular flower garden whose radius is 7 m. (Take π = 22/7)",
+            "options": [
+              "A) 22 m",
+              "B) 44 m",
+              "C) 88 m",
+              "D) 154 m"
+            ],
+            "answer": "B) 44 m",
+            "marks": 2
+          },
+          {
+            "number": 10,
+            "question": "A trader bought a bag of maize for KSh 3,200 and sold it for KSh 3,800. Calculate the percentage profit.",
+            "options": [
+              "A) 15.79%",
+              "B) 18.75%",
+              "C) 20.00%",
+              "D) 600.00%"
+            ],
+            "answer": "B) 18.75%",
+            "marks": 2
+          }
+        ]
+      },
+      {
+        "heading": "Section B: Open-Ended Questions (30 marks)",
+        "questions": [
+          {
+            "number": 11,
+            "question": "Using the prime factorization method, find the square root of 1296. Show all working steps.",
+            "answer": "1296 = 2 × 2 × 2 × 2 × 3 × 3 × 3 × 3 = 2^4 × 3^4. √1296 = √(2^4 × 3^4) = 2^2 × 3^2 = 4 × 9 = 36.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct prime factorization of 1296 as 2 × 2 × 2 × 2 × 3 × 3 × 3 × 3 (1 mark)",
+              "Grouping prime factors into pairs: (2 × 2) × (3 × 3) (1 mark)",
+              "Correct final evaluation: 36 (1 mark)"
+            ]
+          },
+          {
+            "number": 12,
+            "question": "The temperature at the peak of Mt. Kenya at night was -4°C. During the day, the temperature rose by 11°C, and by late evening, it dropped by 5°C. Calculate the final temperature in the evening.",
+            "answer": "Initial temperature = -4°C. After rise: -4 + 11 = 7°C. After drop: 7 - 5 = 2°C.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct expression of temperature rise: -4 + 11 = 7°C (1 mark)",
+              "Correct expression of temperature drop: 7 - 5 (1 mark)",
+              "Correct final answer with units: 2°C (1 mark)"
+            ]
+          },
+          {
+            "number": 13,
+            "question": "Work out the following operation on fractions: 2 1/2 ÷ (1 1/4 + 1/2). Give your answer in simplest form.",
+            "answer": "Inside brackets: 1 1/4 + 1/2 = 5/4 + 2/4 = 7/4. Conversion: 2 1/2 = 5/2. Division: 5/2 ÷ 7/4 = 5/2 × 4/7 = 20/14 = 10/7 or 1 3/7.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct addition inside brackets: 7/4 (1 mark)",
+              "Converting mixed fractions to improper fractions and applying division rule (multiplication by reciprocal): 5/2 × 4/7 (1 mark)",
+              "Correct simplified answer: 10/7 or 1 3/7 (1 mark)"
+            ]
+          },
+          {
+            "number": 14,
+            "question": "Given that p = 4, q = -2, and r = 3, evaluate the algebraic expression: (2p - 3q) / r",
+            "answer": "Substitute values: (2(4) - 3(-2)) / 3 = (8 + 6) / 3 = 14/3 = 4 2/3.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct substitution of variables: (2(4) - 3(-2)) / 3 (1 mark)",
+              "Correct simplification of numerator: 8 + 6 = 14 (1 mark)",
+              "Correct final evaluated fraction: 14/3 or 4 2/3 (1 mark)"
+            ]
+          },
+          {
+            "number": 15,
+            "question": "Mercy is 5 years older than her brother John. The sum of their ages is 27 years. Form a linear equation and solve it to find John's age.",
+            "answer": "Let John's age be x. Mercy's age = x + 5. Sum: x + (x + 5) = 27 => 2x + 5 = 27 => 2x = 22 => x = 11. John is 11 years old.",
+            "marks": 3,
+            "markingPoints": [
+              "Defining variables and setting up correct equation: 2x + 5 = 27 (1 mark)",
+              "Correct algebraic steps to isolate x: 2x = 22 (1 mark)",
+              "Correct final age statement: John is 11 years old (1 mark)"
+            ]
+          },
+          {
+            "number": 16,
+            "question": "Two angles are supplementary. If one angle measures (3x + 15)° and the other measures (x + 25)°, find the value of x and the size of each angle.",
+            "answer": "3x + 15 + x + 25 = 180 => 4x + 40 = 180 => 4x = 140 => x = 35. Angle 1 = 3(35) + 15 = 120°. Angle 2 = 35 + 25 = 60°.",
+            "marks": 3,
+            "markingPoints": [
+              "Setting up equation based on supplementary sum (180°): 4x + 40 = 180 (1 mark)",
+              "Solving for x correctly: x = 35 (1 mark)",
+              "Calculating correct angle measures: 120° and 60° (1 mark)"
+            ]
+          },
+          {
+            "number": 17,
+            "question": "Two parallel lines are intersected by a transversal line. If two alternate interior angles are given as (4x - 20)° and (2x + 30)°, solve for x and find the measure of these angles.",
+            "answer": "Alternate interior angles are equal: 4x - 20 = 2x + 30 => 2x = 50 => x = 25. Angle size = 4(25) - 20 = 80°.",
+            "marks": 3,
+            "markingPoints": [
+              "Equating alternate interior angles: 4x - 20 = 2x + 30 (1 mark)",
+              "Solving for x: x = 25 (1 mark)",
+              "Determining angle measure: 80° (1 mark)"
+            ]
+          },
+          {
+            "number": 18,
+            "question": "A triangular piece of land has a base of 24 m and a perpendicular height of 15 m. \na) Calculate the area of the land. \nb) Find the cost of clearing the land if the charge is KSh 50 per square meter.",
+            "answer": "a) Area = 1/2 × base × height = 1/2 × 24 m × 15 m = 180 m². \nb) Total Cost = 180 m² × KSh 50 = KSh 9,000.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct formula and application for area of triangle (1 mark)",
+              "Correct area calculation: 180 m² (1 mark)",
+              "Correct calculation of total clearing cost: KSh 9,000 (1 mark)"
+            ]
+          },
+          {
+            "number": 19,
+            "question": "A rectangular water container measures 40 cm in length, 25 cm in width, and 20 cm in height. \na) Calculate the volume of the container in cubic centimeters. \nb) Convert the capacity of the container into liters.",
+            "answer": "a) Volume = length × width × height = 40 × 25 × 20 = 20,000 cm³. \nb) Capacity in Liters = 20,000 / 1,000 = 20 Liters.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct computation of volume: 20,000 cm³ (1 mark)",
+              "Using correct conversion factor (1000 cm³ = 1 Liter) (1 mark)",
+              "Correct conversion to liters: 20 Liters (1 mark)"
+            ]
+          },
+          {
+            "number": 20,
+            "question": "A bus departed from Nairobi at 0830 h and arrived in Nakuru at 1130 h. Given that the distance between Nairobi and Nakuru is 150 km, calculate the average speed of the bus in km/h.",
+            "answer": "Time taken = 1130 h - 0830 h = 3 hours. Speed = Distance / Time = 150 km / 3 h = 50 km/h.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct calculation of time taken: 3 hours (1 mark)",
+              "Applying Speed formula (Distance ÷ Time) (1 mark)",
+              "Correct answer with units: 50 km/h (1 mark)"
+            ]
+          }
+        ]
+      }
+    ],
+    "totalMarks": 50,
+    "totalTime": "1 hour 30 minutes",
+    "generatedFrom": []
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-27T03:50:20.090Z",
+  "source": "teacher-approved"
+}
