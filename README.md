@@ -15,7 +15,8 @@ The large PDF/OCR mirror that previously lived here was reset. This tree is the 
 | `indexed/catalog.json` | Flat catalog for browse/filter |
 | `indexed/_jsonl/<area>.jsonl` | Full-text lines for search engines |
 | `search/documents.json` + `search/inverted.json` | Prebuilt inverted index |
-| `tools/build_index.py` | Regenerates catalog + search from JSON on disk |
+| `downloads/arena/` | Cleaned DOCX from arena.co.ke (PP–G6 schemes, JSS/KJSEA, exams, notes, plans) |
+| `tools/build_index.py` | Regenerates catalog + search from JSON + arena DOCX |
 
 ## Rebuild the index
 

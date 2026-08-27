@@ -97,6 +97,15 @@ def title_of(rel: str, data: dict) -> str:
     return Path(rel).stem.replace("_", " ")
 
 
+def docx_text(path: Path) -> str:
+    try:
+        from docx import Document
+        doc = Document(str(path))
+        return "\n".join(p.text for p in doc.paragraphs if p.text)
+    except Exception:
+        return ""
+
+
 def iter_sources():
     for area in AREAS:
         base = ROOT / area
@@ -105,7 +114,12 @@ def iter_sources():
         for p in sorted(base.rglob("*.json")):
             if p.name in SKIP_NAMES:
                 continue
-            yield area, p
+            yield area, p, "json"
+    arena = ROOT / "downloads" / "arena"
+    if arena.is_dir():
+        for p in sorted(arena.rglob("*.docx")):
+            area = p.relative_to(arena).parts[0]
+            yield area, p, "docx"
 
 
 def main() -> int:
@@ -113,20 +127,30 @@ def main() -> int:
     docs = []
     jsonl_by_area: dict[str, list] = defaultdict(list)
 
-    for area, path in iter_sources():
+    for area, path, fmt in iter_sources():
         rel = path.relative_to(ROOT).as_posix()
-        parts = path.relative_to(ROOT / area).parts
-        level = parts[0] if parts else "General"
-        data = json.loads(path.read_text(encoding="utf-8"))
-        text = flatten_text(data)
+        try:
+            parts = path.relative_to(ROOT / area).parts
+            level = parts[0] if parts else "General"
+        except ValueError:
+            parts = path.relative_to(ROOT / "downloads" / "arena").parts
+            level = parts[1] if len(parts) > 1 else "General"
+        if fmt == "json":
+            data = json.loads(path.read_text(encoding="utf-8"))
+            text = flatten_text(data)
+            title = title_of(rel, data if isinstance(data, dict) else {})
+        else:
+            text = docx_text(path)[:80000]
+            title = re.sub(r"^\d+-", "", path.stem)
+            title = re.sub(r"-+", " ", title).strip()[:120] or path.stem
         words = len(text.split()) if text.strip() else 0
         rec = {
             "id": doc_id(rel),
             "path": rel,
-            "title": title_of(rel, data if isinstance(data, dict) else {}),
+            "title": title,
             "area": area,
-            "level": level,
-            "format": "json",
+            "level": str(level),
+            "format": fmt,
             "pages": None,
             "words": words,
             "chars": len(text),
@@ -147,7 +171,7 @@ def main() -> int:
             "title": rec["title"],
             "area": area,
             "level": level,
-            "format": "json",
+            "format": fmt,
             "pages": None,
             "words": words,
             "text": text,
