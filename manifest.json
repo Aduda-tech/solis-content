@@ -9,8 +9,8 @@
   "schemesOfWork": {
     "Grade 7": {
       "Mathematics": {
-        "path": "schemes-of-work/Grade 7/Mathematics/structure.json",
-        "weeks": 39
+        "path": "schemes-of-work/Grade 7/Mathematics/Term 3/scheme-of-work.json",
+        "terms": [3]
       },
       "Agriculture": {
         "path": "schemes-of-work/Grade 7/AGRICULTURE SCHEMES/Term 3/scheme-of-work.json",
@@ -68,6 +68,14 @@
       },
       "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 8/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Creative Arts": {
+        "path": "schemes-of-work/Grade 8/Creative Arts/Term 3/scheme-of-work.json",
+        "terms": [3]
+      },
+      "Agriculture": {
+        "path": "schemes-of-work/Grade 8/Agriculture/Term 3/scheme-of-work.json",
         "terms": [3]
       }
     },

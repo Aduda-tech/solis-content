@@ -1,0 +1,67 @@
+{
+  "path": "schemes-of-work/Grade 8/Agriculture/Term 3/scheme-of-work.json",
+  "grade": 8,
+  "term": 3,
+  "subject": "Agriculture",
+  "weeks": 4,
+  "lessons": 5,
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": 1,
+      "strand": "HYGIENE",
+      "subStrand": "PRACTICES Cleaning practices",
+      "objectives": [
+        "By the end of the lesson the learner should be able to: - identify appropriate procedures to clean the kitchen - explain the routine cleaning practices of a kitchen - appreciate a clean kitchen for healthy living How can daily, weekly and special cleaning enhance hygiene in kitchen? The learner is guided to: - discuss appropriate procedures to clean the kitchen - discuss the routine cleaning practices of a kitchen Agriculture and Nutrition grade 8 c"
+      ],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": ""
+    },
+    {
+      "week": 2,
+      "lessonNumber": 1,
+      "strand": "HYGIENE",
+      "subStrand": "PRACTICES",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": "How do we observe safety while cleaning the kitchen?"
+    },
+    {
+      "week": 3,
+      "lessonNumber": 1,
+      "strand": "PRODUCTIO N",
+      "subStrand": "TECHNIQUE S",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": ""
+    },
+    {
+      "week": 8,
+      "lessonNumber": 4,
+      "strand": "HYGIENE",
+      "subStrand": "PRACTICES",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": "How do we observe safety while cleaning the kitchen?"
+    },
+    {
+      "week": 8,
+      "lessonNumber": 3,
+      "strand": "PRODUCTIO N",
+      "subStrand": "TECHNIQUE S",
+      "objectives": [],
+      "activities": [],
+      "resources": [],
+      "assessment": "",
+      "inquiryQuestion": ""
+    }
+  ]
+}
