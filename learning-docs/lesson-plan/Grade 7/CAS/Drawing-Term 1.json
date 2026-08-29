@@ -1,0 +1,105 @@
+{
+  "kind": "lesson-plan",
+  "grade": "Grade 7",
+  "subject": "CAS",
+  "level": "Term 1",
+  "topic": "Drawing",
+  "approved": {
+    "kind": "lesson-plan",
+    "title": "KENYA INSTITUTE OF CURRICULUM DEVELOPMENT (KICD) CBC LESSON PLAN",
+    "subtitle": "Creative Arts and Sports (CAS) - Grade 7",
+    "offline": false,
+    "source": "server",
+    "grade": "Grade 7",
+    "subject": "CAS",
+    "level": "Term 1",
+    "sections": [
+      {
+        "heading": "Administrative Details",
+        "items": [
+          "School: Bahari Girls Junior School",
+          "Teacher: Tr. Jane M. Mwangi",
+          "Learning Area: Creative Arts and Sports",
+          "Grade/Class: Grade 7",
+          "Term: Term 1",
+          "Strand: Creating and Performing in Creative Arts",
+          "Sub-strand: Drawing (Still Life)",
+          "Duration: 35 Minutes",
+          "Date: 12th February 2024"
+        ]
+      },
+      {
+        "heading": "Specific Learning Outcomes",
+        "items": [
+          "Knowledge: Identify elements of line, form, and tonal value in still life drawing compositions.",
+          "Skill: Apply appropriate shading techniques (cross-hatching and blending) to create depth and form in a drawing of still life objects.",
+          "Attitude: Value the aesthetic quality of shadow and light in visual representation."
+        ]
+      },
+      {
+        "heading": "Key Inquiry Question",
+        "body": "How does the distribution of light and shadow turn a flat two-dimensional drawing into a realistic three-dimensional form?"
+      },
+      {
+        "heading": "Core Competencies",
+        "items": [
+          "Creativity and Imagination: Expressed through observing light patterns and rendering form using pencil techniques.",
+          "Communication and Collaboration: Developed through peer-review discussions on drawing techniques.",
+          "Critical Thinking and Problem Solving: Analyzing the direction of light and translating depth onto a 2D page."
+        ]
+      },
+      {
+        "heading": "Values to be Developed",
+        "items": [
+          "Respect: Displayed while offering and receiving constructive peer feedback.",
+          "Responsibility: Evidenced through proper handling and maintenance of art media and tools.",
+          "Integrity: Expressed through original creation of visual works."
+        ]
+      },
+      {
+        "heading": "Pertinent and Contemporary Issues (PCIs)",
+        "items": [
+          "Environmental Sustainability: Reusing locally available household containers and fruits as objects for still life arrangements."
+        ]
+      },
+      {
+        "heading": "Learning Resources",
+        "items": [
+          "Graphite Pencils (2B, 4B, 6B)",
+          "Drawing Paper / Art Sketchbooks",
+          "Erasers and Sharpeners",
+          "Still Life Setup (A ceramic cup and an apple on a flat wooden surface)",
+          "KICD Grade 7 Creative Arts and Sports Teacher's Guide and Learner's Book"
+        ]
+      },
+      {
+        "heading": "Organisation of Learning (35 Minutes Total)",
+        "items": [
+          "Phase 1: Introduction (5 Minutes) — Teacher displays a real ceramic cup under a single light source. Learners observe and discuss where light hits directly (highlight) and where shadows fall. Key inquiry question is posed.",
+          "Phase 2: Demonstration & Instruction (8 Minutes) — Teacher demonstrates drawing the basic contours of the cup and apple on the whiteboard/sketchpad, showing how to apply cross-hatching to build dark, medium, and light tones according to the light source position.",
+          "Phase 3: Learner Practice / Guided Activity (15 Minutes) — Learners work individually at their desks to sketch the still life setup (cup and apple). They apply graphite shading (hatching/cross-hatching) to capture shadows, mid-tones, and highlights. Teacher moves around offering individual support and corrective guidance.",
+          "Phase 4: Conclusion & Plenary (7 Minutes) — Learners pin their work on a display board or leave it open on desks for a gallery walk. Learners highlight successful shading techniques in peer drawings. Teacher summarizes main points and collects art books."
+        ]
+      },
+      {
+        "heading": "Assessment Methods",
+        "items": [
+          "Direct Observation of technique execution during practice",
+          "Peer Assessment during gallery walk based on tonal variation criteria",
+          "Portfolio Assessment (Rubric evaluating proportional accuracy, tonal value range, and clean presentation)"
+        ]
+      },
+      {
+        "heading": "Teacher's Self-Reflection",
+        "body": "To be completed post-lesson: Evaluate whether learners successfully depicted 3D form using tonal gradation, note learners requiring remedial instruction in cross-hatching, and assess time management efficiency during practical work."
+      }
+    ],
+    "generatedAt": "2026-08-29T17:33:27.954Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-08-29T17:34:57.410Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-29T17:34:58.010Z",
+  "source": "teacher-approved"
+}
