@@ -1,0 +1,112 @@
+{
+  "kind": "lesson-plan",
+  "grade": "Grade 1",
+  "subject": "CAS",
+  "level": "Term 1",
+  "topic": "Drawing and Painting",
+  "approved": {
+    "kind": "lesson-plan",
+    "title": "KICD CBC LESSON PLAN",
+    "subtitle": "Grade 1 Creative Arts (CAS) - Drawing and Painting",
+    "offline": false,
+    "source": "server",
+    "grade": "Grade 1",
+    "subject": "CAS",
+    "level": "Term 1",
+    "sections": [
+      {
+        "heading": "1. Administrative Details",
+        "items": [
+          "School: Bahari Girls Junior School",
+          "Teacher: Ms. A. Akinyi",
+          "Learning Area: Creative Arts (CAS)",
+          "Grade/Class: Grade 1",
+          "Term: Term 1",
+          "Strand: Creating and Performing in Creative Arts",
+          "Sub-strand: Drawing and Painting",
+          "Duration: 35 Minutes",
+          "Date: 24th October 2024"
+        ]
+      },
+      {
+        "heading": "2. Specific Learning Outcomes",
+        "body": "By the end of the lesson, the learner should be able to:",
+        "items": [
+          "Knowledge: Identify basic geometric shapes (circles, squares, triangles) used to draw familiar everyday objects.",
+          "Skill: Draw and paint a simple picture of a familiar object using crayons and water-based paints within given boundaries.",
+          "Attitude: Value neatness and appreciate own and peers' artwork during the classroom display session."
+        ]
+      },
+      {
+        "heading": "3. Key Inquiry Questions",
+        "items": [
+          "1. What simple shapes can you see in objects found around our classroom?",
+          "2. How do colors make our drawings look realistic and beautiful?"
+        ]
+      },
+      {
+        "heading": "4. Core Competencies",
+        "items": [
+          "Creativity and Imagination: Learners experiment with shapes and vibrant colors to produce unique art pieces.",
+          "Communication and Collaboration: Learners share painting tools and talk about their drawings in groups.",
+          "Critical Thinking and Problem Solving: Learners select appropriate shapes and color choices for their chosen objects."
+        ]
+      },
+      {
+        "heading": "5. Values",
+        "items": [
+          "Unity: Working together harmoniously and sharing paint jars and brushes.",
+          "Responsibility: Caring for art materials and cleaning up work areas after painting.",
+          "Respect: Appreciating the diverse creative efforts made by peers."
+        ]
+      },
+      {
+        "heading": "6. Pertinent and Contemporary Issues (PCIs)",
+        "items": [
+          "Environmental Awareness: Proper management of paper waste and safe disposal of paint water.",
+          "Health and Safety: Safe handling of non-toxic painting materials and personal hygiene (handwashing after class)."
+        ]
+      },
+      {
+        "heading": "7. Learning Resources",
+        "items": [
+          "KICD Approved Grade 1 Creative Arts Teacher's Guide and Learner's Workbook",
+          "Drawing papers, HB pencils, crayons, non-toxic water-based paints, paintbrushes, water pots, rags",
+          "Wall charts showing basic shapes and sample completed drawings of simple objects (ball, apple, house)"
+        ]
+      },
+      {
+        "heading": "8. Organisation of Learning",
+        "body": "Lesson Progression (Total Duration: 35 Minutes):",
+        "items": [
+          "Phase 1: Introduction (5 Minutes) - Teacher greets learners and leads a short shape-identification game around the classroom. Teacher introduces the lesson focus and asks the key inquiry question.",
+          "Phase 2: Lesson Development / Main Activity (20 Minutes) - Step 1 (5 min): Teacher demonstrates drawing a simple shape (a circle turning into an apple) and applying paint inside the lines. Step 2 (10 min): Learners individually draw a simple object using pencils and apply colors using crayons or water paints. Step 3 (5 min): Teacher moves around guiding brush control, color boundaries, and safe tool usage.",
+          "Phase 3: Conclusion & Reflection (10 Minutes) - Learners place their finished artwork on the classroom art line/gallery wall. Selected learners describe their drawings to the class. Teacher leads class cleanup (washing brushes, storing paints, washing hands)."
+        ]
+      },
+      {
+        "heading": "9. Assessment Methods",
+        "items": [
+          "Direct Observation: Assessment of learner engagement, tool handling, and safe paint application.",
+          "Oral Questioning: Testing learner understanding of shape names and color choices.",
+          "Portfolio / Work Sample Assessment: Rubric-based evaluation of shape accuracy, neatness of painting, and completion."
+        ]
+      },
+      {
+        "heading": "10. Teacher's Post-Lesson Reflection",
+        "items": [
+          "Number of learners who successfully achieved the learning outcomes: ____ out of ____.",
+          "Learner challenges observed: (e.g., control of paint thickness, staying within boundaries).",
+          "Remedial/Follow-up action: Plan fine-motor guidance for learners who struggled with paintbrush control."
+        ]
+      }
+    ],
+    "generatedAt": "2026-08-29T17:27:46.860Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-08-29T17:28:54.123Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-29T17:28:55.132Z",
+  "source": "teacher-approved"
+}
