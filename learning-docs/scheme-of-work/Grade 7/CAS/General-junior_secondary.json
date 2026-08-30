@@ -1,0 +1,226 @@
+{
+  "kind": "scheme-of-work",
+  "grade": "Grade 7",
+  "subject": "CAS",
+  "level": "junior_secondary",
+  "topic": "General",
+  "approved": {
+    "kind": "scheme-of-work",
+    "title": "KENYA JUNIOR SECONDARY SCHOOL SCHEME OF WORK",
+    "subtitle": "GRADE 7 CREATIVE ARTS AND SPORTS (CAS) - TERM 3",
+    "offline": false,
+    "source": "server",
+    "grade": "Grade 7",
+    "subject": "CAS",
+    "level": "junior_secondary",
+    "sections": [
+      {
+        "heading": "SCHEME OF WORK OVERVIEW",
+        "table": {
+          "headers": [
+            "Field",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Subject",
+              "Creative Arts and Sports (CAS)"
+            ],
+            [
+              "Grade Level",
+              "Grade 7"
+            ],
+            [
+              "Term",
+              "Term 3"
+            ],
+            [
+              "Duration",
+              "14 Weeks"
+            ],
+            [
+              "Curriculum Framework",
+              "KICD Competency-Based Curriculum (CBC)"
+            ],
+            [
+              "Core Competencies",
+              "Communication and Collaboration, Critical Thinking and Problem Solving, Creativity and Imagination, Digital Literacy, Self-efficacy"
+            ],
+            [
+              "Values",
+              "Respect, Responsibility, Unity, Integrity, Patriotism, Social Justice"
+            ],
+            [
+              "Assessment Modes",
+              "Practical Demonstration, Observation Rubrics, Portfolio Evaluation, Oral Questioning, Peer/Self-Assessment, Written Tests"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "WEEKLY TEACHING SCHEDULE",
+        "table": {
+          "headers": [
+            "Week",
+            "Strand",
+            "Sub-Strand",
+            "Specific Learning Outcomes",
+            "Key Inquiry Question",
+            "Learning Experiences",
+            "Learning Resources",
+            "Assessment Methods"
+          ],
+          "rows": [
+            [
+              "Week 1",
+              "Performing Arts",
+              "Wind Instruments (Descant Recorder)",
+              "By the end of the lesson, the learner should be able to: a) Identify fingering techniques for notes C, D, E, and F on a descant recorder; b) Play simple melodic patterns using proper breath control; c) Appreciate playing wind instruments in harmony.",
+              "How does proper breath control affect tone quality on a descant recorder?",
+              "Learners practice holding the recorder with correct posture, finger placement for notes C, D, E, F, and play basic melodic exercises individually and in groups.",
+              "Descant recorders, fingering charts, audio samples, music exercise books.",
+              "Practical demonstration, Observation checklist, Oral questioning"
+            ],
+            [
+              "Week 2",
+              "Performing Arts",
+              "Melody and Rhythm Creation",
+              "By the end of the lesson, the learner should be able to: a) Compose a 4-bar rhythmic pattern using crotchets and quavers; b) Perform the composed rhythm using body percussion; c) Display confidence during rhythmic performances.",
+              "How can body percussion enhance rhythmic performances?",
+              "Learners collaborate in groups to write 4-bar rhythms on rhythmic charts, tap/clap the rhythms, and present body percussion routines to the class.",
+              "Rhythm charts, percussion instruments (drums, shakers), manuscript papers.",
+              "Portfolio assessment, Group performance, Peer evaluation"
+            ],
+            [
+              "Week 3",
+              "Visual Arts",
+              "Sculpture and Modelling (3D Art)",
+              "By the end of the lesson, the learner should be able to: a) Prepare clay material suitable for modeling; b) Model a three-dimensional human figure showing basic proportion; c) Value neatness and safety when handling clay tools.",
+              "Why is proportion important in three-dimensional sculpture?",
+              "Learners knead clay to remove air bubbles, construct basic torso and limb structures, join parts using slip, and shape a human figure in motion.",
+              "Clay, water, clay modeling tools, modeling boards, sample sculptures.",
+              "Portfolio (artifacts), Practical demonstration, Self-assessment"
+            ],
+            [
+              "Week 4",
+              "Visual Arts",
+              "Puppetry and Mask Making",
+              "By the end of the lesson, the learner should be able to: a) Identify materials used for glove puppetry; b) Construct a functional glove puppet using locally available materials; c) Display creativity in puppet embellishment.",
+              "How can recycled materials be transformed into creative puppets?",
+              "Learners collect fabric pieces, paper-mâché, and buttons, construct glove puppet bodies, attach head pieces, and decorate them for character roles.",
+              "Fabric scraps, papier-mâché, glue, thread, needles, buttons, acrylic paints.",
+              "Practical demonstration, Portfolio evaluation, Peer review"
+            ],
+            [
+              "Week 5",
+              "Sports and Games",
+              "Athletics - Field Events (Long Jump)",
+              "By the end of the lesson, the learner should be able to: a) Describe the four phases of long jump; b) Execute proper single-foot take-off and landing technique; c) Observe safety precautions in the long jump pit.",
+              "What role does take-off power play in achieving jump distance?",
+              "Learners perform approach runs, practice single-leg take-offs off a board, land safely with bent knees in a prepared sand pit, and measure jump distances.",
+              "Sand pit, rake, takeoff board, measuring tape, whistle, marker cones.",
+              "Practical performance evaluation, Teacher observation checklist, Oral review"
+            ],
+            [
+              "Week 6",
+              "Sports and Games",
+              "Athletics - Track Events (Relay Races)",
+              "By the end of the lesson, the learner should be able to: a) Identify non-visual baton exchange techniques; b) Demonstrate baton passing within the changeover zone in a 4x100m relay; c) Show teamwork during relay practice.",
+              "Why is timing crucial during a baton exchange in relay races?",
+              "Learners work in teams of four to drill non-visual baton passing (upsweep and downsweep methods) within designated changeover zones while running.",
+              "Relay batons, running track, marking cones, stopwatches, whistle.",
+              "Practical demonstration, Peer observation, Group performance rating"
+            ],
+            [
+              "Week 7",
+              "Sports and Games",
+              "Ball Games - Netball / Basketball Skills",
+              "By the end of the lesson, the learner should be able to: a) Differentiate between a chest pass and a bounce pass; b) Execute accurate chest and bounce passes during target drills; c) Demonstrate fair play in small-sided games.",
+              "How does choice of pass affect ball speed and tactical advantage in a game?",
+              "Learners perform paired passing drills, practice footwork and pivoting techniques, and apply passes in 3v3 mini-game scenarios.",
+              "Netballs, basketballs, markings, bibs, whistle, training cones.",
+              "Practical assessment, Observation rubric, Oral questioning"
+            ],
+            [
+              "Week 8",
+              "Sports and Games",
+              "Gymnastics (Floor Exercises & Balances)",
+              "By the end of the lesson, the learner should be able to: a) Execute a forward roll with correct tuck position; b) Perform static partner balances maintaining core stability; c) Adhere to safety guidelines on gymnastics mats.",
+              "How does core stability enhance body balance in gymnastics?",
+              "Learners warm up core muscles, practice tuck-and-roll movements on mats, work in pairs to form balance pyramids, and provide mutual spotting.",
+              "Gymnastics mats, whistle, safety rule charts, video clips.",
+              "Practical demonstration, Spotter checklist, Peer feedback"
+            ],
+            [
+              "Week 9",
+              "Physical Fitness and Health",
+              "Fitness Testing (Agility and Flexibility)",
+              "By the end of the lesson, the learner should be able to: a) Measure personal flexibility using the sit-and-reach test; b) Perform shuttle runs to measure agility; c) Appreciate personal fitness improvement over time.",
+              "Why is physical agility essential in sports and daily activities?",
+              "Learners set up test stations, perform sit-and-reach tests, run 10-meter shuttle tests, record results in personal health logs, and compare with standards.",
+              "Sit-and-reach box, tape measure, stopwatches, cones, fitness logbooks.",
+              "Student fitness logs, Practical performance assessment, Self-evaluation"
+            ],
+            [
+              "Week 10",
+              "Performing Arts",
+              "Play Production & Skit Integration",
+              "By the end of the lesson, the learner should be able to: a) Integrate drama, music, and dance into a short skit; b) Rehearse roles using proper vocal expression and movement; c) Appreciate collaborative theater work.",
+              "How do integrated arts enhance storytelling in social drama?",
+              "Learners form drama groups, script short skits addressing social themes, incorporate background recorder music and dance, and rehearse stage positioning.",
+              "Script templates, simple props, musical instruments, stage area.",
+              "Practical performance, Portfolio (skit scripts), Peer appraisal"
+            ],
+            [
+              "Week 11",
+              "Integrated Project",
+              "Creative Arts and Sports Exhibition",
+              "By the end of the lesson, the learner should be able to: a) Display visual art pieces created during the term; b) Perform a mini music and sports skills exhibition; c) Express pride in personal and group achievements.",
+              "How does an exhibition foster community appreciation of arts and sports?",
+              "Learners arrange sculpture artifacts and puppets on display tables, present music ensembles and gymnastics routines to an audience, and critique displays.",
+              "Display tables, artwork tags, audio speakers, gymnastic mats, sports gear.",
+              "Exhibition rubric, Portfolio assessment, Authentic teacher feedback"
+            ],
+            [
+              "Week 12",
+              "Revision & Portfolio",
+              "Portfolio Organization and Skill Review",
+              "By the end of the lesson, the learner should be able to: a) Organize practical artworks, music sheets, and sports logs in a portfolio; b) Reflect on strengths and areas for growth across CAS strands; c) Demonstrate orderliness.",
+              "Why is reflecting on practical learning experiences important for skill mastery?",
+              "Learners compile term artifacts, fill self-reflection rubrics, organize physical and digital portfolios, and review key theoretical concepts across all strands.",
+              "Student portfolio binders, assessment rubrics, summary worksheets.",
+              "Portfolio evaluation rubric, Oral reflection, Self-assessment"
+            ],
+            [
+              "Week 13",
+              "Assessment",
+              "Term 3 Summative Assessment",
+              "By the end of the lesson, the learner should be able to: a) Answer written evaluation questions covering Grade 7 CAS Term 3 strands; b) Demonstrate practical mastery in selected music, art, and sports tasks; c) Exhibit integrity.",
+              "How do practical and written assessments evaluate total competency in CAS?",
+              "Learners sit for end-of-term written assessment papers and complete individual practical stations for sports skills, instrumental playing, and art evaluation.",
+              "Assessment papers, practical scorecards, sports equipment, musical instruments.",
+              "Written examination, Standardized practical performance scoring"
+            ],
+            [
+              "Week 14",
+              "Closure & Evaluation",
+              "Term Closure, Reporting, and Equipment Care",
+              "By the end of the lesson, the learner should be able to: a) Review term assessment results and constructive feedback; b) Clean, organize, and store sports and art equipment safely; c) Demonstrate responsibility in facility care.",
+              "Why is safe storage and maintenance of sports and art materials essential?",
+              "Learners receive individual assessment feedback, clean practical rooms, inspect and store musical instruments and sports equipment, and complete term reports.",
+              "Report cards, equipment inventory sheets, storage cabinets, cleaning materials.",
+              "Inventory checklist, Self-evaluation, Teacher observation"
+            ]
+          ]
+        }
+      }
+    ],
+    "generatedAt": "2026-08-30T09:01:14.813Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-08-30T09:03:00.116Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-30T09:03:01.452Z",
+  "source": "teacher-approved"
+}
