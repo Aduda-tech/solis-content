@@ -1,0 +1,249 @@
+{
+  "kind": "exam-builder",
+  "grade": "Grade 7",
+  "subject": "SCI",
+  "topic": "Grade 7 SCI Exam",
+  "approved": {
+    "title": "Grade 7 SCI Exam",
+    "subtitle": "Term 1 Assessment",
+    "sections": [
+      {
+        "heading": "Section A: Multiple Choice (20 marks)",
+        "questions": [
+          {
+            "number": 1,
+            "question": "Which of the following cell organelles is present in plant cells but absent in animal cells?",
+            "options": [
+              "A) Cell membrane",
+              "B) Cell wall",
+              "C) Cytoplasm",
+              "D) Nucleus"
+            ],
+            "answer": "B) Cell wall",
+            "marks": 2
+          },
+          {
+            "number": 2,
+            "question": "Which human excretory organ is responsible for filtering metabolic waste products from blood to produce urine?",
+            "options": [
+              "A) Lungs",
+              "B) Liver",
+              "C) Skin",
+              "D) Kidneys"
+            ],
+            "answer": "D) Kidneys",
+            "marks": 2
+          },
+          {
+            "number": 3,
+            "question": "A learner mixed salt and water until all the salt dissolved. Which of the following methods is most suitable for recovering the salt from the solution?",
+            "options": [
+              "A) Filtration",
+              "B) Decantation",
+              "C) Evaporation",
+              "D) Sieving"
+            ],
+            "answer": "C) Evaporation",
+            "marks": 2
+          },
+          {
+            "number": 4,
+            "question": "A learner pushed a heavy wooden crate across a rough concrete floor. Which force directly opposed the forward movement of the crate?",
+            "options": [
+              "A) Gravitational force",
+              "B) Frictional force",
+              "C) Magnetic force",
+              "D) Electrostatic force"
+            ],
+            "answer": "B) Frictional force",
+            "marks": 2
+          },
+          {
+            "number": 5,
+            "question": "Heat energy from the Sun reaches the Earth through space primarily by which process?",
+            "options": [
+              "A) Conduction",
+              "B) Convection",
+              "C) Radiation",
+              "D) Reflection"
+            ],
+            "answer": "C) Radiation",
+            "marks": 2
+          },
+          {
+            "number": 6,
+            "question": "Which of the following is a non-biodegradable waste material found in the environment?",
+            "options": [
+              "A) Banana peels",
+              "B) Plastic bottle",
+              "C) Dry leaves",
+              "D) Cotton cloth"
+            ],
+            "answer": "B) Plastic bottle",
+            "marks": 2
+          },
+          {
+            "number": 7,
+            "question": "What happens to the human diaphragm during the process of inhalation?",
+            "options": [
+              "A) Moves upwards and relaxes",
+              "B) Contracts and flattens downwards",
+              "C) Expands outwards without changing shape",
+              "D) Remains completely still"
+            ],
+            "answer": "B) Contracts and flattens downwards",
+            "marks": 2
+          },
+          {
+            "number": 8,
+            "question": "A learner tested an unknown liquid with red litmus paper, and it turned blue. The unknown liquid is most likely to be a...",
+            "options": [
+              "A) Base",
+              "B) Acid",
+              "C) Neutral solution",
+              "D) Distilled water"
+            ],
+            "answer": "A) Base",
+            "marks": 2
+          },
+          {
+            "number": 9,
+            "question": "Why do tractors have wide rear tyres when working in muddy farm fields?",
+            "options": [
+              "A) To increase friction and slow down the tractor",
+              "B) To increase pressure on the soil",
+              "C) To decrease pressure on the soil to prevent sinking",
+              "D) To make the tractor move faster"
+            ],
+            "answer": "C) To decrease pressure on the soil to prevent sinking",
+            "marks": 2
+          },
+          {
+            "number": 10,
+            "question": "The bending of light rays as they pass from air into water is known as:",
+            "options": [
+              "A) Reflection",
+              "B) Dispersion",
+              "C) Absorption",
+              "D) Refraction"
+            ],
+            "answer": "D) Refraction",
+            "marks": 2
+          }
+        ]
+      },
+      {
+        "heading": "Section B: Open-Ended Questions (20 marks)",
+        "questions": [
+          {
+            "number": 11,
+            "question": "State two structural differences between a plant cell and an animal cell.",
+            "answer": "1. Plant cells have a cell wall, while animal cells do not.\n2. Plant cells contain chloroplasts, while animal cells do not.",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for stating presence/absence of cell wall in plant vs animal cell.",
+              "1 mark for stating presence/absence of chloroplasts or large central vacuole."
+            ]
+          },
+          {
+            "number": 12,
+            "question": "State two major functions of the human skeletal system.",
+            "answer": "1. Provides structural support and shape to the body.\n2. Protects delicate internal organs (such as the brain, heart, and lungs).",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for mentioning support/framework/shape.",
+              "1 mark for mentioning protection of internal organs or aiding movement."
+            ]
+          },
+          {
+            "number": 13,
+            "question": "List two methods that can be used to separate an insoluble solid from a liquid.",
+            "answer": "1. Filtration\n2. Decantation",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for naming Filtration.",
+              "1 mark for naming Decantation (or Centrifugation)."
+            ]
+          },
+          {
+            "number": 14,
+            "question": "Define the term 'force' and state its SI unit.",
+            "answer": "Force is a push or a pull exerted on an object.\nIts SI unit is the Newton (N).",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for correctly defining force as a push or pull.",
+              "1 mark for stating the SI unit as Newton (N)."
+            ]
+          },
+          {
+            "number": 15,
+            "question": "Differentiate between renewable and non-renewable sources of energy, giving one example of a renewable energy source.",
+            "answer": "Renewable energy sources can be naturally replenished within a short period, whereas non-renewable energy sources are exhaustible and take millions of years to form.\nExample of renewable energy: Solar energy (or wind, hydro, geothermal).",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for the correct distinction between renewable and non-renewable sources.",
+              "1 mark for giving a correct example of a renewable energy source."
+            ]
+          },
+          {
+            "number": 16,
+            "question": "State two human activities that contribute to air pollution in the environment.",
+            "answer": "1. Burning of fossil fuels by motor vehicles and industries.\n2. Burning of domestic waste and open deforestation/charcoal burning.",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for first valid human activity (e.g., industrial emissions/vehicle exhaust).",
+              "1 mark for second valid human activity (e.g., open waste burning/deforestation)."
+            ]
+          },
+          {
+            "number": 17,
+            "question": "State two main functions of blood in the human body.",
+            "answer": "1. Transporting oxygen, nutrients, and hormones to body tissues.\n2. Defending the body against diseases (white blood cells) and preventing blood loss through clotting (platelets).",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for transport of gases/nutrients/wastes.",
+              "1 mark for body protection/defense or temperature regulation."
+            ]
+          },
+          {
+            "number": 18,
+            "question": "Name two commercial or natural indicators used to test for acids and bases in the laboratory.",
+            "answer": "1. Litmus paper (red/blue)\n2. Phenolphthalein (or Methyl orange / red cabbage extract)",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for naming Litmus paper.",
+              "1 mark for naming Phenolphthalein, Methyl orange, or a valid natural indicator (e.g., red cabbage, hibiscus)."
+            ]
+          },
+          {
+            "number": 19,
+            "question": "Describe two methods used to reduce friction between moving parts of machinery.",
+            "answer": "1. Applying lubricants such as oil or grease between moving parts.\n2. Using ball bearings or rollers between moving surfaces.",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for lubrication (oiling/greasing).",
+              "1 mark for using ball bearings/rollers or polishing surfaces."
+            ]
+          },
+          {
+            "number": 20,
+            "question": "State two daily life applications of good conductors of heat.",
+            "answer": "1. Making cooking utensils (pans, pots) out of metals to allow fast heat transfer.\n2. Making the base plate of electric irons out of metal to iron clothes effectively.",
+            "marks": 2,
+            "markingPoints": [
+              "1 mark for mentioning cooking utensils/pots.",
+              "1 mark for mentioning electric iron bases, car radiators, or metallic kettles."
+            ]
+          }
+        ]
+      }
+    ],
+    "totalMarks": 40,
+    "totalTime": "1 hour 30 minutes",
+    "generatedFrom": []
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-30T08:51:10.514Z",
+  "source": "teacher-approved"
+}
