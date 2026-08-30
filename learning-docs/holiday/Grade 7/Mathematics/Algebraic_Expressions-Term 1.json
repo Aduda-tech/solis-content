@@ -1,0 +1,102 @@
+{
+  "kind": "holiday",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "level": "Term 1",
+  "topic": "Algebraic Expressions",
+  "approved": {
+    "kind": "holiday",
+    "title": "GRADE 7 MATHEMATICS HOLIDAY ASSIGNMENT: ALGEBRAIC EXPRESSIONS",
+    "subtitle": "Kenyan Junior Secondary School (CBC) | Duration: 14 Days",
+    "offline": false,
+    "source": "server",
+    "grade": "Grade 7",
+    "subject": "Mathematics",
+    "level": "Term 1",
+    "sections": [
+      {
+        "heading": "1. Instructions & Due Date",
+        "items": [
+          "Due Date: Submit your completed assignment exactly 14 days from today (First day of Term Re-opening).",
+          "Target Strand: Algebra | Sub-strand: Algebraic Expressions (Grade 7 Mathematics CBC Curriculum).",
+          "Learner's Name: _____________________________________________ Class: Grade 7 ______",
+          "Complete all questions neatly in your Mathematics Revision Exercise Book.",
+          "Show all working clearly for every question. Marks will be awarded for correct steps and final answers.",
+          "Parents or Guardians are kindly requested to guide, monitor daily progress, and verify completed work using the answer key provided at the end."
+        ]
+      },
+      {
+        "heading": "2. Learning Objectives for the Holiday",
+        "body": "By completing this holiday assignment, the learner should be able to:",
+        "items": [
+          "Form simple algebraic expressions from word problems and real-life scenarios.",
+          "Identify like and unlike terms in algebraic expressions.",
+          "Simplify algebraic expressions by combining like terms.",
+          "Expand single bracket algebraic expressions accurately.",
+          "Evaluate algebraic expressions by substituting numerical values for variables.",
+          "Apply algebraic expressions to solve real-life perimeter, cost, and quantities problems."
+        ]
+      },
+      {
+        "heading": "3. Assignment Tasks — Part A: Forming & Simplifying Expressions (15 Marks)",
+        "items": [
+          "Task 1: A farmer has y cows and 3 times as many goats. Write a simplified algebraic expression for the total number of animals on the farm. (2 marks)",
+          "Task 2: Simplify the following algebraic expressions by collecting like terms:\n (a) 7a + 4b - 2a + 5b (2 marks)\n (b) 12x + 8y - 5x - 3y + 2 (2 marks)",
+          "Task 3: Simplify the expression with fractional coefficients:\n (1/2)m + (3/4)n + (1/4)m - (1/4)n (3 marks)",
+          "Task 4: Jane is x years old. Her brother John is 4 years younger than Jane. Her mother is 3 times as old as Jane. Write a simplified algebraic expression for the sum of their ages. (3 marks)",
+          "Task 5: Group the like terms together and simplify: 9p + 5q - 3p + 2q - 4 + 7 (3 marks)"
+        ]
+      },
+      {
+        "heading": "4. Assignment Tasks — Part B: Expansion & Substitution (15 Marks)",
+        "items": [
+          "Task 6: Expand the following single brackets:\n (a) 4(2x + 3y) (2 marks)\n (b) 3(5a - 2b) (2 marks)",
+          "Task 7: Expand and simplify the expression: 5(p + 2q) + 3(2p - q) (3 marks)",
+          "Task 8: Expand and simplify: 4(3m + 2n) - 2(m - 4n) (3 marks)",
+          "Task 9: Given that x = 4, y = 3, and z = 2, evaluate the following expressions:\n (a) 3x + 2y - z (2 marks)\n (b) x^2 + 2yz (3 marks)"
+        ]
+      },
+      {
+        "heading": "5. Assignment Tasks — Part C: Real-Life Application Problems (10 Marks)",
+        "items": [
+          "Task 10: A local kiosk sells a loaf of bread at KSh p and a packet of milk at KSh q. Wanjiku bought 3 loaves of bread and 4 packets of milk.\n (a) Write an algebraic expression for the total cost of the items bought in terms of p and q. (1 mark)\n (b) If a loaf of bread costs KSh 65 and a packet of milk costs KSh 55, calculate the total amount spent by Wanjiku. (3 marks)",
+          "Task 11: The length of a rectangular school garden is (2x + 3) metres and the width is (x + 1) metres.\n (a) Write a simplified algebraic expression for the perimeter of the garden. (3 marks)\n (b) Calculate the actual perimeter of the garden when x = 5 metres. (3 marks)"
+        ]
+      },
+      {
+        "heading": "6. Parent / Guardian Marking & Verification Guide",
+        "body": "Parents/Guardians are requested to score the student's work out of 40 marks using the grading key below upon completion.",
+        "items": [
+          "Grade A (32 - 40 marks / 80% - 100%): Exceeding Expectations — Excellent understanding of algebraic concepts.",
+          "Grade B (24 - 31 marks / 60% - 79%): Meeting Expectations — Good effort, minor errors in signs or substitution.",
+          "Grade C (16 - 23 marks / 40% - 59%): Approaching Expectations — Needs review on expanding brackets and combining like terms.",
+          "Grade D (Below 16 marks / Under 40%): Below Expectations — Requires extra practice and teacher support upon school re-opening.",
+          "Parent/Guardian Signature: _______________________ Date Verified: _______________"
+        ]
+      },
+      {
+        "heading": "7. Answers & Detailed Solutions (For Parents / Guardians)",
+        "items": [
+          "Task 1: Cows = y, Goats = 3y. Total = y + 3y = 4y animals.",
+          "Task 2:\n (a) (7a - 2a) + (4b + 5b) = 5a + 9b\n (b) (12x - 5x) + (8y - 3y) + 2 = 7x + 5y + 2",
+          "Task 3: Group terms: [(1/2)m + (1/4)m] + [(3/4)n - (1/4)n] = (3/4)m + (2/4)n = (3/4)m + (1/2)n",
+          "Task 4: Jane = x, John = x - 4, Mother = 3x. Total sum = x + (x - 4) + 3x = (x + x + 3x) - 4 = 5x - 4 years.",
+          "Task 5: (9p - 3p) + (5q + 2q) + (-4 + 7) = 6p + 7q + 3",
+          "Task 6:\n (a) 4 * 2x + 4 * 3y = 8x + 12y\n (b) 3 * 5a - 3 * 2b = 15a - 6b",
+          "Task 7: Expand: 5p + 10q + 6p - 3q. Group terms: (5p + 6p) + (10q - 3q) = 11p + 7q",
+          "Task 8: Expand: 12m + 8n - 2m + 8n (Note: -2 * -4n = +8n). Group terms: (12m - 2m) + (8n + 8n) = 10m + 16n",
+          "Task 9:\n (a) 3(4) + 2(3) - 2 = 12 + 6 - 2 = 16\n (b) 4^2 + 2(3)(2) = 16 + 12 = 28",
+          "Task 10:\n (a) Total cost = 3p + 4q\n (b) Cost = 3(65) + 4(55) = 195 + 220 = KSh 415",
+          "Task 11:\n (a) Perimeter = 2(length + width) = 2[(2x + 3) + (x + 1)] = 2(3x + 4) = 6x + 8 metres\n (b) When x = 5: Perimeter = 6(5) + 8 = 30 + 8 = 38 metres."
+        ]
+      }
+    ],
+    "generatedAt": "2026-08-30T07:53:12.865Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-08-30T07:55:21.672Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-30T07:55:22.917Z",
+  "source": "teacher-approved"
+}
