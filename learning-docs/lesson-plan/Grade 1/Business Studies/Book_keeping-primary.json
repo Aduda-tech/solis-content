@@ -1,0 +1,107 @@
+{
+  "kind": "lesson-plan",
+  "grade": "Grade 1",
+  "subject": "Business Studies",
+  "level": "primary",
+  "topic": "Book-keeping",
+  "approved": {
+    "kind": "lesson-plan",
+    "title": "CBC LESSON PLAN: GRADE 1 BUSINESS STUDIES",
+    "subtitle": "Sub-strand: Book-keeping | Bahari Girls Junior School",
+    "offline": false,
+    "source": "server",
+    "grade": "Grade 1",
+    "subject": "Business Studies",
+    "level": "primary",
+    "sections": [
+      {
+        "heading": "1. Administrative Details",
+        "items": [
+          "School: Bahari Girls Junior School",
+          "Teacher: [Teacher's Name]",
+          "Learning Area: Business Studies (Financial Literacy)",
+          "Grade/Class: Grade 1",
+          "Term: Term 1",
+          "Strand: Financial Literacy and Entrepreneurship",
+          "Sub-strand: Book-keeping (Simple Record Keeping)",
+          "Duration: 35 Minutes",
+          "Date: [Insert Date]"
+        ]
+      },
+      {
+        "heading": "2. Specific Learning Outcomes",
+        "body": "By the end of the lesson, the learner should be able to:",
+        "items": [
+          "a) Identify basic items and tools used in simple record-keeping within a shop environment (Knowledge).",
+          "b) Record simple daily sales transactions using picture symbols and tally marks in a model ledger sheet (Skill).",
+          "c) Value the importance of honesty and care when keeping track of simple money transactions (Attitude)."
+        ]
+      },
+      {
+        "heading": "3. Key Inquiry Question",
+        "body": "Why is it important for a shopkeeper to write down what they buy and sell every day?"
+      },
+      {
+        "heading": "4. Core Competencies",
+        "items": [
+          "Communication and Collaboration: Developed through paired shopkeeper role-play and group transaction logging.",
+          "Critical Thinking and Problem Solving: Applied when matching sold items to accurate tally marks and numbers.",
+          "Self-efficacy: Built as learners present their completed transaction books to the class."
+        ]
+      },
+      {
+        "heading": "5. Values",
+        "items": [
+          "Honesty: Exhibited by recording exact sales and money received during role-play activities.",
+          "Responsibility: Demonstrated through careful handling of record books and learning items.",
+          "Integrity: Shown by keeping fair and accurate records without altering numbers."
+        ]
+      },
+      {
+        "heading": "6. Pertinent and Contemporary Issues (PCIs)",
+        "items": [
+          "Financial Literacy: Early development of personal money management and transaction tracking skills.",
+          "Social Justice: Promoting fair trading practices and transparency through open record-keeping."
+        ]
+      },
+      {
+        "heading": "7. Learning Resources",
+        "items": [
+          "Realia: Empty item packets (milk cartons, pencils, books), play money, counters.",
+          "Print: Visual book-keeping charts, simple transaction log sheets with picture columns.",
+          "Digital/Audio-Visual: Pictures or short clip of a local shopkeeper keeping a sales book."
+        ]
+      },
+      {
+        "heading": "8. Organisation of Learning",
+        "body": "Lesson Phases and Allocation (Total: 35 Minutes):",
+        "items": [
+          "Introduction (5 Minutes): Teacher shares a short story about a shopkeeper who forgot how many pencils were sold because they didn't write it down. Learners discuss how to help the shopkeeper remember.",
+          "Phase 1: Teacher Demonstration (7 Minutes): Teacher displays a simple visual record sheet on the board. Demonstrates how to record sold items using simple symbols and tally marks (e.g., 1 Milk Packet = I, 2 Books = II).",
+          "Phase 2: Group Guided Practice (10 Minutes): Learners work in groups of three. One acts as buyer, one as seller, and one as book-keeper. Using pretend shop items, the book-keeper records each sale using tally marks on group record sheets.",
+          "Phase 3: Independent Learner Activity (8 Minutes): Learners complete individual task sheets where they observe pictures of sold items and record the corresponding counts using tally marks and numbers in their simple ledgers.",
+          "Conclusion (5 Minutes): Selected learners showcase their completed transaction logs. Teacher guides a brief summary reiterating why accurate book-keeping keeps shops running well."
+        ]
+      },
+      {
+        "heading": "9. Formative and Authentic Assessment",
+        "items": [
+          "Observation: Teacher observes learner active engagement, honesty, and teamwork during the shopkeeper role-play.",
+          "Practical Demonstration: Assessment of learners' ability to accurately record items sold using correct tally marks on record sheets.",
+          "Portfolio: Learner-completed transaction log sheets collected and evaluated for inclusion in their assessment files."
+        ]
+      },
+      {
+        "heading": "10. Teacher's Reflection",
+        "body": "Teacher notes on lesson success, learner acquisition of tally-recording skills, engagement levels during role-play, and identified learners requiring remedial support in counting and record-keeping."
+      }
+    ],
+    "generatedAt": "2026-08-30T14:02:46.367Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-08-30T14:03:54.999Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-30T14:03:56.544Z",
+  "source": "teacher-approved"
+}
