@@ -1,0 +1,438 @@
+{
+  "kind": "scheme-of-work",
+  "grade": "Grade 7",
+  "subject": "ENG",
+  "level": "junior_secondary",
+  "topic": "Active and Passive Voice",
+  "approved": {
+    "kind": "scheme-of-work",
+    "title": "SCHEME OF WORK — ENGLISH",
+    "subtitle": "Grade 7 · Term 2",
+    "offline": false,
+    "source": "content-repo",
+    "grade": "Grade 7",
+    "subject": "ENG",
+    "level": "junior_secondary",
+    "sections": [
+      {
+        "heading": "ADMINISTRATIVE DETAILS",
+        "table": {
+          "headers": [
+            "Field",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "School",
+              "Bahari Girls Junior School"
+            ],
+            [
+              "Teacher",
+              ""
+            ],
+            [
+              "Subject",
+              "English"
+            ],
+            [
+              "Grade",
+              "Grade 7"
+            ],
+            [
+              "Level",
+              "junior_secondary"
+            ],
+            [
+              "Term",
+              "Term 2"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "WEEKLY TEACHING SCHEDULE",
+        "table": {
+          "headers": [
+            "Week",
+            "Strand",
+            "Sub-Strand",
+            "Objectives",
+            "Key Inquiry Question",
+            "Activities",
+            "Resources",
+            "Assessment"
+          ],
+          "rows": [
+            [
+              "Week 1",
+              "Listening and speaking theme: ( Traditional fashion )",
+              "Listening: Views/opinions",
+              "By the end of the lesson the learner should be able to: -list ways of expressing views/opinions in different contexts -use different expressions that indicate own views/opinions in a given text -acknowledge the value of one’s views/opinions as a lifelong skill in communication",
+              "Why is it important to express one’s opinion?",
+              "The learner is guided to: -search online different ways of expressing views/opinions - role play the different characters in the narrative and bring out different ways of expressing opinions/ Views -explain their feelings towards issues raised in the trickster narrative",
+              "Skills in English Grade 7 page  143-144 digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 1",
+              "Reading",
+              "Intensive reading comprehension",
+              "By the end of the lesson the learner should be able to: -identify the main ideas in a text -describe characters, ideas or events in a text -appreciate the importance of reading comprehension in lifelong learning",
+              "How can we tell the meaning of words and phrases in a text?",
+              "The learner is guided to: -read a passage individually and identify keywords in the passage - infer the meaning of  words using contextual clues -choose descriptive parts of the passage on traditional fashion and share the vivid images created in their mind -answer questions based on their mind",
+              "Skills in English Grade 7 page 144-146",
+              "-oral  questions  -written questions"
+            ],
+            [
+              "Week 1",
+              "Reading",
+              "Intensive reading comprehension",
+              "By the end of the lesson the learner should be able to: -identify the main ideas in a text -describe characters, ideas or events in a text -appreciate the importance of reading comprehension in lifelong learning",
+              "How can we tell the meaning of words and phrases in a text?",
+              "The learner is guided to: -read a passage individually and identify keywords in the passage -infer the meaning of words using contextual clues -choose descriptive parts of the passage on traditional  fashion and share the vivid images created in their mind -answer questions based on their mind",
+              "Skills in English Grade 7 page 144-146",
+              "-oral  questions  -written questions"
+            ],
+            [
+              "Week 1",
+              "Grammar in use",
+              "Phrasal verbs",
+              "By the end of the lesson the learner should be able to: -identify phrasal verbs formed from put, come and give in a given text -use given phrasal verbs correctly in sentence construction -appreciate the role of phrasal verbs in communication",
+              "Why should we use phrasal verbs correctly?",
+              "The learner is guided to: -  read a text and identify phrasal verbs formed from put, come, give -search online the meaning of phrasal verbs they have identified -fill in the blanks using most appropriate phrasal verb -construct sentences using phrasal verbs",
+              "Skills in English Grade 7 page  147-147 d igital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 1",
+              "Writing",
+              "The writing process: Dialogues",
+              "By the end of the lesson the learner should be able to: -outline the format of a dialogue -apply the writing process  in writing a dialogue -acknowledge the importance of the writing process in acquiring good writing skills",
+              "What should we consider before writing a dialogue?",
+              "The learner is guided to: - discuss the format of a dialogue -fill in the missing words in a set dialogue on traditional fashion  -create a rough draft of a short dialogue -edit  each other’s dialogue",
+              "Skills in English Grade 7 page  150-152",
+              ""
+            ],
+            [
+              "Week 2",
+              "Listening and speaking theme: (Traditional fashion)",
+              "Listening: Views/opinions",
+              "By the end of the lesson the learner should be able to: -list ways of expressing views/opinions in different contexts -use different expressions that indicate own views/opinions in a given text -acknowledge the value of one’s views/opinions as a lifelong skill in communication",
+              "Why is it important to express one’s opinion?",
+              "The learner is guided to: -search online different ways of expressing views/opinions -role play the different characters in the narrative and bring out different ways of expressing opinions/ Views -explain their feelings towards issues  raised in the trickster narrative",
+              "Skills in English Grade 7 page  143-144 digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 2",
+              "Reading",
+              "Intensive reading comprehension",
+              "By the end of the lesson the learner should be able to: -identify the main ideas in a text -describe characters, ideas or events in a text -appreciate the importance of reading comprehension in lifelong learning",
+              "How can we tell the meaning of words and phrases in a text?",
+              "The learner is guided to: -read a passage individually and identify keywords in the passage -infer the meaning of words using contextual clues -choose descriptive parts of the passage on traditional fashion and share the vivid images created in their mind -answer questions based on their mind",
+              "Skills in English Grade 7 page 144-146",
+              "-oral  questions  -written questions"
+            ],
+            [
+              "Week 2",
+              "Reading",
+              "Intensive reading comprehension",
+              "By the end of the lesson the learner should be able to: -identify the main ideas in a text -describe characters, ideas or events in a text -appreciate the importance of reading comprehension in lifelong learning",
+              "How can we tell the meaning of words and  phrases in a text?",
+              "The learner is guided to: -read a passage individually and identify  keywords in the passage -infer the meaning of words using contextual clues -choose descriptive parts of the passage on traditional fashion and share the vivid images created in their mind -answer questions based on their mind",
+              "Skills in English Grade 7 page  144-146",
+              "-oral  questions  -written questions"
+            ],
+            [
+              "Week 2",
+              "Grammar in use",
+              "Phrasal verbs",
+              "By the end of the lesson the learner should be able to: -identify phrasal verbs formed from put, come and give in a given text -use given phrasal verbs correctly in sentence construction -appreciate the role of phrasal verbs in communication",
+              "Why should we use phrasal verbs correctly?",
+              "The learner is guided to: - read a text and identify phrasal verbs formed from put, come, give -search online the meaning of phrasal verbs they have identified -fill in the blanks using most appropriate phrasal verb -construct sentences using phrasal verbs",
+              "Skills in English Grade 7 page  147-147 digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 2",
+              "Writing",
+              "The writing process: Dialogues",
+              "By the end of the lesson the learner should be able to: -outline the format of a dialogue -apply the writing process in writing a dialogue -acknowledge the importance of the writing process in acquiring good writing skills",
+              "What should we consider before writing a dialogue?",
+              "The learner is guided to: -discuss the format of a dialogue -fill in the missing words in a set dialogue on traditional fashion  -create a rough draft of a short dialogue -edit  each other’s dialogue",
+              "Skills in English Grade 7 page  150-152",
+              ""
+            ],
+            [
+              "Week 3",
+              "Listening and speaking theme: (Land travel)",
+              "Listening comprehension: Extensive listening",
+              "By the end of the lesson the learner should be able to: -identify key issues raised in songs, addressing land travel -use vocabulary identified from songs on land travel correctly -acknowledge the importance of extensive listening in communication",
+              "How can we tell the main message in a song?",
+              "The learner is guided to: -listen to songs on local and international land travel  from audio recordings -pick out key issues raised from a song sung by the teacher on land travel -construct sentences orally using vocabulary learnt -sing choral songs on travel",
+              "Skills in English Grade 7 page  153-154",
+              "-oral questions"
+            ],
+            [
+              "Week 3",
+              "Reading",
+              "Intensive Reading Comprehension strategies",
+              "By the end of the lesson the learner should be able to: -identify key ideas from a passage -create mental images from events in a passage -respond to factual and inferential questions correctly from the passage -acknowledge the importance of comprehension strategies in effective reading",
+              "What is the importance of reading a passage?",
+              "The learner is guided to: -read grade appropriate passages on issues related to land travel -infer the meaning of words based on how they have been used -complete oral and written exercises using the vocabulary learnt",
+              "Skills in English Grade 7 page  154-156",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 3",
+              "Grammar in use",
+              "Sentences: Simple sentences",
+              "By the end of the lesson the learner should be able to: -identify simple sentences from varied texts -construct simple sentences on a variety of issues  -advocate the importance of using a variety of sentences in communication",
+              "What is the role of sentences in a text?",
+              "The learner is guided to: - listen keenly to a poem or story on land travel and write down all simple sentences -tell a chain story featuring simple sentences -write a short dialogue using simple sentences",
+              "Skills in English Grade 7 page   157-159",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 3",
+              "Reading",
+              "Oral Literature: Praise songs",
+              "By the end of the lesson the learner should be able to: -identify  the purpose and occasions for which praise songs  are performed -perform praise songs sung in their immediate environment -appreciate the purpose of praise songs in communication",
+              "What are qualities of a good singer?",
+              "The learner is guided to: -discuss the purpose and occasions for which praise  songs  are performed  - perform praise songs sung in their immediate environment  -discuss the character traits of the singer",
+              "Skills in English Grade 7 page  160-162",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 3",
+              "Writing",
+              "Creative writing: Narrative composition",
+              "By the end of the lesson the learner should be able to: - explain the meaning of specified idioms in context -create well written narrative composition using specified idioms -appreciate the role of idioms in creative writing",
+              "What is the importance of using idioms in communication?",
+              "The learner is guided to: -discuss the meaning of specified idioms  -write a narrative composition using specified idioms  -write a narrative composition individually",
+              "Skills in English Grade 7 page  163-164",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 4",
+              "Listening and speaking theme: (Land travel)",
+              "Listening comprehension: Extensive listening",
+              "By the end of the lesson the learner should be able to: -identify key issues raised in songs, addressing land travel -use vocabulary identified from songs on land travel correctly -acknowledge the importance of extensive listening in communication",
+              "How can we tell the main message in a song?",
+              "The learner is guided to: -listen to songs on local and international land travel from audio recordings -pick out key issues raised from a song sung by the teacher on land travel -construct sentences orally using  vocabulary learnt -sing choral songs on travel",
+              "Skills in English Grade 7 page  153-154",
+              "-oral questions"
+            ],
+            [
+              "Week 4",
+              "Reading",
+              "Intensive Reading Comprehension strategies",
+              "By the end of the lesson the learner should be able to: -identify key ideas from a passage -create mental images from events in a passage -respond to factual and inferential questions correctly from the passage -acknowledge the importance of comprehension strategies in effective reading",
+              "What is the importance of reading a passage?",
+              "The learner is guided to: -read grade appropriate passages on issues related to land travel -infer the meaning of words based on how they have been used -complete oral and written exercises using the vocabulary learnt",
+              "Skills in English Grade 7 page  154-156",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 4",
+              "Grammar in use",
+              "Sentences: Simple sentences",
+              "By the end of the lesson the learner should be able to: -identify simple sentences from varied texts -construct simple sentences on a variety of issues  -advocate the importance of using a variety of  sentences in communication",
+              "What is the role of sentences in a text?",
+              "The learner is guided to: -listen keenly to a poem or story on land travel and write down all simple sentences -tell a chain story featuring  simple sentences -write a short dialogue using simple sentences",
+              "Skills in English Grade 7 page   157-159",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 4",
+              "Reading",
+              "Oral Literature: Praise songs",
+              "By the end of the lesson the learner should be able to: -identify the purpose and occasions for which praise  songs  are performed -perform praise songs sung in their immediate environment -appreciate the purpose of praise songs in communication",
+              "What are qualities of a good singer?",
+              "The learner is guided to: -discuss the purpose and occasions for which  praise  songs  are performed  - perform praise songs sung in their immediate environment  -discuss the character traits of the singer",
+              "Skills in English Grade 7 page  160-162",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 4",
+              "Writing",
+              "Creative writing: Narrative composition",
+              "By the end of the lesson the learner should be able to: -explain the meaning of specified idioms in context -create well written narrative composition using specified idioms -appreciate the role of idioms in creative writing",
+              "What is the importance of using idioms in communication?",
+              "The learner is guided to: -discuss the meaning of specified idioms  -write a narrative composition using specified idioms  -write a narrative composition individually",
+              "Skills in English Grade 7 page  163-164",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 5",
+              "Listening and speaking theme:  sports: - outdoor games",
+              "Consonant sounds and intonation",
+              "By the end of the lesson the learner should be able to: -identify words with the sounds /v/,/f/,/n/ and /ng/ in a text -use the correct intonation for yes/no and wh-questions  -appreciate the importance of correct pronunciation and intonation in a conversation",
+              "How can one learn to correctly pronounce words?",
+              "The learner is guided to: -practise pronunciation of words with target sounds -listen to an audio conversation on outdoor  games in which Yes/no and  Wh-questions are used to find out whether a rising or falling intonation is used",
+              "Skills in English Grade 7 page  165-166",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 5",
+              "Reading",
+              "Study skills: summarising",
+              "By the end of the lesson the learner should be able to: -identify the main ideas in texts -write a summary of ideas from varied texts -appreciate the importance of summarising information in a given text",
+              "Why is it important to summarise information?",
+              "The learner is guided to: -discuss the steps to follow when writing a summary of a text -make notes from underlined  sentences and use them to make a rough draft -use the rough draft to make a fair draft",
+              "Skills in English Grade 7 page   167-169",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 5",
+              "Grammar in use",
+              "Subject verb agreement",
+              "By the end of the lesson the learner should be able to: - identify the subject and the verb in sentences -construct sentences ensuring subject-verb agreement -affirm the importance of subject verb agreement in sentences",
+              "How do we construct sentences?",
+              "The learner is guided to: -read texts and identify the subject and verbs in sentences -make sentences based on outdoor sports in which the rule of subject verb agreement has been applied",
+              "Skills in English Grade 7 page   170-171",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 5",
+              "Reading",
+              "Features of styles",
+              "By the end of the lesson the learner should be able to: -identify instances of dialogue, similes and metaphors in a text -use the styles of dialogue, similes and  metaphors in  guided context -appreciate the importance of style in a work of art",
+              "Why do we use stylistic devices in writing?",
+              "The learner is guided to: -read a class reader and  identify dialogue , similes and metaphors  -make sentences  using similes and  metaphors identified from the text",
+              "Skills in English Grade 7 page   172-173",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 5",
+              "Writing",
+              "Descriptive composition (200-240 words)",
+              "By the end of the lesson the learner should be able to: -   identify features of a    person,a thing,or a place that can be described -appreciate the importance of creative writing in communication",
+              "What do you consider when describing something?",
+              "The learner is guided to: -discuss features of a   person,a  thing, or  a place that can be described  - explain the difference between descriptive writing and other forms of writing -create a descriptive composition of between 200-240 words",
+              "Skills in English Grade 7 page  175-177",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 6",
+              "Listening and speaking theme: sports: - outdoor games",
+              "Consonant sounds and intonation",
+              "By the end of the lesson the learner should be able to: -identify words with the sounds /v/,/f/,/n/ and /ng/ in a text -use the correct intonation for yes/no and wh-questions  -appreciate the importance of correct pronunciation and intonation in a conversation",
+              "How can one learn to correctly pronounce words?",
+              "The learner is guided to: -practise pronunciation of words with target sounds -listen to an audio conversation  on outdoor  games in which Yes/no and Wh-questions are used to find out whether a rising or falling intonation is used",
+              "Skills in English Grade 7 page  165-166",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 6",
+              "Reading",
+              "Study skills: summarising",
+              "By the end of the lesson the learner should be able to: -identify the main ideas in texts -write a summary of ideas from varied texts -appreciate the importance of summarising information in a given text",
+              "Why is it important to summarise information?",
+              "The learner is guided to: -discuss the steps to follow when writing a summary of a text -make notes from underlined sentences and use them to make a rough draft -use the rough draft to make a fair draft",
+              "Skills in English Grade 7 page   167-169",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 6",
+              "Grammar in use",
+              "Subject verb agreement",
+              "By the end of the lesson the learner should be able to: -identify the subject and the verb in sentences -construct sentences ensuring subject-verb agreement -affirm the importance of subject verb agreement in sentences",
+              "How do we construct sentences?",
+              "The learner is guided to: -read texts and identify the subject and  verbs in sentences -make sentences based on outdoor sports in which the rule of subject verb agreement has been applied",
+              "Skills in English Grade 7 page   170-171",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 6",
+              "Reading",
+              "Features of styles",
+              "By the end of the lesson the learner should be able to: -identify instances of dialogue, similes and metaphors in a text -use the styles of dialogue, similes and metaphors in guided context -appreciate the importance of style in a work of art",
+              "Why do we use stylistic devices in writing?",
+              "The learner is guided to: -read a class reader and identify dialogue, similes and metaphors  -make sentences using similes and  metaphors identified from the text",
+              "Skills in English Grade 7 page   172-173",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 6",
+              "Writing",
+              "Descriptive composition (200-240 words)",
+              "By the end of the lesson the learner should be able to: - identify features of a  person,a thing,or a place that can be described -appreciate the importance of creative writing in communication",
+              "What do you consider when describing something?",
+              "The learner is guided to: -discuss features of a   person,a thing, or a place that can be described  -explain the difference between descriptive writing and other forms of writing -create a descriptive composition of between 200-240 words",
+              "Skills in English Grade 7 page  175-177",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 7",
+              "Listening and speaking theme: (Tourists attractions  sites  in Kenya )",
+              "Events within the classroom",
+              "By the end of the lesson the learner should be able to: -outline the organization of an oral report of events within the classroom -present an oral report on events that occur within the classroom -enjoy delivering and listening to oral reports in various contexts",
+              "How can you make an oral report presentation interesting?",
+              "The learner is guided to: -discus s the organization of an oral report  -search online the steps of  conducting an oral report   -prepare and present oral reports",
+              "Skills in English Grade 7 page  179-180   Digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 7",
+              "Reading",
+              "Reading fluency",
+              "By the end of the lesson the learner should be able to: -recognise   the use of fluency strategies in reading process -apply fluency strategies while reading -desire to read fluently",
+              "How can you improve your reading fluency?",
+              "The learner is guided to: -watch video clips of learners reading fluently and  discuss what makes them good readers -in groups practise timed reading, accurate reading on issues like tourist attractions sites in Kenya",
+              "Skills in English Grade 7 page  181-182 Digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 7",
+              "Grammar in use",
+              "Affirmative and negative sentences",
+              "By the end of the lesson the learner should be able to: -differentiate between affirmative and negative sentences in spoken and written contexts -construct affirmative and constructive sentences -appreciate the expressive role in sentences for effective communication",
+              "When do we use affirmative sentences? When do we use negative statements?",
+              "The learner is guided to: -search online on differences between affirmative and negative sentences -sort jumbled up sentences into affirmative and negative sentences -construct affirmative and negative sentences",
+              "Skills in English Grade 7 page  184-185 Digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 7",
+              "Reading",
+              "Poetry",
+              "By the end of the lesson the learner should be able to: -identify the subject matter of a poem -analyse ideas in a poem -appreciate the role of poetry in passing information",
+              "What makes a poem  interesting to read?",
+              "The learner is guided to: -in groups recite poems for enjoyment and outline the subject matter -discuss ideas in a poem -discuss how to use repetition and other styles in poetry",
+              "Skills in English Grade 7  page  186-188",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 7",
+              "Writing",
+              "Functional writing:   Notices  Posters",
+              "By the end of the lesson the learner should be able to: -outline the format of presenting notices and posters -design notices and posters on current issues -appreciate the role of notices and posters in disseminating information",
+              "What kind of messages do posters convey?",
+              "The learner is guided to: Cut and paste on class walls posters on tourists attraction sites in Kenya -differentiate between a poster and a notice in writing -design a poster and a notice related to the theme",
+              "Skills in English Grade 7 page 190-192 Posters Notices Digital devices",
+              "-oral questions -written questions"
+            ],
+            [
+              "Week 7",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "RE VISION & END OF YEAR ASSESSMENT"
+            ]
+          ]
+        }
+      }
+    ],
+    "generatedAt": "2026-08-31T03:34:06.100Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-08-31T03:45:17.216Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-08-31T03:45:18.070Z",
+  "source": "teacher-approved"
+}
