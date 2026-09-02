@@ -1,0 +1,121 @@
+{
+  "grade": "Grade 4",
+  "learningArea": "Agriculture",
+  "driveId": "1SkI3Vn88LxDdsXgwI3n7_LWhTdWEMQEO",
+  "sourceLabel": "AGRICULTURE AND NUTRITION GRADE 4",
+  "pages": 32,
+  "strandCount": 12,
+  "totalLessons": 104,
+  "strands": [
+    {
+      "strand": "Conservation of Resources",
+      "subStrand": "Soil Conservation",
+      "code": "1.1",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) Identify suitable materials for making compost manure b) Prepare compost manure for farming c) Appreciate importance of compost manure in farming.",
+      "experiences": "Learners are guided to:  Discuss suitable materials for compost manure based on their local environment.  Collect and compost suitable materials and make compost manure using heap method.  Practise the learnt skills in making compost manure using slashed vegetation, kitchen wastes and any other available organic wastes and using it in their gardening activities.  Learners to develop communication skills during the discussion, care for environment while collecting waste organic matter and unity while working together in the composting activity.",
+      "inquiryQuestions": "How can composting conserve the environment?"
+    },
+    {
+      "strand": "Conservation of Resources",
+      "subStrand": "Water Conservation",
+      "code": "1.2",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Describe drip irrigation as a way of conserving water b) Carry out drip irrigation to conserve water c) Appreciate use of drip irrigation in conserving water in farming.",
+      "experiences": "Learners are guided to:  Watch video clips or use print media or observe drip irrigation in neighbouring households to guide them discuss drip irrigation concept.  Innovate drip equipment using water pipes and available containers and use the drip irrigation in gardening activities  Learners develop creativity skills when innovating drip irrigation equipment, practice responsibility in task allocation and personal safety while working with tools and equipment.",
+      "inquiryQuestions": "How does drip irrigation conserve water?"
+    },
+    {
+      "strand": "Conservation of Resources",
+      "subStrand": "Fuel Conservation",
+      "code": "1.3",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify types of fuels used at home b) Use and conserve fuels in cooking c) Appreciate the importance of conserving fuel to minimize wastage of resources.",
+      "experiences": "Learners are guided to:  Discuss to enumerate the types of fuels such as charcoal, firewood, gas, kerosene, used at home.  Practise ways of conserving fuels such as putting off fire when done and using fuel efficient equipment when cooking.  Learners develop problem solving skills as they solve problems of fuel by reducing wastage in use of fuel, show responsibility by practicing advance preparation of foodstuffs, observe safety in use of fuel.",
+      "inquiryQuestions": "How does reducing fuel wastage conserve our resources?"
+    },
+    {
+      "strand": "Conservation of Resources",
+      "subStrand": "Conserving Wild Animals",
+      "code": "1.4",
+      "lessons": 8,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify small wild animals that destroy crops b) Construct and use a scare crow to keep off small wild animals from crops c) Appreciate the importance of living better with small wild animals.",
+      "experiences": "Learners are guided to:  Brainstorm and share experiences on small wild animals such as birds, hares, squirrels, monkeys, that destroy crops.  Discuss, construct a scarecrow using locally available materials and install the scarecrows in the immediate environment to keep off small wild animals.  Learners develop creativity skills as they design a scare crow, demonstrate responsibility in allocating roles to construct and practice animal protection by safely keeping off the small wild animal.",
+      "inquiryQuestions": "How does reducing fuel wastage conserve our resources?"
+    },
+    {
+      "strand": "Food Production Processes",
+      "subStrand": "Direct Sowing of Tiny Seeds",
+      "code": "2.1",
+      "lessons": 8,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify crops established through direct sowing of tiny seeds b) Sow tiny seeds in a finely prepared seedbed. c) Adopt direct sowing in establishment of food crops.",
+      "experiences": "Learners are guided to:  Discuss to enumerate food crops such as carrots and millet that are established through direct sowing of tiny seeds (crops that do not require transplanting).  Sow the tiny seeds in a finely prepared ground or container seedbed.  Learners develop learning to learn as they address challenges in establishing tiny seeds, develop tolerance and respect while undertaking the seedbed preparation task and resolve food security in growing a crop.",
+      "inquiryQuestions": "How does direct sowing of tiny seeds enhance food production process?"
+    },
+    {
+      "strand": "Food Production Processes",
+      "subStrand": "Uses of Domestic Animals",
+      "code": "2.2",
+      "lessons": 8,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify types of domestic animals in the community b) Relate various domestic animals to their uses c) Appreciate the importance of domestic animals for food production.",
+      "experiences": "Learners are guided to:  Share experiences on the types of domestic animals (cattle, sheep, goats, poultry) found in their community and their uses.  Match the domestic animals to their uses (cattle, sheep, goat and poultry).  Make class presentations using photos or other visuals importance of domestic animal.  Learners develop self –efficacy as they confidently make class presentations, respect others while listening to the presentations and appreciate the uses of domestic animals",
+      "inquiryQuestions": "How does domestic animal contribute to food production?"
+    },
+    {
+      "strand": "Food Production Processes",
+      "subStrand": "Balanced Diet",
+      "code": "2.3",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Explain importance of eating a balanced diet b) Select food from different food-groups to make a balanced diet c) Appreciate the importance of eating a balanced diet.",
+      "experiences": "Learners are guided to:  Discuss or use digital devices to search for importance of eating a balanced diet (variety and proportion).  Select foods from locally available foods that comprise a balanced diet.  Learners to unite in making collaborative presentations of a meals with a balanced diet, and promote health awareness through the class presentations.",
+      "inquiryQuestions": "How does variety in diet impact on health?"
+    },
+    {
+      "strand": "Food Production Processes",
+      "subStrand": "Boiling and Shallow Frying Food",
+      "code": "2.4",
+      "lessons": 11,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Describe boiling and shallow frying as methods of cooking b) Cook food using boiling and shallow frying methods c) Embrace boiling and shallow frying in food production.",
+      "experiences": "Learners are guided to:  Watch video clip or demonstration on boiling and shallow frying methods of cooking.  Cook and serve boiled and shallow fried foods.  Learners to develop learning to learn by working cautiously while boiling and carrying out shallow frying processes, working resiliently while following cooking steps, promoting safety measures while working with fire and fats.",
+      "inquiryQuestions": "How can we cook foods using boiling and frying methods?"
+    },
+    {
+      "strand": "Hygiene Practices",
+      "subStrand": "Personal Hygiene",
+      "code": "3.1",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify health practices that promote personal hygiene b) Apply health practices that promote personal hygiene c) Embrace health practices to promote personal hygiene in daily life.",
+      "experiences": "Learners are guided to:  Brainstorm and enumerate practices that promote personal hygiene such as hand washing, use of personal protective equipment, use of clean water and cleaning foods.  Demonstrate appropriate practices that promote personal hygiene such as hand washing, use of personal protective equipment, use of clean water and cleaning foods.  Learners demonstrate good grooming (self- efficacy) while they take up responsibility as they carry out health practices.",
+      "inquiryQuestions": "How does personal hygiene promote good health?"
+    },
+    {
+      "strand": "Hygiene Practices",
+      "subStrand": "Domestic Hygiene",
+      "code": "3.2",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Describe the various methods used for cleaning home environment b) Use appropriate methods to clean home environment c) Appreciate a clean environment in promoting domestic hygiene",
+      "experiences": "Learners are guided to:  Discuss the methods of cleaning home environment such as mopping, dusting, sweeping and disposal of refuse.  Apply the methods such as mopping, dusting, sweeping and disposal of refuse to maintain hygiene in the environment. The methods to be applied using improvised and locally available resources.  Learners develop creativity in the use of improvised resources while cleaning, accountability in taking care of living places and environmental awareness in maintaining clean environment.",
+      "inquiryQuestions": "How can we maintain hygienic environment?"
+    },
+    {
+      "strand": "Hygiene Practices",
+      "subStrand": "Cleaning Personal Protective Equipment",
+      "code": "3.3",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify personal protective equipment in day to day life b) Clean personal protective equipment for hygiene purposes c) Appreciate clean personal protective equipment in promoting hygiene.",
+      "experiences": "Learners are guided to:  Search for information or observe a demonstration to identify common personal protective equipment such as gloves, dust masks, gum boots, head gear, overall and canvas shoes.  Apply appropriate methods to clean personal protective equipment such as gumboots or canvas shoes.  Learners develop digital literacy as they search for personal protective equipment, responsibility as they care for personal protective items, and personal safety skills as they exercise caution in the cleaning activity.",
+      "inquiryQuestions": "How does cleaning of personal protective equipment promote hygiene?"
+    },
+    {
+      "strand": "Production Techniques",
+      "subStrand": "Making Tacking Stitches",
+      "code": "4.1",
+      "lessons": 11,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify the types of tacking stitch in sewing b) Make an item using tacking stitches c) Appreciate the importance of tacking stitches.",
+      "experiences": "Learners are guided to:  Observe samples of tacking stitches (even tacking; long and short tacking) used in sewing.  Make sample item such as a handkerchief or scarecrow clothing using tacking (even tacking or long and short stitches) stitches.  Learners apply creativity and innovativeness in making an item, demonstrate unity while sharing sewing and exercise personal safety while working with sharp sewing tools.",
+      "inquiryQuestions": "How can we use tacking stitches in making items?"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:24:26.848Z",
+  "source": "KICD curriculum design"
+}
