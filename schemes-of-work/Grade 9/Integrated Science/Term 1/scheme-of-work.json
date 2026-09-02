@@ -1,0 +1,1357 @@
+{
+  "path": "schemes-of-work/Grade 9/Integrated Science/Term 1/scheme-of-work.json",
+  "grade": 9,
+  "term": 1,
+  "subject": "Integrated Science",
+  "weeks": 13,
+  "lessons": 65,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.158Z",
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Cell Biology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State cell structure; b) Analyse cell structure in real-life situations; c) Show interest in the use of cell biology in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use cell structure in everyday life?",
+      "activities": [
+        "Learners observe and record examples of cell structure",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Cell Biology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State cell division; b) Compare cell division in real-life situations; c) Show interest in the use of cell biology in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use cell division in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about cell division",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Cell Biology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise cell specialisation; b) Investigate cell specialisation in real-life situations; c) Show interest in the use of cell biology in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use cell specialisation in everyday life?",
+      "activities": [
+        "Learners are guided to discuss cell specialisation in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Classification",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise kingdoms of life; b) Classify kingdoms of life in real-life situations; c) Value the use of classification in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change kingdoms of life?",
+      "activities": [
+        "Learners observe and record examples of kingdoms of life",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Classification",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define dichotomous keys; b) Demonstrate dichotomous keys in real-life situations; c) Develop curiosity about the use of classification in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is dichotomous keys important?",
+      "activities": [
+        "Learners observe and record examples of dichotomous keys",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Classification",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe binomial nomenclature; b) Solve binomial nomenclature in real-life situations; c) Take responsibility for the use of classification in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find binomial nomenclature in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about binomial nomenclature",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Ecology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List ecosystems; b) Compare ecosystems in real-life situations; c) Take responsibility for the use of ecology in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find ecosystems in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about ecosystems",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Ecology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe food chains and webs; b) Investigate food chains and webs in real-life situations; c) Develop curiosity about the use of ecology in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is food chains and webs important?",
+      "activities": [
+        "Learners are guided to discuss food chains and webs in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Ecology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe biotic and abiotic factors; b) Apply biotic and abiotic factors in real-life situations; c) Value the use of ecology in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change biotic and abiotic factors?",
+      "activities": [
+        "In groups, learners investigate biotic and abiotic factors using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Living Things and Their Environment",
+      "subStrand": "Ecology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise pollution effects; b) Classify pollution effects in real-life situations; c) Show interest in the use of ecology in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use pollution effects in everyday life?",
+      "activities": [
+        "Learners are guided to discuss pollution effects in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Human Biology",
+      "subStrand": "Circulatory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define heart structure; b) Demonstrate heart structure in real-life situations; c) Appreciate the use of circulatory system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply circulatory system to solve problems?",
+      "activities": [
+        "In groups, learners investigate heart structure using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Human Biology",
+      "subStrand": "Circulatory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise blood components; b) Investigate blood components in real-life situations; c) Take responsibility for the use of circulatory system in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find blood components in our community?",
+      "activities": [
+        "In groups, learners investigate blood components using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Human Biology",
+      "subStrand": "Circulatory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List blood vessels; b) Apply blood vessels in real-life situations; c) Value the use of circulatory system in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change blood vessels?",
+      "activities": [
+        "In groups, learners investigate blood vessels using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Human Biology",
+      "subStrand": "Respiratory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise mechanism of breathing; b) Analyse mechanism of breathing in real-life situations; c) Appreciate the use of respiratory system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply respiratory system to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about mechanism of breathing",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Human Biology",
+      "subStrand": "Respiratory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe gas exchange; b) Measure gas exchange in real-life situations; c) Show interest in the use of respiratory system in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use gas exchange in everyday life?",
+      "activities": [
+        "In groups, learners investigate gas exchange using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Human Biology",
+      "subStrand": "Respiratory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise respiratory diseases; b) Demonstrate respiratory diseases in real-life situations; c) Take responsibility for the use of respiratory system in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find respiratory diseases in our community?",
+      "activities": [
+        "Learners observe and record examples of respiratory diseases",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Human Biology",
+      "subStrand": "Digestive System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify digestion process; b) Demonstrate digestion process in real-life situations; c) Appreciate the use of digestive system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply digestive system to solve problems?",
+      "activities": [
+        "Learners are guided to discuss digestion process in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Human Biology",
+      "subStrand": "Digestive System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise enzymes; b) Apply enzymes in real-life situations; c) Take responsibility for the use of digestive system in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find enzymes in our community?",
+      "activities": [
+        "In groups, learners investigate enzymes using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Human Biology",
+      "subStrand": "Digestive System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify nutrients and their functions; b) Analyse nutrients and their functions in real-life situations; c) Develop curiosity about the use of digestive system in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is nutrients and their functions important?",
+      "activities": [
+        "In groups, learners investigate nutrients and their functions using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Human Biology",
+      "subStrand": "Excretory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline organs of excretion; b) Measure organs of excretion in real-life situations; c) Appreciate the use of excretory system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply excretory system to solve problems?",
+      "activities": [
+        "Learners observe and record examples of organs of excretion",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Human Biology",
+      "subStrand": "Excretory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify kidney function; b) Construct kidney function in real-life situations; c) Take responsibility for the use of excretory system in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find kidney function in our community?",
+      "activities": [
+        "In groups, learners investigate kidney function using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Human Biology",
+      "subStrand": "Excretory System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define homeostasis; b) Analyse homeostasis in real-life situations; c) Take responsibility for the use of excretory system in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find homeostasis in our community?",
+      "activities": [
+        "In groups, learners investigate homeostasis using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Human Biology",
+      "subStrand": "Reproductive System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise human reproduction; b) Solve human reproduction in real-life situations; c) Develop curiosity about the use of reproductive system in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is human reproduction important?",
+      "activities": [
+        "In groups, learners investigate human reproduction using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Human Biology",
+      "subStrand": "Reproductive System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State puberty changes; b) Solve puberty changes in real-life situations; c) Appreciate the use of reproductive system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply reproductive system to solve problems?",
+      "activities": [
+        "Learners observe and record examples of puberty changes",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Human Biology",
+      "subStrand": "Reproductive System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List reproductive health; b) Measure reproductive health in real-life situations; c) Appreciate the use of reproductive system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply reproductive system to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about reproductive health",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Human Biology",
+      "subStrand": "Nervous System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define neurones; b) Construct neurones in real-life situations; c) Value the use of nervous system in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change neurones?",
+      "activities": [
+        "Learners brainstorm what they already know about neurones",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Human Biology",
+      "subStrand": "Nervous System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe reflex arc; b) Analyse reflex arc in real-life situations; c) Appreciate the use of nervous system in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply nervous system to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about reflex arc",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Human Biology",
+      "subStrand": "Nervous System",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline the brain; b) Measure the brain in real-life situations; c) Take responsibility for the use of nervous system in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find the brain in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about the brain",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Non-Living Things",
+      "subStrand": "Acids, Bases and Salts",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List ph scale; b) Investigate ph scale in real-life situations; c) Value the use of acids, bases and salts in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change ph scale?",
+      "activities": [
+        "Learners observe and record examples of ph scale",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Non-Living Things",
+      "subStrand": "Acids, Bases and Salts",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State properties of acids and bases; b) Demonstrate properties of acids and bases in real-life situations; c) Value the use of acids, bases and salts in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change properties of acids and bases?",
+      "activities": [
+        "In groups, learners investigate properties of acids and bases using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Non-Living Things",
+      "subStrand": "Acids, Bases and Salts",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe neutralisation; b) Analyse neutralisation in real-life situations; c) Develop curiosity about the use of acids, bases and salts in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is neutralisation important?",
+      "activities": [
+        "Learners are guided to discuss neutralisation in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Non-Living Things",
+      "subStrand": "Acids, Bases and Salts",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify salts preparation; b) Solve salts preparation in real-life situations; c) Take responsibility for the use of acids, bases and salts in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find salts preparation in our community?",
+      "activities": [
+        "Learners observe and record examples of salts preparation",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Non-Living Things",
+      "subStrand": "Elements and Compounds",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State periodic table; b) Analyse periodic table in real-life situations; c) Value the use of elements and compounds in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change periodic table?",
+      "activities": [
+        "Learners observe and record examples of periodic table",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Non-Living Things",
+      "subStrand": "Elements and Compounds",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List chemical formulas; b) Classify chemical formulas in real-life situations; c) Develop curiosity about the use of elements and compounds in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is chemical formulas important?",
+      "activities": [
+        "Learners are guided to discuss chemical formulas in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Non-Living Things",
+      "subStrand": "Elements and Compounds",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List types of bonding; b) Investigate types of bonding in real-life situations; c) Take responsibility for the use of elements and compounds in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find types of bonding in our community?",
+      "activities": [
+        "In groups, learners investigate types of bonding using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Non-Living Things",
+      "subStrand": "Mixtures",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State filtration; b) Apply filtration in real-life situations; c) Show interest in the use of mixtures in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use filtration in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about filtration",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Non-Living Things",
+      "subStrand": "Mixtures",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe distillation; b) Apply distillation in real-life situations; c) Appreciate the use of mixtures in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply mixtures to solve problems?",
+      "activities": [
+        "Learners observe and record examples of distillation",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Non-Living Things",
+      "subStrand": "Mixtures",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List chromatography; b) Investigate chromatography in real-life situations; c) Show interest in the use of mixtures in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use chromatography in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about chromatography",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Non-Living Things",
+      "subStrand": "Mixtures",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe evaporation; b) Measure evaporation in real-life situations; c) Show interest in the use of mixtures in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use evaporation in everyday life?",
+      "activities": [
+        "In groups, learners investigate evaporation using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "5",
+      "strand": "Non-Living Things",
+      "subStrand": "States of Matter",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define gas laws; b) Measure gas laws in real-life situations; c) Take responsibility for the use of states of matter in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find gas laws in our community?",
+      "activities": [
+        "In groups, learners investigate gas laws using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "Non-Living Things",
+      "subStrand": "States of Matter",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define changes of state; b) Demonstrate changes of state in real-life situations; c) Show interest in the use of states of matter in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use changes of state in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about changes of state",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "Non-Living Things",
+      "subStrand": "States of Matter",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe kinetic theory; b) Construct kinetic theory in real-life situations; c) Appreciate the use of states of matter in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply states of matter to solve problems?",
+      "activities": [
+        "Learners are guided to discuss kinetic theory in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "Energy",
+      "subStrand": "Heat Transfer",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline conduction; b) Compare conduction in real-life situations; c) Take responsibility for the use of heat transfer in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find conduction in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about conduction",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "Energy",
+      "subStrand": "Heat Transfer",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List convection; b) Apply convection in real-life situations; c) Show interest in the use of heat transfer in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use convection in everyday life?",
+      "activities": [
+        "In groups, learners investigate convection using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "5",
+      "strand": "Energy",
+      "subStrand": "Heat Transfer",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify radiation; b) Solve radiation in real-life situations; c) Show interest in the use of heat transfer in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use radiation in everyday life?",
+      "activities": [
+        "Learners observe and record examples of radiation",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "1",
+      "strand": "Energy",
+      "subStrand": "Heat Transfer",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify heat insulators; b) Analyse heat insulators in real-life situations; c) Develop curiosity about the use of heat transfer in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is heat insulators important?",
+      "activities": [
+        "In groups, learners investigate heat insulators using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "2",
+      "strand": "Energy",
+      "subStrand": "Light",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State rectilinear propagation; b) Analyse rectilinear propagation in real-life situations; c) Appreciate the use of light in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply light to solve problems?",
+      "activities": [
+        "In groups, learners investigate rectilinear propagation using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "3",
+      "strand": "Energy",
+      "subStrand": "Light",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State reflection laws; b) Solve reflection laws in real-life situations; c) Show interest in the use of light in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use reflection laws in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about reflection laws",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "4",
+      "strand": "Energy",
+      "subStrand": "Light",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise refraction; b) Demonstrate refraction in real-life situations; c) Value the use of light in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change refraction?",
+      "activities": [
+        "Learners brainstorm what they already know about refraction",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "5",
+      "strand": "Energy",
+      "subStrand": "Light",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise lenses; b) Measure lenses in real-life situations; c) Develop curiosity about the use of light in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is lenses important?",
+      "activities": [
+        "Learners are guided to discuss lenses in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "1",
+      "strand": "Energy",
+      "subStrand": "Sound",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise production and??; b) Apply production and?? in real-life situations; c) Value the use of sound in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change production and???",
+      "activities": [
+        "Learners observe and record examples of production and??",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "2",
+      "strand": "Energy",
+      "subStrand": "Sound",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise speed of sound; b) Demonstrate speed of sound in real-life situations; c) Show interest in the use of sound in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use speed of sound in everyday life?",
+      "activities": [
+        "In groups, learners investigate speed of sound using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "3",
+      "strand": "Energy",
+      "subStrand": "Sound",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe echoes; b) Demonstrate echoes in real-life situations; c) Show interest in the use of sound in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use echoes in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about echoes",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "4",
+      "strand": "Energy",
+      "subStrand": "Sound",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe sound applications; b) Demonstrate sound applications in real-life situations; c) Show interest in the use of sound in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use sound applications in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about sound applications",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "5",
+      "strand": "Energy",
+      "subStrand": "Electricity",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline ohm's law; b) Demonstrate ohm's law in real-life situations; c) Show interest in the use of electricity in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use ohm's law in everyday life?",
+      "activities": [
+        "Learners observe and record examples of ohm's law",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Integrated Science Learner's Book, Grade 9",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "5",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Integrated Science content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Integrated Science content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Integrated Science content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Integrated Science content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "5",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Integrated Science content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Integrated Science Learner's Book, Grade 9"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    }
+  ]
+}
