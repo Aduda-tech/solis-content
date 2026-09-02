@@ -1,0 +1,94 @@
+{
+  "grade": "Grade 9",
+  "learningArea": "Integrated Science",
+  "driveId": "12UPgzeGPVQ45Ij3V61fgNCfJVnA8K9j0",
+  "sourceLabel": "INTEGRATED SCIENCE GRADE 9",
+  "pages": 39,
+  "strandCount": 9,
+  "totalLessons": 150,
+  "strands": [
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Structure of the atom  ● Structure of the atom (protons, electrons, neutrons) ● Atomic number and mass number of elements ● Electron arrangement of elements ● Energy level diagrams (cross or dot) ● Metals and non – metals Note: (use the first 20 elements of the periodic table; do not",
+      "code": "1.1",
+      "lessons": 14,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) describe the structure of the atom, b) determine the mass number of elements, c) draw the electron arrangement in atoms using dot or cross diagrams, d) classify elements into metals and non-metals, e) show interest in classifying elements into metals and non- metals.",
+      "experiences": "The learner is guided to: ● discuss the meaning of the atom and illustrate its structure, ● work out the mass number of an element with peers, ● write the electron arrangements of elements, ● illustrate the electron arrangement in atoms using dot or cross diagrams collaboratively, ● use electron arrangement to classify elements into metals and non-metals, ● where possible use digital media to observe animations or videos on the structure of an atom and electron arrangement. Project: model the atomic structure of selected elements of the periodic",
+      "inquiryQuestions": "How is the structure of the atom important?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Metals and Alloys  ● Physical properties of metals (state, ductility, malleability, electrical and thermal conductivity) ● Composition of alloys (steel, stainless steel, bronze, brass and duralumin) ● uses of metals and alloys in day to day life (sodium, magnesium, aluminium, copper, iron, gold, silver, brass, steel, bronze, duralumin and stainless steel) ● Rusting (causes, effects, prevention)",
+      "code": "1.2",
+      "lessons": 16,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe the physical properties of metals, b) describe the composition of alloys, c) identify the uses of metals and alloys in day to day life, d) explain the effects of rusting of metals, e) appreciate the importance of common alloys in day to day life.",
+      "experiences": "The learner is guided to: ● identify metals and non-metals in their environment, ● carry out experiments to demonstrate the physical properties of metals, ● discuss the composition of common alloys with peers, ● identify some items from the locality that have been made from alloys with peers, ● discuss the uses of common metals and alloys, ● discuss causes, effects and ways of controlling rusting of metals, ● where possible, use digital or print media to search for information on the physical properties of metals and common alloys.",
+      "inquiryQuestions": "How are alloys important in day-day life?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Water hardness  ● Physical properties of water (taste, colour, odour and boiling point ) ● Hard and soft water ● Methods of softening temporary hard water (boiling, addition of washing soda, distilling, Note. avoid ion exchange ● Advantages and disadvantages of hard water and soft water",
+      "code": "1.3",
+      "lessons": 14,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe the physical properties of water, b) distinguish between hard and soft water in nature, c) apply methods of softening hard water in day to day life, d) outline advantages and disadvantages of hard and soft water, e) appreciate the applications of soft and hard water in day to day life.",
+      "experiences": "The learner is guided to: ● Collect and observe water from different sources, compare them in terms of appearance, odour, taste and boiling point (taste water from safe sources), ● carry out activities to compare the lathering abilities of various samples of unboiled water with soap collaboratively, ● group the samples into hard and soft water, ● explain the meaning of hard and soft water, ● discuss the advantages and disadvantages of soft and hard water, ● perform various activities for softening hard water, ● where possible, use digital or print media to search",
+      "inquiryQuestions": "1.What is the importance of different types of water? 2.Why is hard water preferred for drinking?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Nutrition in plants  ● Parts of a leaf (external and internal) ● Adaptations of the leaf to photosynthesis ● Structure of chloroplasts (membranes, grana and stroma) ● Process of photosynthesis (chemical reactions during light and dark stage are not required) ● Conditions necessary for photosynthesis",
+      "code": "2.1",
+      "lessons": 18,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify external and internal parts of a leaf, b) explain adaptations of the leaf to photosynthesis, c) describe the process of photosynthesis, d) investigate the conditions necessary for photosynthesis, e) appreciate the process of photosynthesis in nature.",
+      "experiences": "The learner is guided to: ● use a hand lens to observe fresh leaves of plants, draw and label the external parts, ● use print or non-print media to search for information on the internal structure of the leaf in relation to their roles in photosynthesis, discuss and share with peers, ● discuss the adaptations of a leaf in relation to their roles in photosynthesis, ● observe the structure of the chloroplast on charts/photomicrographs, discuss its role in photosynthesis, share with peers, ● use print or non-print media to search for information on the process and products of photosynthesis, discuss and share with peers,",
+      "inquiryQuestions": "What is the importance of photosynthesis in nature?"
+    },
+    {
+      "strand": "Living things and their Environment",
+      "subStrand": "Nutrition in animals  ● Modes of nutrition in animals (parasitic, saprophytic, symbiosis and holozoic) ● Dentition in animals (homodont and heterodont; carnivorous, herbivorous and omnivorous) ● Types of teeth (incisors, canines, premolars and molars) (structure and functions) ● Process of digestion in human beings (ingestion, digestion, absorption, assimilation and egestion)",
+      "code": "2.2",
+      "lessons": 16,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline modes of nutrition in animals, b) describe the structure and functions of different types of teeth, c) classify animals based on their dentition, d) describe the process of digestion in human beings, e) appreciate that animals have varied modes of nutrition.",
+      "experiences": "The learner is guided to; ● use print or non-print media to search for information on modes of nutrition in animals, discuss with peers, ● use specimens/charts/ models/ digital media to identify and draw different types of teeth, ● collaboratively discuss the functions of different types of teeth, ● use specimens/charts/models/ digital media to study dentition in different animals and share with peers, ● use print or non-print media to search for information on the process of digestion in human beings, discuss and share with peers.",
+      "inquiryQuestions": "1. How do different animals feed? 2. How is food digested in the human body?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in plants  ● Functions of parts of a flower ● Meaning and types of pollination (details on factor that promote/hinder self-pollination not required) ● Adaptations of flowers to wind and insect pollination ● Fertilisation, seed and fruit formation in flowering plants",
+      "code": "2.3",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline functions of parts of a flower, b) describe pollination in plants, c) outline the adaptations of flowers to wind and insect pollination, d) explain fertilisation and fruit formation in",
+      "experiences": "The learner is guided to: ● collaboratively discuss the functions of parts of a flower, ● use print or non-print media to search for information on meaning and types of pollination, discuss and share with peers, ● use print or non-print media to search for information on adaptations of flowers to wind and insect pollination, discuss and share with peers, ● study samples of flowers to discuss their adaptations to agents of pollination, draw, label and share with peers, ● watch animations or take an excursion in the school compound or neighbourhood to observe pollinating agents in action, record and discuss, (the behaviour of insects and birds in relation to flowers; swaying of anthers of grasses e.g maize in wind), ● use print or print media to search for information on the effect of agrochemicals on pollinating agents and their effects on reproduction in plants,",
+      "inquiryQuestions": "How does reproduction in plants occur?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "The interdependence of life  ● Biotic(living) components of the environment (predation, parasitism, symbiosis, competition and saprophytic) ● Abiotic(non-living) components of the environment (temperature, light, water, wind, atmospheric pressure, pH and salinity) ● Energy flow in an ecosystem (food chains and food webs)",
+      "code": "2.4",
+      "lessons": 18,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the biotic and abiotic factors of the environment, b) construct food chains and food webs in the environment, c) describe the effect of human activities on the environment, d) appreciate the interdependence between living and non-living factors of the",
+      "experiences": "The learner is guided to: ● use print and non-print material to search for information biotic interrelationships, share findings with peers, ● investigate the interrelationships between biotic factors of the environment in their locality and discuss the findings with peers (include insects, spiders, lizards, toads, chameleon), ● where possible observe videos or animations/ showing the interrelationships between biotic factors of the environment, ● use print and non-print media to search for information on interrelationships between organisms in Kenya national parks and game reserves, ● discuss the effect of abiotic factors on living organisms, ● search for information on the effect of human activities on the environment and discuss,",
+      "inquiryQuestions": "What is the role of living and non-living factors in environments?"
+    },
+    {
+      "strand": ": FORCE AND ENERGY",
+      "subStrand": "Curved mirrors  ● Types of curved mirrors ● Image formed by concave and convex mirrors (locating images, characteristics of images and uses of curved concave and convex mirrors) ● Applications of curved mirrors in day to day life.",
+      "code": "3.1",
+      "lessons": 18,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe types of curved mirrors, b) draw ray diagrams to locate images formed by concave and convex mirrors, c) describe the characteristics of images formed by concave and convex mirrors, d) explain the uses of concave and convex mirrors in day to day life, e) appreciate the applications of curved mirrors in day to day life.",
+      "experiences": "The learner is guided to: ● discuss the types of curved mirrors (concave, convex and parabolic surfaces), ● discuss with peers the terms used in curved mirrors (aperture, pole, centre of curvature, principal axis, radius of curvature, principal focus, focal length and focal plane), ● carry out activities to locate position of images formed by concave and convex mirrors, ● illustrate image positions for various object positions in concave and convex mirrors, ● discuss the characteristics of images formed by curved mirrors (object at infinity, beyond C, at C, between C & F, at F and between F and P), ● discuss the applications of concave and convex mirrors in day to day life (solar concentrators, car headlamps, shaving mirrors, dentists’ mirrors, projector lamps, telescopes, mirrors used in supermarkets, driving mirrors),",
+      "inquiryQuestions": "How are curved mirrors used in day to day life?"
+    },
+    {
+      "strand": ": FORCE AND ENERGY",
+      "subStrand": "Waves  ● Generation of waves ● Classification of waves as longitudinal and transverse ● Characteristics of waves ● Remote sensing ● Applications of waves in day to day life (medical - ultrasound, X- rays, CT scans, MRI scans, cancer therapy and laser surgery; communication - radar, radio, cell- phone, television, Wi-Fi and",
+      "code": "3.2",
+      "lessons": 16,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe generation of waves in nature, b) classify waves as longitudinal and transverse, c) describe basic characteristic of waves in nature, d) describe remote sensing in relation to waves, e) describe applications of waves in day to day life, f) appreciate the applications of waves in day to day life.",
+      "experiences": "The learner is guided to: ● brainstorm on the meaning of wave as used in science, ● carry out activities to demonstrate generation of waves in nature and classify them into longitudinal and transverse (use a slinky spring, skipping rope, water in a basin, a source of sound/speaker, animations on wave), ● Carry out activities to demonstrate the parts of a wave (amplitude, wavelength, frequency, period, wave speed, phase; include wave equations; velocity=wavelength x frequency), ● carry out activities in groups to demonstrate characteristics of waves (straight line motion, reflection, bending of waves, movement around objects) ● discuss remote sensing in relation to waves, (reflection, absorption, and transmission of electromagnetic radiation at different wavelengths), ● use digital or print media to search for more information on the relationship between",
+      "inquiryQuestions": "How are waves applied in our day to day life?"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:19:59.470Z",
+  "source": "KICD curriculum design"
+}
