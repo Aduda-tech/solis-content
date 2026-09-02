@@ -1,0 +1,220 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "Integrated Science",
+  "driveId": "1Khb7fa2U7tAnu3RlJi9PYttqDCI-fUvi",
+  "sourceLabel": "11 Integrated Science",
+  "pages": 56,
+  "strandCount": 23,
+  "totalLessons": 20,
+  "strands": [
+    {
+      "strand": "Scientific Investigation",
+      "subStrand": "Introduction to Integrated Science 4 Lessons",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub- strand the learner should be able to: a) identify the components of Integrated Science as a field of study. b) relate knowledge and skills gained in Integrated Science to career opportunities. c) appreciate the importance of Integrated Science in daily life.",
+      "experiences": "The learner is guided to: • discuss the meaning and components of Integrated Science with peers. • discuss in a group, career opportunities related to knowledge and skills gained in Integrated Science. • identify pathways related to Integrated Science at Senior school. • Search for information on importance of Integrated Science from other sources like the internet among others. • discuss in a group, the importance of scientific knowledge in daily life.",
+      "inquiryQuestions": "How is the knowledge acquired in Integrated Science useful in daily life?"
+    },
+    {
+      "strand": "Scientific Investigation",
+      "subStrand": "Laboratory Safety 8 Lessons",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the sub- strand the learner should be able to: a) identify common hazards and their symbols in the laboratory b) analyse causes of common accidents in the laboratory c) demonstrate first aid safety measures for common laboratory accidents. d) appreciate the importance of safety in the and access to a healthy working environment.",
+      "experiences": "The learner is guided to: • identify common hazards and accidents in the laboratory • interpret common hazard symbols, including but not limited to flammable, corrossive, toxic, carcinogenic, radioactive substances among others • discuss in groups, causes of common laboratory accidents and related first aid measures (burns and scalds, cuts, and ingestion of harmful substances) • role-play some first aid procedures for common accidents in the laboratory. • practice safety measures in the laboratory and the general school learning environment. • discuss the importance of safety measures in the laboratory • search for laboratory safety procedures from other sources",
+      "inquiryQuestions": "1. How do accidents happen in the laboratory? 2. What safety measures should be considered while constructing a laboratory?"
+    },
+    {
+      "strand": "Scientific Investigation",
+      "subStrand": ". Basic Science skills 10 Lessons",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) Identify basic skills in science. b) use the International System of Units (SI) for basic and derived quantities in science. c) appreciate the application of Basic skills in science.",
+      "experiences": "The learner is guided to: • identify basic skills in science (manipulative, observation, measurement, classification, prediction, communication and conclusion skills). • brainstorm on the importance of reading packing labels on quantities/products. • apply the International System of Units (SI) to determine temperature, length, mass, time, electric current, area, volume and density • search for information on science skills from the internet.",
+      "inquiryQuestions": "1. How are basic skills in science important in daily life? 2. How is Science information communicated?"
+    },
+    {
+      "strand": "Scientific Investigation",
+      "subStrand": "Laboratory apparatus and instruments 10 Lessons",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the sub- strand the learner should be able to: a) identify apparatus and instruments used in the laboratory. b) handle and care for the apparatus and instruments in laboratory. c) appreciate the importance of consumer protection when handling different apparatus and chemicals in the laboratory",
+      "experiences": "The learner is guided to: • identify apparatus and instrumnets in the laboratory (for heating, measuring mass, temperature, length, volume, weight, magnification and time) (include parts and functions of a microscope and burnsen burner) • handle and use apparatus and instruments in the laboratory • search for information from the internet on safety precautions to take when handling apparattus and instrumnets in the laboratory • practice safety precautions when handling chemicals, apparatus and instruments in the laboratory.",
+      "inquiryQuestions": "1. What are the uses of different laboratory apparatus and instruments? 2. What are the basic measures that should be considered when storing different laboratory apparatus?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Mixtures 14 Lessons",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) classify different types of mixtures as homogeneous or heterogeneous b) distinguish between pure and impure substances using melting and boiling points c) separate mixtures using different methods d) appreciate the use of different methods of separating mixtures in day-to-day life",
+      "experiences": "The learner is guided to: • categorize different mixures as homogeneous (uniform) and heterogeneous (non-uniform); (solid- solid, solid- liquid, liquid-liquid and gas- gas mixtures). • carry out, in groups, simple experiments to determine the boiling and melting points of pure and impure substances (ice, candle wax, water, salty water). • search for, and watch videos and animations on determining melting and boiling points of substances. • separate, in a group, different types of mixtures (simple distillation, filtration, decantation, use of a magnet, sublimation, paper chromatography, solvent extraction, crystalization). • discuss with peers, the applications of separating mixtures in day to day life (crude oil refining, fractional distillation",
+      "inquiryQuestions": "1. How can you classify mixtures? 2. What should be considered when separating various mixtures?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Acids, bases and indicators 15 Lessons",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) use plant extracts as acid-base indicator b) categorize different house-hold solutions as either acidic or basic using indicators. c) determine the strength of acids and bases using universal indicator d) outline applications of acids, bases and indicators in real life e) appreciate the applications of acids and bases in real life",
+      "experiences": "The learner is guided to: • Prepare and use plant extract indicator to classify common house hold solutions as either acidic or basic, in a group. • classify different house-hold solutions as either acidic or basic using indicators (use methyl orange, litmus or phenolphthalein), in a group). • search, watch videos and animations showing different colours of acid- base indicators in different solutions. • classify acidic or basic solutions as either strong or weak, in a group. (use universal indicator, pH scale and pH chart) • .explore applications of acids and bases (include antacid tablets, common fruits in the locality, fertilizers, liming of soil, detergents).",
+      "inquiryQuestions": "1. How can you identify a substance as being acidic or basic? 2. What is the significance of acids and bases?"
+    },
+    {
+      "strand": ". Mixtures, Elements and Compounds",
+      "subStrand": ". Solid – Liquid Mixture separation (Water Purification). CSL Project",
+      "code": "2.3",
+      "lessons": 4,
+      "outcomes": "by the end of the sub strand the learner should be able to: a) identify nearby sources of water in the community b) categorise water from different sources into clean and dirty water c) identify appropriate materials for separating clean water from solid in the dirty water d) make homemade water filter using locally available materials e) use homemade water filter to separate clean water from solid in the dirty water f) explore sustainable long- term strategies of making river water clean for use",
+      "experiences": "In groups, learners are guided to: • visit the nearby rivers or other sources of water to collect samples of different waters • identify and use appropriate locally available materials to make homemade water filter that can be sued to separate clean water from dirty • demonstrate water filtration using the homemade water filter • brainstorm on appropriate long term sustainable strategies of making river water clean for use within the community • create a portfolio and file the findings from the research. • collect information on human activities that make clean water sources dirty",
+      "inquiryQuestions": "1. What causes clean river water from the source to become dirty? 2. How can cleanliness of river water from the source be maintained?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in human beings",
+      "code": "3.1",
+      "lessons": 16,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) describe the menstrual cycle in human beings b) describe challenges related to the menstrual cycle c) describe the process of fertilization and implantation. d) appreciate the existence of sex- related challenges.",
+      "experiences": "The learner is guided to: • discuss human menstrual cycle • discuss various challenges related to the menstrual cycle • use illustrations,charts and digital devices to observe animations showing fertilization and implantation (movement of the sperm, fusion with the egg, formation of zygote and its implantation on uterus).",
+      "inquiryQuestions": "1. How does reproduction occur in human beings? 2. What challenges are associated with the menstruation in human beings? 3. How best can we manage issues related to the menstrual cycle?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Human Excretory System- Skin and Kidneys 11 Lessons",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the sub- strand the learner should be able to: a) identify the external parts of the human skin and their functions. b) identify the external parts of the kidney and their functions. c) describe causes of kidney disorders d) adopt a healthy lifestyle to promote kidney and skin health. e) appreciate the importance of proper use of cosmetics for consumer protection.",
+      "experiences": "Learners are guided to: • use a chart/model, in groups to brainstorm on the external parts and functions of human skin (cover,hair, sweat glands and epidermis –avoid homeostatic functions of the skin). • discuss the waste products excreted through the skin (salts and water) and kidneys (urine). • in groups use hand lens to observe the external parts of the skin (hair and sweat pores). • search for information and brainstorm on examples of cosmetics and their health effects on human body (e.g skin lightening creams and lotions).",
+      "inquiryQuestions": "1. Why is the skin important in humans? 2. Why is excretion important to the human body? 3. Why is proper use of cosmetics important?"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Static Electricity 10 Lessons",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) demonstrate the existence of static charges in objects b) charge objects using different methods c) demonstrate the effects of force between charged objects d) appreciate the use of static charges in daily life",
+      "experiences": "The learner is guided to: • rub different objects to show the presence of static charges in objects • charge different objects by rubbing and induction • search for, play and watch videos showing types of charges • show attraction and repulsion between charged objects • discuss safety measures when dealing with static charges (include lightning).",
+      "inquiryQuestions": "1. How do materials get charged? 2. What are the dangers of static charges?"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Electrical Energy 12 Lessons",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "by the end of the sub strand the learner should be able to: a) identify various sources of electricity in their environment b) set up simple electrical circuits in series and parallel using dry cells, bulbs, ammeters and voltmeters c) classify materials as conductors and non- conductors of electricity d) identify electrical appliances in their locality e) identify safety measures when handling electrical appliances f) appreciate the use of electricity in their daily life",
+      "experiences": "The learner is guided to: • discuss and identify sources of electricity (hydro-electric power, geothermal, solar, wind power) • search for and observe videos and photographs on sources of electricity • Set up simple electrical circuits. (Series and parallel arrangement of cells and bulbs), in a group • search for and observe videos and animations showing how to set-up simple electrical circuits, in a group • carry out experiments to classify materials as conductors and non- conductors of electricity • discuss and identify various electrical appliances in their locality. • identify safety measures to observe when using electrical appliances • explore uses of electricity in their",
+      "inquiryQuestions": "1. What are the sources of electricity? 2. What are the differences between conductors and non- conductors of electricity?"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Magnetism 10 Lessons",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) classify materials in the environment as magnetic or non-magnetic b) investigate the force between like and unlike poles of magnets c) identify the uses of magnets in day-to-day life d) appreciate the applications of magnets in day-to-day life",
+      "experiences": "The learner is guided to: • identify and collect materials within their environment, sort and group them as magnetic and non-magnetic materials • carry out activities showing attraction between two unlike poles and repulsion between two like poles of magnets. • discuss the uses of magnets with peers • Search for and watch animations showing force between like and unlike poles of magnets.",
+      "inquiryQuestions": "1. How do we identify magnetic materials in our environment ? 2. How are magnets used in day-to-day life?"
+    },
+    {
+      "strand": "Scientific Investigati on",
+      "subStrand": ". Laboratory Safety",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "• Practical Work • Observation Schedule • Checklist",
+      "experiences": "• Science Kit • Basic Laboratory Apparatus, equipment and selected specimens • SEPU Kit • First Aid Kit • Internet • Library",
+      "inquiryQuestions": "• Interacting actively with resource persons to understand issues to do with common hazards and their symbols in the laboratory. • Preparing charts, posters and slogans first aid safety measures for common laboratory accidents"
+    },
+    {
+      "strand": "Scientific Investigati on",
+      "subStrand": ". Basic Science skills",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "• Assessment Rubric • Practical Work • Observation Schedule • Checklist",
+      "experiences": "• Basic Laboratory Apparatus, equipment and selected specimens • SEPU Kit • Course book",
+      "inquiryQuestions": "• Writing articles in school magazines on Units (SI) for basic and derived quantities in science. • Engaging in resource persons discussing basic science process skills"
+    },
+    {
+      "strand": "Scientific Investigati on",
+      "subStrand": ". Laboratory apparatus and instruments",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "• Practical Work • Observation Schedule • Checklist",
+      "experiences": "• Course book • SEPU Kit • Basic Laboratory Apparatus, equipment and selected specimens (including Microscope)",
+      "inquiryQuestions": "• Engaging in resource persons to talk about how to safely handle and use apparatus and instruments in the laboratory"
+    },
+    {
+      "strand": ". Mixtures, Elements and Compoun ds",
+      "subStrand": "Mixtures",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "• Written Test • Assessment Rubrics • Checklist • Anecdotal Records • Oral Questions and Answers",
+      "experiences": "• Course book • Basic Laboratory Apparatus, equipment and selected specimens • Ice • candle wax • water/salty water. • Sieve • magnet",
+      "inquiryQuestions": "• Organizing and participating in exchange programmes / field trips to distinguish between pure and impure substances using melting and boiling points"
+    },
+    {
+      "strand": ". Mixtures, Elements and Compoun ds",
+      "subStrand": "Acids, bases and",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "• Assessment Rubrics",
+      "experiences": "• Course book",
+      "inquiryQuestions": "• Engaging actively with"
+    },
+    {
+      "strand": ". Mixtures, Elements and Compoun ds",
+      "subStrand": ". Solid – Liquid Mixture separation",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "• Practical Work • Observation Schedule • Checklist",
+      "experiences": "• Basic Laboratory Apparatus, equipment and selected specimens • portfolio and file • Course book",
+      "inquiryQuestions": "• Invites a resource person to talk about different methods of separating mixtures in day-to-day life • Conducting debates during club meetings on separate mixtures using different methods"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Reproduction in human beings",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "• Observation • Practical Work • Assessment Rubrics • Checklist • Anecdotal Records",
+      "experiences": "• Charts • Course book • Basic Laboratory Apparatus, equipment and",
+      "inquiryQuestions": "• Engaging in straight talk on reproduction in human beings. • Engaging a resource person to talk about on"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Human Excretory System-Skin and Kidneys",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "• Practical Work • Observation • Oral Questions and Answers • Assessment Rubrics • Checklist • Anecdotal Records • Written Test",
+      "experiences": "• Basic Laboratory Apparatus, equipment and selected specimens • Charts • salts and water • Course book",
+      "inquiryQuestions": "• Conducting document analysis on human Excretory System-Skin and Kidneys • Holding discussions on causes of kidney disorders • Inviting a resource person to talk about how to adopt healthy lifestyle to promote kidney and skin health."
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Static Electricity",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "• Assessment Rubrics • Checklist • Anecdotal Records • Written Test • Practical Work • Observation Schedule • Portfolio",
+      "experiences": "• Basic Laboratory Apparatus, equipment and selected specimens • Course book",
+      "inquiryQuestions": "• Watching animations on existence of static charges in objects • Taking part in symposia on charging objects using different methods • Carrying out documentary analysis on effects of force between charged objects"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Electrical Energy",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "• Written Test • Assessment Rubrics • Checklist • Anecdotal Records • Practical Work • Observation Schedule",
+      "experiences": "• Basic Laboratory Apparatus, equipment and selected specimens • Course book",
+      "inquiryQuestions": "• Initiating projects on how to set up simple electrical circuits in series and parallel using dry cells, bulbs, ammeters and voltmeters. • Writing articles in school magazines on safety measures when handling electrical appliances"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Magnetism",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "• Portfolio • Written Test • Observation Schedule • Assessment Rubrics • Checklist • Anecdotal Records • Practical Work",
+      "experiences": "• Basic Laboratory Apparatus, equipment and selected specimens • Course book",
+      "inquiryQuestions": "• Engaging in resource persons to discuss uses of magnets in day-to-day life • Organizing and participating in exchange programmes to identify force between like and unlike poles of magnets"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:21:34.887Z",
+  "source": "KICD curriculum design"
+}
