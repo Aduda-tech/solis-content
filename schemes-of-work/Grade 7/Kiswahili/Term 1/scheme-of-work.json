@@ -1,0 +1,1088 @@
+{
+  "path": "schemes-of-work/Grade 7/Kiswahili/Term 1/scheme-of-work.json",
+  "grade": 7,
+  "term": 1,
+  "subject": "Kiswahili",
+  "weeks": 13,
+  "lessons": 52,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.153Z",
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State mazungumzo ya kila siku; b) Apply mazungumzo ya kila siku in real-life situations; c) Take responsibility for the use of mazungumzo in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find mazungumzo ya kila siku in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about mazungumzo ya kila siku",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline mazungumzo rasmi; b) Construct mazungumzo rasmi in real-life situations; c) Value the use of mazungumzo in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change mazungumzo rasmi?",
+      "activities": [
+        "Learners are guided to discuss mazungumzo rasmi in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise mazungumzo ya shuleni; b) Classify mazungumzo ya shuleni in real-life situations; c) Show interest in the use of mazungumzo in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use mazungumzo ya shuleni in everyday life?",
+      "activities": [
+        "Learners observe and record examples of mazungumzo ya shuleni",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Uwasilishaji",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define uwasilishaji mbele ya umati; b) Investigate uwasilishaji mbele ya umati in real-life situations; c) Value the use of uwasilishaji in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change uwasilishaji mbele ya umati?",
+      "activities": [
+        "In groups, learners investigate uwasilishaji mbele ya umati using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Uwasilishaji",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State majaribio ya sauti; b) Apply majaribio ya sauti in real-life situations; c) Show interest in the use of uwasilishaji in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use majaribio ya sauti in everyday life?",
+      "activities": [
+        "Learners are guided to discuss majaribio ya sauti in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Uwasilishaji",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline mazungumzo ya rununu; b) Construct mazungumzo ya rununu in real-life situations; c) Show interest in the use of uwasilishaji in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use mazungumzo ya rununu in everyday life?",
+      "activities": [
+        "In groups, learners investigate mazungumzo ya rununu using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Simulizi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify hadithi; b) Measure hadithi in real-life situations; c) Appreciate the use of fasihi simulizi in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply fasihi simulizi to solve problems?",
+      "activities": [
+        "Learners are guided to discuss hadithi in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Simulizi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe tamthilia; b) Measure tamthilia in real-life situations; c) Develop curiosity about the use of fasihi simulizi in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is tamthilia important?",
+      "activities": [
+        "In groups, learners investigate tamthilia using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Simulizi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State riwaya; b) Construct riwaya in real-life situations; c) Appreciate the use of fasihi simulizi in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply fasihi simulizi to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about riwaya",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Simulizi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List ushairi; b) Investigate ushairi in real-life situations; c) Show interest in the use of fasihi simulizi in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use ushairi in everyday life?",
+      "activities": [
+        "In groups, learners investigate ushairi using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Andishi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline insha; b) Investigate insha in real-life situations; c) Take responsibility for the use of fasihi andishi in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find insha in our community?",
+      "activities": [
+        "Learners observe and record examples of insha",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Andishi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline tahakiki; b) Apply tahakiki in real-life situations; c) Value the use of fasihi andishi in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change tahakiki?",
+      "activities": [
+        "Learners observe and record examples of tahakiki",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Kusoma",
+      "subStrand": "Fasihi Andishi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List utunzi; b) Apply utunzi in real-life situations; c) Appreciate the use of fasihi andishi in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply fasihi andishi to solve problems?",
+      "activities": [
+        "Learners observe and record examples of utunzi",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Kusoma",
+      "subStrand": "Msamiati",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe maneno mapya; b) Demonstrate maneno mapya in real-life situations; c) Value the use of msamiati in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change maneno mapya?",
+      "activities": [
+        "Learners brainstorm what they already know about maneno mapya",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Kusoma",
+      "subStrand": "Msamiati",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List mistari; b) Apply mistari in real-life situations; c) Develop curiosity about the use of msamiati in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is mistari important?",
+      "activities": [
+        "Learners are guided to discuss mistari in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Kusoma",
+      "subStrand": "Msamiati",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify mithali; b) Analyse mithali in real-life situations; c) Develop curiosity about the use of msamiati in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is mithali important?",
+      "activities": [
+        "Learners brainstorm what they already know about mithali",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Insha",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline insha ya hadithi; b) Classify insha ya hadithi in real-life situations; c) Value the use of uandishi wa insha in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change insha ya hadithi?",
+      "activities": [
+        "Learners are guided to discuss insha ya hadithi in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Insha",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List insha ya mada; b) Construct insha ya mada in real-life situations; c) Take responsibility for the use of uandishi wa insha in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find insha ya mada in our community?",
+      "activities": [
+        "Learners observe and record examples of insha ya mada",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Insha",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe maisha ya kila siku; b) Classify maisha ya kila siku in real-life situations; c) Appreciate the use of uandishi wa insha in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply uandishi wa insha to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about maisha ya kila siku",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Barua",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List barua rasmi; b) Demonstrate barua rasmi in real-life situations; c) Appreciate the use of uandishi wa barua in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply uandishi wa barua to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about barua rasmi",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Barua",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List barua binafsi; b) Analyse barua binafsi in real-life situations; c) Take responsibility for the use of uandishi wa barua in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find barua binafsi in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about barua binafsi",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Barua",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe barua ya ombi; b) Investigate barua ya ombi in real-life situations; c) Appreciate the use of uandishi wa barua in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply uandishi wa barua to solve problems?",
+      "activities": [
+        "Learners are guided to discuss barua ya ombi in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Taarifa",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define ripoti; b) Solve ripoti in real-life situations; c) Appreciate the use of uandishi wa taarifa in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply uandishi wa taarifa to solve problems?",
+      "activities": [
+        "Learners observe and record examples of ripoti",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Taarifa",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify taarifa; b) Analyse taarifa in real-life situations; c) Take responsibility for the use of uandishi wa taarifa in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find taarifa in our community?",
+      "activities": [
+        "In groups, learners investigate taarifa using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Kuandika",
+      "subStrand": "Uandishi wa Taarifa",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify mapendekezo; b) Apply mapendekezo in real-life situations; c) Value the use of uandishi wa taarifa in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change mapendekezo?",
+      "activities": [
+        "Learners observe and record examples of mapendekezo",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Kuandika",
+      "subStrand": "Ushairi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise uundaji wa shairi; b) Construct uundaji wa shairi in real-life situations; c) Take responsibility for the use of ushairi in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find uundaji wa shairi in our community?",
+      "activities": [
+        "Learners observe and record examples of uundaji wa shairi",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Kuandika",
+      "subStrand": "Ushairi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State ulimbikizi; b) Measure ulimbikizi in real-life situations; c) Value the use of ushairi in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change ulimbikizi?",
+      "activities": [
+        "In groups, learners investigate ulimbikizi using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Kuandika",
+      "subStrand": "Ushairi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline ulinganisho; b) Apply ulinganisho in real-life situations; c) Appreciate the use of ushairi in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply ushairi to solve problems?",
+      "activities": [
+        "Learners are guided to discuss ulinganisho in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Sarufi",
+      "subStrand": "Aina za Maneno",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify viwakilishi vya nafsi; b) Solve viwakilishi vya nafsi in real-life situations; c) Develop curiosity about the use of aina za maneno in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is viwakilishi vya nafsi important?",
+      "activities": [
+        "Learners brainstorm what they already know about viwakilishi vya nafsi",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Sarufi",
+      "subStrand": "Aina za Maneno",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise vitenzi maalum; b) Measure vitenzi maalum in real-life situations; c) Develop curiosity about the use of aina za maneno in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is vitenzi maalum important?",
+      "activities": [
+        "Learners brainstorm what they already know about vitenzi maalum",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Aina za Maneno",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify vivumishi; b) Analyse vivumishi in real-life situations; c) Appreciate the use of aina za maneno in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply aina za maneno to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about vivumishi",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Viunganishi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define viunganishi vya msimamo; b) Apply viunganishi vya msimamo in real-life situations; c) Take responsibility for the use of viunganishi in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find viunganishi vya msimamo in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about viunganishi vya msimamo",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "Sarufi",
+      "subStrand": "Viunganishi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline viunganishi vya sababu; b) Classify viunganishi vya sababu in real-life situations; c) Appreciate the use of viunganishi in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply viunganishi to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about viunganishi vya sababu",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "Sarufi",
+      "subStrand": "Viunganishi",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline viunganishi ya muda; b) Analyse viunganishi ya muda in real-life situations; c) Develop curiosity about the use of viunganishi in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is viunganishi ya muda important?",
+      "activities": [
+        "Learners brainstorm what they already know about viunganishi ya muda",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Miloti ya Aina Tofauti",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify miloti ya wakati; b) Apply miloti ya wakati in real-life situations; c) Appreciate the use of miloti ya aina tofauti in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply miloti ya aina tofauti to solve problems?",
+      "activities": [
+        "Learners are guided to discuss miloti ya wakati in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Miloti ya Aina Tofauti",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise miloti ya hali; b) Analyse miloti ya hali in real-life situations; c) Appreciate the use of miloti ya aina tofauti in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply miloti ya aina tofauti to solve problems?",
+      "activities": [
+        "Learners are guided to discuss miloti ya hali in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "1",
+      "strand": "Sarufi",
+      "subStrand": "Miloti ya Aina Tofauti",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State miloti ya nafsi; b) Investigate miloti ya nafsi in real-life situations; c) Show interest in the use of miloti ya aina tofauti in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use miloti ya nafsi in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about miloti ya nafsi",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "2",
+      "strand": "Sarufi",
+      "subStrand": "Tajasri",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define laana; b) Measure laana in real-life situations; c) Show interest in the use of tajasri in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use laana in everyday life?",
+      "activities": [
+        "Learners are guided to discuss laana in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "3",
+      "strand": "Sarufi",
+      "subStrand": "Tajasri",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify sifa; b) Analyse sifa in real-life situations; c) Appreciate the use of tajasri in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply tajasri to solve problems?",
+      "activities": [
+        "In groups, learners investigate sifa using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "4",
+      "strand": "Sarufi",
+      "subStrand": "Tajasri",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise adili; b) Measure adili in real-life situations; c) Appreciate the use of tajasri in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply tajasri to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about adili",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "1",
+      "strand": "Sarufi",
+      "subStrand": "Tajasri",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe sharti; b) Classify sharti in real-life situations; c) Appreciate the use of tajasri in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply tajasri to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about sharti",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "2",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline mazungumzo ya kila siku; b) Measure mazungumzo ya kila siku in real-life situations; c) Value the use of mazungumzo in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change mazungumzo ya kila siku?",
+      "activities": [
+        "Learners observe and record examples of mazungumzo ya kila siku",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "3",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline mazungumzo rasmi; b) Apply mazungumzo rasmi in real-life situations; c) Appreciate the use of mazungumzo in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply mazungumzo to solve problems?",
+      "activities": [
+        "Learners observe and record examples of mazungumzo rasmi",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "4",
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Mazungumzo",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State mazungumzo ya shuleni; b) Classify mazungumzo ya shuleni in real-life situations; c) Show interest in the use of mazungumzo in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use mazungumzo ya shuleni in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about mazungumzo ya shuleni",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Kiswahili Learner's Book, Grade 7",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Kiswahili content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Kiswahili content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Kiswahili content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Kiswahili content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Kiswahili Learner's Book, Grade 7"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    }
+  ]
+}
