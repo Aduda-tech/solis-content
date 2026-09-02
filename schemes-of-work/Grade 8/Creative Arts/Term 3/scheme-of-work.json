@@ -4,206 +4,934 @@
   "term": 3,
   "subject": "Creative Arts",
   "weeks": 9,
-  "lessons": 13,
+  "lessons": 45,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.149Z",
   "weeklyBreakdown": [
     {
       "week": 1,
-      "lessonNumber": 1,
-      "strand": "CREATING",
-      "subStrand": "AND PERFORMING IN CREATIVE ARTS AND SPORTS Play Creating a one act play",
+      "lessonNumber": "1",
+      "strand": "Visual Arts",
+      "subStrand": "Drawing",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. list the format of a script. b. create a one act play addressing a societal issue, c. recognize play performance as a channel of addressing societal issues. Why is it important to decorate props to be used for performance ?"
+        "By the end of the lesson, the learner should be able to: a) Define pencil drawing; b) Construct pencil drawing in real-life situations; c) Show interest in the use of drawing in day-to-day life."
       ],
+      "inquiryQuestion": "How do we use pencil drawing in everyday life?",
       "activities": [
-        "The learner is guided to: ● create a short play script using the play elements (theme, characters, plot, setting, conflict, language) Short play scripts, ICT resources, Realia, Resource persons"
+        "Learners brainstorm what they already know about pencil drawing",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
       ],
       "resources": [
-        "Moran Performing Arts . Grd 8 T.G. Pg. 63 - 64"
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
       ],
-      "assessment": "",
-      "inquiryQuestion": "Why is it important to decorate props to be used for performance ?"
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Visual Arts",
+      "subStrand": "Drawing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe colouring techniques; b) Solve colouring techniques in real-life situations; c) Develop curiosity about the use of drawing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is colouring techniques important?",
+      "activities": [
+        "In groups, learners investigate colouring techniques using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Visual Arts",
+      "subStrand": "Drawing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline still life; b) Apply still life in real-life situations; c) Show interest in the use of drawing in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use still life in everyday life?",
+      "activities": [
+        "In groups, learners investigate still life using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Visual Arts",
+      "subStrand": "Painting",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe water colour; b) Solve water colour in real-life situations; c) Show interest in the use of painting in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use water colour in everyday life?",
+      "activities": [
+        "Learners observe and record examples of water colour",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Visual Arts",
+      "subStrand": "Painting",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe finger painting; b) Demonstrate finger painting in real-life situations; c) Appreciate the use of painting in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply painting to solve problems?",
+      "activities": [
+        "Learners are guided to discuss finger painting in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
     },
     {
       "week": 2,
-      "lessonNumber": 1,
-      "strand": "F olk",
-      "subStrand": "dance C l assificatio n of folk dances acco rding community",
+      "lessonNumber": "1",
+      "strand": "Visual Arts",
+      "subStrand": "Painting",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. ident ify the classification s of a folk dance b. classify folk dances from Kenyan communities according to community , c. a ppreciate different cultures through performing folk dances from diverse Kenyan communities How do folk dances represent Kenyan culture? What makes a good folk dance performance?"
+        "By the end of the lesson, the learner should be able to: a) Identify poster paint; b) Classify poster paint in real-life situations; c) Show interest in the use of painting in day-to-day life."
       ],
+      "inquiryQuestion": "How do we use poster paint in everyday life?",
       "activities": [
-        "Learner is guided to: ● explore live or virtual folk - dance performances from diverse Kenyan communities to describe and categorize them according to; community"
+        "Learners observe and record examples of poster paint",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
       ],
       "resources": [
-        "KLB Top scholar Performing Arts . Grd 8 P.B. Pg. 203 - 214"
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
       ],
-      "assessment": "Demonstration QA, Observation, group discussion 2 C l assificatio n of folk dances acco rding gender and age of participants By the end of the lesson, the learner should be able to",
-      "inquiryQuestion": "How do folk dances represent Kenyan culture?"
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Visual Arts",
+      "subStrand": "Print Making",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List fingerprint art; b) Compare fingerprint art in real-life situations; c) Show interest in the use of print making in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use fingerprint art in everyday life?",
+      "activities": [
+        "Learners are guided to discuss fingerprint art in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Visual Arts",
+      "subStrand": "Print Making",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline leaf printing; b) Construct leaf printing in real-life situations; c) Appreciate the use of print making in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply print making to solve problems?",
+      "activities": [
+        "In groups, learners investigate leaf printing using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Visual Arts",
+      "subStrand": "Print Making",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List stencil work; b) Analyse stencil work in real-life situations; c) Develop curiosity about the use of print making in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is stencil work important?",
+      "activities": [
+        "Learners brainstorm what they already know about stencil work",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Visual Arts",
+      "subStrand": "Modelling",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe clay work; b) Demonstrate clay work in real-life situations; c) Show interest in the use of modelling in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use clay work in everyday life?",
+      "activities": [
+        "Learners observe and record examples of clay work",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
     },
     {
       "week": 3,
-      "lessonNumber": 1,
-      "strand": "Creating a",
-      "subStrand": "fol k dance – dance movements",
+      "lessonNumber": "1",
+      "strand": "Visual Arts",
+      "subStrand": "Modelling",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. highlight the elements of a dance b. devise a folk dance from a Kenyan community by s equencing dance movements , c. a ppreciate different cultures through performing folk dances from diverse Kenyan communities How do folk dances represent Kenyan culture? What makes a good folk dance performance?"
+        "By the end of the lesson, the learner should be able to: a) Describe papier-mache; b) Compare papier-mache in real-life situations; c) Develop curiosity about the use of modelling in day-to-day life."
       ],
+      "inquiryQuestion": "Why is papier-mache important?",
       "activities": [
-        "Learner is guided to: ● devise a dance by selecting and sequencing dance movements, for the selected dance, ● create a written/oral synopsis highlighting the title, theme, community, gender and occasion of performance, and function of dance,"
+        "Learners observe and record examples of papier-mache",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
       ],
       "resources": [
-        "KLB Top scholar Performing Arts . Grd 8 P.B. Pg. 203 - 214"
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
       ],
-      "assessment": "Demonstration QA, Observation, group discussion 2 Creating a fol k dance",
-      "inquiryQuestion": "How do folk dances represent Kenyan culture?"
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Visual Arts",
+      "subStrand": "Modelling",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State salt dough; b) Compare salt dough in real-life situations; c) Take responsibility for the use of modelling in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find salt dough in our community?",
+      "activities": [
+        "In groups, learners investigate salt dough using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Music",
+      "subStrand": "Singing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise nursery rhymes; b) Classify nursery rhymes in real-life situations; c) Develop curiosity about the use of singing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is nursery rhymes important?",
+      "activities": [
+        "Learners observe and record examples of nursery rhymes",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Music",
+      "subStrand": "Singing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise kenyan folk songs; b) Compare kenyan folk songs in real-life situations; c) Show interest in the use of singing in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use kenyan folk songs in everyday life?",
+      "activities": [
+        "Learners are guided to discuss kenyan folk songs in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Music",
+      "subStrand": "Singing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List part songs; b) Measure part songs in real-life situations; c) Take responsibility for the use of singing in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find part songs in our community?",
+      "activities": [
+        "Learners are guided to discuss part songs in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
     },
     {
       "week": 4,
-      "lessonNumber": 1,
-      "strand": "P erforming",
-      "subStrand": "fo lk dance",
+      "lessonNumber": "1",
+      "strand": "Music",
+      "subStrand": "Rhythm",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. identify folk songs from different communities b. perform a folk dance from a Kenyan community, c. appreciate different cultures through performing folk dances from diverse Kenyan communities How do folk dances represent Kenyan culture? What makes a good folk dance performance?"
+        "By the end of the lesson, the learner should be able to: a) Identify body percussion; b) Analyse body percussion in real-life situations; c) Show interest in the use of rhythm in day-to-day life."
       ],
+      "inquiryQuestion": "How do we use body percussion in everyday life?",
       "activities": [
-        "Learner is guided to: ● select an appropriate folk dance from a given Kenyan community for performance, ● select a theme on a societal issue,"
+        "Learners brainstorm what they already know about body percussion",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
       ],
       "resources": [
-        "KLB Top scholar Performing Arts . Grd 8 P.B. Pg. 203 - 214"
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
       ],
-      "assessment": "Demonstration QA, Observation, group discussion",
-      "inquiryQuestion": "How do folk dances represent Kenyan culture?"
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Music",
+      "subStrand": "Rhythm",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List rhythm instruments; b) Construct rhythm instruments in real-life situations; c) Show interest in the use of rhythm in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use rhythm instruments in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about rhythm instruments",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Music",
+      "subStrand": "Rhythm",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline beat and tempo; b) Compare beat and tempo in real-life situations; c) Develop curiosity about the use of rhythm in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is beat and tempo important?",
+      "activities": [
+        "In groups, learners investigate beat and tempo using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Music",
+      "subStrand": "Music Appreciation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe listening to music; b) Construct listening to music in real-life situations; c) Take responsibility for the use of music appreciation in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find listening to music in our community?",
+      "activities": [
+        "In groups, learners investigate listening to music using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Music",
+      "subStrand": "Music Appreciation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify types of music; b) Classify types of music in real-life situations; c) Develop curiosity about the use of music appreciation in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is types of music important?",
+      "activities": [
+        "Learners are guided to discuss types of music in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
     },
     {
       "week": 5,
-      "lessonNumber": 1,
-      "strand": "APPRECIAT ION IN",
-      "subStrand": "CREATIVE ARTS AND SPORTS: ANALYSIS OF CREATIVE ARTS AND SPORTS Analysis of Creative Arts and Sports – criteria for evaluati ng CAS (Netball – Ove rhead pass )",
+      "lessonNumber": "1",
+      "strand": "Music",
+      "subStrand": "Music Appreciation",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. examine the criteria for evaluating overhead pass in netball game b. analyze overhe ad pass netball game, c. a ppreciate the role of analysis in adding value to Creative Arts and Sports, Why is analysis an important skill in Creative Arts and Sports?"
+        "By the end of the lesson, the learner should be able to: a) Recognise instruments; b) Investigate instruments in real-life situations; c) Appreciate the use of music appreciation in day-to-day life."
       ],
+      "inquiryQuestion": "How can we apply music appreciation to solve problems?",
       "activities": [
-        "The learner is guided to: ● brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports (netball ), ● observe selected Creative Arts and Sports performances for analysis, ● watch an actual or virtual netball game and analyze it paying attention to passes (overhead pass) ,"
+        "Learners observe and record examples of instruments",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
       ],
-      "resources": [],
-      "assessment": "Demonstration QA, Observation, group discussion 2 criteria for evaluati ng CAS",
-      "inquiryQuestion": "Why is analysis an important skill in Creative Arts and Sports?"
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Drama and Dance",
+      "subStrand": "Role Play",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe skit performances; b) Measure skit performances in real-life situations; c) Take responsibility for the use of role play in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find skit performances in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about skit performances",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Drama and Dance",
+      "subStrand": "Role Play",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise puppet shows; b) Classify puppet shows in real-life situations; c) Take responsibility for the use of role play in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find puppet shows in our community?",
+      "activities": [
+        "Learners observe and record examples of puppet shows",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Drama and Dance",
+      "subStrand": "Role Play",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State improvisation; b) Classify improvisation in real-life situations; c) Value the use of role play in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change improvisation?",
+      "activities": [
+        "Learners brainstorm what they already know about improvisation",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Drama and Dance",
+      "subStrand": "Traditional Dance",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline cultural dances; b) Solve cultural dances in real-life situations; c) Develop curiosity about the use of traditional dance in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is cultural dances important?",
+      "activities": [
+        "Learners observe and record examples of cultural dances",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
     },
     {
       "week": 6,
-      "lessonNumber": 1,
-      "strand": "criteria",
-      "subStrand": "for evaluati ng CAS ( Kenyan folk - dance co mmunity of origin )",
+      "lessonNumber": "1",
+      "strand": "Drama and Dance",
+      "subStrand": "Traditional Dance",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. examine the criteria for evaluating communit y of origin of folk dances b. analyze community of origin of folk dance c. a ppreciate the role of analysis in adding value to Creative Arts and Sports, Why is analysis an important skill in Creative Arts and Sports?"
+        "By the end of the lesson, the learner should be able to: a) List movement expressions; b) Investigate movement expressions in real-life situations; c) Appreciate the use of traditional dance in day-to-day life."
       ],
+      "inquiryQuestion": "How can we apply traditional dance to solve problems?",
       "activities": [
-        "The learner is guided to: ● brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports ( Kenyan folk dance ), ● observe selected Creative Arts and Sports performances for analysis, ● watch a live presentation of a given Kenyan folk - dance performance and analyze it paying attention to: community of origin,"
+        "Learners brainstorm what they already know about movement expressions",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
       ],
       "resources": [
-        "KLB Top scholar Performing Arts . Grd 8 P.B. Pg. 203 - 214"
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
       ],
-      "assessment": "Demonstration QA, Observation, group discussion 2 criteria for evaluati ng CAS",
-      "inquiryQuestion": "Why is analysis an important skill in Creative Arts and Sports?"
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Drama and Dance",
+      "subStrand": "Traditional Dance",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise dance composition; b) Demonstrate dance composition in real-life situations; c) Appreciate the use of traditional dance in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply traditional dance to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about dance composition",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Drama and Dance",
+      "subStrand": "Movement",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe creative movement; b) Compare creative movement in real-life situations; c) Develop curiosity about the use of movement in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is creative movement important?",
+      "activities": [
+        "In groups, learners investigate creative movement using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Drama and Dance",
+      "subStrand": "Movement",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List action songs; b) Analyse action songs in real-life situations; c) Value the use of movement in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change action songs?",
+      "activities": [
+        "Learners brainstorm what they already know about action songs",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Drama and Dance",
+      "subStrand": "Movement",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise dance notation; b) Construct dance notation in real-life situations; c) Develop curiosity about the use of movement in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is dance notation important?",
+      "activities": [
+        "Learners are guided to discuss dance notation in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
     },
     {
       "week": 7,
-      "lessonNumber": 1,
-      "strand": "criteria",
-      "subStrand": "for evaluati ng CAS ( Play - theme )",
+      "lessonNumber": "1",
+      "strand": "Visual Arts",
+      "subStrand": "Drawing",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. examine the criteria for evaluating eleme nts of play such as theme setting b. evaluate theme setting in a play performance, c. a ppreciate the role of analysis in adding value to Creative Arts and Sports, Why is analysis an important skill in Creative Arts and Sports?"
+        "By the end of the lesson, the learner should be able to: a) Identify pencil drawing; b) Solve pencil drawing in real-life situations; c) Appreciate the use of drawing in day-to-day life."
       ],
+      "inquiryQuestion": "How can we apply drawing to solve problems?",
       "activities": [
-        "The learner is guided to: ● brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports ( play ), ● watch, listen to, read or observe selected Creative Arts and Sports performances for analysis, ● watch a given play performance to evaluate elements such as theme, setting"
+        "Learners observe and record examples of pencil drawing",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
       ],
       "resources": [
-        "Moran Performing Arts . Grd 8 T . G . Pg. 225 - 230"
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
       ],
-      "assessment": "",
-      "inquiryQuestion": "Why is analysis an important skill in Creative Arts and Sports?"
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Visual Arts",
+      "subStrand": "Drawing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise colouring techniques; b) Construct colouring techniques in real-life situations; c) Develop curiosity about the use of drawing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is colouring techniques important?",
+      "activities": [
+        "Learners brainstorm what they already know about colouring techniques",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Visual Arts",
+      "subStrand": "Drawing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define still life; b) Apply still life in real-life situations; c) Develop curiosity about the use of drawing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is still life important?",
+      "activities": [
+        "Learners are guided to discuss still life in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Visual Arts",
+      "subStrand": "Painting",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List water colour; b) Classify water colour in real-life situations; c) Value the use of painting in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change water colour?",
+      "activities": [
+        "Learners are guided to discuss water colour in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Visual Arts",
+      "subStrand": "Painting",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify finger painting; b) Classify finger painting in real-life situations; c) Develop curiosity about the use of painting in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is finger painting important?",
+      "activities": [
+        "In groups, learners investigate finger painting using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Creative Arts Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
     },
     {
       "week": 8,
-      "lessonNumber": 1,
-      "strand": "criteria",
-      "subStrand": "for evaluati ng CAS ( 3 - D arts ) – organizatio n of the work - balance, proportion and dominance",
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. examine the criteria for evaluating organiza tion of the work in 3 - D ar ts b. evaluate organiza tion of work in 3D Visual art work, c. appreciate the role of analysis in adding value to Creative Arts and Sports, Why is analysis an important skill in Creative Arts and Sports?"
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
       ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
       "activities": [
-        "The learner is guided to: ● brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports ( 3 - D Arts), ● watch, listen to, read or observe selected Creative Arts and Sports performances for analysis, ● analyze a 3D artwork paying attention to: - organization of the work balance, proportion, dominance) , ● Judgement: Evaluating the Artwork."
-      ],
-      "resources": [],
-      "assessment": "Demonstration QA, Observation, group discussion 2 criteria for evaluati ng CAS",
-      "inquiryQuestion": "Why is analysis an important skill in Creative Arts and Sports?"
-    },
-    {
-      "week": 27,
-      "lessonNumber": 0,
-      "strand": "- 275",
-      "subStrand": "Demonstration",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "Demonstration QA, Observation, group discussion",
-      "inquiryQuestion": ""
-    },
-    {
-      "week": 27,
-      "lessonNumber": 0,
-      "strand": "- 275",
-      "subStrand": "Demonstration QA, Observation, group discussion 3 criteria for evaluati ng CAS ( Play )",
-      "objectives": [
-        "By the end of the lesson, the learner should be able to: a. examine the criteria for evaluating eleme nts of play such as voice an d use of body movements. b. evaluate voice and use of body movements in a play performance, c. a ppreciate the role of analysis in adding value to Creative Arts and Sports, Why is analysis an important skill in Creative Arts and Sports?"
-      ],
-      "activities": [
-        "The learner is guided to: ● brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports ( play ), ● watch, listen to, read or observe selected Creative Arts and Sports performances for analysis, ● watch a given play performance to evaluate elements such as use of voice, use of body movement,"
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
       ],
       "resources": [
-        "Moran Performing Arts . Grd 8 T . G . Pg. 225 - 230"
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
       ],
-      "assessment": "Demonstration QA, Observation, group discussion 3 criteria for evaluati ng CAS",
-      "inquiryQuestion": "Why is analysis an important skill in Creative Arts and Sports?"
+      "assessment": "Revision exercises; oral questions"
     },
     {
-      "week": 27,
-      "lessonNumber": 0,
-      "strand": "- 275",
-      "subStrand": "Demonstration QA, Observation, group discussion 4 criteria for evaluati ng CAS ( Play )",
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
       "objectives": [
-        "By the end of the lesson, the learner should be able to: a. examine the criteria for evaluating eleme nts of play such as internalization and audience involvement b. evaluate interna lization an d audience involvement in a play performance, c. a ppreciate the role of analysis in adding value to Creative Arts and Sports, Why is analysis an important skill in Creative Arts and Sports?"
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
       ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
       "activities": [
-        "The learner is guided to: ● brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports ( play ), ● watch, listen to, read or observe selected Creative Arts and Sports performances for analysis, ● watch a given play performance to evaluate elements such as internalization , audience involvemen t"
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
       ],
       "resources": [
-        "Moran Performing Arts . Grd 8 T . G . Pg. 225 - 230"
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
       ],
-      "assessment": "Demonstration QA, Observation, group discussion 4 criteria for evaluati ng CAS",
-      "inquiryQuestion": "Why is analysis an important skill in Creative Arts and Sports?"
+      "assessment": "Revision exercises; oral questions"
     },
     {
-      "week": 27,
-      "lessonNumber": 0,
-      "strand": "- 275",
-      "subStrand": "Demonstration",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "Demonstration QA, Observation, group discussion",
-      "inquiryQuestion": ""
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
     },
     {
-      "week": 27,
-      "lessonNumber": 0,
-      "strand": "- 275",
-      "subStrand": "Demonstration",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "Demonstration QA, Observation, group discussion",
-      "inquiryQuestion": ""
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "5",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Creative Arts content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Creative Arts content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Creative Arts content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Creative Arts content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "5",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Creative Arts content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Creative Arts Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
     }
   ]
 }
