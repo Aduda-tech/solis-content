@@ -1,0 +1,265 @@
+{
+  "grade": "Grade 8",
+  "learningArea": "Health Education",
+  "driveId": "1N8Jkq6bOCBWjfywIESTM0mNPx1R95-0c",
+  "sourceLabel": "12 Health Education",
+  "pages": 52,
+  "strandCount": 28,
+  "totalLessons": 56,
+  "strands": [
+    {
+      "strand": "Health and Nutrition",
+      "subStrand": "Nutrition in the lifecycle",
+      "code": "1.1",
+      "lessons": 5,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the meaning of nutrition in the lifecyle b) identify nutrient requirements in the different stages of the human lifecycle c) apply recommended dietary requirement guidelines in the different stages of the lifecylce d) appreciate the importance of adequate nutrient intake at different stages of the lifecycle.",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of nutrition and lifecycle and discuss with peers • research using digital devices and print media on nutrientional requirements during the different stages of the lifecycle and make notes(pregnancy, infancy, childhood, adolescence, adulthood, old age) • develop dietary requirement plans for different groups • create awareness on dietary requirements for different groups using songs, poems and verses",
+      "inquiryQuestions": "1. What are nutrients? 2. How do nutrient requirements vary from one person to another?"
+    },
+    {
+      "strand": "Health and Nutrition",
+      "subStrand": "Lifestyle diseases and disorders",
+      "code": "1.2",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) outline lifestyle diseases and disorders in the community b) investigate factors that contribute to lifestyle diseases and disorders in the community c) propose preventive measures for control of lifestyle diseases in daily life d) value prevention of lifestyle diseases for healthy living",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of lifestyle diseases • use video clips, print materials, pictures and charts to identify signs and symptoms of lifestyle diseases and disorders • carryout research on the prevalence of lifestyle diseases in the community and present findings • classify factors that contribute to lifestyle diseases and disorders • develop slogans on measures for prevention of lifestyle diseases in daily life and sensitize peers • debate on preventive measures for control of lifestyle diseases in the community",
+      "inquiryQuestions": "1. What causes lifestyle diseases? 2. How can lifestyle diseases be prevented?"
+    },
+    {
+      "strand": "Health and Nutrition",
+      "subStrand": "Health Behavior Change Communication",
+      "code": "1.3",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain meaning of behaviour change communication b) design ways of communicating behaviour change for better health c) apply healthy behaviour change for wellness of self and others d) appreciate heath behaviour change for healthy living",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of behaviour change communication • explore on the importance of behaviour change communication for health promotion • develop promotion materials with message on behaviour change for better health • share behaviour change messages that promote good health with peers • maintain a daily log on healthy b ehaviour changes adopted",
+      "inquiryQuestions": "What behaviour promotes health?"
+    },
+    {
+      "strand": "Human Body Systems",
+      "subStrand": "Respiratory system",
+      "code": "2.1",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) illustrate parts of the human respiratory system b) explain common diseases affecting the human respiratory system c) analyse causes, signs and symptoms of diseases affecting the respiratory system d) device preventive measures for control of diseases affecting the respiratory system e) appreciate a healthy respiratory system for proper functioning of the body",
+      "experiences": "The learner is guided to: • brainstorm on parts of the human respiratory system and discuss with peers (nasal cavity, lungs, trachea, bronchi, bronchioles, alveoli) • create models outlining parts of the human respiratory system using locally available materials (plastic bottles, balloons, straws, pipes, clay). • discuss the common diseases affecting the human respiratory system (Asthma, Tuberculosis, Pneumonia, Covid 19,) • search for information on the causes, signs and symptoms of various diseases affecting the human respiratory system and present in class • apply measures for prevention of diseases",
+      "inquiryQuestions": "1. What is the role of the respiratory system? 2. How do you ensure a healthy respiratory system?"
+    },
+    {
+      "strand": "Human Body Systems",
+      "subStrand": "Reproductive System",
+      "code": "2.2",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to; a) illustrate the structure of the reproductive system b) describe the conditions and disorders affecting the reproductive system c) discuss the challenges experienced during menstruation d) recommend ways of managing challenges experienced during menstruation e) appreciate the importance of a healthy reproductive system",
+      "experiences": "The learner is guided to: • discuss and draw the structure of the reproductive system • research on conditions and disorders affecting the male and female reproductive system and discuss with peers • share experiences on the challenges faced during menstruation. (Mood swings, headaches, nausea, abdominal pains, heavy flow, irregular menses among others) • adopt ways of managing menstrual challenges with the help of a resource person",
+      "inquiryQuestions": "1. What are the conditions affecting the reproductive system? 2. How are challenges experienced during menstration managed?"
+    },
+    {
+      "strand": "Human Body Systems",
+      "subStrand": "Sexually Transmitted Infections",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the sub-strand, the learner should be able to; a) outline common sexually transmitted infections b) discuss the causes, signs and symptoms of sexually transmitted infections c) assess the effects of sexually transmitted infections in the community d) suggest moral measures for prevention and control of sexually transmitted infections e) value prevention of sexually transmitted infections for healthy reproductive system",
+      "experiences": "The learner is guided to: • brainstorm and discuss common sexually transmitted infections • with the guidance of a resource person explore on the causes, signs and symptoms of various sexually transmitted infections. • investigate the effects of sexually transmitted infections on the community • research and recommend various measures for prevention and control of various sexually transmitted infections and discuss with peers • create flash card with messages on measures for prevention and control of sexually transmitted infections",
+      "inquiryQuestions": "1. What are sexually transmitted infections? 2. How do we prevent sexually transmitted infections?"
+    },
+    {
+      "strand": "Mental and Emotional Health",
+      "subStrand": "Emotional health",
+      "code": "3.1",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand, the learner should able: a) discuss the importance of emotional health for personal wellness b) analyse causes of common emotional health disorders in the society c) practice positive expression of emotions for healthy living d) value emotional health for personal welbeing",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of emotional health. • discuss with peers the benefits of maintaining positive emotions and share in findings • carryout a research on causes of common emotional health disorders in the society and present • share experiences with peers on ways of expressing emotions • take part in activities that enhances control and management of emotions",
+      "inquiryQuestions": "1. Why is emotional health important? 2. How do we ensure emotional wellbeing?"
+    },
+    {
+      "strand": "Mental and Emotional Health",
+      "subStrand": "Stress management",
+      "code": "3.2",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand, the learner should able: a) investigate the types of stressors in daily life b) discuss the causes and signs of stress for proper management. c) assess ways of preventing and managing stress for healthy living d) appreciate importance of stress management for healthy living.",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of stress, stressors and stress management. • carry out research to find out the different types of stressors in day to day life(positive and negative stressors) • debate on the causes of stress in the society. • search for information on ways of prevention and management of stress and make notes • adopt healthy ways to prevent and relieve stress",
+      "inquiryQuestions": "1. What is stress? 2. Why do we require to manage stress?"
+    },
+    {
+      "strand": "Use of Medicine",
+      "subStrand": "Drug resistance",
+      "code": "4.1",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the meaning of drug resistance in the body b) outline causes of drug resistance in the body c) discuss the effects of drug resistance on human health d) demonstrate correct use of drugs to prevent resistance e) embrace correct use of drugs to prevent drug resistance",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of drug resistance in relation to use of medicine. • discuss the causes of drug resistance and present in class • with the help of a resource person explore on the effects of drug resistance on health • use digital devices and print materials to search for information on correct use drugs to prevent resistance • use role play to demonstrate correct use of drugs to prevent resistance",
+      "inquiryQuestions": "1. What is drug resistance? 2. How do we prevent drug resistance?"
+    },
+    {
+      "strand": "Use of Medicine",
+      "subStrand": "Alternative medicine",
+      "code": "4.2",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) differentiate between conventional and alternative medicine b) describe the benefits of alternative medicine in promoting health c) assess challenges of using alternative medicine for disease prevention and control d) appreciate the role of alternative medicine in promotion of health",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of conventional and alternative medicine • use vidoe clips and print materials to identify different types of conventional and alternative medicine and classify them • discuss the benefits of alternative medicine and share experiences • research on the challenges experienced in use of alternative medicine and discuss with the guiance of a resource person",
+      "inquiryQuestions": "1. Why use alternative medicine? 2. What are the challenges of using alternative medicine?"
+    },
+    {
+      "strand": "First Aid and Basic Life Support",
+      "subStrand": "First Aid for medical conditions",
+      "code": "5.1",
+      "lessons": 5,
+      "outcomes": "By the end of the sub strand, the learner should be able to; a) identify medical conditions that require basic first aid b) discuss safety precautions to observe when performing first aid for medical conditions c) carry out first aid for various medical conditions d) embrace use of first aid techniques in saving lives",
+      "experiences": "The learner is guided to: • brainstorm on medical conditions that require basic first aid. • explore safety precautions to observe when offering first aid for medical conditions • watch video clips and search for information on the procedure of carrying out first aid for various medical conditions (Epilepsy, diabetes, heartattack, fainting) • simulate how to carry out first aid for various medical conditions",
+      "inquiryQuestions": "1. How are medical conditions managed during emergencies? 2. What do we consider when carrying out first aid?"
+    },
+    {
+      "strand": "First Aid and Basic Life Support",
+      "subStrand": "Basic life support",
+      "code": "5.2",
+      "lessons": 5,
+      "outcomes": "By the end of the sub-strand the learner should be able to; a) explain the meaning of Airway Breathing and Circulation as used in first aid b) describe the role of Airway Breathing and Circulation in first aid and basic life support c) demonstrate how to place an injured person in a recovery position during an emergency d) carry out artificial resuscitation technique during an emergency e) embrace use of basic life support skills in saving life",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of ABC as used in first aid(Airway, Breathing and Circulation) • explore on the importance of Airway Breathing and Circulation in first aid and discuss in groups • watch a video clip on application of Airway Breathing and Circulation technique • dramatise how to place an injured person in a recovery position during an emergency • search for information on the steps in management of an unconscious person • simulate how to carry out artificial resuscitation technique using models and dummies",
+      "inquiryQuestions": "1. Why is basic life support necessary? 2. How do you handle an unconscious person?"
+    },
+    {
+      "strand": "Environmental Health And Sanitation",
+      "subStrand": "Waste Management",
+      "code": "6.1",
+      "lessons": 5,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) identify types of waste for proper management b) apply the principles of waste management for control of waste c) manage waste effectively for a healthy environment d) value proper waste management for healthy living",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of waste and waste management • search for information on the types of waste and categorize them for appropriate management • practise the various principles of waste management for waste control in the community (Reduce, Reuse and Recycle) • participate in environmental sanitation projects as they apply principles of waste management",
+      "inquiryQuestions": "1. Why is waste management important? 2. How is waste controlled in the community?"
+    },
+    {
+      "strand": "Environmental Health and Sanitation",
+      "subStrand": "Waste disposal",
+      "code": "6.2",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) discuss methods of waste disposal for a clean environment b) assess the effects of poor waste disposal on environmental health c) practice appropriate disposal of solid and liquid wastes d) embrace proper waste disposal for a healthy environment",
+      "experiences": "The learner is guided to: • search for information and analyse various methods of waste disposal. (Incinaration, recycling, chemical and biological treament, landfills,collection and logistics) • watch a documentaries and video clips on effects of poor waste disposal practises on health and the environment (pollution, accidents, floods, contamination of water sources and spread of diseases among others) • debate on the effects of waste disposal on environmental health • take part in projects for appropriate disposal of solid and liquid wastes",
+      "inquiryQuestions": "1. Why do we dispose waste? 2. How does poor waste disposal affect health?"
+    },
+    {
+      "strand": "Health and Nutrition",
+      "subStrand": "Nutrition in the life cycle",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "• Written assignment. • Observation of learning activities • Oral assessment",
+      "experiences": "Digital resources, reference materials, charts, realia,",
+      "inquiryQuestions": "Learners to develop charts and flash cards on nutrient requirement for different stages of the lifecycle and mount in school"
+    },
+    {
+      "strand": "Health and Nutrition",
+      "subStrand": "Lifestyle diseases and disorders",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "• Oral assessment • Observation of learning activities • Peer assessment",
+      "experiences": "Digital resources, manilla papers, charts, posters, reference materials",
+      "inquiryQuestions": "Learners develop flash cards and posters with awareness messages on prevention of lifestyle diseases Learners take part in debates and clubs to discuss challenges faced in prevention of lifestyle diseases in the community"
+    },
+    {
+      "strand": "Health and Nutrition",
+      "subStrand": "Health Behavior Change Communication",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "• Written tests • Graded observation of group work activities • Self and peer assessment • Oral assessment",
+      "experiences": "Digital resources, reference materials, realia, pictures, charts",
+      "inquiryQuestions": "Learners initiate behaviour change campaigns on healthy eating habits for"
+    },
+    {
+      "strand": "Human Body Systems",
+      "subStrand": "Respiratory system",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "• Written assignment • Graded observation of group discussions • Oral assessment",
+      "experiences": "Digital resources, reference materials, charts, models",
+      "inquiryQuestions": "Learners use role play, skits and drama to demonstrate measures for the prevention of diseases of the respiratory system in daily life"
+    },
+    {
+      "strand": "Human Body Systems",
+      "subStrand": "Reproductive System",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "• Written tests • Graded observation of group work activities • Portfolios",
+      "experiences": "Video clips/ documentaries, charts, pictures, reference materials, digital devices",
+      "inquiryQuestions": "Learners create awareness on different ways of managing menstrual challenges by use of debates,songs and health clubs"
+    },
+    {
+      "strand": "Human Body Systems",
+      "subStrand": "Sexually Transmitted Infections",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "• Written tests • Graded observation of group work activities • Self and peer assessment",
+      "experiences": "Digital materials, charts, reference books",
+      "inquiryQuestions": "Learners to develop charts/posters/flash cards for creating awereness on ways of preventing sexually transmitted infections in the school community"
+    },
+    {
+      "strand": "Mental and Emotional Health",
+      "subStrand": "Emotional health",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "• Written assignment • Oral assessment • Projects",
+      "experiences": "Resource person, digital devices, video clips, print reference materials,",
+      "inquiryQuestions": "Engage in discussions with a resource person on ways of managing"
+    },
+    {
+      "strand": "Mental and Emotional Health",
+      "subStrand": "Stress management",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "• Written assignment • Oral assessment • Graded observation of learner group discussions",
+      "experiences": "Resource person, Print materials and digital resources, digital devices",
+      "inquiryQuestions": "Learners develop and maintain a journal on daily activities to prevent and manage stress"
+    },
+    {
+      "strand": "Use Of Medicine",
+      "subStrand": "Drug resistance",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "• Graded observation of learner demonstrations on safe use of medicine • Use of checklists • Written tests",
+      "experiences": "Resource person, digital devices, video clips, print reference materials,",
+      "inquiryQuestions": "Promote correct use of drugs to prevent resistence using songs, verses, clubs and socities"
+    },
+    {
+      "strand": "Use Of Medicine",
+      "subStrand": "Alternative medicine",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "• Graded observation of learner • Written assignment • Oral assessment • projects",
+      "experiences": "Print materials, realia, pictures, digital resources, reference books, charts, Resource person",
+      "inquiryQuestions": "Learners create awareness on correct use of alternative medicine for promotion of health using songs, poems, clubs and debate"
+    },
+    {
+      "strand": "First Aid and Basic Life Support",
+      "subStrand": "First Aid for medical conditions",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "• Graded observation of learner demonstrations • Written test • Projects",
+      "experiences": "Realia, pictures, digital resources, print materials, reference books, charts, Resource person",
+      "inquiryQuestions": "Engage in talks with a resource person on how to carry out first aid for various medical conditions"
+    },
+    {
+      "strand": "First Aid and Basic Life Support",
+      "subStrand": "Basic life support",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "• Written assignment • Graded observation of learner demonstrations • Oral assessment",
+      "experiences": "Resource person, digital devices, video clips, print reference materials, models, realia",
+      "inquiryQuestions": "Learners practice basic life support skills with the aid of a resource person"
+    },
+    {
+      "strand": "Environmental Health and Sanitation",
+      "subStrand": "Waste Management",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "• Graded observation of group work activities • Written test • Oral assessment",
+      "experiences": "Resource person, digital devices, video clips, print reference materials, realia, posters, pictures, cleaning materials and equipment",
+      "inquiryQuestions": "Learners create posters and fliers with messages on ways of managing wastes for a healthy environment"
+    },
+    {
+      "strand": "Environmental Health and Sanitation",
+      "subStrand": "Waste disposal",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "• Written assignment • Oral assessment • Self and peer assessment",
+      "experiences": "Digital resources, reference materials, realia, pictures, charts, photos",
+      "inquiryQuestions": "Learners make promotion materials with messages on proper waste disposal practices and use them to sensitise peers in debates, and health clubs"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:23:33.624Z",
+  "source": "KICD curriculum design"
+}
