@@ -42,7 +42,11 @@
           1,
           2,
           3
-        ]
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 7/Mathematics/Term 1/scheme-of-work.json",
+          "2": "schemes-of-work/Grade 7/Mathematics/Term 2/scheme-of-work.json"
+        }
       },
       "Agriculture": {
         "path": "schemes-of-work/Grade 7/AGRICULTURE SCHEMES/Term 3/scheme-of-work.json",
@@ -63,22 +67,34 @@
         ]
       },
       "English": {
-        "path": "schemes-of-work/Grade 7/English/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 7/ENGLISH SCHEMES/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 7/English/Term 1/scheme-of-work.json"
+        }
       },
       "Integrated Science": {
-        "path": "schemes-of-work/Grade 7/Integrated Science/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 7/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 7/Integrated Science/Term 1/scheme-of-work.json"
+        }
       },
       "Kiswahili": {
-        "path": "schemes-of-work/Grade 7/Kiswahili/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 7/KISWAHILI SCHEMES-1/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 7/Kiswahili/Term 1/scheme-of-work.json"
+        }
       },
       "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 7/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
@@ -95,16 +111,24 @@
     },
     "Grade 8": {
       "Mathematics": {
-        "path": "schemes-of-work/Grade 8/Mathematics/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 8/Mathematics/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 8/Mathematics/Term 1/scheme-of-work.json"
+        }
       },
       "English": {
-        "path": "schemes-of-work/Grade 8/English/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 8/English/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 8/English/Term 1/scheme-of-work.json"
+        }
       },
       "Christian Religious Education": {
         "path": "schemes-of-work/Grade 8/Christian Religious Education/Term 3/scheme-of-work.json",
@@ -113,10 +137,14 @@
         ]
       },
       "Integrated Science": {
-        "path": "schemes-of-work/Grade 8/Integrated Science/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 8/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 8/Integrated Science/Term 1/scheme-of-work.json"
+        }
       },
       "Kiswahili": {
         "path": "schemes-of-work/Grade 8/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
@@ -163,16 +191,24 @@
         ]
       },
       "English": {
-        "path": "schemes-of-work/Grade 9/English/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 9/ENGLISH SCHEMES/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 9/English/Term 1/scheme-of-work.json"
+        }
       },
       "Integrated Science": {
-        "path": "schemes-of-work/Grade 9/Integrated Science/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 9/INTEGRATED SCIENCE SCHEMES/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 9/Integrated Science/Term 1/scheme-of-work.json"
+        }
       },
       "Kiswahili": {
         "path": "schemes-of-work/Grade 9/KISWAHILI SCHEMES/Term 3/scheme-of-work.json",
@@ -181,10 +217,14 @@
         ]
       },
       "Mathematics": {
-        "path": "schemes-of-work/Grade 9/Mathematics/Term 1/scheme-of-work.json",
+        "path": "schemes-of-work/Grade 9/MATHEMATICS SCHEMES/Term 3/scheme-of-work.json",
         "terms": [
-          1
-        ]
+          1,
+          3
+        ],
+        "altPaths": {
+          "1": "schemes-of-work/Grade 9/Mathematics/Term 1/scheme-of-work.json"
+        }
       },
       "Pre-Technical Studies": {
         "path": "schemes-of-work/Grade 9/PRETECHNICAL SCHEMES/Term 3/scheme-of-work.json",
