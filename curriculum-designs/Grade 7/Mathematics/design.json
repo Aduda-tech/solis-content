@@ -1,0 +1,175 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "Mathematics",
+  "driveId": "13ZvSCRhAbuYudBkqyvol7Rh_OLAfEhsp",
+  "sourceLabel": "1 Mathematics",
+  "pages": 81,
+  "strandCount": 18,
+  "totalLessons": 92,
+  "strands": [
+    {
+      "strand": "Numbers",
+      "subStrand": "Whole Numbers",
+      "code": "1.1",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) use place value and total value of digits up to hundreds of millions in real life b) read and write numbers in symbols up to hundreds of millions in real life situations c) read and write numbers in words up to millions for efficiency d) round off numbers up to the nearest hundreds of millions in real life situations e) classify natural numbers as even, odd and prime in different situations",
+      "experiences": "The learner is guided to: • identify and write place value and total value of digits using place value apparatus • read and write numbers in symbols on number cards or charts • read and write numbers in words on number cards or charts and practice writing dummy cheques for different sums of money • prepare and use place value charts to round off numbers • play a number game, make number cards, sort and classify numbers according to those that are even, odd or prime • work out or perform 2, 3 or more combined operations in the correct order using digital devices",
+      "inquiryQuestions": "1. Why do we write numbers in words and/or symbols? 2. Where do we write numbers in words or symbols? 3. Why do we round off numbers in real life situations?"
+    },
+    {
+      "strand": "Numbers",
+      "subStrand": "Factors",
+      "code": "1.2",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) test divisibility of numbers by 2, 3, 4, 5, 6, 8, 9,10 and 11 in different situations b) express composite numbers as a product of prime factors in different situations c) work out the Greatest Common Divisor (GCD) and the Least Common Multiples (LCM) of numbers by factor method in different situations d) apply the Greatest Common Divisor (GCD) and the Least Common Multiples (LCM) in real life situations e) use IT devices for learning more on factors and for enjoyment f) appreciate use of factors in real life situations.",
+      "experiences": "The learner is guided to: • determine divisibility of numbers using regrouping and divisibility rule work sheets • write factors of composite numbers by factorization, factor tree, factor rainbow in charts, colour charts or cards using locally available materials • use factors to determine the LCM and the GCD using number cards or charts • use IT to access factors of numbers including songs/poems or games on divisibility tests • work out application questions and solve problems relating to the GCD and the LCM in real life situations.",
+      "inquiryQuestions": "1. Where do we use factors in day to day activities? 2. How do we use factors in day to day activities? 3. How do we apply the GCD and the LCM in day to day activ ities?"
+    },
+    {
+      "strand": "Numbers",
+      "subStrand": "Fractions",
+      "code": "1.3",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) compare fractions in different situations b) add fractions in different situations c) subtract fractions in different situations d) multiply fractions by a whole number, fraction and a mixed number in real life situations e) identify the reciprocals of fractions in different situations f) divide fractions by a whole number, fraction and a mixed fraction in real life situations g) divide a whole number by fractions in different situations",
+      "experiences": "The learner is guided to: • discuss and arrange fractions in increasing and decreasing order using different strategies • arrange fractions in ascending or descending order using fraction cards • add and subtract fractions in cut outs, cards, charts and concrete objects • multiply and divide fractions in cut outs, cards, charts and models • use flip cards to discuss reciprocals • play games of creating number puzzles that involve fractions number sequences using IT devices or other materials",
+      "inquiryQuestions": "1. How do we use fractions in daily activities? 2. Where do we use fractions in d aily activities?"
+    },
+    {
+      "strand": "Numbers",
+      "subStrand": "Decimals",
+      "code": "1.4",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the place value and the total value of digits in decimals in real life b) multiply decimals by a whole number and by a decimal in real life situations c) divide decimals by a whole number and by a decimal in real life situations d) use IT devices for learning more on decimals and for enjoyment e) appreciate the use of decimals in real life situations.",
+      "experiences": "The learner is guided to: • discuss, state and use the place value and total the value of decimals using place value apparatus and worksheets • multiply and divide decimals using cut outs, cards, charts and models • use calculators and other IT devices to work out operations of decimals. • play games involving multiplication and division of decimals.",
+      "inquiryQuestions": "1. Where are decimals applicable in real life? 2. How do you use decimals in daily activities?"
+    },
+    {
+      "strand": "Numbers",
+      "subStrand": "Squares and Square Roots",
+      "code": "1.5",
+      "lessons": 5,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) determine the squares of whole numbers, fractions and decimals by multiplication in different situations b) determine the square roots of whole numbers, fractions and decimals of perfect squares in different situations c) use IT devices for learning more on squares and square roots and for enjoyment d) appreciate the use of squares and square roots in real life situations.",
+      "experiences": "The learner is guided to: • work out squares of numbers using: grids and charts long multiplication method using calculators • work out square roots of number using: factors method division method calculators • use IT devices to play games involving squares and square roots",
+      "inquiryQuestions": "1. Where do we apply squares and square roots in daily activities? 2. How do we apply squares and square roots in daily activities?"
+    },
+    {
+      "strand": "Algebra",
+      "subStrand": "Algebraic Expressions",
+      "code": "2.1",
+      "lessons": 5,
+      "outcomes": "By the end of the sub strands the learner should be able to: a) form algebraic expressions from real life situations b) form algebraic expressions from simple algebraic statements in real life situations c) simplify algebraic expressions in real life situations d) use IT devices for more learning on algebraic expressions and for enjoyment, e) appreciate the use of algebraic expressions in real life.",
+      "experiences": "The learner is guided to: • discuss and classify objects in their immediate environment according to given attributes such as similarities or differences • discuss how to form algebraic expressions from the classified objects • read and interpret algebraic statements to form algebraic expressions • discuss how to simplify algebraic expressions from the classified objects • use IT to work out exercises and activities in algebra or drag and drop activities to group similar objects",
+      "inquiryQuestions": "How do we use algebraic expressions in daily activities?"
+    },
+    {
+      "strand": "Algebra",
+      "subStrand": "Linear Equations",
+      "code": "2.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) form linear equations in one unknown in different situations b) solve linear equations in one unknown in different situations c) apply linear equations in one unknown to real life situations d) use IT devices for more learning on linear equations and for enjoyment e) appreciate use of linear equations in real life situations.",
+      "experiences": "The learner is guided to: • role play activities involving equations with one unknown for example weighing using beam balance and shopping activities • discuss how to form and solve linear equations generated from role play activities • use IT to form and solve linear equations.",
+      "inquiryQuestions": "1. How do we use linear equations in real life? 2. Why do we use linear equations in r eal life?"
+    },
+    {
+      "strand": "Algebra",
+      "subStrand": "Linear Inequalities",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) apply inequality symbols to inequality statements in learning situations b) form simple linear inequalities in one unknown in different situations c) illustrate simple inequalities on a number line d) form compound inequality statements in one unknown in different situations e) illustrate compound inequalities in one unknown on a number line f) use IT devices for more learning on linear inequalities and for enjoyment g) appreciate use of linear inequalities in real life.",
+      "experiences": "The learner is guided to: • use inequality cards to complete simple inequality statements • use inequality cards/objects to form simple linear inequalities with one unknown • draw and represent simple inequality statements on a number line • use inequality cards to complete compound inequality statements • draw and represent compound inequality statements on a number line • use IT graphing tools to present solutions to inequalities.",
+      "inquiryQuestions": "1. How do we use linear inequalities in real life? 2. Why do we use linear inequalities in re al life?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Pythagorean Relationship",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) recognize the sides of a right-angled triangle in different situations b) identify Pythagorean relationship in different situations c) apply Pythagorean relationship to real life situations d) use IT devices for more learning on Pythagoras Theorem and for enjoyment e) appreciate the use of Pythagoras Theorem in real life situations.",
+      "experiences": "The learner is guided to: • draw and represent practical cases of right-angled triangle of an object leaning on a wall at different positions and recognize the sides as the hypotenuse the height and the base. For example, a ladder leaning on a wall. • do a variety of activities for example, counting squares on different sides of a 3, 4, 5 right angled-triangle, establish the Pythagorean relationship and practice using other right angled-triangles • work out exercises related to Pythagorean relationship • create Pythagorean relationship puzzles",
+      "inquiryQuestions": "How do we use Pythagorean relationship in real life situations?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Length",
+      "code": "3.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) convert units of length from one form to another involving cm, dm, m, Dm, Hm in learning situations b) perform operations involving units of length in different situations c) work out the perimeter of plane figures in different situations d) work out the circumference of circles in different situations e) use IT devices for more learning on length and for enjoyment f) appreciate the use of length in real life situations.",
+      "experiences": "The learner is guided to: • generate conversion tables involving cm, dm, m, Dm, Hm • practice different operations involving length • watch videos on correct procedures of measuring length and working out perimeter • use appropriate measuring tools to measure the length of various objects. • measure and work out perimeter of different plane figures including combined shapes. • measure the circumference and diameter of different circular objects and establish the relationship between circumference and diameter which is Pi. • use Pi to practice working out circumference of circles and can use IT devices for calculations.",
+      "inquiryQuestions": "1. Why do we use different units of measuring length? 2. How do we measure the perimeter of different objects?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Area",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify square metre (m2), acres and hectares as units of measuring area b) work out the area of rectangle, parallelogram, rhombus and trapezium in different situations c) work out the area of circles in different situations d) calculate the area of borders and combined shapes in real life situations e) use IT devices for more learning on area and for enjoyment f) appreciate the use of area in real life situations.",
+      "experiences": "The learner is guided to: • generate conversion tables involving acres and hectares as units of measuring area • use cut outs to find the area of the plane figures • watch videos on how to cut out a circle to small sectors to demonstrate how to derive the formula for the area of a circle • cut out a circle into small sectors and rearrange to form a rectangle to derive the formula for the area of a circle • practice cutting out the plane figures of combined shapes into different shapes to work o ut the area.",
+      "inquiryQuestions": "1. What are plane figures? 2. How do we work out the areas of plane figures?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Volume and Capacity",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify metre cube (m3 ) as a unit of volume in measurements b) convert metre cube (m3) into centimeter cube (cm3) and vice versa in different situations c) work out the volume of cubes, cuboids and cylinder in different situations d) identify the relationship between cm3, m3 and litres in real life situations e) relate volume to capacity in real life situations f) work out the capacity of containers in real life situations g) use IT devices for more learning on volume and capacity and for enjoyment h) appreciate use of volume and capacity in real life situations.",
+      "experiences": "The learner is guided to: • make a cube of sides 1 metre using locally available materials • discuss and work out the conversions of cm cube (cm3) and m cube (m3) • collect labelled containers of different volume and capacity from the environment • generate conversion tables of volume and capacity • create models of cubes, cuboids, and cylinders which they will use to work out volume • watch videos on volume and capacity",
+      "inquiryQuestions": "1. Where do we use volume and capacity in daily activities? 2. Why do we measure v olume?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Time, Distance and Speed (8 l essons)",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify units of measuring time in real life situations b) convert units of time from one form to another in learning situations c) convert units of measuring distance in learning situations d) identify speed as distance covered per unit time in different situations e) work out speed in km/h and m/s in real life situations f) Convert units of speed from kilometers per hour (Km/h) to meters per second (m/s) and vice versa in real life situations g) Use IT devices to learn more on time, distance and speed for planning",
+      "experiences": "The learner is guided to: • use analog or digital clock to tell time in hours, minutes and seconds and discuss the units of time • create conversion table on units of time • discuss and estimate distances between two or more points and convert from Km to meters and vice versa • engage in activities that involve distance and time such as track events to relate time, distance and speed • discuss how long they take to travel from home to school, discuss the aspects of distance, and time taken to get to school • practice calculating speeds in km/h or m/s",
+      "inquiryQuestions": "1. Why do we relate distance, time and speed? 2. What is the importance of speed in daily a ctivities?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Temperature",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe the temperature conditions of the immediate environment as either warm, hot or cold b) compare temperature using hotter, warmer, colder and same as in different situations c) identify units of measuring temperature as degree Celsius and Kelvin in different situations d) convert units of measuring temperature from degree Celsius to Kelvin and vice-versa e) work out temperature in degree Celsius and",
+      "experiences": "The learner is guided to: • move to the field, observe the temperature in the environment and discuss the temperature conditions as either warm, hot or cold • discuss and test temperature of different substances using arbitrary methods like touching, for example cold, warm or hot water (exercise caution when dealing with hot substances) • identify and use tools of measuring temperature, for example, thermometers that are in degrees Celsius. • work out conversions of temperature from degrees Celsius to Kelvin and vice versa",
+      "inquiryQuestions": "1. How does temperature affect our everyday lives? 2. How do we measure t emperature?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Money (12 l essons)",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) work out profit and loss in real life situations b) calculate the percentage profit and loss in different situations c) calculate discount and percentage discount of different goods and services d) calculate commission and percentage commission in real life situations e) interpret bills at home f) prepare bills in real life situations g) work out postal charges in real life situations h) identify mobile money services for different transactions",
+      "experiences": "The learner is guided to: • role play shopping activities involving profit, loss, discount and commission • work out profit and loss in different situations • work out percentage profit/loss in different situations • work out discount and percentage discount in different situations • work out commission and percentage commission in different situations • identify different types of bills and read the components of bills • prepare bills in different situations • visit post office to gather information on postal services and charges",
+      "inquiryQuestions": "1. Why do we use money in daily activities? 2. What considerations would we make when buying or selling? 3. What is involved in mobile money transactions?"
+    },
+    {
+      "strand": "Geometry",
+      "subStrand": "Angles",
+      "code": "4.1",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) relate different types of angles on a straight line in real life situations b) solve angles at a point in learning situations c) relate angles on a transversal in different situations d) solve angles in a parallelogram in different situation e) identify angle properties of polygons up to hexagon in different situations f) relate interior angles, exterior angles and the number of sides of a polygon up to hexagon in different situations",
+      "experiences": "The learner is guided to: • discuss positions of objects in the immediate environment in relation to angles • draw straight lines with different angles, measure and relate them. • draw different angles at a point, measure, relate and work out angles at point • draw transversals, measure and relate angles • draw parallelograms, measure and relate various angles • use cut outs or drawings of different polygons up to hexagon, measure the interior angles and relate to the number of right angles • use cut outs or drawings of different polygons up to hexagon, measure interior and exterior",
+      "inquiryQuestions": "1. What are angles? 2. Where do we use angles in real life situations?"
+    },
+    {
+      "strand": "Geometry",
+      "subStrand": "Geometrical Constructions",
+      "code": "4.2",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) measure different angles in learning situations b) bisect angles using a ruler and a pair of compasses only in learning situations c) construct 900, 450 600, 300 and other angles that are multiples of 7.50 using a ruler and a pair of compasses only in learning situations d) construct different triangles using a ruler and a pair of compasses only in different situations e) construct circles using a ruler and a pair of compasses only in different situations f) use IT devices to learn about geometric constructions for skills development g) appreciate the use of geometric constructions in real life situations.",
+      "experiences": "The learner is guided to: • draw and measure different angles • draw and bisect different angles • construct 900, 450 600, 300 including 1200, 1050 and practice with angles that are multiples of 7.50 using a pair of compasses and rulers • construct triangles using a pair of compasses and rulers • construct circles using a pair of compasses and rulers • use IT devices on graphics to draw angles and circles, watch videos of bisecting angles and constructing angles and circles.",
+      "inquiryQuestions": "1. Where do we use geometric constructions in real life situations? 2. Why do we use geometric constructions?"
+    },
+    {
+      "strand": "Data Handling and Probability",
+      "subStrand": "Data Handling",
+      "code": "5.1",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) state the meaning of data in learning situation b) collect data from different situations c) draw frequency distribution table of data from different situations d) determine suitable scale for graphs e) draw pictographs of data from real life situations f) draw bar graphs of data from different situations g) interpret bar graphs of data from real life situations",
+      "experiences": "The learner is guided to: • collect and organize data from real life situations. For example, as suggested in CSL project, data from class registers (indicates school attendance) • tally and represent the data in a frequency table • discuss and come up with suitable scale to represent data in graphs • use a suitable scale to draw pictographs from CSL or other data • use a suitable scale to draw bar graphs from CSL or other data • discuss and interpret bar graphs of CSL or other data",
+      "inquiryQuestions": "1. Why do we collect data? 2. How do we represent data? 3. How do we interpret d ata?"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:20:06.338Z",
+  "source": "KICD curriculum design"
+}
