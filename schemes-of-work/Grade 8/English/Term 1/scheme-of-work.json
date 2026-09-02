@@ -1,0 +1,1357 @@
+{
+  "path": "schemes-of-work/Grade 8/English/Term 1/scheme-of-work.json",
+  "grade": 8,
+  "term": 1,
+  "subject": "English",
+  "weeks": 13,
+  "lessons": 65,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.154Z",
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe respond to questions; b) Investigate respond to questions in real-life situations; c) Show interest in the use of oral comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use respond to questions in everyday life?",
+      "activities": [
+        "Learners observe and record examples of respond to questions",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State summarise oral texts; b) Classify summarise oral texts in real-life situations; c) Take responsibility for the use of oral comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find summarise oral texts in our community?",
+      "activities": [
+        "In groups, learners investigate summarise oral texts using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify identify main ideas; b) Investigate identify main ideas in real-life situations; c) Develop curiosity about the use of oral comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is identify main ideas important?",
+      "activities": [
+        "Learners observe and record examples of identify main ideas",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define presentations; b) Solve presentations in real-life situations; c) Value the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change presentations?",
+      "activities": [
+        "Learners are guided to discuss presentations in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise debates; b) Solve debates in real-life situations; c) Appreciate the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply speaking skills to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about debates",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe group discussions; b) Compare group discussions in real-life situations; c) Show interest in the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use group discussions in everyday life?",
+      "activities": [
+        "Learners observe and record examples of group discussions",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List storytelling; b) Classify storytelling in real-life situations; c) Appreciate the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply speaking skills to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about storytelling",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Listening and Speaking",
+      "subStrand": "Phonology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State stress and intonation; b) Analyse stress and intonation in real-life situations; c) Value the use of phonology in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change stress and intonation?",
+      "activities": [
+        "Learners brainstorm what they already know about stress and intonation",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Listening and Speaking",
+      "subStrand": "Phonology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define homophones; b) Construct homophones in real-life situations; c) Value the use of phonology in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change homophones?",
+      "activities": [
+        "Learners observe and record examples of homophones",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Listening and Speaking",
+      "subStrand": "Phonology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify connected speech; b) Classify connected speech in real-life situations; c) Develop curiosity about the use of phonology in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is connected speech important?",
+      "activities": [
+        "Learners observe and record examples of connected speech",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Reading",
+      "subStrand": "Reading Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe inferential questions; b) Construct inferential questions in real-life situations; c) Develop curiosity about the use of reading comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is inferential questions important?",
+      "activities": [
+        "In groups, learners investigate inferential questions using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Reading Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline summarise passages; b) Construct summarise passages in real-life situations; c) Appreciate the use of reading comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply reading comprehension to solve problems?",
+      "activities": [
+        "In groups, learners investigate summarise passages using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Reading",
+      "subStrand": "Reading Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise critical analysis; b) Apply critical analysis in real-life situations; c) Appreciate the use of reading comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply reading comprehension to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about critical analysis",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Literary Appreciation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List novels; b) Apply novels in real-life situations; c) Show interest in the use of literary appreciation in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use novels in everyday life?",
+      "activities": [
+        "Learners are guided to discuss novels in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Reading",
+      "subStrand": "Literary Appreciation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define plays; b) Investigate plays in real-life situations; c) Show interest in the use of literary appreciation in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use plays in everyday life?",
+      "activities": [
+        "Learners observe and record examples of plays",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Reading",
+      "subStrand": "Literary Appreciation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe poetry; b) Analyse poetry in real-life situations; c) Show interest in the use of literary appreciation in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use poetry in everyday life?",
+      "activities": [
+        "Learners are guided to discuss poetry in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Literary Appreciation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe short stories; b) Measure short stories in real-life situations; c) Develop curiosity about the use of literary appreciation in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is short stories important?",
+      "activities": [
+        "In groups, learners investigate short stories using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Reading",
+      "subStrand": "Study Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify skimming and scanning; b) Construct skimming and scanning in real-life situations; c) Show interest in the use of study skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use skimming and scanning in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about skimming and scanning",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Reading",
+      "subStrand": "Study Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define note-taking; b) Analyse note-taking in real-life situations; c) Value the use of study skills in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change note-taking?",
+      "activities": [
+        "In groups, learners investigate note-taking using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Reading",
+      "subStrand": "Study Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify reference skills; b) Apply reference skills in real-life situations; c) Develop curiosity about the use of study skills in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is reference skills important?",
+      "activities": [
+        "Learners are guided to discuss reference skills in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Reading",
+      "subStrand": "Extensive Reading",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline library skills; b) Analyse library skills in real-life situations; c) Develop curiosity about the use of extensive reading in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is library skills important?",
+      "activities": [
+        "Learners are guided to discuss library skills in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Reading",
+      "subStrand": "Extensive Reading",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise book reviews; b) Construct book reviews in real-life situations; c) Appreciate the use of extensive reading in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply extensive reading to solve problems?",
+      "activities": [
+        "Learners are guided to discuss book reviews in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Reading",
+      "subStrand": "Extensive Reading",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe reading journals; b) Measure reading journals in real-life situations; c) Value the use of extensive reading in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change reading journals?",
+      "activities": [
+        "In groups, learners investigate reading journals using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Grammar",
+      "subStrand": "Parts of Speech",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State tenses review; b) Apply tenses review in real-life situations; c) Appreciate the use of parts of speech in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply parts of speech to solve problems?",
+      "activities": [
+        "Learners are guided to discuss tenses review in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Grammar",
+      "subStrand": "Parts of Speech",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State active and passive voice; b) Measure active and passive voice in real-life situations; c) Value the use of parts of speech in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change active and passive voice?",
+      "activities": [
+        "In groups, learners investigate active and passive voice using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Grammar",
+      "subStrand": "Parts of Speech",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List conditionals; b) Investigate conditionals in real-life situations; c) Value the use of parts of speech in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change conditionals?",
+      "activities": [
+        "Learners observe and record examples of conditionals",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Grammar",
+      "subStrand": "Sentence Construction",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify complex sentences; b) Measure complex sentences in real-life situations; c) Show interest in the use of sentence construction in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use complex sentences in everyday life?",
+      "activities": [
+        "Learners are guided to discuss complex sentences in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Grammar",
+      "subStrand": "Sentence Construction",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List reported speech; b) Apply reported speech in real-life situations; c) Develop curiosity about the use of sentence construction in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is reported speech important?",
+      "activities": [
+        "Learners brainstorm what they already know about reported speech",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Grammar",
+      "subStrand": "Sentence Construction",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline sequence connectors; b) Compare sequence connectors in real-life situations; c) Develop curiosity about the use of sentence construction in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is sequence connectors important?",
+      "activities": [
+        "In groups, learners investigate sequence connectors using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Grammar",
+      "subStrand": "Punctuation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline apostrophes; b) Apply apostrophes in real-life situations; c) Value the use of punctuation in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change apostrophes?",
+      "activities": [
+        "Learners observe and record examples of apostrophes",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Grammar",
+      "subStrand": "Punctuation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List colons and semicolons; b) Classify colons and semicolons in real-life situations; c) Appreciate the use of punctuation in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply punctuation to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about colons and semicolons",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Grammar",
+      "subStrand": "Punctuation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State quotation marks; b) Construct quotation marks in real-life situations; c) Appreciate the use of punctuation in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply punctuation to solve problems?",
+      "activities": [
+        "Learners are guided to discuss quotation marks in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Grammar",
+      "subStrand": "Idiomatic Expressions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define proverbs; b) Classify proverbs in real-life situations; c) Take responsibility for the use of idiomatic expressions in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find proverbs in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about proverbs",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Grammar",
+      "subStrand": "Idiomatic Expressions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe idioms; b) Measure idioms in real-life situations; c) Appreciate the use of idiomatic expressions in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply idiomatic expressions to solve problems?",
+      "activities": [
+        "Learners observe and record examples of idioms",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Grammar",
+      "subStrand": "Idiomatic Expressions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State sayings; b) Measure sayings in real-life situations; c) Develop curiosity about the use of idiomatic expressions in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is sayings important?",
+      "activities": [
+        "Learners observe and record examples of sayings",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Writing",
+      "subStrand": "Creative Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State essays; b) Demonstrate essays in real-life situations; c) Appreciate the use of creative writing in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply creative writing to solve problems?",
+      "activities": [
+        "In groups, learners investigate essays using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Writing",
+      "subStrand": "Creative Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify poetry composition; b) Classify poetry composition in real-life situations; c) Develop curiosity about the use of creative writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is poetry composition important?",
+      "activities": [
+        "In groups, learners investigate poetry composition using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Writing",
+      "subStrand": "Creative Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe short stories; b) Analyse short stories in real-life situations; c) Take responsibility for the use of creative writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find short stories in our community?",
+      "activities": [
+        "Learners are guided to discuss short stories in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Writing",
+      "subStrand": "Creative Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define dialogues; b) Construct dialogues in real-life situations; c) Develop curiosity about the use of creative writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is dialogues important?",
+      "activities": [
+        "In groups, learners investigate dialogues using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Functional Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise formal letters; b) Solve formal letters in real-life situations; c) Appreciate the use of functional writing in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply functional writing to solve problems?",
+      "activities": [
+        "Learners observe and record examples of formal letters",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "Writing",
+      "subStrand": "Functional Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List notices; b) Solve notices in real-life situations; c) Develop curiosity about the use of functional writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is notices important?",
+      "activities": [
+        "Learners are guided to discuss notices in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "Writing",
+      "subStrand": "Functional Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define minutes; b) Solve minutes in real-life situations; c) Take responsibility for the use of functional writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find minutes in our community?",
+      "activities": [
+        "In groups, learners investigate minutes using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "Writing",
+      "subStrand": "Functional Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe reports; b) Investigate reports in real-life situations; c) Develop curiosity about the use of functional writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is reports important?",
+      "activities": [
+        "Learners brainstorm what they already know about reports",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "Writing",
+      "subStrand": "Writing Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise paragraph development; b) Classify paragraph development in real-life situations; c) Show interest in the use of writing skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use paragraph development in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about paragraph development",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "5",
+      "strand": "Writing",
+      "subStrand": "Writing Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify cohesion and coherence; b) Compare cohesion and coherence in real-life situations; c) Show interest in the use of writing skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use cohesion and coherence in everyday life?",
+      "activities": [
+        "Learners observe and record examples of cohesion and coherence",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "1",
+      "strand": "Writing",
+      "subStrand": "Writing Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify editing and proofreading; b) Classify editing and proofreading in real-life situations; c) Develop curiosity about the use of writing skills in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is editing and proofreading important?",
+      "activities": [
+        "Learners are guided to discuss editing and proofreading in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "2",
+      "strand": "Writing",
+      "subStrand": "Information Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify summaries; b) Demonstrate summaries in real-life situations; c) Value the use of information writing in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change summaries?",
+      "activities": [
+        "Learners are guided to discuss summaries in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "3",
+      "strand": "Writing",
+      "subStrand": "Information Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise abstracts; b) Demonstrate abstracts in real-life situations; c) Take responsibility for the use of information writing in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find abstracts in our community?",
+      "activities": [
+        "Learners are guided to discuss abstracts in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "4",
+      "strand": "Writing",
+      "subStrand": "Information Writing",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe annotations; b) Classify annotations in real-life situations; c) Appreciate the use of information writing in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply information writing to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about annotations",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "5",
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe respond to questions; b) Solve respond to questions in real-life situations; c) Appreciate the use of oral comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply oral comprehension to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about respond to questions",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "1",
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe summarise oral texts; b) Investigate summarise oral texts in real-life situations; c) Value the use of oral comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change summarise oral texts?",
+      "activities": [
+        "Learners observe and record examples of summarise oral texts",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "2",
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Comprehension",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify identify main ideas; b) Compare identify main ideas in real-life situations; c) Value the use of oral comprehension in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change identify main ideas?",
+      "activities": [
+        "Learners observe and record examples of identify main ideas",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "3",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe presentations; b) Investigate presentations in real-life situations; c) Take responsibility for the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find presentations in our community?",
+      "activities": [
+        "Learners are guided to discuss presentations in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "4",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise debates; b) Compare debates in real-life situations; c) Value the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change debates?",
+      "activities": [
+        "Learners are guided to discuss debates in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "5",
+      "strand": "Listening and Speaking",
+      "subStrand": "Speaking Skills",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe group discussions; b) Construct group discussions in real-life situations; c) Appreciate the use of speaking skills in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply speaking skills to solve problems?",
+      "activities": [
+        "In groups, learners investigate group discussions using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "English Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "5",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the English content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the English content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the English content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the English content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "5",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the English content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "English Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    }
+  ]
+}
