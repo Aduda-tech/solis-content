@@ -1,0 +1,229 @@
+{
+  "grade": "Grade 8",
+  "learningArea": "Pre-Technical Studies",
+  "driveId": "1ZUUTKHR10oZevF540ZAnvwkW_IZW3iND",
+  "sourceLabel": "PRE-TECHNICAL STUDIES GRADE 8",
+  "pages": 48,
+  "strandCount": 24,
+  "totalLessons": 96,
+  "strands": [
+    {
+      "strand": "Foundations of Pre-Technical Studies",
+      "subStrand": "Fire and Data Safety",
+      "code": "1.1",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the possible causes of fire in a work environment, b) describe ways of preventing fire in the environment, c) use firefighting techniques to stop fire in an environment, d) analyse threats to data in an electronic device, e) secure data in an electronic device, f) acknowledge the need for fire and data safety in day-to-day life.",
+      "experiences": "The learner is guided to: ● brainstorm on the possible causes of fire in a work environment (flammable substances, electrical faults, combustible materials), ● share experiences on ways of preventing fire in the environment, ● discuss firefighting techniques in the work environment, (cooling, smothering, starving, interrupting) ● role play firefighting techniques in work environment, ● demonstrate firefighting techniques to stop fire in an environment, ● search for information using available resources on the threats of data in an electronic",
+      "inquiryQuestions": "1. Why is fire safety"
+    },
+    {
+      "strand": "Foundations of Pre-Technical Studies",
+      "subStrand": "Computer Hardware",
+      "code": "1.2",
+      "lessons": 11,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) classify computer hardware devices in a user environment, b) use computer hardware devices to carry out a given task, c) value the importance of computer hardware devices in a user environment.",
+      "experiences": "The learner is guided to: ● brainstorm and present on the meaning of the term ‘computer hardware’ ● use available resources to search for information on categories of computer hardware: input devices (keying devices, pointing devices, scanning devices, voice input devices, touch screen, digitizer, digital cameras), output devices (hardcopy and softcopy), storage devices (fixed and removable devices), ● discuss the categories of computer hardware devices in a user environment, ● match available devices to their respective categories, ● perform tasks using computer input, output and storage devices.",
+      "inquiryQuestions": "How are computer hardware used?"
+    },
+    {
+      "strand": "Foundations of Pre-Technical Studies",
+      "subStrand": "Consumer and Investor Protection",
+      "code": "1.3",
+      "lessons": 4,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) explain the importance of consumer and investor protection in Kenya, b) analyse ways in which consumers and investors are protected in Kenya, c) explore the Government financial regulators in Kenya, d) protect oneself from exploitation.",
+      "experiences": "The learner is guided to: ● brainstorm and present on the meaning and importance of consumer and investor protection in Kenya, ● use available resources to search for information on the importance of consumer and investor protection in Kenya, ● share experiences on ways in which consumers and investors protect themselves, ● discuss and present on ways in which the Government protects consumers and investors. ● use print or digital media to search for information on ways in which non-Governmental organisations protect consumers’ and investors’ concerns in Kenya, ● engage a resource person to discuss ways in which non-Governmental organisations protect consumers’",
+      "inquiryQuestions": "1. Why does the Government protect consumers and investors? 2. How do consumers protect themselves from exploitation by traders?"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Plain Scale Drawing",
+      "code": "2.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe the features of a plain scale used in drawing, b)interpret a plain scale used in drawing, c) draw plane figures to a given scale, d)appreciate the use of plain scale drawing in the work environment.",
+      "experiences": "The learner is guided to:  use print or digital media to search for information on plain scales  discuss the features of a plain scale  use drawing instruments to construct a plain scale  discuss how to read plain scales  use visual aids to identify drawings drawn to different scales  practice drawing plane figures to a given plain scale",
+      "inquiryQuestions": "1. What is the importance of drawing figures to scale? 2. Why are plane figures drawn to scale?"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Visual Programming",
+      "code": "2.3",
+      "lessons": 14,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify types of visual programming applications used to solve problems in day-to-day life, b) explore the features of visual programming applications used in the work environment, c) create instructions to solve problems using visual programming application, d) value the importance of visual programming to solve problems in day-to- day life.",
+      "experiences": "The learner is guided to: ● brainstorm on the meaning of the terms ‘visual programming’ and ‘visual programming application’, ● use available resources to search for information on types of visual programming applications (Educational, Multimedia, Video games), ● brainstorm on examples of visual programming applications (Microsoft MakeCode, Scratch, Sprite box), ● launch and discuss the different features of visual programming applications (input, processing, output, effects such as sound, animations and background), ● Search for information on terminologies used in visual programming (syntax, variables, input output statements, coding, coding blocks, sequence statement,",
+      "inquiryQuestions": "How are computer programs used in daily life?"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Composite Materials",
+      "code": "3.1",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify composite materials in the locality, b) describe the composition of composite materials in the locality, c) relate composite materials to their use in a work environment, d) acknowledge the importance of composite materials used in the locality.",
+      "experiences": "The learner is guided to: ● use visual aids and realia to identify materials made of composites (concrete, bricks, manufactured boards, stone, paper-mâché and plastic-coated paper) and share with the peers, ● use print or digital media to search for information on the composition of composite materials and share with peers, ● discuss the constituent materials of composites, ● visit workplaces in the locality to explore the uses of composite materials, ● match composite materials to their uses in the work environment.",
+      "inquiryQuestions": "1. How can composite materials be identified? 2. Why are composite materials used in day-to-day life?"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Ceramic Materials",
+      "code": "3.2",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify common ceramic materials in the locality, b) describe the physical properties of ceramic materials in the locality, c) relate ceramic materials to their use in a work environment, d) acknowledge the importance of ceramic materials used in the locality.",
+      "experiences": "The learner is guided to: ● use visual aids and realia to identify items made of ceramic materials (pottery, ceramic utensils, glass, shells) ● collect items made of ceramic materials in the locality, ● investigate the physical properties of ceramic materials (brittleness, fire resistance, heat resistance, water resistance, corrosion resistance), ● visit workplaces in the locality to explore the uses of ceramic materials, ● use a chart to match ceramic materials to their uses in the work environment.",
+      "inquiryQuestions": "How are ceramic materials used in day-to-day life?"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Cutting Tools",
+      "code": "4.1",
+      "lessons": 15,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify cutting tools used in the work environment, b) select cutting tools for given tasks in a workplace, c) use cutting tools to perform a given task, d) care for cutting tools in the work environment, e) recognise the importance of cutting tools in the work environment.",
+      "experiences": "The learner is guided to: ● use available resources to identify cutting tools in the work environment (snips, chisels, handsaws, planes, hacksaws, scrappers, knives, strippers, cutters), ● discuss the use of cutting tools in the work environment, ● use audio visual aids to observe the use of cutting tools in the work environment, ● demonstrate safe use of cutting tools to perform specific tasks, ● carry out given tasks using cutting tools, ● maintain and store cutting tools in the work environment.",
+      "inquiryQuestions": "Why are cutting tools cared for?"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Production Unit",
+      "code": "4.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the factors considered when locating a production unit, b) analyse the factors determining the size of a production unit, c) locate a production unit in a suitable area.",
+      "experiences": "",
+      "inquiryQuestions": "The learner is guided to:"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Bookkeeping",
+      "code": "5.1",
+      "lessons": 12,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the importance of bookkeeping in entrepreneurship, b) classify business transactions in bookkeeping, c) prepare simple financial statements for a business, d) keep financial records for effective decision making.",
+      "experiences": "The learner is guided to: ● brainstorm and present the meaning of basic terms used in bookkeeping ● discuss the importance of bookkeeping for a business, ● calculate assets, liabilities and capital using the bookkeeping equation, ● read and analyse a case study on cash and credit transactions, ● determine the cost and price of a given product to calculate profit and loss, ● discuss the components of a statement of financial position, cash flow and income statement, ● draw and present simple statements of financial position, cash flow and income statement for a business.",
+      "inquiryQuestions": "1. Why is bookkeeping important to a business? 2. How are the statements of financial position, cash flow and income statement prepared?"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Saving and Investment",
+      "code": "5.4",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the reasons for saving and investment in financial management, b) explore the methods of saving and investment for effective financial management, c) prepare a simple saving and investment plan for personal financial management, d) analyse ethical and unethical practices in saving and investing money, e) practice saving and",
+      "experiences": "The learner is guided to: ● discuss and present on the meaning and reasons for saving and investment in financial management, ● brainstorm and present on methods of saving and investment for effective financial management, ● prepare a simple saving and investment plan, ● make money boxes for personal savings using locally available materials, ● share experiences on ethical and unethical practices on saving and investment, ● search for information on ethical and unethical practices on saving and investment from available resources and share with peers.",
+      "inquiryQuestions": "1. Why is saving and investing important? 2. What are the ethical and unethical practices in saving and investing?"
+    },
+    {
+      "strand": "Foundations of Pre-Technical studies",
+      "subStrand": "Fire and Data Safety",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● peer and self- assessment",
+      "experiences": "● Approved textbooks ● workshop rules and regulations on fire safety ● Firefighting equipment ● Posters and flyers ● Charts and pictures ● Digital devices such as; desktop computer, laptop, smart phone, tablets",
+      "inquiryQuestions": "● Role playing ● Health club, First Aid clubs, St. John’s Ambulance ● community sensitisation on fire, and data safety and best practices ● Field visit activities"
+    },
+    {
+      "strand": "Foundations of Pre-Technical studies",
+      "subStrand": "Computer Hardware",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● learner’s profile ● peer and self- assessment ● portfolio",
+      "experiences": "● computer hardware ● Approved textbooks ● Internet connectivity ● video and audio clips ● Charts and pictures",
+      "inquiryQuestions": "● community sensitisation on the use of computer hardware ● Field visits"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Business communication",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work",
+      "experiences": "● posters ● photographs ● pictures ● Business Studies",
+      "inquiryQuestions": "● community sensitisation ● role playing"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Plain scale drawing",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● peer and self- assessment ● portfolio",
+      "experiences": "● Drawing books, ● Pencils, ● Geometrical instruments, ● Ruler ● Digital devices such as; computer, laptop, smart phone, tablets among others",
+      "inquiryQuestions": "Learners visit a nearby workshop or a TVET institution to observe and record how plain scale drawing is done and how it is used in the locality."
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Visual programming",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● peer and self- assessment ● portfolio",
+      "experiences": "● Digital devices, ● Apps ● productivity tools, ● visual programming tools, ● computer software (OS, Utility software and Application programs) ● Internet",
+      "inquiryQuestions": "● Community presentations on how to navigate the visual programming applications ● sensitise communities on the use of visual programming"
+    },
+    {
+      "strand": "Materials for production",
+      "subStrand": "Composite Materials",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● peer and self- assessment ● portfolio",
+      "experiences": "● Concrete, bricks, manufactured boards, stone, paper-mâché and plastic-coated paper among others ● Digital devices, Approved books Internet, video, audio clips, models, checklists.",
+      "inquiryQuestions": "Learners go round the compound and the nearby community and collect available composite materials and write down how each is used by the local community"
+    },
+    {
+      "strand": "Materials for production",
+      "subStrand": "Ceramics",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● peer and self- assessment ● portfolio",
+      "experiences": "● Earthenware, stoneware and porcelain among others ● Career brochures, career magazines ● Digital devices such as; computer, laptop, smart phone, tablets",
+      "inquiryQuestions": "Learners visit a nearby workshop to observe and record how ceramics are used to make different gadgets"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Cutting Tools",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "● Question and Answer ● Observation ● Written test ● Practical work ● peer and self- assessment ● Portfolios",
+      "experiences": "● Snips, chisel, handsaw, planes, hacksaw, scrappers, knives, strippers and scissors. ● Digital devices such as; computer, laptop, smart phone, tablets",
+      "inquiryQuestions": "Learners visit a nearby home to observe and record how cutting tools are used in the family and local community"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Production unit",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "● Question and answer ● learner’s profile ● written tests ● observation ● Peer and self- assessment",
+      "experiences": "● Approved textbooks ● Digital devices, ● brochures ● pictures ● charts ● Workplaces in the society",
+      "inquiryQuestions": "● Field visits activities ● Business clubs"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Bookkeeping",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "● Portfolio ● Question and answer ● learner’s profile ● written tests ● observation ● Peer and self- assessment",
+      "experiences": "● Approved textbook ● Digital resources ● Resource persons ● Sample financial records",
+      "inquiryQuestions": "● Business clubs ● School mentorship programs"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Income and Budgeting",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "● Portfolio ● Question and answer ● learner’s profile ● written tests ● observation ● Peer and self- assessment",
+      "experiences": "● Approved textbook ● Digital resources ● Resource persons ● Sample personal budget template ● Realia like piggy banks and money boxes",
+      "inquiryQuestions": "● Business clubs ● School mentorship programs"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Marketing goods and Services",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "● Portfolio ● Question and answer ● learner’s profile ● written tests ● observation ● Peer and self- assessment",
+      "experiences": "● Approved textbooks ● Digital devices, ● brochures ● pictures ● charts ● flyers ● brochures ● newspapers and magazines",
+      "inquiryQuestions": "● Business clubs ● School mentorship programmes ● Academic field visits to local markets ● trade fairs and shows"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Saving and Investment",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "● Portfolio ● Question and answer ● learner’s profile ● written tests ● observation ● Peer and self- assessment",
+      "experiences": "● Approved textbooks ● Digital devices, ● brochures ● pictures ● charts ● flyers ● brochures ● newspapers and magazines",
+      "inquiryQuestions": "● Academic field visits ● Business clubs and societies ● school mentorship programmes"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:19:23.272Z",
+  "source": "KICD curriculum design"
+}
