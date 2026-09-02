@@ -1,0 +1,229 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "Agriculture",
+  "driveId": "1caCKCUfKYBGr119n5fpqdmLwFlLmtTlI",
+  "sourceLabel": "8 Agriculture",
+  "pages": 58,
+  "strandCount": 24,
+  "totalLessons": 90,
+  "strands": [
+    {
+      "strand": "Conserving Agricultural Environment",
+      "subStrand": "Soil pollution control",
+      "code": "1.1",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the causes of soil pollution in farming, b) control soil pollution in agricultural environment, c) promote safe farming practices to prevent soil pollution, d) demonstrate responsibility in using safe farming practices to conserve soil.",
+      "experiences": "Learner is guided to: • form groups, find out and discuss causes of soil pollution in farming such as excessive use of artificial fertilizers, agricultural chemicals and plastic wastes. • search and watch a video clip on causes of soil pollution. • engage in safe soil pollution control practices such as safe disposal of used chemical containers and plastic wastes. • create awareness messages against dumping of soil pollutants, safe disposal of used chemical containers and plastic wastes and use of correct types and amounts of farm chemicals and fertilizers.",
+      "inquiryQuestions": "1. How do farming practices cause soil pollution? 2. How can we control soil pollution through agricultural practices?"
+    },
+    {
+      "strand": "Conserving Agricultural Environment",
+      "subStrand": "Water conservation measures",
+      "code": "1.2",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) outline the importance of water conservation in farming, b) construct water retention structures to conserve surface runoff, c) use minimum tillage practices to conserve water in farming, d) appraise water conservation measures in agricultural environment.",
+      "experiences": "Learner is guided to: • work in pairs to discuss the importance of water conservation in farming (such importance to include making water available longer after the rains). • discuss ways of conserving surface runoff to prevent damage of property and collect it in structures such as water retention ditches, earth basins and water retention pits. • search for information on minimum tillage practices for water conservation in farming; to include practices such as slashing weeds, restricted cultivation and mulching. • take an excursion to",
+      "inquiryQuestions": "1. How can we conserve surface runoff for farming? 2. How can we practice minimum tillage to conserve soil moisture?"
+    },
+    {
+      "strand": "Conserving Agricultural Environment",
+      "subStrand": "Agroforestry",
+      "code": "1.3",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the meaning of agroforestry in conserving the environment, b) describe the importance of agro-forestry in conserving the environment, c) examine the characteristics of agro-forestry trees for conservation of the environment, d) choose appropriate agroforestry trees for conserving environment, e) establish agroforestry trees for conservation of the environment, f) embrace the use of agroforestry in conserving the environment.",
+      "experiences": "Learner is guided to: • work in pairs to discuss their understanding of the term agro-forestry. • work in groups to search for information on importance of agro- forestry using digital and print resources and make presentation in class. • take a field excursion to observe the uses of various trees as grown in crop and pasture fields. • watch a video clip on agroforestry trees as used in crops and pasture fields. • make presentations on characteristics of a",
+      "inquiryQuestions": "1. Why should we practice agroforestry? 2. How do agroforestry trees conserve environment? 3. How can we identify and agroforestry tree?"
+    },
+    {
+      "strand": "Crop Production",
+      "subStrand": "Preparation of planting site",
+      "code": "2.1",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify planting site for crops in the school environment, b) examine planting site in relation to planting material, c) prepare site for establishing selected planting material, d) show responsibility in preparing site for selected planting material.",
+      "experiences": "Learner is guided to: • take excursion in the school compound to identify suitable sites for planting crops. The sites to include ground sites, container sites, on walls, along the fence or along the driveways. • observe provided planting materials and suggest appropriate preparation of their planting sites. The suggestions to include fine tilth for small seeds, medium tilth for medium sized seeds, course tilth for large planting materials like tubers, suckers and cuttings. • prepare suitable sites for establishing selected planting materials on the identified areas. The sites to include selected containers and ground seedbeds. Practical activity: As a class, learners to",
+      "inquiryQuestions": "1. How can we prepare different types of planting sites? 2. How does planting material determine planting site preparation?"
+    },
+    {
+      "strand": "Crop Production",
+      "subStrand": "Crop establishment",
+      "code": "2.2",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) categorize planting materials used for establishing various crops, b) select suitable planting materials for crop establishment, c) describe the methods of planting various crop materials, d) determine appropriate time of planting different types of propagation materials, e) predict appropriate time of planting using digital information centres, f) establish a selected planting material in a planting site",
+      "experiences": "Learner is guided to: • search for information on types of planting materials, collect and categorize planting materials as either seeds or vegetative materials. • analyze and select from provided samples of planting materials such as overgrown woody cuttings, middle woody cuttings, young immature cuttings, mature seeds of different sizes, damaged seeds, wrinkled seeds, chemically treated seeds, and young immature seeds. • discuss and make presentations on how different materials are planted in a seedbed using methods such as dibbling, drilling and broadcasting. • discuss factors determining appropriate time of planting such",
+      "inquiryQuestions": "1. How can planting materials be selected? 2. How can selected planting materials be established?"
+    },
+    {
+      "strand": "Crop Production",
+      "subStrand": "Crop Management",
+      "code": "2.3",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) differentiate between a weed and a crop in a cultivated field, b) carry out weeding using physical methods, c) carry out earthing up for a suitable crop, d) carry out thinning and gapping for optimum plant spacing, e) carry out hardening on a suitable crop, f) appreciate importance of various management practices in crop production.",
+      "experiences": "Learner is guided to: • take an excursion to a field with growing crops, observe and differentiate weeds from crops. • use digital devices to take photos of various weeds, compile and make class presentations about the compiled work. • carry out weeding on a selected crop using physical methods such as uprooting weeds, tilling and slashing. • observe the geminated crop, carry out thinning and use the thinned-out plants to gap the wide spaces. • carry out earthing up for a suitable crop. • carry out hardening on a suitable crop. • Discuss the importance of management practices carried out in crop production.",
+      "inquiryQuestions": "1. What management practices should be carried out in crop production? 2. Why is it important to carry out crop management practices? 3. How can we carry out management practices in crop production?"
+    },
+    {
+      "strand": "Animal Production",
+      "subStrand": "Animal Handling",
+      "code": "3.1",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) examine forms of animal handling in the community, b) defend animals against mistreatment in the community, c) handle animals humanely in the community, d) create awareness on importance of humane treatment of animals in the community.",
+      "experiences": "Learner is guided to: • explore the community and share experiences on forms of animal handling (humane and inhumane treatments of animals in the community). • discuss and analyze inhumane treatments such as beating, poor restraining, inappropriate castration, poor transport methods, inappropriate harnessing, inhumane slaughtering, overloading draught animals, and over working. • suggest solutions for defending animals against inhumane treatments. Such solutions to include proper handling, safe harnessing and castration using approved methods. • use digital resources to search for information on how various animals should be handled and apply the knowledge to defend animals against mistreatment in the community.",
+      "inquiryQuestions": "1. What are the safe ways of handling animals? 2. Why is it important to handle animals in humane ways?"
+    },
+    {
+      "strand": "Animal Production",
+      "subStrand": "General Management of Pets",
+      "code": "3.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify pets reared in the community, b) describe factors considered in selecting a pet for rearing, c) explain how to acquire a pet for rearing, d) describe various management practices in rearing of pets, e) appreciate various management practices of rearing pets.",
+      "experiences": "Learner is guided to: • visit the community and explore the pets that are reared by various households • acquire information from resource persons on animals reared as pets in the community • search for information from print and digital resources on factors to consider in choosing a pet for rearing such as social, economic, safety and legal factors • discuss various ways of acquiring a pet for rearing such as buying from other community members, gifts, and inheritance • take an excursion in the community, observe pets and acquire information on management practices such as feeding, housing, sanitation, parasite and disease control",
+      "inquiryQuestions": "1. How can we rear pets? 2. How can we choose pets for rearing?"
+    },
+    {
+      "strand": "Animal Production",
+      "subStrand": "Preparation of Animal Products",
+      "code": "3.3",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) sort and grade eggs for various purposes, b) process raw honey from the combs, c) pack processed honey for storage and use, d) embrace the value of preparing animal products for use, storage and marketing.",
+      "experiences": "Learner is guided to: • work in groups to analyse sampled eggs, brainstorm on factors to consider when grading eggs, then sort and grade the eggs. • process a provided sample of raw honey from combs using crushing and straining method. • pack the processed honey in appropriate containers such as plastic, glass or aluminium containers. • discuss the importance of sorting and grading eggs and processing of raw honey.",
+      "inquiryQuestions": "1. Why should we sort and grade eggs? 2. How can raw honey be processed?"
+    },
+    {
+      "strand": "Agriculture and Technology",
+      "subStrand": "Off- season Cropping Techniques",
+      "code": "4.1",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) discuss meaning of off- season cropping as a farming technique, b) explain the importance of off-season cropping in Agriculture, c) choose appropriate technology to support off-season cropping, d) describe appropriate techniques used in off- season cropping, e) appreciate the importance of off- season cropping techniques and technologies for food security.",
+      "experiences": "Learner is guided to: • form pairs to brainstorm the meaning of off-season cropping and then share in plenary • search for the meaning of off-season cropping using print and digital resources • discuss the importance of off-season cropping and in a plenary share derived points such as continuous supply of food, regular income and high market value • search for information on applicable technologies for off-season cropping such as innovative drip irrigation and container gardening • discuss the off-season crop production techniques such as timed planting, staggered planting and succession",
+      "inquiryQuestions": "1. How can we ensure a continuous supply of vegetables in farming? 2. Why should we practice off- season cropping in farming?"
+    },
+    {
+      "strand": "Agriculture and Technology",
+      "subStrand": "Framed Suspended Gardens",
+      "code": "4.2",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify off-season crops suitable for suspended gardening, b) discuss and document proposed project plan for framed suspended garden, c) select suitable site for framed structure suspended garden, d) design framed structure for suspended gardens, e) construct framed structures for suspended gardens, f) establish and manage selected off-season crop on suspended gardens, g) persuade the school",
+      "experiences": "Learners are guided to: • identify suitable crops that meet the following criteria: - Can be established on a suspended garden on framed structures sited in small spaces such as along the drive way, pathways or any other place in the school that receives regular visitors. - Can enhance beauty. - Can grow within a short period of time (not a perennial crop). • identify suitable site in the school compound to prepare framed structures for suspended gardens. • design and sketch plans for framed suspended gardens. • source for materials (locally available materials such as",
+      "inquiryQuestions": "1. How can we innovatively grow crops in limited space? 2. How can we prepare a framed suspended garden?"
+    },
+    {
+      "strand": "Agriculture and Technology",
+      "subStrand": "Value Addition Techniques",
+      "code": "4.3",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the meaning of value addition in crop produce, b) examine ways of adding value on crop produce, c) process a selected crop produce to add value, d) appreciate the importance of value addition on crop produce.",
+      "experiences": "Learner is guided to: • use digital devices to search and share information on meaning and examples of value addition in crop produce. • discuss ways of adding value to crop produce such as potatoes, mangoes, vegetables, cassava, groundnuts, simsim, sweet potatoes and pumpkins. • process a provided sample of crop produce such as potatoes, mangoes, vegetables, cassava, groundnuts, simsim, sweet potatoes and pumpkins to add value using appropriate methods like drying and frying. • compare the processed crop produce with raw crop produce in terms of monetary value and storage life.",
+      "inquiryQuestions": "1. Why do we add value to crop produce? 2. How can we add value to crop produce?"
+    },
+    {
+      "strand": "Conserving Agricultural Environment",
+      "subStrand": "Soil pollution control",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "• Written assignment. • Observation of learning activities.",
+      "experiences": "Relevant video clips on causes of soil pollution. Manilla papers and marker pens to create posters on soil pollution control.",
+      "inquiryQuestions": "Learners to initiate campaigns in and out of school to sensitise parents and community members on protecting soil from pollution."
+    },
+    {
+      "strand": "Conserving Agricultural Environment",
+      "subStrand": "Water conservation measures",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "• Oral assessment • Observation of learning activities • Group project portfolio on preparation of water conservation structures.",
+      "experiences": "Garden tools such as jembes, fork jembes, spade, panga, slasher. Others: Mulch materials, digital resources and planting materials such as banana suckers and sugarcane.",
+      "inquiryQuestions": "Learners to initiate water harvesting and conservation measures against runoffs in or near the school."
+    },
+    {
+      "strand": "Conserving Agricultural Environment",
+      "subStrand": "Agroforestry",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "• Written tests • Graded observation of group work activities • Project portfolio in establishment of one- tree project.",
+      "experiences": "Topical video clips on agroforestry trees used in crops and pasture fields. Garden tools such as jembes, fork jembes, spade, panga, slasher.",
+      "inquiryQuestions": "Learners to initiate one-tree project in or near the school."
+    },
+    {
+      "strand": "Crop Production",
+      "subStrand": "Preparation of Planting site",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "• Written assignment • Graded observation • Oral assessment",
+      "experiences": "Samples of seeds of various sizes and assorted vegetative planting materials. Suitable planting sites such as on the walls of buildings, along fence lines and driveways in the school. Suitable containers for making planting site. Manure. Garden tools and equipment such as jembes, pangas and slashers",
+      "inquiryQuestions": "Learners to initiate display sites/crop museum in or near the school."
+    },
+    {
+      "strand": "Crop Production",
+      "subStrand": "Crop establishment",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "• Written tests • Graded observation of group work activities • Project portfolio in establishment of a crop on the prepared planting site.",
+      "experiences": "Samples of seeds and vegetative planting materials (both appropriate and inappropriate) for learners to select the right ones for sowing or planting. Digital devices and related",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Crop Production",
+      "subStrand": "Crop management",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "• Written tests • Graded observation of group work activities • Project portfolio in management (thinning, gapping weeding and earthing- up) of established crops. • Project report",
+      "experiences": "Digital devices to search for information and take photos, garden tools and equipment to carry out management practices.",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Animal Production",
+      "subStrand": "Animal Handling",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "• Written assignment • Graded observation of learner demonstrations • Oral assessment on animal handling.",
+      "experiences": "Photos, video clips on humane ways of handling animals.",
+      "inquiryQuestions": "Learners to observe pets in the community, noting down the common"
+    },
+    {
+      "strand": "Animal Production",
+      "subStrand": "General management of Pets",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "• Written assignment • Oral assessment on factors considered in selecting a pet.",
+      "experiences": "Print materials and digital resources on common pets.",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Animal Production",
+      "subStrand": "Preparation of animal products",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "• Written assignment • Graded observation • Oral assessment on animal rearing practices.",
+      "experiences": "Photos and video clips on domestic animals and farm with domestic animals. Video clips on management practices of pets.",
+      "inquiryQuestions": "management practices accorded to them."
+    },
+    {
+      "strand": "Agriculture and Technology",
+      "subStrand": "Off-season cropping techniques",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "• Graded oral assessment • Written tests • Project journal on CSL project activities (activities in construction and establishment of framed suspended garden).",
+      "experiences": "Video clips on crops growing on simple drip irrigation and assorted planting materials of crops that grow in the locality. Organic manures, organic mulch materials, gardening tools and equipment. Materials for constructing framed suspended gardens: pieces of wood, wire and strings, containers.",
+      "inquiryQuestions": "Learners to initiate beautification project through club activities of the school using crop plants on framed suspended gardens."
+    },
+    {
+      "strand": "Agriculture and Technology",
+      "subStrand": "Framed suspended gardens",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "",
+      "experiences": "",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Agriculture and Technology",
+      "subStrand": "Value addition techniques",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "• Oral assessment • Written tests • Graded observation on learner project activities and participation levels.",
+      "experiences": "Crop produce that can be used for value addition, examples: potatoes, mangoes, vegetables, cassava, groundnuts, simsim, sweet potatoes, pumpkins. Utensils such as frying pan, spoons and knives",
+      "inquiryQuestions": "Learners extended activities on value addition of main crops produce available in the locality through school clubs."
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:21:19.801Z",
+  "source": "KICD curriculum design"
+}
