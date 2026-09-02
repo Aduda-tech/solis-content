@@ -1,0 +1,85 @@
+{
+  "grade": "Grade 8",
+  "learningArea": "Integrated Science",
+  "driveId": "1SGBpCv-sWE01Ooec0nS_De3XAYUPRDmX",
+  "sourceLabel": "11 Integrated Science",
+  "pages": 38,
+  "strandCount": 8,
+  "totalLessons": 95,
+  "strands": [
+    {
+      "strand": ". Mixtures, Elements and Compounds",
+      "subStrand": "Properties of matter in the different states",
+      "code": "1.1",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) describe properties of the different states of matter, b) demonstrate diffusion in liquids, c) distinguish between temporary and permanent changes in substances, d) outline applications of change of state of matter in day-to-day life, e) appreciate the applications of change of state of matter in day-to- day life.",
+      "experiences": "The learner is guided to:  perform simple experiments on properties of the different states of matter (volume, shape, density, compressibility and ability to flow),  perform experiments to demonstrate diffusion in liquids (use of water and potassium manganate (VII),  carry out simple experiments to demonstrate physical changes, temporary chemical changes and permanent changes of substances,  discuss the applications of change of state of matter in day-to-day life (refrigerators, ice-cream vendors, fog formation, among others),  where necessary, use digital devices to search, play and observe videos and animations showing the properties of different states of matter (in relation to volume, shape, density, compressibility and ability to flow).",
+      "inquiryQuestions": "How do the movement of particles in matter affect its physical properties?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Elements and Compounds",
+      "code": "1.2",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) distinguish between an element and a compound, b) relate common elements to their symbols, c) outline the applications of common elements in day-to-day life, d) appreciate the information on packaging labels of commonly consumed substances.",
+      "experiences": "The learner is guided to: ● discuss the difference between elements and compounds, ● assign appropriate symbols to common elements and compounds cover (copper, aluminium, iron,silver, table salt, and water), ● discuss the names of common elements and their symbols (the first 13 elements of the periodic table and commonly used metals: zinc, lead, tin, gold, mercury and limited to the latin names only where applicable), ● discuss the importance and market value of common elements and compounds in society (jewellery, iron, toiletries, food nutrients,mineral elements, medals among others), ● Sample labelled containers of different substances indicating the common elements as part of the ingredients.",
+      "inquiryQuestions": "1. How are symbols assigned to elements? 2. What is the value of elements in day-to-day life?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Structure of the atom",
+      "code": "1.3",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) describe the structure of an atom and electron arrangement of elements, b) determine atomic number and mass number of elements, c) classify elements into metals and non-metals, d) appreciate the value of different elements in day-to-day life.",
+      "experiences": "The learner is guided to:  discuss the meaning of the atom and illustrate its structure (protons, neutrons, and electrons),  draw and discuss the electron arrangements of elements and classify them into metals and non-metals (first 20 elements of the periodic table),  discuss and illustrate the atomic number and mass number of elements (first 13 elements of the periodic table),  use digital or print media to search for information on the structure of an atom, electron arrangement, atomic number and mass number of elements,  Project: model the atomic structure of selected elements of the periodic table using locally available materials.",
+      "inquiryQuestions": "1. What is the structure of an atom? 2. How do atoms gain stability?"
+    },
+    {
+      "strand": "Mixtures, Elements and Compounds",
+      "subStrand": "Oxygen",
+      "code": "1.4",
+      "lessons": 7,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) prepare oxygen in the laboratory, b) investigate the physical and chemical properties of oxygen, c) explain the role of oxygen in combustion and spread of fire, d) identify classes of fire and their control measures, e) appreciate the role of oxygen in day to day life",
+      "experiences": "The learner is guided to:  carry out experiment using hydrogen peroxide/potassium permanganate to prepare oxygen,  discuss the role of oxygen in combustion and the spread of fire,  classify fire according to the cause and suggest control measures,  practise fire control measures (breaking the fire triangle and use of fire extinguishers),  discuss rights to safety and access to information on flammable substances,  discuss the role of oxygen in every life.",
+      "inquiryQuestions": "1. How is oxygen important in day to day life? 2. What are the different classes of fire?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "The Cell",
+      "code": "2.1",
+      "lessons": 18,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the components of a cell as seen under the light microscope and state their functions, b) compare plant and animal cells as observed under a light microscope, c) calculate the magnification of cells seen under the light microscope, d) appreciate the use of a light microscope in magnification.",
+      "experiences": "The learner is guided to:  observe, identify, draw, label and state the functions of parts of the light microscope,  practise how to use and care for a light microscope,  prepare, mount and observe plant cells under a light microscope,  observe permanent slides of animal cells under the light microscope,  discuss with others, the differences between plant and animal cells as seen under a light microscope,  calculate magnification at various objective lenses of the light microscope.",
+      "inquiryQuestions": "1. Why is the light microscope important in day-to-day life? 2. What are the differences between plant and animal cells?"
+    },
+    {
+      "strand": "Living Things and their Environment",
+      "subStrand": "Movement of materials in and out of the cell",
+      "code": "2.2",
+      "lessons": 32,
+      "outcomes": "By the end of the sub strand the learner should be able to; a) describe the structure and properties of the cell membrane, b) explain the role of diffusion in living things c) demonstrate the process of osmosis in living things,",
+      "experiences": "The learner is guided to; ● carry out activities to illustrate the structure of the cell membrane, ● brainstorm and discuss the properties of the cell membrane, ● carry out experiments to demonstrate the effects of heat, dilutes acids and alkalis on the cell membrane, ● carry out experiments to",
+      "inquiryQuestions": "1. How is diffusion and osmosis important in living organisms? 2. What are the similarities and differences"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": "Transformation of energy",
+      "code": "3.1",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand, the learner should be able to; a) identify forms of energy in nature, b) explain energy transformations in nature, c) identify appliances whose working relies on energy transformation, d) describe safety measures associated with energy transformation, e) appreciate the applications of energy transformation in day-to- day life.",
+      "experiences": "The learner is guided to:  discuss with peers and identify forms of energy found in the environment,  demonstrate and explain types of energy transformations using locally available materials,  discuss the processes energy transformation in day-to-day life (electrical to heat, chemical to electrical, mechanical to electrical, electrical to light, electrical to sound and potential to kinetic),  discuss applications of energy transformation in day-to-day life (bulb, diodes, moving microphone, electric heater, solar panel, dynamo, motor),  use digital or print media to",
+      "inquiryQuestions": "1. How can energy be transformed from one form to another? 2. How can energy transformation be applied in day-to-day life? 3. What are the energy transformation processes that occur in our environment?"
+    },
+    {
+      "strand": "Force and Energy",
+      "subStrand": ". Pressure I",
+      "code": "3.2",
+      "lessons": 9,
+      "outcomes": "By the end of the sub strand the learner should be able to; a) explain the meaning of pressure as used in science, b) describe pressure in solids and liquids, c) determine pressure in solids and liquids, d) identify applications of pressure in solids and liquids, e) Appreciate the applications of pressure",
+      "experiences": "The learner is guided to:  brainstom and discuss with peers the meaning of pressure,  carry out activities to demonstrate and describe pressure in solids and liquids,  carry out experiments to determine pressure in solids and liquid (pressure exerted by objects with different surface areas e.g. bricks, pressure in liquids increases with depth and density),  solve numrical problems involving pressure (Pressure = Force/Area  F  and P    A Pressure = liquid density x gravitational",
+      "inquiryQuestions": "1. What is the meaning of pressure as used in science? 2. What are the applications of pressure in solids and liquids?"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:23:29.365Z",
+  "source": "KICD curriculum design"
+}
