@@ -1,0 +1,634 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "English",
+  "driveId": "1rFRkRABePCQtOIqtvq4IeLTuFIGEpjWK",
+  "sourceLabel": "7 English",
+  "pages": 199,
+  "strandCount": 69,
+  "totalLessons": 124,
+  "strands": [
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Conversational Skills: Polite Language",
+      "code": "1.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify polite expressions used in the introduction of self and others, b) use polite expressions in the introduction of self and others in different speaking contexts, c) model respectful behaviour during introductions.",
+      "experiences": "The learner is guided to: • make a list of necessary details about people that one needs to know for effective introduction, • brainstorm on different types of introduction, • list polite expressions that can be used during the introduction, • match polite expressions to corresponding types of introduction, • discuss reasons for using polite language in introductions, • use games such as catch the ball, in small groups, for the introduction of others, • role play different contexts of self-introduction with peers, • review an audio or video",
+      "inquiryQuestions": "1. What considerations should one make when introducing other people? 2. How would you introduce your parents or guardians to your teachers? 3. Why is it important to be polite while introducing yourself or others?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Extensive Reading: Independent Reading",
+      "code": "1.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: (a) identify a variety of texts for independent reading (b) read selected materials for information and enjoyment (c) appreciate the value of independent reading in lifelong learning.",
+      "experiences": "The learner is guided to: • think-pair-share on the factors to consider when selecting reading material, • select appropriate reading materials related to personal responsibility • set and share reading goals for the session, • read selected print and non- print materials independently, • observe good reading habits, • keep a portfolio or a journal of their experiences during the reading session, • conduct peer review of the portfolios and journals kept.",
+      "inquiryQuestions": "1) What do you consider while selecting reading materials? 2) How can you ensure that you benefit from a reading session?"
+    },
+    {
+      "strand": "Grammar In Use",
+      "subStrand": "Word Classes: Nouns",
+      "code": "1.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) identify the different types of nouns from a print or digital text, b) use different types of nouns in sentences, c) appreciate the role of correct grammar in written and spoken communication.",
+      "experiences": "The learner is guided to: • read a print or non-print text in pairs • identify common, proper, concrete, and abstract nouns, • search online for examples of the common, proper, concrete, and abstract nouns, and compile a list of the nouns in groups, • listen to a poem or a story and categorise the nouns used, • mention examples of common, proper, concrete and abstract nouns in the classroom and school, • construct sentences using common, proper, concrete and abstract nouns, • complete substitution tables with the different types of nouns in pairs, • engage in language games such as scrabble, puzzles, code words and guessing games, • write and display stories, songs or",
+      "inquiryQuestions": "1. Why is it important to identify items by name? 2. Why is knowledge on use of capital letters useful?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Trickster Narratives",
+      "code": "1.4.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the main events in trickster narratives b) analyse the characters in narratives c) appreciate the importance of trickster narratives in the inculcation of values.",
+      "experiences": "The learner is guided to: • engage in pre-reading activities such as previewing the title of the narrative, using the picture clues and brainstorming • recount the events in the trickster narrative and highlight the trick in the narrative • discuss the various character traits displayed by the characters, • brainstorm on the moral lessons of the narrative • retell a trickster narrative in small groups • relate characters and events in the trickster narrative to real life situations • explore and share with group members how personal responsibility can be derived from the narrative’s moral lessons",
+      "inquiryQuestions": "1. What is a trickster narrative? 2. What can we learn from narratives? 3. Which characters are common in the trickster narratives that you know?"
+    },
+    {
+      "strand": ". Writing",
+      "subStrand": "Handwriting: Legibility and Neatness",
+      "code": "1.5.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe features of legible and neat handwriting for efficient writing b) write texts legibly and neatly c) acknowledgel the importance of writing neatly and legibly.",
+      "experiences": "The learner is guided to: • listen to an audio clip on the importance of developing legible and neat handwriting • study written samples of legible and neat handwriting featuring all letters of the alphabet and short texts • discuss the features of legible and neat handwriting including shaping letters, joining and spacing letters and words • practise handwriting games such as blind writing, speed writing, and letter stations • suggest ways of correcting bad handwriting habits such as joining letters and words inappropriately • copy given texts on the theme of personal responsibility on charts and display for peer evaluation and correction",
+      "inquiryQuestions": "1. Why should we learn to write legibly and clearly? 2. What kind of misunderstanding could arise as a result of bad handwriting? 3. How can you make your handwriting presentable?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Presentations: Oral Narratives",
+      "code": "2.1.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline the oral narrative performance techniques for effective delivery, b) use oral narrative techniques during the performance, c) appreciate the importance of performance techniques in the successful delivery of oral material.",
+      "experiences": "The learner is guided to: • watch live or recorded oral performance of narratives as a class, • search online or offline for information on performance techniques, in pairs, and make presentations to peers, • discuss the oral performance techniques in groups, • perform oral narratives in groups while peers watch, record, and then give feedback, • compose oral narratives in groups and suggest the most suitable ways of performing them.",
+      "inquiryQuestions": "1. What do you enjoy during a story telling session? 2. How can you become a good storyteller?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive reading: Simple poems",
+      "code": "2.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) distinguish between poems and other literary genres b) recite a variety of simple poems for enjoyment c) collaborate in poetry recitation for enjoyment and learning.",
+      "experiences": "The learner is guided to: • listen and respond to live or recorded poetry recitation • discuss, in groups, what makes reading simple poems interesting • pick out poems from a variety of texts and read them out aloud • recite poems that address science and health issues such as HIV and AIDS in groups • provide feedback to peers and seek help where necessary",
+      "inquiryQuestions": "1. How are poems different from stories? 2. Why would you use a poem instead of a story to pass a message? 3. What makes poems interesting?"
+    },
+    {
+      "strand": "Grammar in Use",
+      "subStrand": "Word Classes: Nouns",
+      "code": "2.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify count, non-count, singular, and plural nouns from a variety of texts, b) use count, non- count, singular, and plural nouns in sentences, c) Appreciate the importance of the correct use of nouns in communication.",
+      "experiences": "The learner is guided to: • search for examples of the count, non-count, singular, and plural nouns from the internet and post them on the classroom wall, • listen to an audio text on the theme of science and health education, and pick out the target nouns, • pick out count, non-count, singular, and plural nouns from newspapers and magazine articles, • identify objects in the classroom and categorise them as count or non-count nouns, in pairs, • change singular nouns to plural and vice versa, • construct sentences using the specified types of nouns orally and in writing, • complete crossword puzzles with the target nouns in small groups, • create posters and poems using the learnt nouns, and post them on the",
+      "inquiryQuestions": "1. Why are some things impossible to count? 2. How can you group things that cannot be counted? 3. Why should you specify the number of things you require to accomplish a task?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Class Reader",
+      "code": "2.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the different parts that aid in previewing a book b) describe the author and the setting of the text in terms of time and place c) underscore the value of reading for lifelong learning.",
+      "experiences": "The learner is guided to: • study the cover page, read the blurb and highlight the outstanding features, in groups, • discuss the title of the class reader • research online for more information about the author and the location where the story is taking place • make oral presentations to the class on their findings from the research • identify words, images and details that describe the setting in terms of place and time • design a graphic organiser such as a mind map and tree map to identify the setting • create, share and give feedback using summary charts such as what I know - where I learned it - what I",
+      "inquiryQuestions": "1. What would you consider when designing the cover of a book? 2. Why should we not judge a book by its cover? 3. Why do we read storybooks?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Mechanics of Writing: Punctuation Marks",
+      "code": "2.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) recognise the full stop, exclamation mark, and question mark, in texts b) use the full stop, exclamation mark, and question mark in sentences c) acknowledge the importance of punctuating sentences accurately.",
+      "experiences": "The learner is guided to: • read print or non-print text and identify the full stop, exclamation mark, and question mark in groups • punctuate a text using the target punctuation marks, in pairs • write a short story or dialogue on the theme of science and health education using the full stop exclamation mark, and question mark, where necessary • engage in online or offline punctuation games in groups • draw and display posters or charts with punctuated sentences for peer review and revision • role play well-punctuated dialogues and record themselves • discuss, in groups, the effectiveness of punctuation marks in expressing meaning.",
+      "inquiryQuestions": "1. Which punctuation marks do you use in writing? 2. Why is it important to punctuate a text?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Listening for Information and the main idea",
+      "code": "3.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the main idea from varied descriptive texts b) Pick out specific information from varied descriptive texts c) acknowledge the importance of listening skills in communication.",
+      "experiences": "The learner is guided to: • listen to audio recordings on hygiene and identify the main idea • Listen for specific information from the audio recording and take notes • search online and offline for expressions that signal the main ideas such as; - this talk is about... - I will talk about..., • watch a video describing a process, a person, or an object and pick out specific information • listen to peers read descriptive texts, and note the main ideas, in turns.",
+      "inquiryQuestions": "1. Why is it important to get the main points from an oral text? 2. What can you do to ensure you capture the main ideas from a speaker?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": ". Reading for information and Meaning",
+      "code": "3.2.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) distinguish between reading for information and reading for meaning, b) pick out information from varied texts, c) c)infer the meaning of words and phrases from context, d) use new words and phrases in sentences, e) appreciate the importance of reading for information and meaning.",
+      "experiences": "The learner is guided to: • distinguish between reading for information and reading for meaning, • scan through a text in pairs and identify text features (such as title, subtitles), • read texts on issues such as hygiene, safety, and security and organise the information by making notes, • Infer and share, in groups, the meaning of words from context, • construct sentences using new words and phases, in groups, • fill in crossword puzzles using new words learned.",
+      "inquiryQuestions": "1. Why do we read texts? 2. How would you tell the meaning of a word in a passage?"
+    },
+    {
+      "strand": "Grammar In Use",
+      "subStrand": "Word classes: Verbs and tense",
+      "code": "3.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify regular and irregular verbs in sentences b) use regular and irregular verbs in sentencesconstruct sentences using the past, present and future tense c) appreciate the correct use of verbs and tense for effective communication.",
+      "experiences": "The learner is guided to: • search online and offline for information on verbs and their tenses • listen to texts read by the teacher on verbs and their tenses • identify and group verbs with similar endings from passages on the theme of hygiene • identify the tenses of the verbs in sentences • construct sentences using verbs in the correct tenses • participate in a language game on tenses • engage in conversations in pairs using verbs in various tenses, • review their peers’ use of tense in spoken sentences",
+      "inquiryQuestions": "1. How did you spend the last holiday? 2. Which misundertanding can arise when people use wrong tense?"
+    },
+    {
+      "strand": ". Reading",
+      "subStrand": "Intensive Reading: Poetry",
+      "code": "3.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the structure of poems b) analyse the structure of varied simple poems c) read short poems addressing varied societal issues d) appreciate the poem’s structure in communicating a message.",
+      "experiences": "The learner is guided to: • source online or offline for different poems and note the titles and the poets while observing integrity and cyber safety, • brainstorm on the parts of a poem, in pairs, • read short poems addressing issues such as personal hygiene, HIV and AIDS, and COVID-19, • analyse how poems are broken into stanzas and stanzas into lines, • study varied poems and present their different structures in graphic organisers in groups • compare the structures of different poems, • relate the poem’s structure to the poem’s message.",
+      "inquiryQuestions": "1. Why do people write poems? 2. What makes a poem interesting? 3. How can one tell a text is a poem?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Writing Narrative Paragraphs",
+      "code": "3.5.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the parts of a narrative paragraph b) compose a narrative paragraph with the appropriate structure c) acknowledge the significance of paragraphing in written communication.",
+      "experiences": "The learner is guided to: • identify parts of a well- written paragraph specifically, an introduction, necessary details, and a conclusion, • read samples of narrative paragraphs provided by the teacher and discuss the flow of ideas, • write a paragraph using a digital device about issues such as hygiene, safety, and security, • present the paragraphs in class for peer review.",
+      "inquiryQuestions": "1. What are the parts of a paragraph? 2. Why do we write paragraphs?"
+    },
+    {
+      "strand": "Listening an Speaking",
+      "subStrand": "Listening d Comprehension: Selective Listening",
+      "code": "4.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) distinguish between specific and general information from a listening text b) select specific information from a listening text c) listen and respond to texts on leadership d) emphasise the value of listening skills in communication.",
+      "experiences": "The learner is guided to: • listen to an audio text and decide whether the information presented is specific or general • search online for audio recordings on leadership and attentively listen to text for specific information • Listen to a role play and respond to questions • listen to a passage on leadership (good governance) and answer questions posed by the speaker.",
+      "inquiryQuestions": "1. Why is it important to get the main points from an oral text? 2. What can you do to ensure you capture the relevant information from a speaker?"
+    },
+    {
+      "strand": ". Reading",
+      "subStrand": "Intensive Reading",
+      "code": "4.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) discuss the identified reading strategies b) select main ideas and details from a variety of written texts c) acknowledge the importance of reading for main ideas and details as a comprehension skill.",
+      "experiences": "The learner is guided to: • search online and watch appropriate video clips on the selected reading strategies: reading for main ideas and reading for details, • read and underline the main ideas and details in texts on issues such as gender roles in leadership, and review each other’s work, • share ideas on how they can use the selected reading strategies, in groups, • fill in substitution tables with specific details from texts, in pairs, • complete a mind map with a focus on the main idea and details.",
+      "inquiryQuestions": "1. What can one do to understand a text better? 2. Why should one read for main ideas? 3. How can you improve your reading?"
+    },
+    {
+      "strand": "Grammar",
+      "subStrand": "Word Classes: Verbs and Tense",
+      "code": "4.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify verbs in the simple present and simple past tense in a text b) write sentences using the simple present tense, c) write sentences using the simple past tense d) advocate appropriate use of tense in communication.",
+      "experiences": "The learner is guided to: • underline verbs in simple present and simple past tense in a text • reflect on the formation of simple present and simple past tense form of verbs • construct and share sentences on a variety of issues including leadership, using verbs in the appropriate tense • type the constructed sentences using a digital device • search online or offline for verbs used in simple present and simple past tense from a variety of texts • complete sentences using the correct tense of the given verbs • create and display charts showing words in their simple present and past tense • play language games using",
+      "inquiryQuestions": "1. Why is it necessary to indicate when an activity takes place? 2. What makes correct use of tense difficult for some people?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Class Readers",
+      "code": "4.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the main characters in a class reader, b) explain how the characters make the story flow, c) make predictions based on the title and the sections read, d) appreciate the role of characters in the class reader.",
+      "experiences": "The learner is guided to: • read a section of a class reader and identify the main characters, • discuss predictions made from the title and the sections read, • participate in a reader’s theatre and read portions of the class reader, • outline the things done by each character studied in the section, • discuss in pairs how the characters make the story flow, • write a summary about how the main characters make the story flow.",
+      "inquiryQuestions": "1. How can you tell a main character in a story? 2. Why are some stories usually more interesting than others? 3. What should you consider when selecting a story book to read?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Paragraphing: Using examples and incidents",
+      "code": "4.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline examples and incidents to include in a paragraph, b) create a well- developed paragraph using examples and incidents, c) appreciate the importance of well- written paragraphs in writing.",
+      "experiences": "The learner is guided to: • share ideas on examples and incidents that can be included in a paragraph, • develop a paragraph on leadership, in groups, using the ideas generated in their earlier discussion, • present their paragraphs in class for peer review, • use mind maps to generate examples and incidents for sample paragraphs, • compose a paragraph based on suggested examples and incidents.",
+      "inquiryQuestions": "1. How can you organise your ideas logically? 2. Why should we write coherently?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Pronunciation: Sounds and Word Stress",
+      "code": "5.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the consonant and vowel sounds in words b) articulate consonants and vowel sound for oral fluency c) distinguish the meaning of, words on the basis of stress d) advocate the role of correct pronunciation in communication.",
+      "experiences": "The learner is guided to: • pronounce the consonant sounds /p/, /b/, /k/ and /g/ from a text, • practise saying the short /i/ and the long /i:/ sounds in pairs, • watch and listen to an audio- visual recording featuring selected consonants and vowel sounds, • make a recording featuring learned sounds, • practise saying words with the sounds/p/ as in pin ; /b/ as in bean, /k/ as in kin ; /g/ as in goat, /i/ as in bin; and /i:/ as in seen correctly, • distinguish the meaning of words based on stress, for example, project (verb) project (noun), • play language games to distinguish word meaning on",
+      "inquiryQuestions": "1. Why it is important to articulate sounds correctly? 2. How can we improve our pronunciation?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Study Skills: Synonyms and Antonyms",
+      "code": "5.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify synonyms and antonyms of words from written texts b) spell synonyms and antonyms correctly for written fluency. c) use synonyms and antonyms in sentences d) appreciate the importance of correct use of words in communication.",
+      "experiences": "The learner is guided to: • use reference materials such as the encyclopaedia and the dictionary to locate synonyms and antonyms, • check the meaning and pronunciation of synonyms and antonyms from the dictionary • search for synonyms and antonyms from print and digital texts • create a crossword puzzle using synonyms and antonyms and share it online • use synonyms and antonyms in sentences • match words with their antonyms from a list of words, • practise pronouncing synonyms and antonyms in pairs • design and display a chart with antonyms and synonyms of words correctly spelled.",
+      "inquiryQuestions": "1. Why do we use antonyms and synonyms? 2. Why is it important to spell words correctly?"
+    },
+    {
+      "strand": ". Grammar in Use",
+      "subStrand": ". Word Classes: Comparative and Superlative Adjectives",
+      "code": "5.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify comparative and superlative adjectives in texts, b) use comparative and superlative adjectives in communication, c) acknowledge the value of comparative and superlative forms of adjectives in communication.",
+      "experiences": "The learner is guided to: • identify comparative and superlative adjectives, from texts in pairs • search online or offline for examples of comparative and superlative adjectives • construct sentences using comparative and superlative adjectives • play language games featuring adjectives • use a substitution table to complete sentences featuring comparative and superlative adjectives • use flashcards to categorise comparative and superlative adjectives • compare various items within the environment using comparative and superlative adjectives. in groups.",
+      "inquiryQuestions": "1. How do we compare different people, places, and things? 2. Why are comparisons important in life?"
+    },
+    {
+      "strand": ". Reading",
+      "subStrand": "Intensive Reading: Oral Narratives",
+      "code": "5.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify heroic characters in legends b) explain the moral lessons in legends c) discuss why legends are important in various, communities d) relate the characters in the legends to real life.",
+      "experiences": "The learner is guided to: • predict the actions of characters in legends • read a heroic narrative- (legends) aloud in turns • identify the characters in legends, • discuss heroic acts in the legend, in groups • relate legends to their actions, • identify and discuss the moral lessons learned from legends • reflect on the impact of their actions in the society • discuss in groups, how he or she can collect narratives from the community • use a mind map to show how the moral lessons in the narrative can be of benefit to the community",
+      "inquiryQuestions": "1. Why are heroes celebrated? 2. Why are some people are considered heroic? 3. What heroic acts have been done in your school or community? 4. What challenges might one face when collecting narratives from the community?"
+    },
+    {
+      "strand": ". Writing",
+      "subStrand": "Functional Writing: Friendly Letters",
+      "code": "5.5.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the parts of a friendly letter b) compose a friendly letter using the correct format c) Appreciate the role of friendly letters in communication.",
+      "experiences": "The learners are guided to: • read sample friendly letters • identify and underline parts of a friendly letter in pairs • create a friendly letter individually • exchange the friendly letter with a peer for feedback • incorporate the feedback obtained from a peer • type the friendly letter on a digital device or display the letter on a chart • display friendly letters for other learners to give feedback.",
+      "inquiryQuestions": "1. Why do we write friendly letters? 2. When do we write friendly letters?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Conversation Skills:",
+      "code": "6.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify verbal and non- verbal forms of polite interruptions, b) apply turn-taking skills in different speaking contexts, c) use verbal and non- verbal cues to interrupt a conversation politely, d) acknowledge the importance of politeness in communication.",
+      "experiences": "The learner is guided to: • watch a live or recorded dialogue depicting turn taking skills and interrupting politely, • practise in pairs interrupting someone politely, • practise turn taking in a conversation with peers, • watch short videos of conversations or television programmes and identify instances of turn taking and polite interruptions, • listen to a radio talk show and pick out polite words and expressions, • write examples of polite words and expressions on sticky notes or flash cards and paste them on the wall or class noticeboard, • make posters showing polite",
+      "inquiryQuestions": "1 How can you interrupt a conversat ion politely? 2 Why should people speak one at a time in a conversat ion? 3 How can you ensure that you do not dominate a"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Reading: Fluency",
+      "code": "6.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify instances of expressive reading from a reading or digital text, b) read a text at the right speed, accurately and with expression, c) appreciate the importance of reading fluency in communication.",
+      "experiences": "The learner is guided to: • view a variety of video clips featuring well-read scripts related to the theme • watch news clips from a favourite television programme/presenter and comment on the presenter’s speed, accuracy and expression, • brainstorm on ways of reading effectively • reflect on the qualities of a good reader • read a text such as a poem, a narrative or dialogue with: o with appropriate expressions o with accuracy o right speed, • listen to a text read by a peer and provide feedback • engage in a readers’ theatre in groups and read a poem, narrative or dialogue • read a choral verse in pairs or small groups, • time himself or herself while",
+      "inquiryQuestions": "1. Why is it important to read fluently? 2. How does the appropriate use of verbal and non- verbal cues enhance reading fluency?"
+    },
+    {
+      "strand": "Grammar In Use",
+      "subStrand": "Word Classes: Adverbs",
+      "code": "6.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify adverbs of time, place and manner in texts b) use adverbs of time, place and manner in different contexts c) acknowledge the value of adverbs of manner, time and place in communication.",
+      "experiences": "The learner is guided to: • read a print or non-print text on drug and substance abuse in pairs • identify the adverbs of time, place and manner used in the text • categorise adverbs of time, place and manner from word lists or flash cards • construct sentences using adverbs of time, place and manner • use adverbs of time, place and manner in a role play, hot seating or simulation and make a video recording in groups • share a story or dialogue featuring adverbs of time, place and manner.",
+      "inquiryQuestions": "1. Why is it important to describe where, when and how something happens? 2. Which words do we use to describe different actions?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Oral literature Songs",
+      "code": "6.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify repeated words and phrases in lullabies, b) use appropriate techniques when performing lullabies, c) pick out key messages communicated in lullabies, d) appreciate the importance of lullabies in real life.",
+      "experiences": "The learner is guided to: • listen to audio recordings of lullabies • view videos of lullabies and identify instances of repetition, • perform a lullaby and make a recording, • pick out key messages communicated in lullabies, • share ideas on the key messages that are addressed in lullabies, • discuss in groups the functions of lullabies, • collaborate to compose songs, sing and record lullabies from their immediate environment, • create lullabies in groups and perform them in class, • identify characters in different lullabies.",
+      "inquiryQuestions": "1. What is the difference between a lullaby and other songs? 2. How are songs similar to poems? 3. What similarities exist in lullabies across communities?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Mechanics of Writing: Commonly Misspelt Words",
+      "code": "6.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) recognise commonly misspelt words in texts, b) use commonly misspelt words correctly in written texts, c) value the relationship between accurate spelling and effective written communication.",
+      "experiences": "The learner is guided to: • mention words that are difficult to spell correctly, • search for commonly misspelt words from textbooks and online sources, in pairs, • discuss in groups ways of correcting commonly misspelt words, • correct texts with wrong spellings of irregular plural nouns for example knife –knives; ox-oxen; fox-foxes; child-children; thief- thieves; lady – ladies; monkey –monkeys, and –ing verbs formed from verbs with final –e for example love – loving, dine – dining, • explain to peers the effects of correct spelling on written communication • engage in spelling games such as crossword puzzles, • write a story or dialogue on contemporary issues, for example, keeping my neighbourhood safe, using the commonly misspelt words",
+      "inquiryQuestions": "1. What makes some words difficult to spell? 2. How can we improve our spelling?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Listening Comprehension: Listening for Details",
+      "code": "7.1.2",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify clues that signal details from a listening text, b) take detailed notes on a listening text, c) acknowledge the importance of listening for details.",
+      "experiences": "The learner is guided to: • search online or offline for signposts that introduce details in an oral text, • listen and identify words that introduce different types of details that indicate: - addition such as first, also, moreover; - emphasis such as important note, especially, particularly; - comparison such as. like, similarly, just as - contrast such as but, however, on the other hand; - illustration such as for example, for instance, such as, - cause-and-effect such as because, therefore, so that, • discuss kinds of details one should look out for from a text. The details could include: numbers, figures,",
+      "inquiryQuestions": "1. How can you tell the key information from a listening text? 2. What factors interfere with one’s ability to listen well? 3. How can you tell that people are listening attentively?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Visuals",
+      "code": "7.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to a) identify types of information conveyed by visuals for comprehension, b) interpret visuals for information, c) appreciate the importance of visual, interpretation skills in different texts.",
+      "experiences": "The learner is guided to: • list common visuals like road signs, photographs, billboards, • search online and offline for different types of information visuals convey such as stories, messages, feelings or emotions, relationships, mood, • discuss class/school/ community/ national needs or issues that can be addressed by visuals, • answer comprehension questions on the visuals, • apply comprehension strategies such as prediction, making connections, inferences, questioning, and visualising in interpreting visuals, • create stories or songs from visuals, • discuss visuals of national importance like the national flag, the Kenyan currency, • discuss the importance of",
+      "inquiryQuestions": "1. How does observation of real items help us understand what we are being taught? 2. What is the importance of pictures and photographs that accompany written texts?"
+    },
+    {
+      "strand": "Grammar in Use",
+      "subStrand": "Word Classes: Personal and possessive pronouns.",
+      "code": "7.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) distinguish between personal and possessive pronouns in sentences, b) use personal and possessive pronouns in sentences appropriately, c) appreciate the value of proper use of pronouns.",
+      "experiences": "The learner is guided to: • pick out personal and possessive pronouns from print and nonprint texts on natural resources in pairs, • use personal pronouns to refer to people in a class, • construct sentences using personal pronouns, in groups, • write a paragraph using possessive pronouns, • construct sentences using personal pronouns from substitution and completion tables, • draw a chart with singular/plural, subjective, and objective personal pronouns and display them for peer review.",
+      "inquiryQuestions": "1. What is the difference between personal and possessive pronouns? 2. How can you avoid unnecessary repetition in sentences? 3. Why should we avoid unnecessary repetition?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Characters in class readers.",
+      "code": "7.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify minor characters in a class reader, b) Discuss the relationships between different minor characters in the class reader, c) appreciate the place of minor characters in the class reader.",
+      "experiences": "The learner is guided to: • read and identify minor characters in a class reader, • search online and offline for words and phrases used to describe relationships between characters, • discuss how the characters relate with each other, in groups, • hot seat different minor characters to bring out their relationships, in groups, • link characters reactions to the relationships they are in.",
+      "inquiryQuestions": "1. How can you tell the difference between a main and a minor character in a story? 2. How would you describe the behaviour of your classmates?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Composition Writing: Writing Process",
+      "code": "7.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline the steps in the writing process, b) Write a narrative composition following the writing process, c) acknowledge the role of writing fluency in communication.",
+      "experiences": "The learner is guided to: • watch a video of learners going through the writing process, • read samples of well-written texts and highlight features that make them outstanding, • discuss the writing process giving details of what each entails on a mind map, • suggest the most suitable topics on issues like natural resources or saving forests for practising the writing process, • practise, in groups, the writing process, for example by: - prewriting: - drafting: - editing: - revising - publishing, • write a narrative composition following the writing process and share using a digital device for peer review,",
+      "inquiryQuestions": "1. What should you consider before you begin writing a composition? 2. What contributes to a well written composition?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Listening Comprehension: Explanatory Narratives",
+      "code": "8.1.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the characters and moral lessons in explanatory narratives, b) sequence the events in explanatory narratives, c) explain the moral lessons in an explanatory narrative d) acknowledge the importance of listening comprehension in communication",
+      "experiences": "The learner is guided to: • listen to a recording of an explanatory narrative from a digital device and retell the story • search online and offline for information on explanatory narratives • dramatise dialogues in the explanatory narratives • role play the story telling session • identify the moral lessons and relate them to real life situations • discuss behaviour of the characters in the explanatory narratives, in pairs • create an explanatory narrative- and share it through WhatsApp, social media among others",
+      "inquiryQuestions": "1. How can you tell a lesson that you can learn from a narrative? 2. Why do people tell narratives? 3. What are the functions of oral narratives?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading",
+      "code": "8.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) distinguish main ideas from supporting details from poems, b) use contextual clues to infer the meaning of words and phrases in a text, c) make connections between events in a poem and real life, d) summarise events in a poem e) answer direct and inferential questions from poems, f) acknowledge the role of reading comprehension in lifelong learning.",
+      "experiences": "The learner is guided to: • search online and offline and discuss, in groups, the meaning of reading for interpretation and evaluation, • visualise events, people, and places in poems, • predict events in poems, • utilize digital devices to check the meanings of words, • infer meanings of vocabulary based on contextual clues, • answer direct and inferential questions in pairs, • summarise main issues from poems • create word puzzles with learned vocabulary and share them online, • relate the issues in a set poem to real life.",
+      "inquiryQuestions": "1. How can you identify the subject in a poem? 2. How are poems similar to songs?"
+    },
+    {
+      "strand": "Grammar in Use",
+      "subStrand": "Word Classes: Simple Prepositions",
+      "code": "8.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify different types of prepositions, b) use prepositions in sentences, c) attest to the importance of well- formed sentences in communication.",
+      "experiences": "The learner is guided to: • identify and underline simple prepositions (agent, instrument, and direction) in texts, • search online and offline for examples of simple prepositions, • read texts and identity simple prepositions, • complete sentences using a substitution table, • match simple prepositions with the word they collocate with, • Watch video clips and identify simple propositions, • construct sentences using prepositions, in groups, • create a crossword puzzle featuring simple prepositions and the words or phrases they collocate with, • share the puzzles online, on posters, charts, or through WhatsApp.",
+      "inquiryQuestions": "1. What is the function of prepositions in sentences? 2. How do we show the relationship between words? 3. How can you ensure all your sentences are correctly written?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Poetry",
+      "code": "8.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the human characters in a set of poems b) use adjectives to describe the traits of human characters in a set of poems c) appreciate the importance of human characters in poetry.",
+      "experiences": "The learner is guided to: • read a given poem and identify the human characters • search online and offline for adjectives that can be used to describe characters • discuss what each character does or says in each poem • role play a given poem to bring out the characters’ actions • take video clips of the role play and share them as they discuss their performances • paste sticky notes containing character traits identified • relate the human characters in the poem with real life lessons.",
+      "inquiryQuestions": "1. How do we identify characters in a given poem? 2. Why are human characters important in poetry? 3. How can you identify the lessons learned from poems?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Composition Writing: Self-Assessment",
+      "code": "8.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify steps involved in the assessment of narrative compositions, b) write narrative compositions and assess the introduction, body, and conclusion, c) appreciate the importance of assessment in improving narrative composition writing.",
+      "experiences": "The learner is guided to: • search online and offline for information on the aspects of self-assessment when writing a narrative composition, • practise assessing own narrative composition, • watch a video or listen to a recording on how to peer assess a composition, • plan,organise, and write a composition, on travel, and share it with peers for review, • identify and correct spelling, punctuation, and grammatical errors using a given checklist.",
+      "inquiryQuestions": "1. Why is it important to assess writing? 2. How can one improve their composition writing skills?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Pronunciation: Consonant and Vowel Sounds",
+      "code": "9.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) articulate correctly the consonant sounds/t/, /d/, /l/, /r/ in words articulate correctly vowel sounds /ʊ/ and /uː/ in words, b) pronounce words correctly using stress, c) distinguish the meaning of words based on stress, d) acknowledge the importance of correct pronunciation in oral communication.",
+      "experiences": "The learner is guided to: listen to audio clips and watch video clips with the sounds /t/, /d/, /l/, /r, /, /ʊ/ and /uː/ in words • articulate the following consonants and vowel sounds in groups: - /t/ as in toll - /d/as in doll - /l/ as in liver - /r/ as in river - /ʊ/ as in pull, bull; - /uː/ as in pool, book, • watch an oral presentation and pick out words with the target sounds, • practise pronouncing words with the target consonant and vowel sounds, in pairs, • sort words based on pronunciation of the target,",
+      "inquiryQuestions": "1. Why should you pronounce words correctly? 2. Why do people find it difficult to pronounce some words? 3. In what ways can one improve own pronunciation?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Extensive Reading: Grade appropriate fiction materials 2 lessons",
+      "code": "9.2.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) select a variety of fictional texts for extensive reading b) read fictional texts for information and enjoyment, c) appreciate the importance of fiction in life.",
+      "experiences": "The learner is guided to: • identify fictional material to read by looking at the cover page, blurb, and title • read texts on varied issues such as national heroes and heroines and discuss the elements of fiction in the text • list down new words and phrases encountered • re-tell the story in their own words • dramatise a section of the text and record themselves • relate the ideas expressed in fiction to real life • read fiction materials for enjoyment.",
+      "inquiryQuestions": "1. Why is it important to read fictional materials? 2. How can a reading culture be developed? 3. What should you consider when selecting fictional texts for reading?"
+    },
+    {
+      "strand": "Grammar In Use",
+      "subStrand": "Word Classes: Conjunctions and, but, or 2 lessons",
+      "code": "9.3.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the conjunctions and, but and or in sentences, b) use and, but and or in sentences accurately, c) appreciate the importance of proper use of conjunctions in written and spoken contexts.",
+      "experiences": "The learner is guided to: • search, in pairs, online and offline for the use of the conjunctions and, but and or in texts, • identify the conjunctions and, but and or from different texts, • construct sentences using the conjunctions and, but and or, in groups • fill in substitution and completion tables using the conjunctions and, but and or • create and share a story or dialogue on heroes in Kenya, using the conjunctions and, but and or • discuss the importance of proper use of conjunctions in sentences.",
+      "inquiryQuestions": "1. How do the words and, but and or help in conversation? 2. Why is it important to communicate clearly? 3. which words would you use to replace and but and or in a conversation? 4. How can you tell that joining words have been used well?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive reading: Class Reader",
+      "code": "9.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the sequence of events in a class reader, b) make short notes on the sequence of events in a class reader, c) appreciate reading works of art for information and enjoyment.",
+      "experiences": "The learner is guided to: • read sections of a class reader and explain the sequence of events, • dramatize parts of the class reader for clarity, • outline the actions of each character studied in the section, • discuss, in pairs, how the characters make the story flow, • use a sequence chart to show the order of events in the class reader, • make short notes on the sequence of events in the story, • relate the events in the story to real life, • discuss possible solutions to the problems portrayed in the class reader.",
+      "inquiryQuestions": "1. What marks the climax of a story? 2. How does a writer make a piece of writing interesting? 3. Which captivating story books or TV programmes have you come across and what made them interesting?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Creative writing: Narrative compositions",
+      "code": "9.5.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify features of narrative composition in creative writing, b) create well-written narrative compositions on a variety of topics, c) Appreciate the importance of writing in day-to-day life.",
+      "experiences": "The learner is guided to: • Search for features of a well- written narrative from print and non-print sources. (200-240 words) such features include - a narrow and clearly defined focus (title) - a strong introduction - character descriptions - dialogue - setting description - interesting details - a logical sequence - purposeful and precise word choice - varied sentence structure and - a strong conclusion, • read well-written samples of narrative compositions noting the most outstanding parts, • plan a narrative composition, in groups, and tell it as a chain story, • write a narrative composition on",
+      "inquiryQuestions": "1. How can you make your composition writing better? 2. Which things make a composition memorable 3. What are the characteristi cs of a good narrative composition ?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Presentations: Delivering Speeches",
+      "code": "10.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify occasions where speeches are presented, b) apply the features of oral presentations for effective communication, c) appreciate the importance of good oral presentation skills when delivering a speech.",
+      "experiences": "The learner is guided to: • Think, pair, and share on occasions where speeches are presented, • Search online or offline for features of oral presentation and make short notes, • listen to recorded grade- appropriate speeches and share their opinions on them, in pairs, • brainstorm, in groups, on the importance of body language in delivering a speech, • rehearse a speech and present it to each other, in groups, • write short speeches on the importance of music and present it to peers, • record the speeches being presented and discuss the presentations.",
+      "inquiryQuestions": "1. What is the purpose of speeches in society? 2. What circumstances make one to read a pre-written speech? 3. How can one deliver a speech effectively?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Study Skills: Note Making",
+      "code": "10.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the main and supporting points in texts b) make notes from varieties of written texts, c) relate note making to effective reading.",
+      "experiences": "The learner is guided to: • conduct an online and offline search on the format of note- making- (heading, subheading, main points, supporting point, keywords) • discuss, in groups, the importance of note making in reading, • read texts on varied issues including music and select the key points • pick the keywords from reading texts • fill in the key points in a note making a template • draw a mind map to show the relationship between topic, main idea, and supporting ideas, in groups • read print or non-print texts and make notes from them.",
+      "inquiryQuestions": "1. How can effective reading be done? 2. How can key points be identified in a text? 3. What is the importance of note-making?"
+    },
+    {
+      "strand": "Grammar in Use",
+      "subStrand": "Word Classes: Determiners",
+      "code": "10.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify articles and possessives in texts, b) use articles and possessives in sentences, c) acknowledge the importance of articles and possessives for effective communication.",
+      "experiences": "The learner is guided to: • identify articles and possessives from a text, • underline articles a, an, the and possessives my, our, your, his, her, their used in print and non-print texts, • read out examples of possessives from flashcards, in pairs, • correct errors in sentences that contain articles, • engage in language games using articles, in groups, • practise matching articles with nouns, in pairs, • construct sentences using possessives • compose a song on children’s rights using relevant articles and possessives and video record the performances.",
+      "inquiryQuestions": "1. What would happen if a conversation lacked determiners? 2. How do we indicate that something belongs to somebody?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Characters and their traits",
+      "code": "10.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: (a) identify characters in monster narratives, (b) explain traits of characters in given monster narratives, (c) relate monster narratives to real life situations, (d) appreciate the importance of monster narratives in life.",
+      "experiences": "The learner is guided to: • describe a monster/ ogre, • search online and offline for features of monster narratives, • narrate monster narratives from their immediate environment to their peers, • in groups, discuss what monsters/ogres represent • discuss how monster narratives relate to real life, • explain health education lessons they learn from monster narratives, • dramatize a monster narrative and record the performance, • discuss the traits of the characters involved in a monster narrative, in pairs, • brainstorm on the reading strategies suitable for sharing experiences with community members, • interact actively with resource",
+      "inquiryQuestions": "1. What kind of characters are commonly used in monster narratives? 2. What is the relevance of oral narratives in modern society? 3. What should one consider when collecting narratives among people of varied socio- cultural backgrounds?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Functional Writing: Packing and Shopping lists",
+      "code": "10.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify ways of grouping items in packing and shopping lists, b) write a packing list for a specified event, c) prepare a shopping list for use in a given context, d) recognise the importance of preparing a shopping and packing list in their everyday lives.",
+      "experiences": "The earner is guided to: • search online and offline for samples of packing and shopping lists, • discuss, in groups, the parts of a shopping list, • create and fill a packing list template, • discuss, in groups, different ways of grouping items in packing and shopping list, • give in pairs, the prices of different items in the shopping list to match a given budget.",
+      "inquiryQuestions": "1. What should one consider when grouping items in a packing list? 2. Why should a shopping list be prepared? 3. What is the importance of a packing list?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Interviews",
+      "code": "11.1.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify reasons for sitting an interview, b) articulate points clearly and confidently during an oral interview, c) respond confidently to questions during an interview, d) Seek clarification during an oral presentation, e) appreciate the importance of interviews in getting school placement and scholarships.",
+      "experiences": "The learner is guided to: • listen to and review an audio clip on school placement and scholarship interviews • discuss in groups reasons for sitting for a placement and scholarship interview, • search online and watch video clips on school placement and scholarship interview • role play in small groups the school placement and scholarship interview, record and share them via mobile phones and other social media channels • conduct mock interviews in pairs or small groups, • record the interviews on digital devices • share the videos with friends and peers on social media platforms, blogs among others.",
+      "inquiryQuestions": "1. Why are interviews important? 2. Why should one articulate point clearly and confidently during an interview? 3. How can one seek clarification during an interview? 4. What are the ways in which you can prepare for an interview?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Extensive Reading: Non-Fiction materials",
+      "code": "11.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify print or electronic non-fiction materials that are interesting to read, b) read a variety of grade appropriate non-fiction materials independently for lifelong learning, c) recommend to peers suitable non- fiction materials to read for information, d) acknowledge the importance of reading for enjoyment and general understanding.",
+      "experiences": "The learner is guided to: • search for digital and print non-fiction materials, • read a variety of non–fiction materials, • infer the meaning of the new words and phrases used in non- fiction materials, • skim through the non-fiction material for the main idea, • scan the non-fiction material to obtain specific information, • prepare a reading log of the reading activities of the non- fiction texts.",
+      "inquiryQuestions": "1. What kind of stories contribute to behaviour change? 2. Why should we read non- fiction materials?"
+    },
+    {
+      "strand": "Grammar in Use",
+      "subStrand": "Word Classes 11.3.2 Adjective Formed from Nouns 11.3.3. Adjectives Formed from Verbs",
+      "code": "11.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) recognize adjectives from a text b) construct simple sentences using the adjectives formed c) appreciate the value of proper use of adjectives.",
+      "experiences": "The learner is guided to: • search for online tutorials on adjectives and examples of adjectives formed from nouns and verbs, • listen to a poem or passage from the teacher and pick out adjectives formed from nouns and verbs, • read a given passage and in pairs identify adjectives formed from nouns and verbs, • form adjectives using nouns and verbs • construct simple sentences using the adjectives formed in pairs, • in groups engage in language games such as scramble, puzzle code words and guessing games.",
+      "inquiryQuestions": "1. How are adjectives formed? 2. Why should we use adjectives correctly?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Spelling antonyms, synonyms and numbers",
+      "code": "11.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: • recognise antonyms, synonyms and numbers in words from a selected text, • use antonyms, synonyms and numbers in words correctly in writing, • appreciate the usage of antonyms, synonyms and numbers in words in effective writing. .",
+      "experiences": "The learner is guided to: • read a text with antonyms, synonyms and numbers in words from print and non-print sources, • identify the antonyms, synonyms and numbers in words from a selected text • listen to a dictation of a text with antonyms and synonys and write them down, • Search for antonyms and synonyms from books in groups, newspapers and the internet and compile a list, • write a list of antonyms and synonyms and in pairs exchange for assessment.",
+      "inquiryQuestions": "1. Why is it important to tell the synonyms and antonyms of words? 2. Which words with similar meanings do you know? 3. Why is it important to write numbers in words?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Listening to Respond: Views/ Opinions",
+      "code": "12.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) list ways of expressing views/opinions in different contexts, b) use different expressions that indicate own views/opinions in a given text, c) acknowledge the value of one’s views/opinions as a lifelong skill in communication.",
+      "experiences": "The learner is guided to: • search online and offline for the different ways of expressing views/opinions, • listen to an oral narrative and identify the different ways used to express opinions/views, • in groups, role play the different characters in the narrative and bring out different ways of expressing opinions/views, • explain their feelings towards issues raised in the trickster narrative, • write on a chart, the words they have used to describe their feelings.",
+      "inquiryQuestions": "1. How are opinions expressed? 2. Why is it important to express one’s opinion? 3. How can expressing opinion/views affect relationships?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading- Comprehension",
+      "code": "12.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify main ideas in a text, b) use contextual clues to infer the meaning of words in a text, c) describe characters, ideas or events in a text, d) summarise information from a short text, e) appreciate the importance of reading comprehension in lifelong learning.",
+      "experiences": "The learner is guided to: • download and share texts with mental images from the texts and draw conclusions, • read a passage individually, and identify key words in the passage, • infer the meaning of words using contextual clues, • choose descriptive parts of the passage on traditional fashion and share the vivid images created in their mind, • in groups, role play the characters and events in the text, • use contextual clues to decipher the meaning of words, • answer questions based on the passage • give an appropriate title to a story or passage.",
+      "inquiryQuestions": "1. Why should we recreate characters, places and events in our minds? 2. How can we tell the meaning of words and phrases in a text?"
+    },
+    {
+      "strand": "Grammar in Use",
+      "subStrand": "Phrasal Verbs",
+      "code": "12.3.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify phrasal verbs formed from put, come and give in a given text, b) use given phrasal verbs correctly in sentence construction, c) acknowledge the role of phrasal verbs in communication.",
+      "experiences": "The learner is guided to: • read a text and identify the phrasal verbs formed from put, come and give present, • in groups, search online and use charts for meanings of the phrasal verbs they have identified, • fill in blanks in a text using the most appropriate phrasal verb, • search on the internet for more examples of phrasal verbs, • construct sentences using the phrasal verbs in pairs.",
+      "inquiryQuestions": "1. How are phrasal verbs formed? 2. What meanings are expressed through phrasal verbs? 3. Why should we use Phrasal Verbs correctly?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Class Reader: Main Ideas",
+      "code": "12.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the main ideas in the section read in the text, b) discuss the lessons learnt from the text c) relate the lessons learnt to real life experiences d) appreciate the role of literature in fostering critical thinking.",
+      "experiences": "The learner is guided to: • read a section of the text aloud in turns and dramatise the events • discuss the main ideas in the sections read in the text in groups • relate the lessons learnt from the section read to real life experiences in groups • draw a chart showing the sequence of the main events in the section read • search online and watch an adapted dramatisation of the section read.",
+      "inquiryQuestions": "1. Why do people read story books? 2. What is the importance of reading a short story?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "The writing Process: Dialogues",
+      "code": "12.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline the format of a dialogue b) apply the writing process in writing a dialogue c) acknowledge the importance of the writing process in acquiring good writing skills.",
+      "experiences": "The learner is guided to: • search online and offline for an example of a dialogue • dramatise the identified dialogue • in groups, discuss the format of the dialogue they have identified • Individually fill in missing words in a set dialogue on traditional fashion • In pairs, discuss the correctness of the words they have used • individually, create a rough draft of a short dialogue using the format they have identified • in groups, edit each other’s dialogue to check for repetition, clarity, grammar, spelling and punctuation in pairs • revise the dialogue individually, • publish the final product for assessment by sharing the samples of well written dialogue with others in class.",
+      "inquiryQuestions": "1. What is the difference between a dialogue and a narrative composition? 2. What should we consider before writing a dialogue?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Intensive Reading: Comprehension Strategies",
+      "code": "13.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify key ideas from a passage, b) summarise key ideas from a passage, c) create mental images from the events in a passage, d) deduce the meaning of words from context, e) respond to factual and inferential questions, correctly from the passage f) acknowledge the importance of comprehension strategies in effective reading.",
+      "experiences": "The learner is guided to: • read selected grade appropriate passages on issues related to land travel such as safety and security from print and on-line sources, • discuss opinions formed about the characters or ideas presented in the passage, • infer the meaning of words based on how they have been used in the passage • complete oral and written exercises using the vocabulary learnt, • answer factual and inferential questions from the passages, both orally and in writing, • Summarise key ideas presented in the passages by paraphrasing,",
+      "inquiryQuestions": "1. How do you get the meaning of a words from a passage? 2. What is the importance of reading a passage? 3. What makes people write passages?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Creative Writing: Narrative Composition",
+      "code": "13.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the meaning of specified idioms in context, b) create well written narrative compositions using the specified idioms, c) appreciate the role of idioms in creative writing.",
+      "experiences": "The learner is guided to: • brainstorm on the reason creative writers use idiomatic expressions in writing, • explain situations that call for the use of the following idiomatic expressions: o biting off more than you can chew o own up to something o having a lot on your plate o call it a day o piece of cake o hold your tongue • confirm the meaning of the idiomatic expressions from print and on-line dictionaries, • practise using the idiomatic expressions in sentences, • plan a narrative composition in groups, incorporating the specified idiomatic expressions, on the theme of land travel, • write a narrative composition individually • Peer review each other’s work and revise as per the suggestions given.",
+      "inquiryQuestions": "1. What makes a story memorable? 2. What is the importance of using idioms in communicat ion?"
+    },
+    {
+      "strand": "Listening",
+      "subStrand": "Pronunciation: Consonant Sounds and Intonation",
+      "code": "14.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify words with the sounds /v/, /f/, /n/ and /ŋ/ from a text, b) pronounce words with the sounds /v/, /f/, /n/ and /ŋ/ in sentences, c) use correct intonation for yes/no and wh- questions in varied contexts, d) appreciate the importance of correct pronunciation and intonation in a conversation.",
+      "experiences": "The learner is guided to: • search from print and non-print sources for tongue twisters with some of the target sounds and say them for enjoyment, • watch a video or listen to a recording or conversation on outdoor games and group the words in a table according to the to the following target sounds: v/ as in very; /f/ as in ferry /n/ as in been an /ŋ/ as in being, • listen to and model native speaker clips with the target sounds in words, • practise, in groups, the pronunciation of words with the target and record themselves, • share the clips for peer review, • listen to an audio or a dramatised conversation on outdoor games in",
+      "inquiryQuestions": "1. Why should people pronounce words correctly? 2. How can one learn to pronounce words correctly? 3. What kind of questions require Yes or No as an answer?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Study Skills: Summarising",
+      "code": "14.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the main i d e a s in texts, b) write a summary of ideas from varied texts, c) appreciate the importance of summarising information in a given context.",
+      "experiences": "The learner is guided to: • brainstorm on the steps to follow when writing a summary of a text, • in pairs, read a print or non-print text on varied issues including outdoor games and underline the main ideas, • make notes from the underlined sentences and use them to make a rough draft, • use the rough draft to make a fair copy, • share the summaries through charts for peer review, • check and make corrections on the written summarised pieces in groups, • discuss in pairs the purpose of making summaries.",
+      "inquiryQuestions": "1. How do we identify main ideas from a text? 2. Why is it important to summarise information? 3. What factors should one consider when summarising an event? 4. In which activities or jobs can summarising be useful?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Class reader: Features of style",
+      "code": "14.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify instances of dialogue, similes and metaphors in the text, b) use the styles of dialogue, similes and metaphors in guided contexts, c) appreciate the importance of style in a work of art.",
+      "experiences": "The learner is guided to: • search online and offline for examples of dialogue, similes and metaphors in stories and them with the rest of the class, • in pairs, read the class reader and identify with illustrations instances of dialogue, similes and metaphors in the text, and display their work on the class notice boards, • in groups, role play selected dialogues from the class reader and record themselves for video sharing and review, • make sentences using the similes and metaphors identified from the text, • discuss instances in real life where dialogues, similes and metaphors can be used.",
+      "inquiryQuestions": "1. Which stylistic features have you come across in different texts? 2. How can we convey a message more effectively? 3. Why do we use similes and metaphors?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Creative Writing: Descriptive Writing (200 – 240 words)",
+      "code": "14.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify features of a person a thing or a place that can be described, b) write a descriptive composition on a given subject, c) underscore the importance of creative writing in communication.",
+      "experiences": "The learner is guided to: • in pairs, view videos or pictures of people, things or places and list the features of each that can be described in an essay, • search online and offline for words and expressions that can be used to describe different features like weather emotions, events and characters, • explain the difference between descriptive writing and other forms of writing, • in groups, they read samples of descriptive essays and classify the features that are described and the expressions used in a graphic organiser for sharing, • create a descriptive composition of between 200 to 240 words on an interesting topic like outdoor sports and",
+      "inquiryQuestions": "1. How can you describe your best friend? 2. How can you describe some things in your school? 3. What do you consider when describing something?"
+    },
+    {
+      "strand": "Listening and Speaking",
+      "subStrand": "Oral Reports: Events within the Classroom",
+      "code": "15.1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline the organisation of an oral report of events within the classroom, b) present an oral report on events that occur within the classroom, c) enjoy delivering and listening to oral reports in various contexts.",
+      "experiences": "The learner is guided to: • brainstorm in groups on the content and organization of an oral report e.g. introduction, body and conclusion, • search in pairs online and offline the steps for conducting an oral report e.g. research, compile (write), rehearse and report (present/deliver), • role play methods of delivering oral reports such as clear pronunciation, voice projection, tonal variation, use of non-verbal cues and use of visuals, • use flash cards to prepare speaking notes for the reports, • simulate in groups an oral report preparation and delivery procedure and video or audio record themselves,",
+      "inquiryQuestions": "1. Which activities can you report about that happen in the classroom? 2. What makes a good oral report? 3. How can you make an oral report presentatio n interesting?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Reading Fluency",
+      "code": "15.2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) recognise the use of fluency strategies in the reading process, b) apply fluency strategies while reading, c) hail the role of reading fluency in communication.",
+      "experiences": "The learner is guided to: • watch and listen to videos or students reading fluently and discuss what makes them good readers, • search online and offline for different reading fluency strategies such as previewing and predicting, skimming, scanning and ignoring unknown words and share with peers, • in pairs, watch or listen to sample reading clips and simulate the model reading as they apply reading strategies, • practise, in groups, timed reading, accurate reading and reading with expression on issues like tourist attraction sites in Kenya, • assess peers’ reading on the basis of the aspects of fluency – accuracy, speed, reading,",
+      "inquiryQuestions": "1. Why is it important to read fluently? 2. What makes one a good reader? 3. How can you improve your reading fluency?"
+    },
+    {
+      "strand": "Reading",
+      "subStrand": "Poetry",
+      "code": "15.4.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the subject matter of a poem b) analyse ideas in the poem c) reiterate the role of poetry in passing information.",
+      "experiences": "The learner is guided to: • recite poems for enjoyment and in pairs outline the subject matter, • search online and offline for ways of determining ideas in a poem such as studying the title, the persona, the events and the choice of words, • discuss how the use of repetition and other styles can help bring out the ideas in the poem, • in groups, pick a poem and identify the ideas brought out and share their findings with peers through charts or graphic organisers for review, • dramatise a poem displaying ideas generated from it using placards and record their performances.",
+      "inquiryQuestions": "1. Why would you use a poem instead of a story to pass information? 2. What makes a poem interesting to read? 3. What kind of ideas can one convey using a poem?"
+    },
+    {
+      "strand": "Writing",
+      "subStrand": "Functional Writing: Notices and Posters",
+      "code": "15.5.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline the format of presenting notices and posters b) design notices and posters on current issues c) acknowledge the role of notices and posters in disseminating information.",
+      "experiences": "The learner is guided to: • collect posters and notices online or offline tourist attraction sites in Kenya and display them in class • brainstorm on the format for presenting of notices and posters in groups • study samples of a notice and a poster presented in class and label features of format • differentiate between a poster and a notice in writing • discuss and select issue(s) that can be addressed by notices and posters including matters relating to tourist attraction sites in Kenya • design a notice and a poster on the selected issue using the model format and",
+      "inquiryQuestions": "1. What kind of messages do posters convey? 2. Why are notices important in the community 3. How can one make a poster or a notice attractive?"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:21:15.576Z",
+  "source": "KICD curriculum design"
+}
