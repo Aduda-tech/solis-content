@@ -1,0 +1,752 @@
+{
+  "path": "schemes-of-work/Grade 8/Christian Religious Education/Term 3/scheme-of-work.json",
+  "grade": 8,
+  "term": 3,
+  "subject": "Christian Religious Education",
+  "weeks": 9,
+  "lessons": 36,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.149Z",
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "The Bible",
+      "subStrand": "Old Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify the torah; b) Investigate the torah in real-life situations; c) Show interest in the use of old testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use the torah in everyday life?",
+      "activities": [
+        "Learners are guided to discuss the torah in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "The Bible",
+      "subStrand": "Old Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List historical books; b) Analyse historical books in real-life situations; c) Develop curiosity about the use of old testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is historical books important?",
+      "activities": [
+        "Learners are guided to discuss historical books in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "The Bible",
+      "subStrand": "Old Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State poetry and wisdom; b) Apply poetry and wisdom in real-life situations; c) Develop curiosity about the use of old testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is poetry and wisdom important?",
+      "activities": [
+        "Learners are guided to discuss poetry and wisdom in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "The Bible",
+      "subStrand": "Old Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe prophets; b) Classify prophets in real-life situations; c) Show interest in the use of old testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use prophets in everyday life?",
+      "activities": [
+        "In groups, learners investigate prophets using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "The Bible",
+      "subStrand": "New Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List the gospels; b) Classify the gospels in real-life situations; c) Take responsibility for the use of new testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find the gospels in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about the gospels",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "The Bible",
+      "subStrand": "New Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe acts of the apostles; b) Construct acts of the apostles in real-life situations; c) Value the use of new testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change acts of the apostles?",
+      "activities": [
+        "In groups, learners investigate acts of the apostles using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "The Bible",
+      "subStrand": "New Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe pauline letters; b) Classify pauline letters in real-life situations; c) Take responsibility for the use of new testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find pauline letters in our community?",
+      "activities": [
+        "In groups, learners investigate pauline letters using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "The Bible",
+      "subStrand": "New Testament Studies",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define revelation; b) Analyse revelation in real-life situations; c) Value the use of new testament studies in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change revelation?",
+      "activities": [
+        "Learners are guided to discuss revelation in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "The Bible",
+      "subStrand": "Biblical Interpretation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise contextual reading; b) Analyse contextual reading in real-life situations; c) Develop curiosity about the use of biblical interpretation in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is contextual reading important?",
+      "activities": [
+        "In groups, learners investigate contextual reading using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "The Bible",
+      "subStrand": "Biblical Interpretation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe types of literature; b) Demonstrate types of literature in real-life situations; c) Take responsibility for the use of biblical interpretation in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find types of literature in our community?",
+      "activities": [
+        "Learners are guided to discuss types of literature in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "The Bible",
+      "subStrand": "Biblical Interpretation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define application; b) Measure application in real-life situations; c) Appreciate the use of biblical interpretation in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply biblical interpretation to solve problems?",
+      "activities": [
+        "Learners observe and record examples of application",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Christian Beliefs",
+      "subStrand": "The Trinity",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe god the father; b) Solve god the father in real-life situations; c) Develop curiosity about the use of the trinity in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is god the father important?",
+      "activities": [
+        "Learners observe and record examples of god the father",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Christian Beliefs",
+      "subStrand": "The Trinity",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define god the son; b) Construct god the son in real-life situations; c) Develop curiosity about the use of the trinity in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is god the son important?",
+      "activities": [
+        "Learners are guided to discuss god the son in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Christian Beliefs",
+      "subStrand": "The Trinity",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify god the holy spirit; b) Demonstrate god the holy spirit in real-life situations; c) Take responsibility for the use of the trinity in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find god the holy spirit in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about god the holy spirit",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Christian Beliefs",
+      "subStrand": "Salvation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe fall of humanity; b) Measure fall of humanity in real-life situations; c) Take responsibility for the use of salvation in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find fall of humanity in our community?",
+      "activities": [
+        "In groups, learners investigate fall of humanity using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Christian Beliefs",
+      "subStrand": "Salvation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise redemption; b) Analyse redemption in real-life situations; c) Show interest in the use of salvation in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use redemption in everyday life?",
+      "activities": [
+        "Learners are guided to discuss redemption in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Christian Beliefs",
+      "subStrand": "Salvation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define grace; b) Apply grace in real-life situations; c) Appreciate the use of salvation in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply salvation to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about grace",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Christian Beliefs",
+      "subStrand": "Salvation",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe justification; b) Compare justification in real-life situations; c) Develop curiosity about the use of salvation in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is justification important?",
+      "activities": [
+        "In groups, learners investigate justification using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Christian Beliefs",
+      "subStrand": "The Church",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List mission of the church; b) Measure mission of the church in real-life situations; c) Value the use of the church in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change mission of the church?",
+      "activities": [
+        "Learners are guided to discuss mission of the church in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Christian Beliefs",
+      "subStrand": "The Church",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline sacraments; b) Construct sacraments in real-life situations; c) Show interest in the use of the church in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use sacraments in everyday life?",
+      "activities": [
+        "Learners observe and record examples of sacraments",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Christian Beliefs",
+      "subStrand": "The Church",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline christian denominations; b) Compare christian denominations in real-life situations; c) Value the use of the church in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change christian denominations?",
+      "activities": [
+        "Learners observe and record examples of christian denominations",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Christian Beliefs",
+      "subStrand": "Eschatology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List second coming; b) Compare second coming in real-life situations; c) Show interest in the use of eschatology in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use second coming in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about second coming",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Christian Beliefs",
+      "subStrand": "Eschatology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List judgement; b) Compare judgement in real-life situations; c) Value the use of eschatology in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change judgement?",
+      "activities": [
+        "Learners observe and record examples of judgement",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Christian Beliefs",
+      "subStrand": "Eschatology",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe heaven and hell; b) Measure heaven and hell in real-life situations; c) Value the use of eschatology in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change heaven and hell?",
+      "activities": [
+        "Learners brainstorm what they already know about heaven and hell",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Christian Living",
+      "subStrand": "Ethics",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State moral decision making; b) Compare moral decision making in real-life situations; c) Show interest in the use of ethics in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use moral decision making in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about moral decision making",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Christian Living",
+      "subStrand": "Ethics",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify christian conscience; b) Demonstrate christian conscience in real-life situations; c) Show interest in the use of ethics in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use christian conscience in everyday life?",
+      "activities": [
+        "Learners are guided to discuss christian conscience in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Christian Living",
+      "subStrand": "Ethics",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define values in society; b) Apply values in society in real-life situations; c) Appreciate the use of ethics in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply ethics to solve problems?",
+      "activities": [
+        "Learners observe and record examples of values in society",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Christian Living",
+      "subStrand": "Social Teaching",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe justice; b) Apply justice in real-life situations; c) Show interest in the use of social teaching in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use justice in everyday life?",
+      "activities": [
+        "Learners are guided to discuss justice in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Christian Religious Education Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Christian Religious Education content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Christian Religious Education content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Christian Religious Education content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Christian Religious Education content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Christian Religious Education Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    }
+  ]
+}
