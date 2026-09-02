@@ -1,0 +1,256 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "Pre-Technical Studies",
+  "driveId": "1YDD-kMtJcVK-gT02TVyQt9VaFvJ8md_i",
+  "sourceLabel": "PRE-TECHNICAL STUDIES GRADE 7",
+  "pages": 51,
+  "strandCount": 27,
+  "totalLessons": 110,
+  "strands": [
+    {
+      "strand": "Foundations of Pre -Technical Studies",
+      "subStrand": "Introduction to Pre- Technical Studies",
+      "code": "1.1",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the components of Pre-Technical Studies as a learning area, b) explain the role of Pre- Technical Studies in day- to-day life, c) embrace Pre-Technical Studies in career development.",
+      "experiences": "The learner is guided to:  brainstorm on the components of Pre- Technical Studies as a learning area  discuss and present the role of Pre-Technical Studies in day-to-day life  debate on the role of Pre- Technical Studies in day- to-day life.",
+      "inquiryQuestions": "Why is Pre- Technical Studies important in day-to- day life?"
+    },
+    {
+      "strand": "Foundations of Pre-Technical Studies",
+      "subStrand": "Safety in the Work Environment",
+      "code": "1.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify potential safety threats in a work environment, b) outline safety rules and regulations in the work environment, c) observe safety in a work environment, d) appreciate the importance of observing safety in a work environment.",
+      "experiences": "The learner is guided to:  brainstorm with peers on potential safety threats in a work environment (physical and online)  use print or digital media to search for information on potential hazards to personal safety in a work environment  use print or digital media to search for information on physical threats to digital devices (theft, natural disasters, hardware failure) and online threats in a work environment and list them (cyberbullying, impersonation, phishing, hacking, friend requests from unknown people)  share ideas and practice on how to keep personal and sensitive data from public when online",
+      "inquiryQuestions": "1. Why is safety in the"
+    },
+    {
+      "strand": "Foundations of Pre-Technical Studies",
+      "subStrand": "Computer Concepts",
+      "code": "1.3",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the characteristics of a computer in a user environment, b) classify computers in a user environment, c) use a computer to perform tasks in a user environment, d) acknowledge the importance of different types of computers in a user environment.",
+      "experiences": "The learner is guided to: ● brainstorm on the meaning of the terms; computer, data and information ● discuss on characteristics of a computer (speed, accuracy, versatility, reliability, diligence, storage, consistency) ● download and watch a video clip on classification of computers ● discuss classification of computers (functionality, purpose and size) in a user environment ● interact with different types of computers in the user environment to perform tasks",
+      "inquiryQuestions": "Why are there different classes of computers?"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Fundamentals of Communication",
+      "code": "2.1",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the importance of communication in work environment, b) describe the ICT tools used in communication, c) use ICT to enhance communication, d) acknowledge the role of effective communication in the work environment.",
+      "experiences": "The learner is guided to: ● brainstorm and present on the meaning and importance of communication in the work environment ● role play the importance of effective communication in work environment ● use print or digital media to search for information on ICT tools used in communication (email, mobile phone, computers, video and web conferencing tools, social networking and online collaboration) ● discuss ICT tools used in communication ● use ICT tools and internet to communicate ● discuss the benefits and challenges of the internet",
+      "inquiryQuestions": "1. Why is communication in the work environment important? 2. How is ICT used in communication?"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Introduction to Drawing",
+      "code": "2.2",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the importance of drawing as a means of communication, b) distinguish between artistic and technical drawings used in technical fields, c) print numbers and letters of the alphabet as used in drawing, d) draw types of lines used in drawing, e) illustrate symbols and abbreviations used in drawing, f) appreciate the role of drawing in communication.",
+      "experiences": "The learner is guided to:  discuss the importance of drawing as a means of communication  brainstorm on the meaning of the terms ‘technical drawing’ and ‘artistic drawing’  use print or online resources to search for information on artistic and technical drawing  practice printing numbers and letters of the alphabet  use visual aids to search for information on the types of lines and their application in drawing (thick and thin continuous, dashed and chain)  draw various types of lines (thick and thin continuous, dashed and chain)",
+      "inquiryQuestions": "Why is drawing referred to as a universal way of communication?"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Plane Geometry",
+      "code": "2.3",
+      "lessons": 8,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) describe methods of dimensioning drawings in plane geometry, b) construct combined shapes used in a work environment, c) dimension combined shapes in plane geometry, d) embrace the use of plane geometry in a work environment.",
+      "experiences": "The learner is guided to:  brainstorm on methods of dimensioning (linear, radial, angular, arc),  illustrate types of lines used in dimensioning,  use visual aids to identify combined shapes,  discuss how to draw combined shapes,  use electronic or print media to search for information on methods of dimensioning combined shapes,  discuss forms of dimensioning combined shapes (parallel, chain, combined),  draw and dimension combined shapes in plane geometry.",
+      "inquiryQuestions": "How are combined shapes applied in day-to-day life?"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Economic Resources",
+      "code": "3.1",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand, the learner should be to: a) explain the characteristics of economic resources used for production of goods and services, b) classify economic resources in Kenya, c) distinguish between metallic and non- metallic materials as economic resources, d) analyse sustainable ways of using economic resources in Kenya, e) practice sustainable use of economic resources in the community.",
+      "experiences": "The learner is guided to:  discuss and present on the meaning of economic resources  use print or digital media to search for information on the characteristics of economic resources and share with peers  read and analyse a case study on classification and types of economic resources in Kenya  discuss metallic and non-metallic materials as economic resources  carry out resource mapping on types of economic resources in the local community  use available resources to establish distribution of economic resources in Kenya  brainstorm and present sustainable ways of using economic resources in Kenya.",
+      "inquiryQuestions": "1. What are economic resources? 2. How can economic resources be used sustainably?"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Metallic Materials",
+      "code": "3.2",
+      "lessons": 10,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) identify types of metallic materials used in a work environment, b) describe the physical properties of metallic materials found in a work environment, c) relate metallic materials to their use in a work environment, d) appreciate the use of metallic materials in production.",
+      "experiences": "The learner is guided to:  use print or digital media to search for information on metallic materials,  prepare a checklist for identifying types of metallic materials (steel, aluminum, copper)  perform practical activities to examine the physical properties of metallic materials (magnetism, conductivity of heat and electricity, appearance)  discuss the physical properties of metallic materials  match metallic materials to their use in the work environment",
+      "inquiryQuestions": "Why are metallic materials important in day-to-day life?"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Non- Metallic Materials",
+      "code": "3.3",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify non-metallic materials found in the locality, b) categorise non-metallic materials as either synthetic or natural, c) describe the physical properties of non- metallic materials found in the locality, d) relate non-metallic materials to their uses in the locality, e) appreciate the use of non-metallic materials in production.",
+      "experiences": "The learner is guided to:  use print or digital media to search for information on non-metallic materials  discuss the non-metallic materials (wood, stone, plastics, paper, rubber, cement, glass, ceramics)  sort non-metallic materials as either synthetic or natural  perform practical activities to examine the physical properties of non-metallic materials (color, texture, hardness, fire resistance)  discuss the physical properties of non-metallic materials  match non- metallic materials to their use in the locality",
+      "inquiryQuestions": "Why are non- metallic materials important?"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Measuring and Marking Out Tools",
+      "code": "4.1",
+      "lessons": 18,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify measuring and marking out tools in the work environment, b) select measuring and marking out tools for a given task, c) use measuring and marking out tools to perform a given task, d) care for measuring and marking out tools in the work environment, e) recognise the importance of measuring and marking out tools in the work environment.",
+      "experiences": "The learner is guided to:  use visual aids and realia to identify measuring (Tape measure, steel rule, callipers, weighing balance, stop watch, ammeter, voltmeter) and marking out tools (divider, try-square, marking gauge, dot punch, scriber, pencil, marking knife) in the work environment  discuss the use of measuring and marking out tools in the work environment  choose the appropriate measuring and marking out tools to perform a given task  use available resources to search for information on the use of measuring and marking out tools to perform specific tasks  demonstrate the use of measuring and marking out tools to perform specific tasks",
+      "inquiryQuestions": "1. Why are measuring and marking out tools important in a work environment? 2. How are measuring and marking out tools used in a work environment?"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Production of Goods and Services",
+      "code": "4.2",
+      "lessons": 8,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the benefits of production to the community, b) distinguish between goods and services found in the local market, c) describe the factors of production in the community, d) analyse the ethical and unethical practices in production of goods and services, e) participate in production activities in the community.",
+      "experiences": "The learner is guided to:  brainstorm and present the meaning and benefits of production  discuss and present the meaning, types and characteristics of goods and services  read and analyse a case study on factors of production, characteristics and rewards  use print or digital media to search for information on ethical and unethical practices in production of goods and services  share experiences on ethical and unethical practices in production of goods and services",
+      "inquiryQuestions": "Why are factors of production important?"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Introduction to Entrepreneurship",
+      "code": "5.1",
+      "lessons": 8,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) explain the importance of entrepreneurship to an individual and community, b) describe the qualities of an entrepreneur in business, c) explore sources of business ideas for a business venture, d) analyse the factors considered when evaluating the viability of a business opportunity, e) evaluate the factors that enhance success in a business,",
+      "experiences": "",
+      "inquiryQuestions": "The learner is guided to:"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Money",
+      "code": "5.2",
+      "lessons": 10,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) identify the characteristics of money as a medium of exchange, b) explain the uses of money in day- to- day life, c) describe the key security features of the Kenyan currency, d) analyse the themes and symbols on the Kenyan currency, e) appreciate the use of money in day-to-day life.",
+      "experiences": "The learner is guided to:  brainstorm and present the meaning and characteristics of money  share experiences on use of money for buying goods and services  discuss and present on the uses of money  use print or digital media to search for information on the uses of money  use Kenyan currency to observe the key security features  brainstorm and present the themes and symbols used on the Kenyan currency  use different denominations of Kenyan currency to examine themes and symbols",
+      "inquiryQuestions": "1. Why does the Kenyan currency have security features? 2. What are the themes and symbols on the Kenyan currency?"
+    },
+    {
+      "strand": "Foundations of Pre -Technical Studies",
+      "subStrand": "Introduction to Pre-Technical Studies",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Practical work  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook  Digital devices such as; computers, laptops, smart phones, tablets among others  Relevant approved textbooks and reference materials  Photographs and pictures Charts",
+      "inquiryQuestions": " Discuss the role of Pre-Technical studies in clubs and societies."
+    },
+    {
+      "strand": "Foundations of Pre -Technical Studies",
+      "subStrand": "Safety in the Work Environment",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Practical work",
+      "experiences": " Workshop attires such as; overcoats, aprons, shoes, googles among others",
+      "inquiryQuestions": " Learners visit workplaces in the locality to observe how workers practice"
+    },
+    {
+      "strand": "Foundations of Pre -Technical Studies",
+      "subStrand": "Computer Concepts",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Practical work  Peer and self- assessment",
+      "experiences": " Course books,  Computer user manuals,  Internet,  video clips  Digital devices such as; computers, laptops, smart phones, tablets among others.",
+      "inquiryQuestions": " Demonstrate how to use ICT tools (Calculators, Smartphones, Tablets, DVD players, Digital watches) during clubs and societies"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Fundamentals of Communication",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook  Digital devices such as; computers, laptops, smart",
+      "inquiryQuestions": " Financial literacy and other school clubs and societies  Songs on business communication during music festivals  Debates on business communications in"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Introduction to Drawing",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Drawing charts  Drawing papers/books  brochures and magazines  Geometrical set",
+      "inquiryQuestions": " Learners visit nearby workplaces to observe how different types of drawings are done and how they are used in the community  learners discuss on types of drawing in out of class school programmes"
+    },
+    {
+      "strand": "Communication",
+      "subStrand": "Plane Geometry",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Drawing charts  Drawing papers/books  brochures and magazines  Geometrical set",
+      "inquiryQuestions": " Learners visit nearby workplaces to observe how different combined shapes and how they are used in the community"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Economic Resources",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook  Digital devices such as; computers, laptops, smart phones, tablets among others  Metallic and non- metallic materials  Relevant approved textbooks and reference materials  Photographs and pictures  Charts",
+      "inquiryQuestions": " Discuss classification of economic resources in Financial literacy and other school clubs and societies  Organised and planned field visits activities to carry our resource mapping"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Metallic Materials",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment  Practical work",
+      "experiences": " Metallic materials (steel, aluminium, copper)  brochures and magazines  Digital devices such as; computer, laptop, smart",
+      "inquiryQuestions": " Learners visit local community and collect metallic materials and write down how each is used by the local community  Discuss the uses of metallic materials in"
+    },
+    {
+      "strand": "Materials for Production",
+      "subStrand": "Non-Metallic Materials",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment  Practical work",
+      "experiences": " Non-Metallic materials (wood, plastics, ceramic, paper, rubber, glass, cement, stone)  brochures and magazines  Digital devices such as; computer, laptop, smart phone, tablets among others Digital devices such as; computer, laptop, smart phone, tablets among others",
+      "inquiryQuestions": " Learners visit local community and collect non-metallic materials and write down how each is used by the local community  Discuss the uses of non-metallic materials in clubs and societies"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Measuring and Marking Out Tools",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Measuring tools (Tape measure, steel rule, callipers, weighing balance, stop watch,",
+      "inquiryQuestions": " Learners visit local workplaces and observe the use of measuring and marking out tools in performing different"
+    },
+    {
+      "strand": "Tools and Production",
+      "subStrand": "Production of Goods and Services",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook  Digital devices such as; computers, laptops, smart",
+      "inquiryQuestions": " Discuss the factors of production in Financial literacy and other school clubs and societies  Participate in a talk by a volunteer resource person on the ethical and unethical practices"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Introduction to Entrepreneurship",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook  Digital devices such as; computers, laptops, smart phones, tablets among others  Relevant approved textbooks and reference materials  Photographs and pictures  Charts",
+      "inquiryQuestions": " Discuss business ideas and opportunities in Financial literacy and other school clubs and societies  Organised and planned field visits in the local community to engage with entrepreneurs  Participate in a talk by a volunteer resource person on the qualities of an entrepreneur"
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Money",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook  Digital devices such as; computers, laptops, smart phones, tablets among others  Relevant approved textbooks and reference materials  Photographs and pictures  Charts",
+      "inquiryQuestions": " Discuss on the security features of the Kenyan currency in Financial literacy and other school clubs and societies  School drama festivals on themes and symbols on the Kenyan currency  Participating in a talk by a volunteer resource person on themes, symbols and security features on the Kenyan currency  Posters with messages on symbols and themes of Kenyan currency."
+    },
+    {
+      "strand": "Entrepreneurship",
+      "subStrand": "Financial Goals",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": " Question and Answer  Observation  Written test  Peer and self- assessment",
+      "experiences": " Pre-Technical Studies curriculum design  Pre-Technical Studies handbook",
+      "inquiryQuestions": " Discuss on factors to consider when setting financial goals in Financial literacy and other school clubs and societies"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:19:11.034Z",
+  "source": "KICD curriculum design"
+}
