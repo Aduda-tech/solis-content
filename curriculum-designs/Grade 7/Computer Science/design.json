@@ -1,0 +1,499 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "Computer Science",
+  "driveId": "1NLEQ8Wj1BmCUEQiGElTvfPR-qL9Is4yy",
+  "sourceLabel": "13 Computer Science",
+  "pages": 111,
+  "strandCount": 54,
+  "totalLessons": 90,
+  "strands": [
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer Concepts",
+      "code": "1.1",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the characteristics of a computer for awareness b) use computers to perform daily life activities c) outline the stages of processing cycle in a computer d) explore the advantages and disadvantages of using computers in data processing e) appreciate analysing the application areas of computers.",
+      "experiences": "The learner is guided to: • use digital devices to search for and present the definition of the terms; computer, data and information, • take turns to list examples of computers (Notebook, desktop, laptop, tablet, PDA (Personal digital assistant), server, iPad, MacBook, smartphone, smartwatch, workstation) • in turns discuss the characteristics of a computer, • watch a video clip that shows the functions of a computer, • use computing device to; perform arithmetic operations such as addition of numbers, search for information on business ideas, draw diagrams, listen for music, • draw accurately and label",
+      "inquiryQuestions": "1. Why do computers have different features? 2. How do you use computer in real life situation?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Evolution of Computers",
+      "code": "1.2",
+      "lessons": 3,
+      "outcomes": "B y the end of the sub strand, the learner should be able to: a) identify evolution stages of computers from first mechanical device to modern electronic digital devices b) explain the tasks performed by computers at different evolution stages c) distinguish between the difference engine and the analytical engine in relation to computer development d) use computer that existed at different evolution stages to perform tasks e) appreciate examining the sustained development of computers in respect to contemporary technology.",
+      "experiences": "The learner is guided to: • watch a video clip and learn about evolution stages of computers from abacus, mechanical devices electromechanical devices to modern digital computers, • listen keenly to a computer resource person when explaining the tasks performed by computers at different evolution stages of computers (mechanical device, abacus, electromechanical modern electronic digital computers), • brainstorm the relationship between the difference engine and the analytical engine in relation to computer development, • turn to discuss the difference",
+      "inquiryQuestions": "1. What role did the analytical engine play in development of computers? 2. How do you use computer that existed at different evolution stages to perform tasks?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Generations of Computers",
+      "code": "1.3",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the generations of computers from first to the latest b) describe the characteristics of different computer generations for awareness c) apply technologies of different computers generations in daily life situation d) match computer generations to their corresponding technologies e) appreciates analysing the technological advancement of computers from one to",
+      "experiences": "The learner is guided to: • search for information on the generations of computers from first to the latest, • visit a computer user environment and find out the year of manufacture of the available computers and map them to their appropriate generation. • share experiences on the characteristics of each generation of computers, • consult a computer technician to discuss technologies used in different generations of computers. • use technologies of different computers generations in daily life situation; search information on personal hygiene, prepare personal time table,",
+      "inquiryQuestions": "1. Why are there different generations of computers? 2. How do you apply different technologies of computers in daily life situation?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Classification of Computers",
+      "code": "1.4",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the types of computers in a computer user environment b) apply appropriate criteria to classify computers c) select appropriate types of computers for use in different situations d) describe the use of embedded computers in daily life activities e) appreciate the use of different types of computers in performing tasks.",
+      "experiences": "The learner is guided to: • participate actively in discussing and listing different types of computers in a computer user environment, • discuss with the resource person the criteria used to classify computers, • take turns to match different types of computers to their respective classes, • intelligently assess user computing needs and select appropriate computers for different situations (a user on a fixed budget, a home business user, a gaming enthusiast, a photographer, a home video enthusiast, a distance education user, a human resources manager, an accountant). • confidently share experiences on the use of embedded",
+      "inquiryQuestions": "1. How are different types of computers used? 2. Why do you use embedded computers?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer user Environment",
+      "code": "1.5",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain factors to consider when setting up a computer user environment b) identify appropriate resources for a computer user environment c) observe safety precautions and practices in the computer user environment d) appreciate examining emerging trends in computer user environment.",
+      "experiences": "The learner is guided to: • watch a video about different computer user environments, • brainstorm on the factors to consider when setting up a computer user environment, • search for the resources required when setting up a computer user environment and list them, • in groups, set rules to follow in a computer user environment, • practice observing safety precautions when in the computer user environment, • participate actively in setting up a computer user environment, • share ideas on emerging trends in computer user environment.",
+      "inquiryQuestions": "1. Why do you set up a computer user environment? 2. How do you take care of a computer?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Physical Parts of a Computer",
+      "code": "1.6",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the physical parts of a computer b) explain the functions of the physical parts of a computer c) connect the physical parts of a computer for use d) utilise physical parts of a computer to minimise wastage e) appreciate interacting with physical parts of a computer.",
+      "experiences": "The learner is guided to: • visit a computer user environment and observe, identify and then list various physical parts of a computer including the peripheral, • take turns to match the physical parts of a computer to their respective functions, • in groups connect physical parts of a computer for use, • take part in modelling interlinked physical parts of a computer, • take turns to talk about reusing or recycling the physical parts of a computer that are in good working condition to minimise wastage, • in groups interact with physical parts of a computer.",
+      "inquiryQuestions": "1. What are the physical parts of a computer? 2. How do you connect physical parts of a computer?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Hands on skills concepts",
+      "code": "1.7",
+      "lessons": 6,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) apply the appropriate procedure to start and shut down a computer b) explain the functions of the keys in a computer keyboard c) categorize the keys in a computer keyboard d) use pointing devices to manipulate objects in the computer e) appreciate interacting with the keyboard and the pointing devices of a computer.",
+      "experiences": "The learner is guided to: • take part in starting and shutting down a computer using appropriate procedure, • take turns to locate different keys on the computer keyboards and demonstrate their functions, • in groups model or draw different categories of the keys on the computer keyboard, • take part in manipulating objects in the computer using pointing devices skills, • practice different ways of using the computer keyboard; typing a simple text, multiplying numbers, drawing diagrams, • practice typing using the home keys on the computer keyboard, • in groups, use computer keyboard and pointing devices to; scroll up pages of a document, make corrections in a text document, draw diagrams,",
+      "inquiryQuestions": "1. Why are there different keys in a computer keyboard? 2. How do you use a computer keyboard?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer Systems Overview",
+      "code": "1.8",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the components of a computer system in a computer user environment b) relate computer system components to their functions c) use computer system components to perform tasks d) describe the linkage among the components of a computer system e) appreciate analysing the importance of computer systems in the society.",
+      "experiences": "The learner is guided to: • search for the meaning of the terms system and computer system, and share the findings with peers, • discuss engagingly the components of a computer system (hardware, software, liveware) and list them, • take turns to match components of computer system to their functions, • in groups use computer system components to perform a task; draw diagrams, search for learning materials, • take part in creating an illustration of the linkage among the components of a computer system, • shares experiences on the importance of computer systems in the society.",
+      "inquiryQuestions": "1. Why do you use computer systems? 2. How do computer system components interact?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer Hardware Concepts",
+      "code": "1.9",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify categories of hardware in a computer system b) relate categories of computer hardware to their functions c) select appropriate hardware for different situations d) use different elements of computer hardware in performing daily life activities e) appreciate examining the role of hardware elements in a computer",
+      "experiences": "The learner is guided to: • visit a computer user environment and list the hardware devices in use, • engage actively in a discussion on the categories of computer hardware (input devices, central processing unit, output devices and storage devices), • search for the functions of computer hardware and make a presentation, • take turns to match categories of hardware to their functions, • accurately assess user computing needs and select appropriate computer hardware for different situations, • in groups, use different elements of computer hardware to input data, store, and output information.",
+      "inquiryQuestions": "1. Why do you categorize computer hardware? 2. How do you use different elements of computer hardware?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Input Devices",
+      "code": "1.10",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify input devices in a computer system b) categorize input devices based on their functionality c) select appropriate input devices for different situations d) use input devices to perform tasks e) appreciate reusing input devices to minimise wastage",
+      "experiences": "The learner is guided to: • identify and list input devices available in a computer user environment (barcode scanner, digital camera, keyboard, microphone, optical mouse, touch screen (resistive, capacitive and infra-red), two-dimensional (2d) and three-dimensional (3d) scanners), • consult a computer specialist to demonstrate how different categories of input devices operate, • match input devices to their respective categories such as, keying devices, pointing devices, scanning devices, voice input devices, touch screen, digitizer, digital cameras and other data capture devices, • in turns discuss factors to consider when selecting an input device, • assess user computing needs and",
+      "inquiryQuestions": "1. Why are there input devices in a computer system? 2. How are input device used?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Central Processing Unit (CPU)",
+      "code": "1.11",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) locate the CPU in a computer system b) explain functional elements of the CPU in a computer system c) explore different types of processors used in computing devices d) use computers with different types of processors to perform tasks e) appreciate analysing the role of processors in computers",
+      "experiences": "The learner is guided to: • search for the meaning of the term CPU and motherboard, • in groups watch a video that shows the location of the CPU in a computer, • watch a video simulation of the functional organisation of the CPU, • consult a computer specialist to discuss the functional elements of a CPU (arithmetic and logic unit, control unit and the special memory), • in turns navigate computer system specifications to determine the type of processor in a computer and list them, • use computers with different types of processors to perform tasks; draw diagrams, type words, add numbers, • In groups discuss the role of processors in computers",
+      "inquiryQuestions": "1. How does a computer system use the CPU? 2. Why do computers have processors?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Output Devices",
+      "code": "1.12",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify output devices of a computer system b) describe the functions of output devices in a computer system c) categorize computer output devices based on the output generated d) select appropriate output devices for different situations e) use output devices to perform daily life activities f) appreciate examining the technological trends in the development of output devices.",
+      "experiences": "The learner is guided to: • observe and list available output devices in the computer user environment, such as (printers, monitors, speakers, projectors, plotters, actuator), • consult a computer specialist to discuss and demonstrate the various functions of output devices, • watch a video clip on categories of output devices and a list them, • in turns participate in matching output devices into their appropriate categories, • in groups, compare hardcopy output and softcopy output outlining their advantages and disadvantages, • in turns discuss the factors considered when selecting output device, • take turns in selecting appropriate output devices for different situations, • share experiences on safe use and care of output devices, • in groups perform a task assigned by",
+      "inquiryQuestions": "1. Why are there different output devices? 2. How do you use output device?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Ports and Cables",
+      "code": "1.13",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify cables and ports in computer systems b) explain the types of cables used in computer systems c) relate cables to their corresponding ports in computer systems d) connect cables to ports in computer systems e) appreciate the use of cables and ports in computer systems.",
+      "experiences": "The learner is guided to: • search for information on different cables and ports used in computer systems, • consult a computer specialist to engage in a discussion on the types of cables and ports used in computer systems, • take turns to match ports to their corresponding cables, • participate actively in communal activities which deal with reusing or recycling the cables to minimize wastage, • consult a computer user to discuss and demonstrate how to use cables and ports appropriately, • in groups connect cables to their corresponding ports in computer systems.",
+      "inquiryQuestions": "1. Why do computer systems have ports? 2. How do you use cables?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer Setup (CSL Project)",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "By the end of the project the learner should be able to: a) identify the problems experienced in the society when setting up a computer b) describe different ways of setting up a computer c) apply appropriate instructions to set up a computer d) set up a computer for use e) explore ways to overcome the challenges experienced when setting up a computer f) enjoy booting a computer successfully for use.",
+      "experiences": "The learner is guided to: • visit a computer user environment, discuss engagingly with the users in the community and list the challenges they experience when setting up a computer, • keenly search for different ways of setting up a computer, • share experiences on precautions to follow when setting up a computer, • consult a computer specialist to guide on tools and requirements needed when setting up a computer, and to demonstrate how to setup a computer, • intelligently use knowledge, skills and attitudes acquired to setup a computer appropriately, • take turns to share the benefits",
+      "inquiryQuestions": "1. How do you set up a computer? 2. Why are safety precautions observed when setting up a computer?"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Physical Safety of Computers",
+      "code": "2.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify physical threats to computers in a computer user environment b) explore ways of mitigating physical threats to computers in a computer user environment c) apply appropriate control measures to minimise physical threats to computers in a computer user environment d) appreciate using computers in a physically secured computer user environment.",
+      "experiences": "The learner is guided to: • engagingly discuss physical threats to computers (theft, natural disasters, hardware failure) in a computer user environment, • consult a computer specialist to discuss ways of mitigating physical threats to computers in a computer user environment, • participate in using appropriate control measures to minimise physical threats to computers in a computer user environment, • in groups use computers in a physically secured user environment.",
+      "inquiryQuestions": "1. What physical threats have encountered when using computers? 2. How do you secure computers from physical threats?"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Health and Safety",
+      "code": "2.2",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify health complications associated with the use of computers in a computer user environment b) apply appropriate techniques to mitigate health complications associated with the use of computers c) observe safe use and best practices when using computers d) appreciate organising workstation to minimise health complications when using computers.",
+      "experiences": "The learner is guided to: • discuss in groups health complications associated with the use of computers, • engagingly discuss techniques to mitigate health complications associated with the use of computers, • independently use appropriate techniques to mitigate health complications • share experiences on the safety practices to be observed when using computers • always observe safety precautions and best practices when using computer, • take turns to organise workstation to minimise health complications when using computers.",
+      "inquiryQuestions": "1. Why is your health at risk when using a computer? 2. How do you minimise health complications associated with the use of computers?"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Repetitive Strain Injury (RSI)",
+      "code": "2.3",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify the symptoms of repetitive strain injury for awareness b) explain the causes of repetitive strain injury for consciousness when using a computer c) apply appropriate strategies to prevent repetitive strain injury when using a computer d) appreciate using computers safely to minimising the repetitive strain injury.",
+      "experiences": "The learner is guided to: • share experiences on common symptoms of repetitive strain injury (upper limb disorders, eye strain, stress and fatigue) for awareness, • consult a resource person and ask questions for clarity on the causes of repetitive strain injury, • watch a video about the causes of repetitive strain injury and list them, • in groups discuss the strategies for preventing repetitive strain injury when using a computer, • use the appropriate strategies to prevent repetitive strain injury when using a computer • practice observing safe ways when using computers for a longer period.",
+      "inquiryQuestions": "1. What are the consequences of prolonged use of a computer? 2. How does repetitive strain injury affect your health?"
+    },
+    {
+      "strand": "Computer And Society",
+      "subStrand": "Data Safety in Computers",
+      "code": "2.4",
+      "lessons": 2,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain threats to data stored in a computer b) identify the control measures for securing data in a computer c) apply the control measures to secure data in a computer d) appreciate the use best practices to secure data in a computer.",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of the terms data safety, data privacy, and data threats, • consult a computer specialist to discuss data threats and their control measures, • in groups watch a video on control measures for securing data in a computer, • in turns discuss ways of securing data stored in a computer (use of passwords, backup, anti-viruses, user access level, user logs), • practice using best practices to secure data in a computer.",
+      "inquiryQuestions": "1. How is data in a computer exposed to threats? 2. Why do you secure data in a computer?"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Online Safety Concepts",
+      "code": "2.5",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain online threats to a computer user b) identify online safety measures to observe when using a computer c) apply online safety measures when using a computer d) appreciate examining the importance of online safety when using a computer.",
+      "experiences": "The learner is guided to: • brainstorm on the meaning of the terms online safety, and online safety risks, • take turns to share the online threats experienced when using a computer, • consult a computer specialist to discuss online threats (such as cyber bullying, phishing, online fraud, friend requests from unknown people) to a computer user, • watch a video on safety measures to observe when online (not sharing pictures, location, securing profiles), • engagingly discuss with a resource person how to solve online safety issues (cyber bullying, phishing, online fraud, friend requests from unknown people),",
+      "inquiryQuestions": "1. What data do you share when online? 2. How do you protect yourself from cyber bulling?"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Online Identity Safety",
+      "code": "2.6",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) analyse the characteristics of personal data for protection from online identity theft b) describe techniques that protect personal data from online disclosure c) apply appropriate methods to protect personal data from online disclosure d) adhere to rules associated with online etiquette when interacting with computers e) appreciate the use of computers responsibly to safeguard digital footprint.",
+      "experiences": "The learner is guided to: • share the online identity threats experienced when using a computer, • engagingly discuss the characteristics of personal and sensitive data (personal name, address, family details, images, date of birth, a photograph in school uniform, medical history), • take turns to share ideas and illustrations on how to keep personal and sensitive data from public when online, • consult a resource person to discuss the use of social media including knowing how to block and report unwanted users, • discuss awareness of potential dangers of meeting an online contact face to face, • Take turns to elaborate on rules associated with online etiquette (avoid distribution of inappropriate",
+      "inquiryQuestions": "1. Why do you post personal information online? 2. How is online identity theft protected?"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "Computer Network Concepts",
+      "code": "3.1",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) relate computer networks to available types of networks b) use locally available materials to model computer networks c) explain the benefits of computer networks in the society d) identify the challenges of computer networks in the society e) appreciate examining the purpose of computer networks in the society.",
+      "experiences": "The learner is guided to: • watch a video clip simulating a computer network, • brainstorm the definition of the term network and computer network, • share ideas on available networks in the society such as road network and then relate them to computer networks, • in groups use locally available materials to model computer networks, • debate on the benefits of computer networks in the society, • share experiences on the challenges of computer networks in the society, • in turns discuss the purpose of computer networks in the society.",
+      "inquiryQuestions": "1. Why do you use computer networks? 2. How do you form computer networks?"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "Connecting to Computer Network",
+      "code": "3.2",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify available computer networks in the immediate environment b) connect to the available computer networks in the immediate environment c) use the available computer network in the immediate environment d) appreciate sharing resources through computer networks in the immediate environment.",
+      "experiences": "The learner is guided to: • visit a computer user environment and list the type of available computer network (wireless or cabled networks), • watch a video clip simulating how to connect to available computer network in the immediate environment (wireless or cabled network), • in groups, connect to a computer network in the immediate environment, • use digital devices such a phones, tablets, computers to share a data files, photos with peers through computer networks in the immediate environment.",
+      "inquiryQuestions": "1. Why do you connect to a computer network? 2. What is the purpose of connecting to a computer network?"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "Internet Concepts",
+      "code": "3.3",
+      "lessons": 4,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) describe the internet as a resource that runs on a global network of computers b) explain benefits and challenges of internet in the immediate environment c) explore ways of overcoming challenges of internet in the immediate environment d) identify basic requirements for internet connectivity e) connect to the internet to search for a topical issue f) appreciate the use of",
+      "experiences": "The learner is guided to: • search for the meaning of the term internet and present to peers, • debate on the benefits and challenges of the internet, • in groups, discuss ways of overcoming challenges of the internet in the immediate environment, • discuss the basic requirements for internet connectivity (Internet Service Provider (ISP), Internet software, communication media, communication device), • share experiences on interaction with the internet and list the services available, • in turns select service available in the internet and use it to search for a relevant topical",
+      "inquiryQuestions": "1. Why do you use internet? 2. How do you connect to internet?"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "World Wide Web (WWW)",
+      "code": "3.4",
+      "lessons": 5,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the importance of WWW as used in computer networks b) identify the features of a web browser c) describe the components of a uniform resource locator (URL) used to access resources in the internet d) use a web browser to locate resources in the WWW e) appreciate the use of WWW as a repository of information.",
+      "experiences": "The learner is guided to:",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Computer Programming",
+      "subStrand": "Computer Program- ming Concepts",
+      "code": "4.1",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explain the importance of programming as used in computing b) identify areas where computer programs are used in daily life c) launch and interact with a computer program for awareness d) appreciate using computer programs in performing daily life activities.",
+      "experiences": "The learner is guided to: • use available learning resources to search for the meaning of the term programming and programs, • in groups discuss the importance of computer programs, • take turns to discuss areas where computer programs are used in daily life and list them, • share ideas on the use of programming in daily life activities, • in groups, start and interact with a computer program accessory such as, a computer game, calculator, paint, snipping tool, media player and note notepad, • share experience on performing daily life activities (playing computer games, listening to music, performing mathematical operations, drawing objects, type text) using available computer",
+      "inquiryQuestions": "1. Why do computers have programs? 2. How do you use computer programs?"
+    },
+    {
+      "strand": "Computer Programming",
+      "subStrand": "Visual Program ming Concepts",
+      "code": "4.2",
+      "lessons": 3,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) identify types of visual programming applications for use b) explain the procedure of launching a visual programming application c) launch a visual programming application in a computer d) appreciate navigating a visual programming application interface.",
+      "experiences": "The learner is guided to: • use available resources to search for the meaning of the term visual programming, • discuss and list examples of visual programming applications used in computer programming, • in groups discuss the procedure of launching a visual programming application, • consult a computer specialist to demonstrate how to launch visual programming applications used in computer programming, • in groups, launch a visual programming application such as Microsoft MakeCode, Scratch, Code.org, Sprite box, • share experiences on navigating the visual programming application interface with peers.",
+      "inquiryQuestions": "1. Why do you use visual programming applications? 2. How do you launch visual programming application?"
+    },
+    {
+      "strand": "Computer Programming",
+      "subStrand": "Visual Programming Features",
+      "code": "4.3",
+      "lessons": 12,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) explore features of a visual programming application b) relate the features of a visual programming application to their function c) describe terminologies used in a visual programming application d) use the features of a visual programming application to create a sequence of instructions to perform a task e) appreciate the application of the features of a visual programming application to create a",
+      "experiences": "The learner is guided to: •in groups discuss the features of a visual programming application •discuss the functions of the features of a visual programming application •match the functions of the features of a visual programming application to their functions •in turns discuss and demonstrate the use of visual programming terms (reserved words, syntax, variables, input output statements, control structures, variable declarations). •in groups, create a sequence of actions using the features of a visual programming application (animations, sound) •share experience on the use of the features of a visual programming application",
+      "inquiryQuestions": "1. Why is visual programming popular in introducing computer programming? 2. How do you use visual programming application features?"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer concepts",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, computer hardware, manilla papers, Internet,video, audio clips, models, checklists",
+      "inquiryQuestions": "Assist members in the community on how to apply computers in various areas such as (Education, Business, Banking, Military, Communication, Government, Home, Insurance, Marketing, Healthcare, Engineering Design, manufacturing)."
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Evolution of computers",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects,",
+      "experiences": "Digital devices, reference materials,",
+      "inquiryQuestions": "Discuss the development of"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Generations of computers",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips,",
+      "inquiryQuestions": "Educate community members on how to use technologies of different computers generations in daily life situation; search information on personal hygiene, prepare personal time table,"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Classification of computers",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records,",
+      "experiences": "Digital devices, reference materials, compute software (OS, Utility software and Application programs), computer hardware, manilla papers,",
+      "inquiryQuestions": "Demonstrate how to use embedded computers (ATM machines, MP3 players, DVD players, Drones, Anti-lock braking"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer user environment",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "reference materials, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Sensitise social gatherings how to observe safety precautions when in the computer user environment"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Physical parts of a computer",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Educate community members how to connect physical parts of a computer"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Hands on skills",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics,",
+      "experiences": "Digital devices,",
+      "inquiryQuestions": "Participate in a"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Computer Systems overview",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video,",
+      "inquiryQuestions": "Debate on the importance of computer systems in the society during clubs"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Hardware concepts",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules,",
+      "experiences": "Digital devices, reference materials, productivity tools, computer hardware, manilla papers,",
+      "inquiryQuestions": "Sensitise community membes on the uses of computer hardware"
+    },
+    {
+      "strand": "Foundation of Computer Science",
+      "subStrand": "Input devices",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, computer hardware, manilla papers, Internet,video, audio clips,",
+      "inquiryQuestions": "Deliberate on the factors to consider when selecting an input device with different forums"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Central Processing Unit (CPU)",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, computer hardware, manilla papers, Internet,video, audio clips,",
+      "inquiryQuestions": "Join asocial media group and share a video simulation of the functional organisation of the CPU"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Output devices",
+      "code": "1.12",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records,",
+      "experiences": "Digital devices, reference materials, computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials,",
+      "inquiryQuestions": "During social gatherings share ideas on how to assess user computing needs and select appropriate input"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Ports and Cables",
+      "code": "1.13",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Demonstrate to community members how to connect cablesto their respective ports"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Computer Setup (CSL Project)",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Educate community members on how to setup computers"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Physical Safety of",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics,",
+      "experiences": "Digital devices,",
+      "inquiryQuestions": "Demonstrate in a"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Health and Safety",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models,",
+      "inquiryQuestions": "Participate actively in communal activities which educates the society on health and safety of computer use"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Repetitive Strain Injury (RSI)",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Join social media group that shares information on the appropriate strategies of preventing repetitive strain injury when using a computer"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Data Safety in Computers",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable",
+      "inquiryQuestions": "Share in a social media forum the best practices of keeping data safely in a computer"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Online Safety Concepts",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Discuss in a forum safety measures to observe when online (not sharing, pictures, location, securing profiles)"
+    },
+    {
+      "strand": "Computer and Society",
+      "subStrand": "Online Identity Safety",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla",
+      "inquiryQuestions": "Sensitize community members on how to keep personal and sensitive data safety when online,"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "Computer Network Concepts",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Sensitise community members the on benefits of computer networks in the society"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "Connecting to Computer Network",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records,",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application",
+      "inquiryQuestions": "Demonstrate to social gatherings how to connect to computer network. Visit a community data center and assist in connecting"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "Internet Concepts",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software Operating system (OS), Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Debate on the uses of internet during clubs"
+    },
+    {
+      "strand": "Computer Networks",
+      "subStrand": "World Wide Web (WWW)",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules,",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software",
+      "inquiryQuestions": "Demonstrate how web browsers work to congregations of community members"
+    },
+    {
+      "strand": "Computer Programming",
+      "subStrand": "Computer Programming Concepts",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Share experience with the community members on how to perform daily life activities (playing computer games, listening to music, performing mathematical operations, drawing objects, type text) using available computer program accessories"
+    },
+    {
+      "strand": "Computer Programming",
+      "subStrand": "Visual ProgrammingConcepts",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral",
+      "experiences": "Digital devices, reference materials, productivity tools,",
+      "inquiryQuestions": "Demonstrate how to navigate the visual programming"
+    },
+    {
+      "strand": "Computer Programming",
+      "subStrand": "Visual Programming Features",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "Rating scales, rubrics, questionnaires, projects, journals, portfolios, oral questions, aural questions, interview schedules, learner’s profile, written tests, anecdotal records, observation schedules, checklists",
+      "experiences": "Digital devices, reference materials, productivity tools, visual programming tools, compute software (OS, Utility software and Application programs), computer hardware, manilla papers, Internet,video, audio clips, adaptable locally available materials, models, checklists",
+      "inquiryQuestions": "Create a sequence of actions using the features of a visual programming application (animations, sound) and share with peers"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:21:52.690Z",
+  "source": "KICD curriculum design"
+}
