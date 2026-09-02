@@ -1,0 +1,166 @@
+{
+  "grade": "Grade 9",
+  "learningArea": "Mathematics",
+  "driveId": "10CUXDGww85P4ZO9g8KHv_K2EfxTHNfMw",
+  "sourceLabel": "MATHEMATICS GRADE 9",
+  "pages": 61,
+  "strandCount": 17,
+  "totalLessons": 139,
+  "strands": [
+    {
+      "strand": "NUMBERS",
+      "subStrand": "INTEGERS",
+      "code": "1.1",
+      "lessons": 5,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) perform basic operations on Integers in different situations b) work out combined Operations on Integers in different situations c) apply Integers to real life situations d) use IT or other resources to learn more on integers e) appreciate use of integers in real life situations.",
+      "experiences": "The learner is guided to:  discuss and work out basic operations on integers using number cards and charts. Play games involving numbers and operations. Pick integers and perform all basic operations.  work out combined operations of integers in the correct order  carry out activities such as reading temperature changes in a thermometer and discuss how to record it. Consider temperatures below zero points. They should consider cases of use of integers in real life.  use IT and other resources such as print to carry out operations on integers.  play creative games that involve integers.",
+      "inquiryQuestions": "1. How do we carry out operations of integers in real life situations? 2. How do we apply integers in daily activities?"
+    },
+    {
+      "strand": "NUMBERS",
+      "subStrand": "CUBES AND CUBE ROOTS",
+      "code": "1.2",
+      "lessons": 5,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) Work out cubes of numbers by multiplication in real life situations",
+      "experiences": "The learner is guided to:  use stacks of cubes to demonstrate the concept of cube and cube roots.  demonstrate stacking of cubes.",
+      "inquiryQuestions": "1. How do we work out the cubes of numbers? 2. How do we work out the cube roots of numbers?"
+    },
+    {
+      "strand": "ALGEBRA",
+      "subStrand": "INDICES AND LOGARITHMS",
+      "code": "1.3",
+      "lessons": 6,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) Express numbers in index form in different situations. b) Generate the laws of Indices in different situations c) Apply the laws of indices in different situations d) Relate Powers of 10 to common logarithms in different situations e) Use IT to learn more on indices and common logarithms f) Appreciate use of indices and logarithms in real life situations",
+      "experiences": "Learners is guided to:  discuss indices and identify the base.  show the laws of indices using multiplication and division.  use the laws of indices to work out indices  discuss and relate powers of 10 to common logarithms  use IT to work out common logarithms or use mathematical tables",
+      "inquiryQuestions": "How do we express numbers in powers?"
+    },
+    {
+      "strand": "NUMBERS",
+      "subStrand": "COMPOUND PROPORTIONS AND RATES OF WORK",
+      "code": "1.4",
+      "lessons": 12,
+      "outcomes": "By the end of the sub- strand, the learner should be able to; a) divide quantities into proportional parts in real life situations b) relate different ratios in real life situations c) work out compound proportions using ratio method in different situations. d) calculate rates of work in real life situations",
+      "experiences": "Learners is guided to:  discuss and divide quantities into proportional parts and express as a fraction  compare and write different ratios  determine compound proportions using ratios  work out rates of work.  play games on rates of work using IT devices.",
+      "inquiryQuestions": "1. What are proportions? 2. Why do we work fast?"
+    },
+    {
+      "strand": "Algebra",
+      "subStrand": "Matrices",
+      "code": "2.1",
+      "lessons": 8,
+      "outcomes": "By the end of the sub-strand the learner should be able to; a) identify a matrix in different situations. b) determine the order of a matrix in different situations. c) determine the position of items in a matrix in different situations. d) determine compatibility of matrices in addition and subtraction.",
+      "experiences": "The learner is guided to; ● discuss the use of tables such as football league tables, travel schedules, shopping lists and any other. Count the number of rows and columns in the table, which is a matrix. ● arrange items in rows and columns and discuss how to represent a matrix. ● organize objects in rows and columns and give the order of the matrix in terms of row and columns (row x column). ● discuss and identify the position of each item or element in terms of row and column. ● discuss and identify matrices that have equal number of rows and equal number",
+      "inquiryQuestions": "How do we use matrices in real life situations?"
+    },
+    {
+      "strand": "Algebra",
+      "subStrand": "Equations of a Straight Line",
+      "code": "2.2",
+      "lessons": 15,
+      "outcomes": "By the end of the sub strand the learner should be able to; a) identify the gradient in real life situations. b) determine the gradient of a line from two known points. c) determine the equation of a straight line given two points. d) determine the equation of a straight line from a known point and a gradient. e) express the equation of a straight line in the form of 𝑦 = 𝑚𝑥+𝑐 f) interpret the equation 𝑦 = 𝑚𝑥+ 𝑐 in different situations. g) determine the x and y intercepts of a straight line. h) recognize the use of equations of straight lines in real life.",
+      "experiences": "The learner is guided to; ● discuss steepness in relation to gradient from the immediate environment. ● incline a ladder at different positions on the wall to demonstrate change in steepness of gradient. Discuss and compare the positions that the ladder is steeper. ● observe and climb up and down places such as the stairs or hills and relate to gradients. ● work out the equation of a straight line given two points or given a point and a gradient. ● discuss and rewrite the equation of a straight line as 𝑦 = 𝑚𝑥+𝑐. Explain the variables and constants in the equation. ● work out the value of x when y is zero and the value of y when is zero.",
+      "inquiryQuestions": "How do we use gradient or steepness in our daily activities?"
+    },
+    {
+      "strand": "Algebra",
+      "subStrand": "Linear Inequalities",
+      "code": "2.3",
+      "lessons": 6,
+      "outcomes": "By the end of the sub-strand the learner should be able to; a) solve linear inequalities in one unknown. b) represent linear inequalities in one unknown graphically. c) represent linear inequality in two unknowns graphically. d) apply linear inequalities to real life situations. e) reflect on the use of linear inequalities in real life.",
+      "experiences": "The learner is guided to; ● discuss why sometimes resources are shared unequally. ● discuss simple inequality statements, form and work out the inequalities in one unknown. ● discuss and generate a table of values and draw linear inequalities in one unknown. Indicate and discuss the region that satisfies the inequalities. ● discuss and generate a table of values and draw linear inequalities in two unknowns. Indicate and discuss the region that satisfies the inequalities. ● discuss and work out linear inequalities that involve real life cases ● use IT or other graphing tools to present linear inequalities",
+      "inquiryQuestions": "1. How do we represent linear inequalities in graphs? 2. How do we use linear inequalities in real life situations?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Area",
+      "code": "3.1",
+      "lessons": 8,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) calculate the area of a pentagon and a hexagon in different situations. b) work out the surface area of triangular and rectangular based prisms. c) work out the surface area of triangular, rectangular and square based pyramids. d) calculate the area of a sector and segment of a circle. e) work out the surface area of a cone in real life situations. f) calculate the surface area of a sphere in real life situations.",
+      "experiences": "The learner is guided to; ● discuss the properties of regular polygons and use cut outs to work out the area of pentagons and hexagons. ● collect from the environment objects that are spheres, cones/funnels, pyramids, prisms and frustums. ● discuss and sketch the nets of the solids. ● use models of prisms to work out the surface area of prisms. ● open up the net and draw the faces of a pyramid. Use the relevant formulas of area of plane figures to work out the surface area of the pyramid. ● draw a circle with a sector, a chord and a segment and discuss the relationship and make cut outs of a sector and a segment. Determine the area of a sector and a segment. ● open the cone to form a net and determine the curved surface area of a cone. Work out the surface area of a closed and an open cone.",
+      "inquiryQuestions": "How do we determine the area of different surfaces?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Volume of Solids",
+      "code": "3.2",
+      "lessons": 8,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) work out the volume of a triangular and rectangular based prisms.",
+      "experiences": "The learner is guided to; ● collect different containers and objects. This may include prisms, pyramids, cones, funnels and balls. ● identify and discuss the model of a prism. Using",
+      "inquiryQuestions": "1. How do we determine the volume of different solids? 2. How do we use the volume"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Time, Distance and Speed",
+      "code": "3.4",
+      "lessons": 10,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) work out speed in km/h and m/s in real life situations. b) work out average speed in real life situations. c) determine velocity in real life situations. d) work out acceleration in real life situations.",
+      "experiences": "The learner is guided to; ● engage in activities that will involve measuring distances and time, for example running track events to determine speed. ● discuss and relate distance and time. ● discuss the difference between velocity and speed. ● Discuss and determine acceleration from track events in school or community.",
+      "inquiryQuestions": "1. How do we observe speed in daily activities? 2. Why does time vary in different places of the world?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Money",
+      "code": "3.5",
+      "lessons": 7,
+      "outcomes": "By the end of the sub- strand, the learner should be able to; a) identify currencies that are used in different countries. b) convert currency from one form to another in real life situations. c) work out import and export duties charged on goods and services. d) work out excise duty charged on goods and services. e) determine value added tax charged on goods and services. f) appreciate use of money in day to day activities.",
+      "experiences": "The learner is guided to; ● use IT or other resources to obtain and compile a collage of currencies from different countries. For example, currencies of East African Countries, US dollars, Euro, Yen and Sterling pound. ● work out currency exchange from Kenya Shillings to any other currency and vice versa. ● discuss and determine the export and import duty charges on different goods. ● discuss and identify goods that attract excise duty. Determine excise duty. ● use receipts from shopping to discuss and work out VAT on goods and services. ● identify currency exchange rates from different sources including daily papers, IT devices, financial",
+      "inquiryQuestions": "1. Why do we change currencies from one form to another? 2. What are the types of taxes the government levy on its citizens?"
+    },
+    {
+      "strand": "Measurements",
+      "subStrand": "Approximations and Errors",
+      "code": "3.6",
+      "lessons": 5,
+      "outcomes": "By the end of the sub- strand the learner should be able to; a) approximate quantities in measurements in different situations. b) determine errors using estimations and actual measurements of quantities. c) determine percentage errors using actual measurements of quantities",
+      "experiences": "The learner is guided to; ● carryout activities of measurements of different quantities such as length, area, volume, capacity and mass using arbitrary units. ● Estimate and measure different quantities using appropriate instruments. compare the estimates and the actual measurements and determine the error. ● work out the percentage error from the estimated and the actual measurements",
+      "inquiryQuestions": "How do we estimate measurements of different quantities?"
+    },
+    {
+      "strand": "Geometry",
+      "subStrand": "Coordinates and Graphs",
+      "code": "4.1",
+      "lessons": 6,
+      "outcomes": "By the end of the sub-strand, the learner should be able to; a ) p l o t out points on a Cartesian plane",
+      "experiences": "The learner is guided to; ● work in groups and locate the point of intersection of the x coordinate and the y- coordinates on a Cartesian plane.",
+      "inquiryQuestions": "1. How do we draw graphs of straight lines?"
+    },
+    {
+      "strand": "Geometry",
+      "subStrand": "Scale Drawing",
+      "code": "4.2",
+      "lessons": 14,
+      "outcomes": "By the end of the sub-strand, the learner should be able to; a) identify compass and true bearings in real life situations. b) determine the bearing of one point from another in real life situations. c) locate a point using bearing and distance in real life situations. d) identify angles of elevation in real life situations. e) determine angles of elevation in different situations. f) identify angles of depression in real life situations. g) determine angles of depression in different situations. h) apply scale drawing in simple surveying.",
+      "experiences": "Leaner is guided to: ● draw and discuss the compass directions and relate to the compass and true North bearings. ● discuss and locate places from different points using bearings. ● discuss and locate a place using bearing and distance. Sketch and use scale drawing to show the position of places from given points. ● carryout different activities involving angles of elevation, for example observing different objects or points that are above. Discuss, sketch and make a scale drawing to determine the angles of elevation. ● Carryout different activities involving angles of depression, for example observing different objects or points that are below.",
+      "inquiryQuestions": "How do we use scale drawing in real life?"
+    },
+    {
+      "strand": "Geometry",
+      "subStrand": "Similarity and Enlargement",
+      "code": "4.3",
+      "lessons": 10,
+      "outcomes": "By the end of the sub- strand, the learner should be able to; a) identify similar figures and their properties. b) draw similar figures in different situations. c) determine properties of enlargement of different figures. d) apply properties of enlargement to draw similar objects and their images. e) determine the linear scale factor of similar figures. f) promote use of similarity and enlargement in real life situations.",
+      "experiences": "The learner is guided to; ● collect objects and sort according to similarity. Discuss and note down properties of similar objects. ● use properties of similar objects to scale-draw similar figures. ● discuss and identify properties of enlargement. ● use properties of enlargement to represent objects and their images. ● determine the linear relationship of similar figures and objects. ● enlarge objects and figures using IT devices",
+      "inquiryQuestions": "1. What are similar objects? 2. How do we use enlargement in real life situations?"
+    },
+    {
+      "strand": "Geometry",
+      "subStrand": "Trigonometry",
+      "code": "4.4",
+      "lessons": 8,
+      "outcomes": "By the end of the sub- strand, the learner should be able to; a) identify angles and sides of right angled triangles in different situations. b) identify Sine, Cosine and Tangent ratios from a right angled triangle in different situations. c) read tables of trigonometric ratios for acute angles. d) determine trigonometric ratios of acute angles using calculators e) apply trigonometric ratios to calculate lengths and angles of right angled triangles in different situations. f) appreciate use of trigonometric ratios in real life situations.",
+      "experiences": "The learner is guided to: ● draw right angled triangles and recognize angles and sides. Discuss the relationship between angles and sides. ● discuss and relate the trigonometric ratios to angles in a right angled triangle. ● use trigonometric ratios to determine lengths and angles of right angled triangles ● use Mathematical tables or IT devices to find trigonometric ratios of given angles.",
+      "inquiryQuestions": "What is the relationship between angles and sides in a right angled triangle?"
+    },
+    {
+      "strand": "Data Handling and Probability",
+      "subStrand": "Probability",
+      "code": "5.2",
+      "lessons": 6,
+      "outcomes": "By the end of the sub-strand, the learner should be able to; a) perform experiments involving equally and likely outcomes in different situations. b) determine the range of probability of an event. c) identify mutually exclusive events in real life situations. d) perform experiments of single chance involving mutually exclusive events e) perform experiments involving independent events in different situations. f) draw a tree diagram for a single outcome g) appreciate the probability of events occurring in real life situations.",
+      "experiences": "The learner is guided to; ● discuss and carry out experiments of events involving equally and likely outcomes. ● work out the range of probability of different events. ● discuss and carry out experiments involving mutually inclusive events. ● discuss and carry out experiments involving independent events. ● practice representing probability occurrences in a tree diagram. ● use IT or other resources to explore more on probability.",
+      "inquiryQuestions": "Why is probability important in real life situations?"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:19:30.492Z",
+  "source": "KICD curriculum design"
+}
