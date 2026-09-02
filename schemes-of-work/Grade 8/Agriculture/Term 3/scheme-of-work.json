@@ -3,65 +3,750 @@
   "grade": 8,
   "term": 3,
   "subject": "Agriculture",
-  "weeks": 4,
-  "lessons": 5,
+  "weeks": 9,
+  "lessons": 36,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.148Z",
   "weeklyBreakdown": [
     {
       "week": 1,
-      "lessonNumber": 1,
-      "strand": "HYGIENE",
-      "subStrand": "PRACTICES Cleaning practices",
+      "lessonNumber": "1",
+      "strand": "Crops",
+      "subStrand": "Crop Production",
       "objectives": [
-        "By the end of the lesson the learner should be able to: - identify appropriate procedures to clean the kitchen - explain the routine cleaning practices of a kitchen - appreciate a clean kitchen for healthy living How can daily, weekly and special cleaning enhance hygiene in kitchen? The learner is guided to: - discuss appropriate procedures to clean the kitchen - discuss the routine cleaning practices of a kitchen Agriculture and Nutrition grade 8 c"
+        "By the end of the lesson, the learner should be able to: a) Describe land preparation; b) Classify land preparation in real-life situations; c) Develop curiosity about the use of crop production in day-to-day life."
       ],
-      "activities": [],
-      "resources": [],
-      "assessment": "",
-      "inquiryQuestion": ""
+      "inquiryQuestion": "Why is land preparation important?",
+      "activities": [
+        "Learners brainstorm what they already know about land preparation",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Crops",
+      "subStrand": "Crop Production",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List planting methods; b) Compare planting methods in real-life situations; c) Value the use of crop production in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change planting methods?",
+      "activities": [
+        "Learners brainstorm what they already know about planting methods",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Crops",
+      "subStrand": "Crop Production",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise seed selection; b) Demonstrate seed selection in real-life situations; c) Take responsibility for the use of crop production in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find seed selection in our community?",
+      "activities": [
+        "Learners observe and record examples of seed selection",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Crops",
+      "subStrand": "Crop Care",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define weeding; b) Compare weeding in real-life situations; c) Develop curiosity about the use of crop care in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is weeding important?",
+      "activities": [
+        "Learners are guided to discuss weeding in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
     },
     {
       "week": 2,
-      "lessonNumber": 1,
-      "strand": "HYGIENE",
-      "subStrand": "PRACTICES",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "",
-      "inquiryQuestion": "How do we observe safety while cleaning the kitchen?"
+      "lessonNumber": "1",
+      "strand": "Crops",
+      "subStrand": "Crop Care",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define pest control; b) Classify pest control in real-life situations; c) Show interest in the use of crop care in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use pest control in everyday life?",
+      "activities": [
+        "Learners observe and record examples of pest control",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Crops",
+      "subStrand": "Crop Care",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe disease management; b) Apply disease management in real-life situations; c) Develop curiosity about the use of crop care in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is disease management important?",
+      "activities": [
+        "Learners are guided to discuss disease management in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Crops",
+      "subStrand": "Crop Care",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline fertiliser use; b) Analyse fertiliser use in real-life situations; c) Appreciate the use of crop care in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply crop care to solve problems?",
+      "activities": [
+        "Learners are guided to discuss fertiliser use in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Crops",
+      "subStrand": "Harvesting and Storage",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State methods of harvesting; b) Analyse methods of harvesting in real-life situations; c) Take responsibility for the use of harvesting and storage in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find methods of harvesting in our community?",
+      "activities": [
+        "Learners observe and record examples of methods of harvesting",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
     },
     {
       "week": 3,
-      "lessonNumber": 1,
-      "strand": "PRODUCTIO N",
-      "subStrand": "TECHNIQUE S",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "",
-      "inquiryQuestion": ""
+      "lessonNumber": "1",
+      "strand": "Crops",
+      "subStrand": "Harvesting and Storage",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List storage methods; b) Analyse storage methods in real-life situations; c) Develop curiosity about the use of harvesting and storage in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is storage methods important?",
+      "activities": [
+        "In groups, learners investigate storage methods using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Crops",
+      "subStrand": "Harvesting and Storage",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State post-harvest losses; b) Classify post-harvest losses in real-life situations; c) Take responsibility for the use of harvesting and storage in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find post-harvest losses in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about post-harvest losses",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Livestock",
+      "subStrand": "Types of Livestock",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List cattle; b) Demonstrate cattle in real-life situations; c) Show interest in the use of types of livestock in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use cattle in everyday life?",
+      "activities": [
+        "In groups, learners investigate cattle using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Livestock",
+      "subStrand": "Types of Livestock",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise poultry; b) Solve poultry in real-life situations; c) Develop curiosity about the use of types of livestock in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is poultry important?",
+      "activities": [
+        "Learners brainstorm what they already know about poultry",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Livestock",
+      "subStrand": "Types of Livestock",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline goats and sheep; b) Classify goats and sheep in real-life situations; c) Value the use of types of livestock in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change goats and sheep?",
+      "activities": [
+        "Learners brainstorm what they already know about goats and sheep",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Livestock",
+      "subStrand": "Types of Livestock",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define rabbits; b) Apply rabbits in real-life situations; c) Value the use of types of livestock in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change rabbits?",
+      "activities": [
+        "Learners are guided to discuss rabbits in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Livestock",
+      "subStrand": "Feeding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State animal feeds; b) Solve animal feeds in real-life situations; c) Appreciate the use of feeding in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply feeding to solve problems?",
+      "activities": [
+        "In groups, learners investigate animal feeds using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Livestock",
+      "subStrand": "Feeding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State feed preparation; b) Compare feed preparation in real-life situations; c) Show interest in the use of feeding in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use feed preparation in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about feed preparation",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Livestock",
+      "subStrand": "Feeding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise feeding methods; b) Solve feeding methods in real-life situations; c) Develop curiosity about the use of feeding in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is feeding methods important?",
+      "activities": [
+        "Learners are guided to discuss feeding methods in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Livestock",
+      "subStrand": "Animal Health",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline common diseases; b) Apply common diseases in real-life situations; c) Appreciate the use of animal health in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply animal health to solve problems?",
+      "activities": [
+        "Learners observe and record examples of common diseases",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Livestock",
+      "subStrand": "Animal Health",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State vaccination; b) Solve vaccination in real-life situations; c) Show interest in the use of animal health in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use vaccination in everyday life?",
+      "activities": [
+        "Learners observe and record examples of vaccination",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Livestock",
+      "subStrand": "Animal Health",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline parasite control; b) Classify parasite control in real-life situations; c) Value the use of animal health in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change parasite control?",
+      "activities": [
+        "Learners observe and record examples of parasite control",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Livestock",
+      "subStrand": "Breeding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise types of breeding; b) Measure types of breeding in real-life situations; c) Develop curiosity about the use of breeding in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is types of breeding important?",
+      "activities": [
+        "Learners observe and record examples of types of breeding",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Livestock",
+      "subStrand": "Breeding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List artificial insemination; b) Investigate artificial insemination in real-life situations; c) Develop curiosity about the use of breeding in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is artificial insemination important?",
+      "activities": [
+        "Learners are guided to discuss artificial insemination in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Livestock",
+      "subStrand": "Breeding",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe selective breeding; b) Solve selective breeding in real-life situations; c) Value the use of breeding in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change selective breeding?",
+      "activities": [
+        "In groups, learners investigate selective breeding using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Soil and Water",
+      "subStrand": "Soil Science",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define soil components; b) Measure soil components in real-life situations; c) Take responsibility for the use of soil science in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find soil components in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about soil components",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Soil and Water",
+      "subStrand": "Soil Science",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe soil types; b) Demonstrate soil types in real-life situations; c) Take responsibility for the use of soil science in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find soil types in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about soil types",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Soil and Water",
+      "subStrand": "Soil Science",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise soil conservation; b) Construct soil conservation in real-life situations; c) Appreciate the use of soil science in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply soil science to solve problems?",
+      "activities": [
+        "In groups, learners investigate soil conservation using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Soil and Water",
+      "subStrand": "Water Management",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define irrigation methods; b) Compare irrigation methods in real-life situations; c) Take responsibility for the use of water management in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find irrigation methods in our community?",
+      "activities": [
+        "In groups, learners investigate irrigation methods using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Soil and Water",
+      "subStrand": "Water Management",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List water harvesting; b) Solve water harvesting in real-life situations; c) Show interest in the use of water management in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use water harvesting in everyday life?",
+      "activities": [
+        "Learners are guided to discuss water harvesting in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Agriculture Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
     },
     {
       "week": 8,
-      "lessonNumber": 4,
-      "strand": "HYGIENE",
-      "subStrand": "PRACTICES",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "",
-      "inquiryQuestion": "How do we observe safety while cleaning the kitchen?"
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
     },
     {
       "week": 8,
-      "lessonNumber": 3,
-      "strand": "PRODUCTIO N",
-      "subStrand": "TECHNIQUE S",
-      "objectives": [],
-      "activities": [],
-      "resources": [],
-      "assessment": "",
-      "inquiryQuestion": ""
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Agriculture content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Agriculture content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Agriculture content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 3 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Agriculture content covered in Term 3."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Agriculture Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
     }
   ]
 }
