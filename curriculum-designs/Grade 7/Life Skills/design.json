@@ -1,0 +1,283 @@
+{
+  "grade": "Grade 7",
+  "learningArea": "Life Skills",
+  "driveId": "1piwMFKFVotO520bVEYeqRbUwEs8MA_cL",
+  "sourceLabel": "14 Life Skills",
+  "pages": 71,
+  "strandCount": 30,
+  "totalLessons": 24,
+  "strands": [
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Self- Awareness",
+      "code": "1.1",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe self in relation to the five dimensions of a human being b) identify personal talents and abilities for self- fulfilment c) deal with contemporary challenges for self- improvement d) value own social- economic backgrounds for social wellbeing.",
+      "experiences": "The learner is guided to: • use print or digital resources to search for the meaning of the term self-awareness’ in relation to five dimensions (physical, social psychological, spiritual and economic) of a human being • draw illustrations that depict a description of self, based on the five dimensions of a human being • share and discuss in small groups their abilities and talents, hence make presentations in the class • watch and analyse video clips depicting age-appropriate strategies of managing contemporary challenges that would hinder personal development and discuss in the class • in groups, identify the various",
+      "inquiryQuestions": "1. When am I at my best? 2. How can I utilize personal talents and abilities for self- fulfilment?"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Self- Esteem",
+      "code": "1.2",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) Explain the meaning of high and low self- esteem in different persons b) Outline factors that influence their self- esteem c) exhibit improvements in self-esteem in their day-to-day life.",
+      "experiences": "The learner is guided to: • discuss in small groups and present to the class what they understand by the term self-esteem • use digital devices to search for information on menstrual disorders and their management, hence discuss with peers in class • use digital devices to research the factors that influence their self-esteem and present in class • watch a video on how to improve one’s self-esteem and discuss how they can enhance their self-esteem • explore and note down a list of actions they would take to improve their self-esteem.",
+      "inquiryQuestions": "1. How can I improve my self- esteem? 2. What shows that I am making progress in my life?"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Managing Emotions",
+      "code": "1.3",
+      "lessons": 2,
+      "outcomes": "By the end of the sub-strand, the learner should be able to: a) describe types of emotions that are displayed in different situations b) manage emotions positively under different circumstances c) analyse the effects of negative emotions on self and others d) appreciate the importance of managing emotions positively.",
+      "experiences": "The learner is guided to: • in pairs search using digital devices and discuss the meaning of the term emotional well-being • in small groups, role-play expressions of different emotions • draw facial expressions depicting some different types of emotions • watch, analyse and discuss video clips depicting negative and positive expressions of emotions • in small groups, identify and list down places where psychosocial support systems is available in the community.",
+      "inquiryQuestions": "1. What emotions do I experience in my high or low moments? 2. How do I manage positive and negative emotions?"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Managing Stress",
+      "code": "1.4",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) identify common sources of stress in their lives b) discuss the effects of stress in their day-to- day lives c) manage stressful situations in their lives d) appreciate the need to manage stressful situations in their lives.",
+      "experiences": "The learner is guided to: • use digital devices to search for the meaning of the term stress • discuss in small groups how stress affects them and present their views in class • create and act skits on positive ways of managing stressful situations • watch a video on stress management under different contexts, and discuss the experiences • discuss the role of Guidance and counselling services in stress management.",
+      "inquiryQuestions": "1. How do I know when I am stressed? 2. How can we manage stress in life?"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Healthy Relationships",
+      "code": "2.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe the types of relationships in their lives b) build healthy relationships in their day-to-day lives c) appreciate the importance of value- based relationships in their lives",
+      "experiences": "The learner is guided to: • individually draw a circle of levels of relationships and share with their peers in class • discuss in pairs the level of their closeness with one pre-identified relative and make a class presentation • in groups, use digital devices to search on relationship building skills • in groups, present skits that depict the benefits of healthy relationships.",
+      "inquiryQuestions": "1. How should we relate to different people? 2. How can we build healthy relationships in day-to-day?"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Effective Communication",
+      "code": "2.2",
+      "lessons": 1,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) communicate effectively in different situations b) show characteristics of effective verbal and non-verbal communication c) use media responsibly in different contexts d) value effective communication in different situations",
+      "experiences": "The learner is guided to: • use digital devices to search for the meaning of effective communication • in small groups, play games that promote development of effective communication skills • discuss in pairs the benefits of effective communication and make class presentation • watch a video clip and analyse the effects of irresponsible use of media • in groups, do research on effective ways of verbal and non-verbal communication.",
+      "inquiryQuestions": "1. Why do we communicate? 2. How can I use the media responsibly?"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Negotiation Skills",
+      "code": "2.3",
+      "lessons": 1,
+      "outcomes": "By the end of the sub-strand, the learner should be able to: a) describe different situations that require negotiation in day-to-day life b) display values that enhance negotiations in their day- to- day life c) analyse other life skills that enhance negotiations during their social interactions d) appreciate the need for negotiation skills in day-to- day life.",
+      "experiences": "The learner is guided to: • use digital devices in pairs to search for the meaning of the term negotiation and make presentations to the class • role-play in small groups, different situations that require negotiation • watch video clips that depict values and other skills that enhance negotiation in different situations, and discuss them in class",
+      "inquiryQuestions": "1. Why should I negotiate? 2. What skills do I need in negotiation?"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Non-violent Conflict Resolution",
+      "code": "2.4",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe ways of making peace with oneself under different circumstances b) apply different peaceful conflict resolution strategies in a social environment c) engage in peacebuilding relationships and activities in the society d) appreciate the need for promoting a culture of peace with",
+      "experiences": "",
+      "inquiryQuestions": "The learner is guided to: • in pairs use digital devices to search for the meaning of the term non-violent conflict resolution • in small groups, discuss ways of making peace with self and present results in class • in small groups, role-play peacebuilding scenarios and discuss the experiences in the class • watch a video on peace- building initiatives and discuss the experiences • organize appropriate peace- promoting activities like peace caravans, peace corners in school and/or in the community"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Assertiveness",
+      "code": "2.5",
+      "lessons": 2,
+      "outcomes": "By the end of the sub-strand, the learner should be able to: a) describe situations that require assertiveness in their day-to-day lives b) explain the process of becoming assertive for personal growth and protection c) display assertiveness in their daily interactions d) exhibit values as they practice assertiveness in their social interactions",
+      "experiences": "The learner is guided to: • use digital media in pairs to search for the meaning of assertiveness and share in class • discuss in small groups various situations in day to day life that require assertiveness • role play in small groups, scenarios in school, home or at the community depicting assertiveness • engage in question and answer sessions on the process of developing assertive messages • journalise some incidences in their life from the recent past when they applied assertiveness, then share their",
+      "inquiryQuestions": "1. When should I be assertive? 2. What shows that I am assertive?"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Empathy",
+      "code": "2.6",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe situations that require empathy in their day-to-day lives b) empathise in different ways in their day-to- day lives c) appreciate the need for values in developing empathy d) value empathy as an important skill in social interactions",
+      "experiences": "The learner is guided to: • discuss in groups scenarios that require empathy in their day- to-day lives • watch a video and discuss different ways of cultivating empathy • role-play scenarios that depict values necessary for cultivating empathy • discuss in small groups values that foster the development of empathy in their lives • share and analyse real life situations in which empathy has been demonstrated in class",
+      "inquiryQuestions": "1. Why do I empathise with others? 2. How is empathetic listening different from other listening? 3. What would I require to empathise effectively?"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Managing Peer Influence",
+      "code": "2.7",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe positive peer influences in school and the community b) analyse forms of peer pressure in day-to-day life c) manage peer influences in their interactions",
+      "experiences": "The learner is guided to: • discuss in small groups positive and negative peer influences and present them to the class • watch and analyse video clips on situations that require assertiveness to manage peer pressure • discuss in groups some negative behaviours from peer pressure that require assertiveness and make presentations in class • in small groups, act out skits exhibiting values that enhance positive peer pressure",
+      "inquiryQuestions": "1. What are my peer pressure risk factors? 2. How would I encourage positive peer pressure in my life?"
+    },
+    {
+      "strand": "Decision- Making Skills",
+      "subStrand": "Decision- Making Process",
+      "code": "3.1",
+      "lessons": 1,
+      "outcomes": "By the end of the sub-strand, the learner should be able to: a) describe decision-making process that leads to desirable actions or behaviour b) display values necessary in making appropriate decisions in their day-to- day life c) appreciate the importance of effective decision- making in different situations",
+      "experiences": "The learner is guided to: • search in pairs, using digital devices the meaning of decision- making processes and present in class • explore and analyse in groups situations that require decision-making • engage in puzzles and games like chess that demand multiple decisions to solve problems",
+      "inquiryQuestions": "1. Why do I make my decisions? 2. How has effective decision- making helped me in my life?"
+    },
+    {
+      "strand": "Decision- Making Skills",
+      "subStrand": "Creative Thinking Skills",
+      "code": "3.2",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe different situations that require creative thinking b) display creative thinking skills in different situations c) exhibit values that foster creative thinking in different situations.",
+      "experiences": "The learner is guided to: • use digital devices to search for the meaning of the term creative thinking • play games in small groups such as the jigsaw puzzle, snake and ladder and other relevant games that promote creativity • read and discuss real-life stories from selected hard or soft copies, and identify creativity in class • watch video clips on fostering values in creativity, and discuss in class.",
+      "inquiryQuestions": "1. Why is creative thinking important for me? 2. How can I be a good creative thinker?"
+    },
+    {
+      "strand": "Decision- Making Skills",
+      "subStrand": "Critical Thinking",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the sub-strand, the learner should be able to: a) describe different situations that require critical thinking in their day- to-day lives b) apply critical thinking in their day-to-day lives c) appreciate the need for critical thinking in their everyday life.",
+      "experiences": "The learner is guided to: • in groups solve number or word puzzles and discuss how critical thinking was applied • in small groups use digital devices to search for scenarios or case studies that show enhancement of critical thinking, and present in class • role-play scenarios that require critical thinking skills and discuss the importance of being critical • discuss common instances that depict challenges in time management in the school community and note them down.",
+      "inquiryQuestions": "1. What shows I am a consistent critical thinker? 2. What shows that I manage my time well?"
+    },
+    {
+      "strand": "Decision- Making Skills",
+      "subStrand": "Problem - Solving Skills",
+      "code": "3.4",
+      "lessons": 2,
+      "outcomes": "By the end of the sub- strand, the learner should be able to: a) describe the term problem-solving as it relates to day-to-day life b) demonstrate ways of solving problems in their day-to-day lives c) exhibit values necessary for problem solving in their day- to-day lives",
+      "experiences": "The learner is guided to: • buzz in pairs on the meaning of problem- solving • discuss in small groups some problems they face in their lives, and make presentations in class • search in groups using digital devices the steps used in problem- solving, and present in class • explore and analyse real-life stories depicting poor and excellent problem-solving skills and discuss in class • perform skits on problem solving and discuss the values displayed in class",
+      "inquiryQuestions": "1. What guides me when solving my problems in life? 2. Why are skills of problem solving important in my life?"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Self- A wareness",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "a) Oral Questions b) Teacher made tests c) Observation d) Portfolio e) Anecdotal Records f) Checklist",
+      "experiences": "• Approved textbooks and other printed resources • Library • Vetted digital resources like TV/video/films/slides/ Internet sources • Display boards • Draw charts • Note books",
+      "inquiryQuestions": "• Watch or listen to relevant video/TV/radio program/films on self-awareness • Share experiences"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Self-Esteem",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "a. Oral Questions b. Teacher made tests c. Observation d. Portfolio e. Anecdotal records",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library",
+      "inquiryQuestions": "• Watch relevant videos/films/slide s • Journaling"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Managing Emotions",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "a. Oral Questions b. Teacher made tests c. Observation d. Portfolio e. Peer assessments f. Check lists",
+      "experiences": "• Approved textbooks and other printed resources • Library • Vetted digital resources like TV/video/films/slides/ Internet sources • Display boards • Drawing charts • Note books • Photographic pictures and paintings",
+      "inquiryQuestions": "• Consult with Guidance and counselling services"
+    },
+    {
+      "strand": "Personal Management Skills",
+      "subStrand": "Managin g Stress",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "a) Oral Questions b) Teacher made tests c) Observation d) Project Work e) Self-evaluation f) Peer assessment",
+      "experiences": "• Role playing • Photographs, pictures and paintings • Internet sources • Vetted digital resources, educational computer games • Approved textbooks and other printed resources • Resource persons • Newspaper cuttings",
+      "inquiryQuestions": "• Participate in sporting activities • Caring for vegetation/plants w ithin the school"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Healthy Relationships",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "a) Oral questions b) Written tests c) Project work d) Observation e) Peer assessments f) Self- evaluation g) Group work",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library • Display boards • Story telling • Note books • D rawing charts",
+      "inquiryQuestions": "• Composing patriotic songs and singing them"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Effective Communic ation",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "a) Oral questions b) Observations c) Written tests d) Group tasks",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library • Display boards • Draw charts • Note books",
+      "inquiryQuestions": "• Drawing and displaying charts on directions • Update notice boards"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Negotiation Skills",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "a) Oral questions b) Observations c) Written tests",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources",
+      "inquiryQuestions": "• Compose poems on peace building"
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Non- violent Conflict Resolution",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "",
+      "experiences": "",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Assertiveness",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "",
+      "experiences": "",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Empathy",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "2.6 Empathy",
+      "experiences": "",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Interpersonal Relationship Skills",
+      "subStrand": "Managing Peer Influence",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "a) Oral questions Observation Written tests Checklists Anecdotal records Project Group work",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library • Display boards • Draw charts • Note books",
+      "inquiryQuestions": "Act out skits on peer influences"
+    },
+    {
+      "strand": "Decision- M aking Skills",
+      "subStrand": "Decision- Making Process",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "(a) oral questions (b) written tests (c) observations",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library",
+      "inquiryQuestions": "Participate in mind games such as filling puzzles, cross-words, cards, chess etc"
+    },
+    {
+      "strand": "Decision- M aking Skills",
+      "subStrand": "Creative Thinking Skills",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "a) checklist b) project c) written tests d) oral questions e) aural questions",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library • Display boards • Drawing charts • Note books • Mind games such as word puzzles, chess, cards etc",
+      "inquiryQuestions": "• Create and recite poems on pertinent issues in life"
+    },
+    {
+      "strand": "Decision- M aking Skills",
+      "subStrand": "Critical Thinking ( CSL Project)",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "a) Oral questions b) Written tests c) Portfolio d) Project",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library • Display boards • Drawing charts",
+      "inquiryQuestions": "• Participate in CSL project"
+    },
+    {
+      "strand": "Decision- M aking Skills",
+      "subStrand": "Problem- Solving Skills",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "",
+      "experiences": "• Vetted digital resources- TV/video/films/slides/ Internet sources • Approved textbooks and other printed resources • Library • Display boards • Drawing charts • Note books • Mind games such as word puzzles, chess, cards etc",
+      "inquiryQuestions": "Share real life stories on problem solving"
+    }
+  ],
+  "harvestedAt": "2026-09-02T18:21:58.760Z",
+  "source": "KICD curriculum design"
+}
