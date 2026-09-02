@@ -1,0 +1,1357 @@
+{
+  "path": "schemes-of-work/Grade 8/Mathematics/Term 1/scheme-of-work.json",
+  "grade": 8,
+  "term": 1,
+  "subject": "Mathematics",
+  "weeks": 13,
+  "lessons": 65,
+  "source": "kicd-baseline",
+  "generatedAt": "2026-09-02T15:51:14.154Z",
+  "weeklyBreakdown": [
+    {
+      "week": 1,
+      "lessonNumber": "1",
+      "strand": "Numbers",
+      "subStrand": "Integers",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State operations with integers; b) Construct operations with integers in real-life situations; c) Take responsibility for the use of integers in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find operations with integers in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about operations with integers",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "2",
+      "strand": "Numbers",
+      "subStrand": "Integers",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise order of integers; b) Construct order of integers in real-life situations; c) Develop curiosity about the use of integers in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is order of integers important?",
+      "activities": [
+        "Learners brainstorm what they already know about order of integers",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "3",
+      "strand": "Numbers",
+      "subStrand": "Integers",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise absolute value; b) Apply absolute value in real-life situations; c) Appreciate the use of integers in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply integers to solve problems?",
+      "activities": [
+        "In groups, learners investigate absolute value using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "4",
+      "strand": "Numbers",
+      "subStrand": "Fractions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State operations with fractions; b) Classify operations with fractions in real-life situations; c) Show interest in the use of fractions in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use operations with fractions in everyday life?",
+      "activities": [
+        "Learners observe and record examples of operations with fractions",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 1,
+      "lessonNumber": "5",
+      "strand": "Numbers",
+      "subStrand": "Fractions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe mixed numbers; b) Classify mixed numbers in real-life situations; c) Take responsibility for the use of fractions in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find mixed numbers in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about mixed numbers",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "1",
+      "strand": "Numbers",
+      "subStrand": "Fractions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify reciprocals; b) Measure reciprocals in real-life situations; c) Value the use of fractions in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change reciprocals?",
+      "activities": [
+        "Learners observe and record examples of reciprocals",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "2",
+      "strand": "Numbers",
+      "subStrand": "Decimals and Percentages",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State operations with decimals; b) Compare operations with decimals in real-life situations; c) Take responsibility for the use of decimals and percentages in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find operations with decimals in our community?",
+      "activities": [
+        "Learners are guided to discuss operations with decimals in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "3",
+      "strand": "Numbers",
+      "subStrand": "Decimals and Percentages",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline convert between forms; b) Measure convert between forms in real-life situations; c) Show interest in the use of decimals and percentages in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use convert between forms in everyday life?",
+      "activities": [
+        "Learners observe and record examples of convert between forms",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "4",
+      "strand": "Numbers",
+      "subStrand": "Decimals and Percentages",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify commercial arithmetic; b) Compare commercial arithmetic in real-life situations; c) Show interest in the use of decimals and percentages in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use commercial arithmetic in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about commercial arithmetic",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 2,
+      "lessonNumber": "5",
+      "strand": "Numbers",
+      "subStrand": "Rational Numbers",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline rational and irrational; b) Investigate rational and irrational in real-life situations; c) Develop curiosity about the use of rational numbers in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is rational and irrational important?",
+      "activities": [
+        "Learners observe and record examples of rational and irrational",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "1",
+      "strand": "Numbers",
+      "subStrand": "Rational Numbers",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise surds; b) Investigate surds in real-life situations; c) Appreciate the use of rational numbers in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply rational numbers to solve problems?",
+      "activities": [
+        "Learners are guided to discuss surds in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "2",
+      "strand": "Numbers",
+      "subStrand": "Rational Numbers",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise number lines; b) Classify number lines in real-life situations; c) Appreciate the use of rational numbers in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply rational numbers to solve problems?",
+      "activities": [
+        "Learners are guided to discuss number lines in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "3",
+      "strand": "Numbers",
+      "subStrand": "Standard Form",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe express in standard form; b) Construct express in standard form in real-life situations; c) Appreciate the use of standard form in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply standard form to solve problems?",
+      "activities": [
+        "Learners are guided to discuss express in standard form in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "4",
+      "strand": "Numbers",
+      "subStrand": "Standard Form",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise operations in standard form; b) Measure operations in standard form in real-life situations; c) Value the use of standard form in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change operations in standard form?",
+      "activities": [
+        "Learners observe and record examples of operations in standard form",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 3,
+      "lessonNumber": "5",
+      "strand": "Algebra",
+      "subStrand": "Algebraic Expressions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise simplification; b) Classify simplification in real-life situations; c) Appreciate the use of algebraic expressions in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply algebraic expressions to solve problems?",
+      "activities": [
+        "In groups, learners investigate simplification using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "1",
+      "strand": "Algebra",
+      "subStrand": "Algebraic Expressions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List substitution; b) Demonstrate substitution in real-life situations; c) Appreciate the use of algebraic expressions in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply algebraic expressions to solve problems?",
+      "activities": [
+        "Learners are guided to discuss substitution in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "2",
+      "strand": "Algebra",
+      "subStrand": "Algebraic Expressions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List factorisation; b) Solve factorisation in real-life situations; c) Show interest in the use of algebraic expressions in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use factorisation in everyday life?",
+      "activities": [
+        "Learners are guided to discuss factorisation in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "3",
+      "strand": "Algebra",
+      "subStrand": "Linear Equations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe one-variable equations; b) Classify one-variable equations in real-life situations; c) Appreciate the use of linear equations in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply linear equations to solve problems?",
+      "activities": [
+        "Learners are guided to discuss one-variable equations in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "4",
+      "strand": "Algebra",
+      "subStrand": "Linear Equations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State forming equations; b) Solve forming equations in real-life situations; c) Appreciate the use of linear equations in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply linear equations to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about forming equations",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 4,
+      "lessonNumber": "5",
+      "strand": "Algebra",
+      "subStrand": "Linear Equations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe word problems; b) Solve word problems in real-life situations; c) Show interest in the use of linear equations in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use word problems in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about word problems",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "1",
+      "strand": "Algebra",
+      "subStrand": "Simultaneous Equations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define elimination method; b) Measure elimination method in real-life situations; c) Appreciate the use of simultaneous equations in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply simultaneous equations to solve problems?",
+      "activities": [
+        "Learners are guided to discuss elimination method in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "2",
+      "strand": "Algebra",
+      "subStrand": "Simultaneous Equations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List substitution method; b) Analyse substitution method in real-life situations; c) Show interest in the use of simultaneous equations in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use substitution method in everyday life?",
+      "activities": [
+        "In groups, learners investigate substitution method using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "3",
+      "strand": "Algebra",
+      "subStrand": "Simultaneous Equations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify graphical method; b) Construct graphical method in real-life situations; c) Show interest in the use of simultaneous equations in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use graphical method in everyday life?",
+      "activities": [
+        "Learners are guided to discuss graphical method in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "4",
+      "strand": "Algebra",
+      "subStrand": "Inequalities",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe linear inequalities; b) Apply linear inequalities in real-life situations; c) Appreciate the use of inequalities in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply inequalities to solve problems?",
+      "activities": [
+        "Learners are guided to discuss linear inequalities in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 5,
+      "lessonNumber": "5",
+      "strand": "Algebra",
+      "subStrand": "Inequalities",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List compound inequalities; b) Compare compound inequalities in real-life situations; c) Appreciate the use of inequalities in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply inequalities to solve problems?",
+      "activities": [
+        "Learners observe and record examples of compound inequalities",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "1",
+      "strand": "Algebra",
+      "subStrand": "Inequalities",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List number line graphs; b) Investigate number line graphs in real-life situations; c) Take responsibility for the use of inequalities in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find number line graphs in our community?",
+      "activities": [
+        "Learners brainstorm what they already know about number line graphs",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "2",
+      "strand": "Algebra",
+      "subStrand": "Sequences and Patterns",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise arithmetic sequences; b) Investigate arithmetic sequences in real-life situations; c) Develop curiosity about the use of sequences and patterns in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is arithmetic sequences important?",
+      "activities": [
+        "Learners brainstorm what they already know about arithmetic sequences",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "3",
+      "strand": "Algebra",
+      "subStrand": "Sequences and Patterns",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define geometric sequences; b) Measure geometric sequences in real-life situations; c) Appreciate the use of sequences and patterns in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply sequences and patterns to solve problems?",
+      "activities": [
+        "Learners are guided to discuss geometric sequences in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "4",
+      "strand": "Algebra",
+      "subStrand": "Sequences and Patterns",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List finding terms; b) Measure finding terms in real-life situations; c) Take responsibility for the use of sequences and patterns in day-to-day life."
+      ],
+      "inquiryQuestion": "Where do we find finding terms in our community?",
+      "activities": [
+        "Learners are guided to discuss finding terms in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 6,
+      "lessonNumber": "5",
+      "strand": "Algebra",
+      "subStrand": "Coordinates",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify plotting points; b) Compare plotting points in real-life situations; c) Appreciate the use of coordinates in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply coordinates to solve problems?",
+      "activities": [
+        "Learners are guided to discuss plotting points in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "1",
+      "strand": "Algebra",
+      "subStrand": "Coordinates",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List midpoint formula; b) Solve midpoint formula in real-life situations; c) Develop curiosity about the use of coordinates in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is midpoint formula important?",
+      "activities": [
+        "Learners brainstorm what they already know about midpoint formula",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "2",
+      "strand": "Algebra",
+      "subStrand": "Coordinates",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State distance formula; b) Apply distance formula in real-life situations; c) Appreciate the use of coordinates in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply coordinates to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about distance formula",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Angle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline angles on a straight line; b) Measure angles on a straight line in real-life situations; c) Show interest in the use of angle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use angles on a straight line in everyday life?",
+      "activities": [
+        "In groups, learners investigate angles on a straight line using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Angle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline vertically opposite; b) Compare vertically opposite in real-life situations; c) Value the use of angle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change vertically opposite?",
+      "activities": [
+        "Learners are guided to discuss vertically opposite in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 7,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Angle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State angles in polygons; b) Apply angles in polygons in real-life situations; c) Appreciate the use of angle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply angle properties to solve problems?",
+      "activities": [
+        "In groups, learners investigate angles in polygons using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Triangle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline angle sum of triangle; b) Demonstrate angle sum of triangle in real-life situations; c) Show interest in the use of triangle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use angle sum of triangle in everyday life?",
+      "activities": [
+        "Learners are guided to discuss angle sum of triangle in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Triangle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise exterior angle; b) Compare exterior angle in real-life situations; c) Show interest in the use of triangle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use exterior angle in everyday life?",
+      "activities": [
+        "In groups, learners investigate exterior angle using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Triangle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify congruence and similarity; b) Investigate congruence and similarity in real-life situations; c) Develop curiosity about the use of triangle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is congruence and similarity important?",
+      "activities": [
+        "Learners are guided to discuss congruence and similarity in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Quadrilaterals and Polygons",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List properties of quadrilaterals; b) Demonstrate properties of quadrilaterals in real-life situations; c) Develop curiosity about the use of quadrilaterals and polygons in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is properties of quadrilaterals important?",
+      "activities": [
+        "Learners observe and record examples of properties of quadrilaterals",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 8,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Quadrilaterals and Polygons",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Define types of quadrilaterals; b) Classify types of quadrilaterals in real-life situations; c) Show interest in the use of quadrilaterals and polygons in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use types of quadrilaterals in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about types of quadrilaterals",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Observation of group work; checklist"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Quadrilaterals and Polygons",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) State tessellation; b) Measure tessellation in real-life situations; c) Appreciate the use of quadrilaterals and polygons in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply quadrilaterals and polygons to solve problems?",
+      "activities": [
+        "Learners observe and record examples of tessellation",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Written assignment; peer assessment"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Circle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline radius and diameter; b) Apply radius and diameter in real-life situations; c) Show interest in the use of circle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use radius and diameter in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about radius and diameter",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Circle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise chord properties; b) Investigate chord properties in real-life situations; c) Show interest in the use of circle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use chord properties in everyday life?",
+      "activities": [
+        "Learners brainstorm what they already know about chord properties",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Circle Properties",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify angle at centre; b) Investigate angle at centre in real-life situations; c) Value the use of circle properties in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change angle at centre?",
+      "activities": [
+        "In groups, learners investigate angle at centre using locally available materials",
+        "use charts and real objects to explore the concept",
+        "attempt questions from the course book in pairs."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Locally available materials and realia"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 9,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Constructions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List bisecting angles; b) Investigate bisecting angles in real-life situations; c) Value the use of constructions in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change bisecting angles?",
+      "activities": [
+        "Learners brainstorm what they already know about bisecting angles",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Constructions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List perpendicular bisector; b) Solve perpendicular bisector in real-life situations; c) Show interest in the use of constructions in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use perpendicular bisector in everyday life?",
+      "activities": [
+        "Learners are guided to discuss perpendicular bisector in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "2",
+      "strand": "Geometry",
+      "subStrand": "Constructions",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) List constructing triangles; b) Apply constructing triangles in real-life situations; c) Develop curiosity about the use of constructions in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is constructing triangles important?",
+      "activities": [
+        "Learners brainstorm what they already know about constructing triangles",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Question and answer; portfolio entry"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "3",
+      "strand": "Geometry",
+      "subStrand": "Symmetry and Transformations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise rotational symmetry; b) Compare rotational symmetry in real-life situations; c) Develop curiosity about the use of symmetry and transformations in day-to-day life."
+      ],
+      "inquiryQuestion": "Why is rotational symmetry important?",
+      "activities": [
+        "Learners observe and record examples of rotational symmetry",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "4",
+      "strand": "Geometry",
+      "subStrand": "Symmetry and Transformations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Describe reflection; b) Classify reflection in real-life situations; c) Value the use of symmetry and transformations in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change reflection?",
+      "activities": [
+        "Learners brainstorm what they already know about reflection",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Practical activity; observation schedule"
+    },
+    {
+      "week": 10,
+      "lessonNumber": "5",
+      "strand": "Geometry",
+      "subStrand": "Symmetry and Transformations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify translation; b) Investigate translation in real-life situations; c) Value the use of symmetry and transformations in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change translation?",
+      "activities": [
+        "Learners observe and record examples of translation",
+        "work out guided examples on the chalkboard",
+        "relate the concept to situations in their own community."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Wall charts and diagrams"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "1",
+      "strand": "Geometry",
+      "subStrand": "Symmetry and Transformations",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline enlargement; b) Demonstrate enlargement in real-life situations; c) Value the use of symmetry and transformations in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change enlargement?",
+      "activities": [
+        "Learners brainstorm what they already know about enlargement",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "2",
+      "strand": "Measures",
+      "subStrand": "Length",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise units of length; b) Measure units of length in real-life situations; c) Value the use of length in day-to-day life."
+      ],
+      "inquiryQuestion": "What happens when we change units of length?",
+      "activities": [
+        "Learners are guided to discuss units of length in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "3",
+      "strand": "Measures",
+      "subStrand": "Length",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Outline perimeter of polygons; b) Compare perimeter of polygons in real-life situations; c) Appreciate the use of length in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply length to solve problems?",
+      "activities": [
+        "Learners are guided to discuss perimeter of polygons in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Project work; rubric assessment"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "4",
+      "strand": "Measures",
+      "subStrand": "Length",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Identify circumference of circle; b) Compare circumference of circle in real-life situations; c) Show interest in the use of length in day-to-day life."
+      ],
+      "inquiryQuestion": "How do we use circumference of circle in everyday life?",
+      "activities": [
+        "Learners are guided to discuss circumference of circle in pairs",
+        "carry out a practical activity and record findings",
+        "summarise the main points in their exercise books."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Chalkboard and charts"
+      ],
+      "assessment": "Oral questions; written exercise"
+    },
+    {
+      "week": 11,
+      "lessonNumber": "5",
+      "strand": "Measures",
+      "subStrand": "Area",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recognise area of triangle; b) Compare area of triangle in real-life situations; c) Appreciate the use of area in day-to-day life."
+      ],
+      "inquiryQuestion": "How can we apply area to solve problems?",
+      "activities": [
+        "Learners brainstorm what they already know about area of triangle",
+        "role-play situations involving the concept",
+        "present their findings to the class for peer feedback."
+      ],
+      "resources": [
+        "Mathematics Learner's Book, Grade 8",
+        "Teacher's Guide",
+        "Digital devices where available"
+      ],
+      "assessment": "Class quiz; marking of exercise books"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "1",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "2",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "3",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "4",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 12,
+      "lessonNumber": "5",
+      "strand": "REVISION",
+      "subStrand": "Consolidation of term work",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice."
+      ],
+      "inquiryQuestion": "Which topics do I still find difficult?",
+      "activities": [
+        "Learners work through revision questions in groups",
+        "the teacher addresses common errors and reteaches weak areas."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "Revision exercises; oral questions"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "1",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "2",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "3",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "4",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    },
+    {
+      "week": 13,
+      "lessonNumber": "5",
+      "strand": "ASSESSMENT",
+      "subStrand": "End of Term 1 Assessment",
+      "objectives": [
+        "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 1."
+      ],
+      "inquiryQuestion": "What have I mastered this term?",
+      "activities": [
+        "Learners sit the end-of-term assessment under examination conditions",
+        "the teacher marks and records results."
+      ],
+      "resources": [
+        "End-of-term assessment paper",
+        "Mathematics Learner's Book, Grade 8"
+      ],
+      "assessment": "End-of-term written assessment; recorded marks"
+    }
+  ]
+}
