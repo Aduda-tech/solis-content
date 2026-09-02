@@ -1,0 +1,370 @@
+{
+  "generatedAt": "2026-09-02T18:45:15.640Z",
+  "count": 52,
+  "designs": [
+    {
+      "grade": "Grade 1",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 1/Creative Arts/design.json",
+      "strandCount": 22,
+      "totalLessons": 210
+    },
+    {
+      "grade": "Grade 1",
+      "learningArea": "Environmental Activities",
+      "path": "curriculum-designs/Grade 1/Environmental Activities/design.json",
+      "strandCount": 11,
+      "totalLessons": 120
+    },
+    {
+      "grade": "Grade 2",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 2/Creative Arts/design.json",
+      "strandCount": 22,
+      "totalLessons": 210
+    },
+    {
+      "grade": "Grade 2",
+      "learningArea": "Environmental Activities",
+      "path": "curriculum-designs/Grade 2/Environmental Activities/design.json",
+      "strandCount": 12,
+      "totalLessons": 120
+    },
+    {
+      "grade": "Grade 3",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 3/Creative Arts/design.json",
+      "strandCount": 22,
+      "totalLessons": 212
+    },
+    {
+      "grade": "Grade 3",
+      "learningArea": "Environmental Activities",
+      "path": "curriculum-designs/Grade 3/Environmental Activities/design.json",
+      "strandCount": 12,
+      "totalLessons": 120
+    },
+    {
+      "grade": "Grade 4",
+      "learningArea": "Agriculture",
+      "path": "curriculum-designs/Grade 4/Agriculture/design.json",
+      "strandCount": 12,
+      "totalLessons": 104
+    },
+    {
+      "grade": "Grade 4",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 4/Creative Arts/design.json",
+      "strandCount": 20,
+      "totalLessons": 203
+    },
+    {
+      "grade": "Grade 5",
+      "learningArea": "Agriculture",
+      "path": "curriculum-designs/Grade 5/Agriculture/design.json",
+      "strandCount": 13,
+      "totalLessons": 120
+    },
+    {
+      "grade": "Grade 5",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 5/Creative Arts/design.json",
+      "strandCount": 22,
+      "totalLessons": 93
+    },
+    {
+      "grade": "Grade 6",
+      "learningArea": "Agriculture",
+      "path": "curriculum-designs/Grade 6/Agriculture/design.json",
+      "strandCount": 10,
+      "totalLessons": 107
+    },
+    {
+      "grade": "Grade 6",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 6/Creative Arts/design.json",
+      "strandCount": 20,
+      "totalLessons": 166
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Agriculture",
+      "path": "curriculum-designs/Grade 7/Agriculture/design.json",
+      "strandCount": 24,
+      "totalLessons": 90
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Arabic",
+      "path": "curriculum-designs/Grade 7/Arabic/design.json",
+      "strandCount": 28,
+      "totalLessons": 90
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Business Studies",
+      "path": "curriculum-designs/Grade 7/Business Studies/design.json",
+      "strandCount": 14,
+      "totalLessons": 91
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Christian Religious Education",
+      "path": "curriculum-designs/Grade 7/Christian Religious Education/design.json",
+      "strandCount": 27,
+      "totalLessons": 65
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Computer Science",
+      "path": "curriculum-designs/Grade 7/Computer Science/design.json",
+      "strandCount": 54,
+      "totalLessons": 90
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 7/Creative Arts/design.json",
+      "strandCount": 23,
+      "totalLessons": 150
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "English",
+      "path": "curriculum-designs/Grade 7/English/design.json",
+      "strandCount": 69,
+      "totalLessons": 124
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "French",
+      "path": "curriculum-designs/Grade 7/French/design.json",
+      "strandCount": 32,
+      "totalLessons": 81
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "German",
+      "path": "curriculum-designs/Grade 7/German/design.json",
+      "strandCount": 27,
+      "totalLessons": 86
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Health Education",
+      "path": "curriculum-designs/Grade 7/Health Education/design.json",
+      "strandCount": 34,
+      "totalLessons": 57
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Home Science",
+      "path": "curriculum-designs/Grade 7/Home Science/design.json",
+      "strandCount": 20,
+      "totalLessons": 136
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Indigenous Languages",
+      "path": "curriculum-designs/Grade 7/Indigenous Languages/design.json",
+      "strandCount": 81,
+      "totalLessons": 91
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Integrated Science",
+      "path": "curriculum-designs/Grade 7/Integrated Science/design.json",
+      "strandCount": 23,
+      "totalLessons": 20
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Islamic Religious Education",
+      "path": "curriculum-designs/Grade 7/Islamic Religious Education/design.json",
+      "strandCount": 16,
+      "totalLessons": 121
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Life Skills",
+      "path": "curriculum-designs/Grade 7/Life Skills/design.json",
+      "strandCount": 30,
+      "totalLessons": 24
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Mathematics",
+      "path": "curriculum-designs/Grade 7/Mathematics/design.json",
+      "strandCount": 18,
+      "totalLessons": 92
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Physical Education",
+      "path": "curriculum-designs/Grade 7/Physical Education/design.json",
+      "strandCount": 29,
+      "totalLessons": 70
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Pre-Technical Studies",
+      "path": "curriculum-designs/Grade 7/Pre-Technical Studies/design.json",
+      "strandCount": 27,
+      "totalLessons": 110
+    },
+    {
+      "grade": "Grade 7",
+      "learningArea": "Social Studies",
+      "path": "curriculum-designs/Grade 7/Social Studies/design.json",
+      "strandCount": 49,
+      "totalLessons": 89
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Agriculture",
+      "path": "curriculum-designs/Grade 8/Agriculture/design.json",
+      "strandCount": 26,
+      "totalLessons": 90
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Arabic",
+      "path": "curriculum-designs/Grade 8/Arabic/design.json",
+      "strandCount": 28,
+      "totalLessons": 90
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Creative Arts",
+      "path": "curriculum-designs/Grade 8/Creative Arts/design.json",
+      "strandCount": 24,
+      "totalLessons": 150
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "English",
+      "path": "curriculum-designs/Grade 8/English/design.json",
+      "strandCount": 74,
+      "totalLessons": 20
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "French",
+      "path": "curriculum-designs/Grade 8/French/design.json",
+      "strandCount": 33,
+      "totalLessons": 90
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "German",
+      "path": "curriculum-designs/Grade 8/German/design.json",
+      "strandCount": 26,
+      "totalLessons": 85
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Health Education",
+      "path": "curriculum-designs/Grade 8/Health Education/design.json",
+      "strandCount": 28,
+      "totalLessons": 56
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Home Science",
+      "path": "curriculum-designs/Grade 8/Home Science/design.json",
+      "strandCount": 32,
+      "totalLessons": 115
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Integrated Science",
+      "path": "curriculum-designs/Grade 8/Integrated Science/design.json",
+      "strandCount": 8,
+      "totalLessons": 95
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Life Skills",
+      "path": "curriculum-designs/Grade 8/Life Skills/design.json",
+      "strandCount": 34,
+      "totalLessons": 26
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Mathematics",
+      "path": "curriculum-designs/Grade 8/Mathematics/design.json",
+      "strandCount": 16,
+      "totalLessons": 150
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Pre-Technical Studies",
+      "path": "curriculum-designs/Grade 8/Pre-Technical Studies/design.json",
+      "strandCount": 24,
+      "totalLessons": 96
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Social Studies",
+      "path": "curriculum-designs/Grade 8/Social Studies/design.json",
+      "strandCount": 40,
+      "totalLessons": 103
+    },
+    {
+      "grade": "Grade 8",
+      "learningArea": "Visual Arts",
+      "path": "curriculum-designs/Grade 8/Visual Arts/design.json",
+      "strandCount": 15,
+      "totalLessons": 84
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "Agriculture",
+      "path": "curriculum-designs/Grade 9/Agriculture/design.json",
+      "strandCount": 10,
+      "totalLessons": 120
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "Christian Religious Education",
+      "path": "curriculum-designs/Grade 9/Christian Religious Education/design.json",
+      "strandCount": 16,
+      "totalLessons": 92
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "English",
+      "path": "curriculum-designs/Grade 9/English/design.json",
+      "strandCount": 75,
+      "totalLessons": 144
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "Integrated Science",
+      "path": "curriculum-designs/Grade 9/Integrated Science/design.json",
+      "strandCount": 9,
+      "totalLessons": 150
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "Islamic Religious Education",
+      "path": "curriculum-designs/Grade 9/Islamic Religious Education/design.json",
+      "strandCount": 20,
+      "totalLessons": 119
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "Mathematics",
+      "path": "curriculum-designs/Grade 9/Mathematics/design.json",
+      "strandCount": 17,
+      "totalLessons": 139
+    },
+    {
+      "grade": "Grade 9",
+      "learningArea": "Pre-Technical Studies",
+      "path": "curriculum-designs/Grade 9/Pre-Technical Studies/design.json",
+      "strandCount": 28,
+      "totalLessons": 120
+    }
+  ]
+}
