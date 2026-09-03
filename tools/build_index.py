@@ -204,6 +204,10 @@ def clean_title(title: str, text: str) -> str:
 
 
 def iter_sources():
+    # Structured folders hold JSON documents AND, since the corpus was
+    # re-organised, relocated .docx files (exams, lesson-notes, lesson-plans,
+    # schemes-of-work). Both are indexed; the folder's first level is the
+    # grade ("Grade 7", "Form 4", ...).
     for area in AREAS:
         base = ROOT / area
         if not base.is_dir():
@@ -212,6 +216,10 @@ def iter_sources():
             if p.name in SKIP_NAMES:
                 continue
             yield area, p, "json"
+        for p in sorted(base.rglob("*.docx")):
+            yield area, p, "docx"
+    # Remaining raw scrapes (curriculum-design source PDFs, KJSEA design
+    # PDFs) live under downloads/arena and keep their subfolder as the area.
     arena = ROOT / "downloads" / "arena"
     if arena.is_dir():
         for p in sorted(arena.rglob("*.docx")):

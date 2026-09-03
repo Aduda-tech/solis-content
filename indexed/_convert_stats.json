@@ -1,11 +1,9 @@
 {
-  "processed": 974,
+  "processed": 877,
   "byQuality": {
-    "text": 885,
-    "sparse": 79,
-    "none": 10
+    "text": 877
   },
-  "totalTextChars": 29852247,
-  "generated": "2026-09-03T11:50:29Z",
+  "totalTextChars": 29834249,
+  "generated": "2026-09-03T14:13:50Z",
   "note": "JSON corpus index (post-flush). No PDFs."
 }
