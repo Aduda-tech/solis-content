@@ -1,0 +1,548 @@
+{
+  "kind": "scheme-of-work",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "level": "junior_secondary",
+  "topic": "General",
+  "approved": {
+    "kind": "scheme-of-work",
+    "title": "SCHEME OF WORK — Mathematics",
+    "subtitle": "Grade 7 · Term 3 · KICD Competency-Based Curriculum",
+    "offline": false,
+    "source": "kicd-design",
+    "grade": "Grade 7",
+    "subject": "Mathematics",
+    "level": "junior_secondary",
+    "sections": [
+      {
+        "heading": "WEEKLY TEACHING SCHEDULE",
+        "table": {
+          "headers": [
+            "Week",
+            "Lesson #",
+            "Strand",
+            "Sub-Strand",
+            "Specific Learning Outcomes",
+            "Key Inquiry Question",
+            "Learning Experiences",
+            "Learning Resources",
+            "Assessment Methods"
+          ],
+          "rows": [
+            [
+              "Week 1",
+              "Lesson 1",
+              "Measurements",
+              "Time, Distance and Speed (8 l essons)",
+              "By the end of the lesson, the learner should be able to: a) identify units of measuring time in real life situations",
+              "Why do we relate distance, time and speed?",
+              "The learner is guided to: use analog or digital clock to tell time in hours, minutes and seconds and discuss the units of time",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 1",
+              "Lesson 2",
+              "Measurements",
+              "Time, Distance and Speed (8 l essons)",
+              "By the end of the lesson, the learner should be able to: b) convert units of time from one form to another in learning situations",
+              "What is the importance of speed in daily a ctivities?",
+              "The learner is guided to: create conversion table on units of time",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 1",
+              "Lesson 3",
+              "Measurements",
+              "Temperature",
+              "By the end of the lesson, the learner should be able to: a) describe the temperature conditions of the immediate environment as either warm, hot or cold",
+              "How does temperature affect our everyday lives?",
+              "The learner is guided to: move to the field, observe the temperature in the environment and discuss the temperature conditions as either warm, hot or cold",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 1",
+              "Lesson 4",
+              "Measurements",
+              "Temperature",
+              "By the end of the lesson, the learner should be able to: b) compare temperature using hotter, warmer, colder and same as in different situations",
+              "How do we measure t emperature?",
+              "The learner is guided to: discuss and test temperature of different substances using arbitrary methods like touching, for example cold, warm or hot water (exercise caution when dealing with hot substances)",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 1",
+              "Lesson 5",
+              "Measurements",
+              "Temperature",
+              "By the end of the lesson, the learner should be able to: c) identify units of measuring temperature as degree Celsius and Kelvin in different situations",
+              "How does temperature affect our everyday lives?",
+              "The learner is guided to: identify and use tools of measuring temperature, for example, thermometers that are in degrees Celsius.",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 2",
+              "Lesson 1",
+              "Measurements",
+              "Temperature",
+              "By the end of the lesson, the learner should be able to: d) convert units of measuring temperature from degree Celsius to Kelvin and vice-versa",
+              "How do we measure t emperature?",
+              "The learner is guided to: work out conversions of temperature from degrees Celsius to Kelvin and vice versa",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 2",
+              "Lesson 2",
+              "Measurements",
+              "Temperature",
+              "By the end of the lesson, the learner should be able to: e) work out temperature in degree Celsius and",
+              "How does temperature affect our everyday lives?",
+              "The learner is guided to: move to the field, observe the temperature in the environment and discuss the temperature conditions as either warm, hot or cold",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 2",
+              "Lesson 3",
+              "Measurements",
+              "Temperature",
+              "By the end of the lesson, the learner should be able to: a) describe the temperature conditions of the immediate environment as either warm, hot or cold",
+              "How do we measure t emperature?",
+              "The learner is guided to: discuss and test temperature of different substances using arbitrary methods like touching, for example cold, warm or hot water (exercise caution when dealing with hot substances)",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 2",
+              "Lesson 4",
+              "Measurements",
+              "Money (12 l essons)",
+              "By the end of the lesson, the learner should be able to: a) work out profit and loss in real life situations",
+              "Why do we use money in daily activities?",
+              "The learner is guided to: role play shopping activities involving profit, loss, discount and commission",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 2",
+              "Lesson 5",
+              "Measurements",
+              "Money (12 l essons)",
+              "By the end of the lesson, the learner should be able to: b) calculate the percentage profit and loss in different situations",
+              "What considerations would we make when buying or selling?",
+              "The learner is guided to: work out profit and loss in different situations",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 3",
+              "Lesson 1",
+              "Measurements",
+              "Money (12 l essons)",
+              "By the end of the lesson, the learner should be able to: c) calculate discount and percentage discount of different goods and services",
+              "What is involved in mobile money transactions?",
+              "The learner is guided to: work out percentage profit/loss in different situations",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 3",
+              "Lesson 2",
+              "Measurements",
+              "Money (12 l essons)",
+              "By the end of the lesson, the learner should be able to: d) calculate commission and percentage commission in real life situations",
+              "Why do we use money in daily activities?",
+              "The learner is guided to: work out discount and percentage discount in different situations",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 3",
+              "Lesson 3",
+              "Measurements",
+              "Money (12 l essons)",
+              "By the end of the lesson, the learner should be able to: e) interpret bills at home",
+              "What considerations would we make when buying or selling?",
+              "The learner is guided to: work out commission and percentage commission in different situations",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 3",
+              "Lesson 4",
+              "Measurements",
+              "Money (12 l essons)",
+              "By the end of the lesson, the learner should be able to: f) prepare bills in real life situations",
+              "What is involved in mobile money transactions?",
+              "The learner is guided to: identify different types of bills and read the components of bills",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 3",
+              "Lesson 5",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: a) relate different types of angles on a straight line in real life situations",
+              "What are angles?",
+              "The learner is guided to: discuss positions of objects in the immediate environment in relation to angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 4",
+              "Lesson 1",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: b) solve angles at a point in learning situations",
+              "Where do we use angles in real life situations?",
+              "The learner is guided to: draw straight lines with different angles, measure and relate them.",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 4",
+              "Lesson 2",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: c) relate angles on a transversal in different situations",
+              "What are angles?",
+              "The learner is guided to: draw different angles at a point, measure, relate and work out angles at point",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 4",
+              "Lesson 3",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: d) solve angles in a parallelogram in different situation",
+              "Where do we use angles in real life situations?",
+              "The learner is guided to: draw transversals, measure and relate angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 4",
+              "Lesson 4",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: e) identify angle properties of polygons up to hexagon in different situations",
+              "What are angles?",
+              "The learner is guided to: draw parallelograms, measure and relate various angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 4",
+              "Lesson 5",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: f) relate interior angles, exterior angles and the number of sides of a polygon up to hexagon in different situations",
+              "Where do we use angles in real life situations?",
+              "The learner is guided to: use cut outs or drawings of different polygons up to hexagon, measure the interior angles and relate to the number of right angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 5",
+              "Lesson 1",
+              "Geometry",
+              "Angles",
+              "By the end of the lesson, the learner should be able to: a) relate different types of angles on a straight line in real life situations",
+              "What are angles?",
+              "The learner is guided to: use cut outs or drawings of different polygons up to hexagon, measure interior and exterior",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 5",
+              "Lesson 2",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: a) measure different angles in learning situations",
+              "Where do we use geometric constructions in real life situations?",
+              "The learner is guided to: draw and measure different angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 5",
+              "Lesson 3",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: b) bisect angles using a ruler and a pair of compasses only in learning situations",
+              "Why do we use geometric constructions?",
+              "The learner is guided to: draw and bisect different angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 5",
+              "Lesson 4",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: c) construct 900, 450 600, 300 and other angles that are multiples of 7.50 using a ruler and a pair of compasses only in learning situations",
+              "Where do we use geometric constructions in real life situations?",
+              "The learner is guided to: construct 900, 450 600, 300 including 1200, 1050 and practice with angles that are multiples of 7.50 using a pair of compasses and rulers",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 5",
+              "Lesson 5",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: d) construct different triangles using a ruler and a pair of compasses only in different situations",
+              "Why do we use geometric constructions?",
+              "The learner is guided to: construct triangles using a pair of compasses and rulers",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 6",
+              "Lesson 1",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: e) construct circles using a ruler and a pair of compasses only in different situations",
+              "Where do we use geometric constructions in real life situations?",
+              "The learner is guided to: construct circles using a pair of compasses and rulers",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 6",
+              "Lesson 2",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: f) use IT devices to learn about geometric constructions for skills development",
+              "Why do we use geometric constructions?",
+              "The learner is guided to: use IT devices on graphics to draw angles and circles, watch videos of bisecting angles and constructing angles and circles.",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 6",
+              "Lesson 3",
+              "Geometry",
+              "Geometrical Constructions",
+              "By the end of the lesson, the learner should be able to: g) appreciate the use of geometric constructions in real life situations.",
+              "Where do we use geometric constructions in real life situations?",
+              "The learner is guided to: draw and measure different angles",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 6",
+              "Lesson 4",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: a) state the meaning of data in learning situation",
+              "Why do we collect data?",
+              "The learner is guided to: collect and organize data from real life situations. For example, as suggested in CSL project, data from class registers (indicates school attendance)",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 6",
+              "Lesson 5",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: b) collect data from different situations",
+              "How do we represent data?",
+              "The learner is guided to: tally and represent the data in a frequency table",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 7",
+              "Lesson 1",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: c) draw frequency distribution table of data from different situations",
+              "How do we interpret d ata?",
+              "The learner is guided to: discuss and come up with suitable scale to represent data in graphs",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 7",
+              "Lesson 2",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: d) determine suitable scale for graphs",
+              "Why do we collect data?",
+              "The learner is guided to: use a suitable scale to draw pictographs from CSL or other data",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 7",
+              "Lesson 3",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: e) draw pictographs of data from real life situations",
+              "How do we represent data?",
+              "The learner is guided to: use a suitable scale to draw bar graphs from CSL or other data",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 7",
+              "Lesson 4",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: f) draw bar graphs of data from different situations",
+              "How do we interpret d ata?",
+              "The learner is guided to: discuss and interpret bar graphs of CSL or other data",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 7",
+              "Lesson 5",
+              "Data Handling and Probability",
+              "Data Handling",
+              "By the end of the lesson, the learner should be able to: g) interpret bar graphs of data from real life situations",
+              "Why do we collect data?",
+              "The learner is guided to: collect and organize data from real life situations. For example, as suggested in CSL project, data from class registers (indicates school attendance)",
+              "Mathematics Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Oral questions; written exercise; observation"
+            ],
+            [
+              "Week 8",
+              "Lesson 1",
+              "REVISION",
+              "Consolidation of term work",
+              "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice.",
+              "Which areas do I still find difficult?",
+              "Learners work through revision questions in groups; the teacher addresses common errors and reteaches weak areas.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "Revision exercises; oral questions"
+            ],
+            [
+              "Week 8",
+              "Lesson 2",
+              "REVISION",
+              "Consolidation of term work",
+              "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice.",
+              "Which areas do I still find difficult?",
+              "Learners work through revision questions in groups; the teacher addresses common errors and reteaches weak areas.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "Revision exercises; oral questions"
+            ],
+            [
+              "Week 8",
+              "Lesson 3",
+              "REVISION",
+              "Consolidation of term work",
+              "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice.",
+              "Which areas do I still find difficult?",
+              "Learners work through revision questions in groups; the teacher addresses common errors and reteaches weak areas.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "Revision exercises; oral questions"
+            ],
+            [
+              "Week 8",
+              "Lesson 4",
+              "REVISION",
+              "Consolidation of term work",
+              "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice.",
+              "Which areas do I still find difficult?",
+              "Learners work through revision questions in groups; the teacher addresses common errors and reteaches weak areas.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "Revision exercises; oral questions"
+            ],
+            [
+              "Week 8",
+              "Lesson 5",
+              "REVISION",
+              "Consolidation of term work",
+              "By the end of the lesson, the learner should be able to: a) Recall and apply the key concepts covered this term; b) Identify areas needing further practice.",
+              "Which areas do I still find difficult?",
+              "Learners work through revision questions in groups; the teacher addresses common errors and reteaches weak areas.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "Revision exercises; oral questions"
+            ],
+            [
+              "Week 9",
+              "Lesson 1",
+              "ASSESSMENT",
+              "End of Term 3 Assessment",
+              "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 3.",
+              "What have I mastered this term?",
+              "Learners sit the end-of-term assessment under examination conditions; the teacher marks and records results.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "End-of-term written assessment; recorded marks"
+            ],
+            [
+              "Week 9",
+              "Lesson 2",
+              "ASSESSMENT",
+              "End of Term 3 Assessment",
+              "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 3.",
+              "What have I mastered this term?",
+              "Learners sit the end-of-term assessment under examination conditions; the teacher marks and records results.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "End-of-term written assessment; recorded marks"
+            ],
+            [
+              "Week 9",
+              "Lesson 3",
+              "ASSESSMENT",
+              "End of Term 3 Assessment",
+              "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 3.",
+              "What have I mastered this term?",
+              "Learners sit the end-of-term assessment under examination conditions; the teacher marks and records results.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "End-of-term written assessment; recorded marks"
+            ],
+            [
+              "Week 9",
+              "Lesson 4",
+              "ASSESSMENT",
+              "End of Term 3 Assessment",
+              "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 3.",
+              "What have I mastered this term?",
+              "Learners sit the end-of-term assessment under examination conditions; the teacher marks and records results.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "End-of-term written assessment; recorded marks"
+            ],
+            [
+              "Week 9",
+              "Lesson 5",
+              "ASSESSMENT",
+              "End of Term 3 Assessment",
+              "By the end of the lesson, the learner should be able to: a) Demonstrate mastery of the Mathematics content covered in Term 3.",
+              "What have I mastered this term?",
+              "Learners sit the end-of-term assessment under examination conditions; the teacher marks and records results.",
+              "End-of-term assessment paper; Mathematics Learner's Book, Grade 7",
+              "End-of-term written assessment; recorded marks"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "HOW THIS SCHEME WAS PREPARED",
+        "body": "Derived directly from the official KICD curriculum design for this learning area, as KICD requires. Learning outcomes, learning experiences and key inquiry questions are the design's own wording. Review and adapt to your class before use.",
+        "items": [
+          "Official KICD curriculum design for Grade 7 Mathematics (18 sub-strands)",
+          "Term 3 covers 6 sub-strand(s), weighted by KICD's own lesson allocations",
+          "Kenya school calendar: Term 3 has 9 weeks at 5 lessons/week"
+        ]
+      }
+    ],
+    "generatedAt": "2026-09-03T06:59:55.822Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-09-03T07:02:21.591Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-09-03T07:02:22.149Z",
+  "source": "teacher-approved"
+}
