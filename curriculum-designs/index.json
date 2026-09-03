@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T07:02:40.136Z",
-  "count": 87,
+  "generatedAt": "2026-09-03T07:41:30.236Z",
+  "count": 94,
   "designs": [
     {
       "grade": "Form 3",
@@ -712,6 +712,69 @@
       "path": "curriculum-designs/Grade 9/Social Studies/design.json",
       "strandCount": 35,
       "totalLessons": 228,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Christian Religious Education",
+      "path": "curriculum-designs/PP1/Christian Religious Education/design.json",
+      "strandCount": 10,
+      "totalLessons": 66,
+      "edition": 2017,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Environmental Activities",
+      "path": "curriculum-designs/PP1/Environmental Activities/design.json",
+      "strandCount": 17,
+      "totalLessons": 135,
+      "edition": 2017,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Hindu Religious Education",
+      "path": "curriculum-designs/PP1/Hindu Religious Education/design.json",
+      "strandCount": 7,
+      "totalLessons": 27,
+      "edition": 2017,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Islamic Religious Education",
+      "path": "curriculum-designs/PP1/Islamic Religious Education/design.json",
+      "strandCount": 10,
+      "totalLessons": 30,
+      "edition": 2017,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Language Activities",
+      "path": "curriculum-designs/PP1/Language Activities/design.json",
+      "strandCount": 27,
+      "totalLessons": 60,
+      "edition": 2017,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Mathematical Activities",
+      "path": "curriculum-designs/PP1/Mathematical Activities/design.json",
+      "strandCount": 16,
+      "totalLessons": 150,
+      "edition": 2017,
+      "curriculum": "CBC"
+    },
+    {
+      "grade": "PP1",
+      "learningArea": "Psychomotor and Creative Activities",
+      "path": "curriculum-designs/PP1/Psychomotor and Creative Activities/design.json",
+      "strandCount": 25,
+      "totalLessons": 229,
+      "edition": 2017,
       "curriculum": "CBC"
     }
   ]
