@@ -1,0 +1,347 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Agriculture",
+  "strandCount": 37,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Economics and Agricultural Economics",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain economics and agricultural economics; b) apply economics and agricultural economics in solving problems.",
+      "experiences": "The learner is guided to: discuss economics and agricultural economics; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply economics and agricultural economics in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Scarcity",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain scarcity; b) apply scarcity in solving problems.",
+      "experiences": "The learner is guided to: discuss scarcity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply scarcity in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Preferences and choice",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain preferences and choice; b) apply preferences and choice in solving problems.",
+      "experiences": "The learner is guided to: discuss preferences and choice; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply preferences and choice in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Opportunity cost",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain opportunity cost; b) apply opportunity cost in solving problems.",
+      "experiences": "The learner is guided to: discuss opportunity cost; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply opportunity cost in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Breeding",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain breeding; b) apply breeding in solving problems.",
+      "experiences": "The learner is guided to: discuss breeding; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply breeding in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Feeding",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain feeding; b) apply feeding in solving problems.",
+      "experiences": "The learner is guided to: discuss feeding; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply feeding in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Production",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain production; b) apply production in solving problems.",
+      "experiences": "The learner is guided to: discuss production; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply production in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Health",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain health; b) apply health in solving problems.",
+      "experiences": "The learner is guided to: discuss health; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply health in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Field operations",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain field operations; b) apply field operations in solving problems.",
+      "experiences": "The learner is guided to: discuss field operations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply field operations in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Inventory",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain inventory; b) apply inventory in solving problems.",
+      "experiences": "The learner is guided to: discuss inventory; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply inventory in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS I (BASIC CONCEPTS AND FARM RECORDS)",
+      "subStrand": "Labour",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain labour; b) apply labour in solving problems.",
+      "experiences": "The learner is guided to: discuss labour; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply labour in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS II (LAND TENURE AND LAND REFORM)",
+      "subStrand": "Definition",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain definition; b) apply definition in solving problems.",
+      "experiences": "The learner is guided to: discuss definition; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definition in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS II (LAND TENURE AND LAND REFORM)",
+      "subStrand": "Tenure systems - (I) individual (types, advantages and disadvantages) and",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tenure systems - (i) individual (types, advantages and disadvantages) and; b) apply tenure systems - (i) individual (types, advantages and disadvantages) and in solving problems.",
+      "experiences": "The learner is guided to: discuss tenure systems - (i) individual (types, advantages and disadvantages) and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tenure systems - (i) individual (types, advantages and disadvantages) and in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS II (LAND TENURE AND LAND REFORM)",
+      "subStrand": "types of reform and reasons for each (fragmentation, consolidation,",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of reform and reasons for each (fragmentation, consolidation,; b) apply types of reform and reasons for each (fragmentation, consolidation, in solving problems.",
+      "experiences": "The learner is guided to: discuss types of reform and reasons for each (fragmentation, consolidation,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of reform and reasons for each (fragmentation, consolidation, in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Land (definition and methods of acquisition)",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain land (definition and methods of acquisition); b) apply land (definition and methods of acquisition) in solving problems.",
+      "experiences": "The learner is guided to: discuss land (definition and methods of acquisition); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply land (definition and methods of acquisition) in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Labour (definition, types,",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain labour (definition, types,; b) apply labour (definition, types, in solving problems.",
+      "experiences": "The learner is guided to: discuss labour (definition, types,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply labour (definition, types, in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Increasing returns",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain increasing returns; b) apply increasing returns in solving problems.",
+      "experiences": "The learner is guided to: discuss increasing returns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply increasing returns in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Constant returns",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain constant returns; b) apply constant returns in solving problems.",
+      "experiences": "The learner is guided to: discuss constant returns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply constant returns in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Decreasing returns",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain decreasing returns; b) apply decreasing returns in solving problems.",
+      "experiences": "The learner is guided to: discuss decreasing returns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply decreasing returns in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Meaning",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning; b) apply meaning in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Factors to consider",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factors to consider; b) apply factors to consider in solving problems.",
+      "experiences": "The learner is guided to: discuss factors to consider; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply factors to consider in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Steps",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain steps; b) apply steps in solving problems.",
+      "experiences": "The learner is guided to: discuss steps; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply steps in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Definition",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain definition; b) apply definition in solving problems.",
+      "experiences": "The learner is guided to: discuss definition; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definition in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Importance",
+      "code": "3.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance; b) apply importance in solving problems.",
+      "experiences": "The learner is guided to: discuss importance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS III (PRODUCTION ECONOMICS)",
+      "subStrand": "Types (partial and complete)",
+      "code": "3.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types (partial and complete); b) apply types (partial and complete) in solving problems.",
+      "experiences": "The learner is guided to: discuss types (partial and complete); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types (partial and complete) in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS IV (FARM ACCOUNTS)",
+      "subStrand": "Financial documents (Invoices,",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain financial documents (invoices,; b) apply financial documents (invoices, in solving problems.",
+      "experiences": "The learner is guided to: discuss financial documents (invoices,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply financial documents (invoices, in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Market and marketing",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain market and marketing; b) apply market and marketing in solving problems.",
+      "experiences": "The learner is guided to: discuss market and marketing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply market and marketing in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Types of markets",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of markets; b) apply types of markets in solving problems.",
+      "experiences": "The learner is guided to: discuss types of markets; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of markets in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Demand, supply and price theory",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain demand, supply and price theory; b) apply demand, supply and price theory in solving problems.",
+      "experiences": "The learner is guided to: discuss demand, supply and price theory; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply demand, supply and price theory in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Marketing functions",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain marketing functions; b) apply marketing functions in solving problems.",
+      "experiences": "The learner is guided to: discuss marketing functions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply marketing functions in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Problems of marketing agricultural products and possible solutions",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems of marketing agricultural products and possible solutions; b) apply problems of marketing agricultural products and possible solutions in solving problems.",
+      "experiences": "The learner is guided to: discuss problems of marketing agricultural products and possible solutions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems of marketing agricultural products and possible solutions in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Marketing boards, agents and institutions",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain marketing boards, agents and institutions; b) apply marketing boards, agents and institutions in solving problems.",
+      "experiences": "The learner is guided to: discuss marketing boards, agents and institutions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply marketing boards, agents and institutions in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Formation",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain formation; b) apply formation in solving problems.",
+      "experiences": "The learner is guided to: discuss formation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply formation in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Functions",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions; b) apply functions in solving problems.",
+      "experiences": "The learner is guided to: discuss functions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Agricultural society of Kenya (ASK)",
+      "code": "5.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain agricultural society of kenya (ask); b) apply agricultural society of kenya (ask) in solving problems.",
+      "experiences": "The learner is guided to: discuss agricultural society of kenya (ask); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply agricultural society of kenya (ask) in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Young Farmers Clubs (YFC)",
+      "code": "5.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain young farmers clubs (yfc); b) apply young farmers clubs (yfc) in solving problems.",
+      "experiences": "The learner is guided to: discuss young farmers clubs (yfc); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply young farmers clubs (yfc) in real life?"
+    },
+    {
+      "strand": "AGRICULTURAL ECONOMICS V (AGRICULTURAL MARKETING AND ORGANIZATIONS)",
+      "subStrand": "Kenya",
+      "code": "5.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kenya; b) apply kenya in solving problems.",
+      "experiences": "The learner is guided to: discuss kenya; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kenya in real life?"
+    }
+  ],
+  "driveId": "1KT8xi60nBz4SMqrNpDxJeRI2S9cr9rKC",
+  "pages": 20,
+  "harvestedAt": "2026-09-03T06:57:25.946Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": true
+}
