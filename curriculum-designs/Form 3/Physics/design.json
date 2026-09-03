@@ -1,0 +1,545 @@
+{
+  "grade": "Form 3",
+  "learningArea": "Physics",
+  "strandCount": 59,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Acceleration due to gravity",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain acceleration due to gravity; b) apply acceleration due to gravity in solving problems.",
+      "experiences": "The learner is guided to: discuss acceleration due to gravity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply acceleration due to gravity in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Free fall",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain free fall; b) apply free fall in solving problems.",
+      "experiences": "The learner is guided to: discuss free fall; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply free fall in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Simple pendulum method",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple pendulum method; b) apply simple pendulum method in solving problems.",
+      "experiences": "The learner is guided to: discuss simple pendulum method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple pendulum method in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Motion time graphs:",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain motion time graphs:; b) apply motion time graphs: in solving problems.",
+      "experiences": "The learner is guided to: discuss motion time graphs:; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply motion time graphs: in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Displacement time graphs",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain displacement time graphs; b) apply displacement time graphs in solving problems.",
+      "experiences": "The learner is guided to: discuss displacement time graphs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply displacement time graphs in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Velocity time graphs",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain velocity time graphs; b) apply velocity time graphs in solving problems.",
+      "experiences": "The learner is guided to: discuss velocity time graphs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply velocity time graphs in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Equations of uniform accelerated motion",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain equations of uniform accelerated motion; b) apply equations of uniform accelerated motion in solving problems.",
+      "experiences": "The learner is guided to: discuss equations of uniform accelerated motion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply equations of uniform accelerated motion in real life?"
+    },
+    {
+      "strand": "LINEAR MOTION",
+      "subStrand": "Problems on uniform accelerated motion",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on uniform accelerated motion; b) apply problems on uniform accelerated motion in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on uniform accelerated motion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on uniform accelerated motion in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Refraction of light laws of refraction (experimental treatment required)",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain refraction of light laws of refraction (experimental treatment required); b) apply refraction of light laws of refraction (experimental treatment required) in solving problems.",
+      "experiences": "The learner is guided to: discuss refraction of light laws of refraction (experimental treatment required); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply refraction of light laws of refraction (experimental treatment required) in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Determination of refractive index",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain determination of refractive index; b) apply determination of refractive index in solving problems.",
+      "experiences": "The learner is guided to: discuss determination of refractive index; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply determination of refractive index in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Snell law",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain snell law; b) apply snell law in solving problems.",
+      "experiences": "The learner is guided to: discuss snell law; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply snell law in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Real apparent depth",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain real apparent depth; b) apply real apparent depth in solving problems.",
+      "experiences": "The learner is guided to: discuss real apparent depth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply real apparent depth in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Critical angle",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain critical angle; b) apply critical angle in solving problems.",
+      "experiences": "The learner is guided to: discuss critical angle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply critical angle in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Dispersion of white light",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain dispersion of white light; b) apply dispersion of white light in solving problems.",
+      "experiences": "The learner is guided to: discuss dispersion of white light; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply dispersion of white light in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Total internal reflection and its effects -. Critical angle",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain total internal reflection and its effects -. critical angle; b) apply total internal reflection and its effects -. critical angle in solving problems.",
+      "experiences": "The learner is guided to: discuss total internal reflection and its effects -. critical angle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply total internal reflection and its effects -. critical angle in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Applications of total internal reflection",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain applications of total internal reflection; b) apply applications of total internal reflection in solving problems.",
+      "experiences": "The learner is guided to: discuss applications of total internal reflection; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply applications of total internal reflection in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Prism periscope",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain prism periscope; b) apply prism periscope in solving problems.",
+      "experiences": "The learner is guided to: discuss prism periscope; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply prism periscope in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Optical fibre",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain optical fibre; b) apply optical fibre in solving problems.",
+      "experiences": "The learner is guided to: discuss optical fibre; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply optical fibre in real life?"
+    },
+    {
+      "strand": "REFRACTION OF LIGHT",
+      "subStrand": "Problems on refractive index and critical angle",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on refractive index and critical angle; b) apply problems on refractive index and critical angle in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on refractive index and critical angle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on refractive index and critical angle in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Newton's laws of motion",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain newton's laws of motion; b) apply newton's laws of motion in solving problems.",
+      "experiences": "The learner is guided to: discuss newton's laws of motion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply newton's laws of motion in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "experimental treatment on inertia required",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain experimental treatment on inertia required; b) apply experimental treatment on inertia required in solving problems.",
+      "experiences": "The learner is guided to: discuss experimental treatment on inertia required; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply experimental treatment on inertia required in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Conservation of linear momentum elastic collisions inelastic collisions",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain conservation of linear momentum elastic collisions inelastic collisions; b) apply conservation of linear momentum elastic collisions inelastic collisions in solving problems.",
+      "experiences": "The learner is guided to: discuss conservation of linear momentum elastic collisions inelastic collisions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply conservation of linear momentum elastic collisions inelastic collisions in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "F=ma",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain f=ma; b) apply f=ma in solving problems.",
+      "experiences": "The learner is guided to: discuss f=ma; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply f=ma in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Frictional forces:",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain frictional forces:; b) apply frictional forces: in solving problems.",
+      "experiences": "The learner is guided to: discuss frictional forces:; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply frictional forces: in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Advantages and disadvantages,",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain advantages and disadvantages,; b) apply advantages and disadvantages, in solving problems.",
+      "experiences": "The learner is guided to: discuss advantages and disadvantages,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply advantages and disadvantages, in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Viscosity",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain viscosity; b) apply viscosity in solving problems.",
+      "experiences": "The learner is guided to: discuss viscosity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply viscosity in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Terminal velocity qualitative treatment)",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain terminal velocity qualitative treatment); b) apply terminal velocity qualitative treatment) in solving problems.",
+      "experiences": "The learner is guided to: discuss terminal velocity qualitative treatment); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply terminal velocity qualitative treatment) in real life?"
+    },
+    {
+      "strand": "NEWTON'S LAWS OF MOTION",
+      "subStrand": "Problems on Newton's laws and law of conservation of linear",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on newton's laws and law of conservation of linear; b) apply problems on newton's laws and law of conservation of linear in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on newton's laws and law of conservation of linear; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on newton's laws and law of conservation of linear in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Scale reading ammeter voltmeter",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain scale reading ammeter voltmeter; b) apply scale reading ammeter voltmeter in solving problems.",
+      "experiences": "The learner is guided to: discuss scale reading ammeter voltmeter; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply scale reading ammeter voltmeter in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Electric circuits current potential difference",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain electric circuits current potential difference; b) apply electric circuits current potential difference in solving problems.",
+      "experiences": "The learner is guided to: discuss electric circuits current potential difference; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply electric circuits current potential difference in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Ohms law (experimental treatment required)",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ohms law (experimental treatment required); b) apply ohms law (experimental treatment required) in solving problems.",
+      "experiences": "The learner is guided to: discuss ohms law (experimental treatment required); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ohms law (experimental treatment required) in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Resistance types of resistors measurements of resistance and units",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain resistance types of resistors measurements of resistance and units; b) apply resistance types of resistors measurements of resistance and units in solving problems.",
+      "experiences": "The learner is guided to: discuss resistance types of resistors measurements of resistance and units; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply resistance types of resistors measurements of resistance and units in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Electromotive force (emf )and internal resistance of a cell (E=V+Ir)",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain electromotive force (emf )and internal resistance of a cell (e=v+ir); b) apply electromotive force (emf )and internal resistance of a cell (e=v+ir) in solving problems.",
+      "experiences": "The learner is guided to: discuss electromotive force (emf )and internal resistance of a cell (e=v+ir); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply electromotive force (emf )and internal resistance of a cell (e=v+ir) in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Resistors in series and in parallel",
+      "code": "4.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain resistors in series and in parallel; b) apply resistors in series and in parallel in solving problems.",
+      "experiences": "The learner is guided to: discuss resistors in series and in parallel; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply resistors in series and in parallel in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Galvanometers: Conversion to ammeters and Voltmeters",
+      "code": "4.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain galvanometers: conversion to ammeters and voltmeters; b) apply galvanometers: conversion to ammeters and voltmeters in solving problems.",
+      "experiences": "The learner is guided to: discuss galvanometers: conversion to ammeters and voltmeters; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply galvanometers: conversion to ammeters and voltmeters in real life?"
+    },
+    {
+      "strand": "WORK ENERGY POWER AND MACHINES",
+      "subStrand": "Problems on Ohms law resistors in series and in parallel",
+      "code": "4.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on ohms law resistors in series and in parallel; b) apply problems on ohms law resistors in series and in parallel in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on ohms law resistors in series and in parallel; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on ohms law resistors in series and in parallel in real life?"
+    },
+    {
+      "strand": "WAVES II",
+      "subStrand": "Constructive interference and destructive interference",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain constructive interference and destructive interference; b) apply constructive interference and destructive interference in solving problems.",
+      "experiences": "The learner is guided to: discuss constructive interference and destructive interference; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply constructive interference and destructive interference in real life?"
+    },
+    {
+      "strand": "WAVES II",
+      "subStrand": "Stationary waves (qualitative and experimental treatment required)",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain stationary waves (qualitative and experimental treatment required); b) apply stationary waves (qualitative and experimental treatment required) in solving problems.",
+      "experiences": "The learner is guided to: discuss stationary waves (qualitative and experimental treatment required); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply stationary waves (qualitative and experimental treatment required) in real life?"
+    },
+    {
+      "strand": "ELECTROSTATICS II",
+      "subStrand": "Electric field patterns",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain electric field patterns; b) apply electric field patterns in solving problems.",
+      "experiences": "The learner is guided to: discuss electric field patterns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply electric field patterns in real life?"
+    },
+    {
+      "strand": "ELECTROSTATICS II",
+      "subStrand": "Charge distribution on conductors spherical and pear shaped conductors",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain charge distribution on conductors spherical and pear shaped conductors; b) apply charge distribution on conductors spherical and pear shaped conductors in solving problems.",
+      "experiences": "The learner is guided to: discuss charge distribution on conductors spherical and pear shaped conductors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply charge distribution on conductors spherical and pear shaped conductors in real life?"
+    },
+    {
+      "strand": "ELECTROSTATICS II",
+      "subStrand": "Action at points lightning arrestors",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain action at points lightning arrestors; b) apply action at points lightning arrestors in solving problems.",
+      "experiences": "The learner is guided to: discuss action at points lightning arrestors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply action at points lightning arrestors in real life?"
+    },
+    {
+      "strand": "ELECTROSTATICS II",
+      "subStrand": "Capacitance unit of capacitance (farad microfarad) factors affecting capacitance",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain capacitance unit of capacitance (farad microfarad) factors affecting capacitance; b) apply capacitance unit of capacitance (farad microfarad) factors affecting capacitance in solving problems.",
+      "experiences": "The learner is guided to: discuss capacitance unit of capacitance (farad microfarad) factors affecting capacitance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply capacitance unit of capacitance (farad microfarad) factors affecting capacitance in real life?"
+    },
+    {
+      "strand": "ELECTROSTATICS II",
+      "subStrand": "Applications of capacitors",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain applications of capacitors; b) apply applications of capacitors in solving problems.",
+      "experiences": "The learner is guided to: discuss applications of capacitors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply applications of capacitors in real life?"
+    },
+    {
+      "strand": "ELECTROSTATICS II",
+      "subStrand": "Problems on capacitors (using Q=CV, Ct=C1+C2)",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on capacitors (using q=cv, ct=c1+c2); b) apply problems on capacitors (using q=cv, ct=c1+c2) in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on capacitors (using q=cv, ct=c1+c2); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on capacitors (using q=cv, ct=c1+c2) in real life?"
+    },
+    {
+      "strand": "HEATING EFFECT OF AN ELECTRIC CURRENT",
+      "subStrand": "Simple experiments on heating effect",
+      "code": "7.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple experiments on heating effect; b) apply simple experiments on heating effect in solving problems.",
+      "experiences": "The learner is guided to: discuss simple experiments on heating effect; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple experiments on heating effect in real life?"
+    },
+    {
+      "strand": "HEATING EFFECT OF AN ELECTRIC CURRENT",
+      "subStrand": "Factors affecting electrical energy W=VIt, P=VI",
+      "code": "7.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factors affecting electrical energy w=vit, p=vi; b) apply factors affecting electrical energy w=vit, p=vi in solving problems.",
+      "experiences": "The learner is guided to: discuss factors affecting electrical energy w=vit, p=vi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply factors affecting electrical energy w=vit, p=vi in real life?"
+    },
+    {
+      "strand": "HEATING EFFECT OF AN ELECTRIC CURRENT",
+      "subStrand": "Heating devices electric kettle, electric iron bulb filament electric heater",
+      "code": "7.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain heating devices electric kettle, electric iron bulb filament electric heater; b) apply heating devices electric kettle, electric iron bulb filament electric heater in solving problems.",
+      "experiences": "The learner is guided to: discuss heating devices electric kettle, electric iron bulb filament electric heater; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply heating devices electric kettle, electric iron bulb filament electric heater in real life?"
+    },
+    {
+      "strand": "HEATING EFFECT OF AN ELECTRIC CURRENT",
+      "subStrand": "Problems on electrical energy and electrical power",
+      "code": "7.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on electrical energy and electrical power; b) apply problems on electrical energy and electrical power in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on electrical energy and electrical power; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on electrical energy and electrical power in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Heat capacity specific heat capacity units Experimental treatment required)",
+      "code": "8.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain heat capacity specific heat capacity units experimental treatment required); b) apply heat capacity specific heat capacity units experimental treatment required) in solving problems.",
+      "experiences": "The learner is guided to: discuss heat capacity specific heat capacity units experimental treatment required); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply heat capacity specific heat capacity units experimental treatment required) in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Latent heat of fusion, latent heat of treatment necessary)",
+      "code": "8.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain latent heat of fusion, latent heat of treatment necessary); b) apply latent heat of fusion, latent heat of treatment necessary) in solving problems.",
+      "experiences": "The learner is guided to: discuss latent heat of fusion, latent heat of treatment necessary); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply latent heat of fusion, latent heat of treatment necessary) in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Boiling and melting",
+      "code": "8.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain boiling and melting; b) apply boiling and melting in solving problems.",
+      "experiences": "The learner is guided to: discuss boiling and melting; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply boiling and melting in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Pressure cooker refrigerator",
+      "code": "8.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain pressure cooker refrigerator; b) apply pressure cooker refrigerator in solving problems.",
+      "experiences": "The learner is guided to: discuss pressure cooker refrigerator; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply pressure cooker refrigerator in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Problem on quantity of heat (Q=MC Q=MC",
+      "code": "8.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problem on quantity of heat (q=mc q=mc; b) apply problem on quantity of heat (q=mc q=mc in solving problems.",
+      "experiences": "The learner is guided to: discuss problem on quantity of heat (q=mc q=mc; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problem on quantity of heat (q=mc q=mc in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Project work",
+      "code": "8.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain project work; b) apply project work in solving problems.",
+      "experiences": "The learner is guided to: discuss project work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply project work in real life?"
+    },
+    {
+      "strand": "QUANTITY OF HEAT",
+      "subStrand": "Construct a charcoal refrigerator cooler)",
+      "code": "8.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construct a charcoal refrigerator cooler); b) apply construct a charcoal refrigerator cooler) in solving problems.",
+      "experiences": "The learner is guided to: discuss construct a charcoal refrigerator cooler); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construct a charcoal refrigerator cooler) in real life?"
+    },
+    {
+      "strand": "GAS LAWS",
+      "subStrand": "Boyles law Charles law pressure law, absolute zero",
+      "code": "9.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain boyles law charles law pressure law, absolute zero; b) apply boyles law charles law pressure law, absolute zero in solving problems.",
+      "experiences": "The learner is guided to: discuss boyles law charles law pressure law, absolute zero; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply boyles law charles law pressure law, absolute zero in real life?"
+    },
+    {
+      "strand": "GAS LAWS",
+      "subStrand": "Kelvin scale of temperature",
+      "code": "9.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kelvin scale of temperature; b) apply kelvin scale of temperature in solving problems.",
+      "experiences": "The learner is guided to: discuss kelvin scale of temperature; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kelvin scale of temperature in real life?"
+    },
+    {
+      "strand": "GAS LAWS",
+      "subStrand": "Gas laws and kinetic theory of gases",
+      "code": "9.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gas laws and kinetic theory of gases; b) apply gas laws and kinetic theory of gases in solving problems.",
+      "experiences": "The learner is guided to: discuss gas laws and kinetic theory of gases; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gas laws and kinetic theory of gases in real life?"
+    },
+    {
+      "strand": "GAS LAWS",
+      "subStrand": "Problems on gas laws including PV/T constant)",
+      "code": "9.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on gas laws including pv/t constant); b) apply problems on gas laws including pv/t constant) in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on gas laws including pv/t constant); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on gas laws including pv/t constant) in real life?"
+    }
+  ],
+  "driveId": "1nhZut6NhVuAK7gHZLzEsz8z2GSSWy82s",
+  "pages": 8,
+  "harvestedAt": "2026-09-03T06:57:24.571Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
