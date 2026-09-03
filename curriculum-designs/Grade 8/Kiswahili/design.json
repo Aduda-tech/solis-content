@@ -1,0 +1,533 @@
+{
+  "grade": "Grade 8",
+  "learningArea": "Kiswahili",
+  "strandCount": 58,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza na Kujibu Mahojiano (Vipindi 2)",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vipengele vya kuzingatia katika kusikiliza mahojiano, b) kutambua vipengele vya kuzingatia katika kujibu mahojiano, c) kutumia vipengele vifaavyo katika kusikiliza na kujibu mahojiano ipasavyo, d) kuchangamkia kushiriki mahojiano katika miktadha mbalimbali.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua vipengele vya kuzingatia katika kusikiliza mahojiano,  kutambua vipengele vya kuzingatia katika kujibu mahojiano,  kusikiliza mahojiano kuhusu suala lengwa katika kifaa cha kidijitali na kutambua vipengele vya kusikiliza na kujibu mahojiano vilivyozingatiwa,  kuwawasilishia wenzake vipengele vya kusikiliza na kujibu mahojiano vilivyozingatiwa katika mahojiano aliyosikiliza katika kifaa cha kidijitali,  kushiriki mahojiano kuhusu suala lengwa akiwa na wenzake, mzazi au mlezi kwa kuzingatia vipengele vifaavyo vya kusikiliza na kujibu mahojiano.",
+      "inquiryQuestions": "Je, ni vipengele vipi vinavyofaa kuzingatiwa katika kusikiliza mahojiano?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufahamu Kifungu cha Simulizi (Vipindi 2)",
+      "code": "1.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kudondoa habari mahususi katika kifungu cha simulizi, b) kupanga matukio yanavyofuatana katika kifungu cha simulizi, c) kufanya utabiri na ufasiri kutokana na kifungu cha simulizi, d) kueleza maana ya msamiati katika kifungu cha simulizi, e) kuchangamkia kujibu maswali ya ufahamu ili kukuza uelewa wa habari.",
+      "experiences": "Mwanafunzi aelekezwe:  kusoma kifungu cha simulizi kwenye kitabu au kifaa cha kidijitali,  kudondoa habari mahususi (k.v. nani? nini? wapi? lini?) katika kifungu cha simulizi,  kupanga matukio yanavyofuatana katika kifungu cha simulizi,  kufanya utabiri na ufasiri kutokana na kifungu cha simulizi alichosoma,  kutambua msamiati (k.v. maneno na nahau) katika kifungu cha simulizi na kuueleza kwa kutumia kamusi,  kusoma vifungu vya simulizi mtandaoni au kwenye vitabu kuhusu suala lengwa,  kutambua na kueleza maana ya msamiati wa usafi wa sehemu za umma kulingana na muktadha wa matumizi katika vifungu vya",
+      "inquiryQuestions": "1. Je, tunapataje habari mahususi katika kifungu cha simulizi? 2. Je, ni mambo gani yanayoweza kukusaidia kuelewa kifungu cha simulizi?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Viakifishi  Alama ya hisi  Ritifaa (Vipindi 2)",
+      "code": "1.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua matumizi ya alama ya hisi na ritifaa katika matini, b) kutumia alama ya hisi na ritifaa ipasavyo katika matini, c) kuonea fahari matumizi yafaayo ya alama ya hisi na ritifaa katika matini.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua alama ya hisi na ritifaa katika maneno, sentensi au vifungu vya maneno kwenye matini andishi na za kidijitali, ● kuandika maneno, sentensi au vifungu vya maneno kuhusu kwa kutumia alama ya hisi na ritifaa ipasavyo kwenye kitabu au kifaa cha kidijitali, ● kuandika kwenye tarakilishi, kifungu kifupi kuhusu kwa kutumia alama ya hisi na ritifaa ipasavyo na kuwasambazia wenzake kwenye mtandao ili wakitolee maoni, ● kusahihisha kifungu kuhusu suala lengwa ambacho hakijatumia alama ya hisi na ritifaa ipasavyo, ● kuwasomea wenzake kifungu alichoandika na kuwataka waandike maneno, sentensi au vifungu vinavyofaa kutumia alama ya hisi na ritifaa,",
+      "inquiryQuestions": "1. Je, alama ya hisi huonyesha hisia zipi? 2. Je, alama ya ritifaa hutumiwa vipi katika maandishi?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Viwakilishi  Viwakilishi vya Nafsi,  Viwalikishi Vionyeshi  Viwakilishi vya Idadi (Vipindi 2)",
+      "code": "1.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi katika matini b) kutumia viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi ipasavyo katika matini, c) kuchangamkia matumizi yafaayo ya viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi ili kufanikisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kuchopoa viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi katika kapu maneno, chati, mti maneno au katika tarakilishi, ● kutaja viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi, ● kutambua viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi katika sentensi au vifungu kwenye vitabu au tarakilishi kwa kuvipigia mstari au kuvikolezea wino, ● kujaza nafasi katika sentensi au vifungu akitumia viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi ipasavyo ● kutunga sentensi au vifungu vifupi kwa kutumia viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi akizingatia masuala mtambuko mbalimbali likiwemo suala la usafi wa sehemu za umma,",
+      "inquiryQuestions": "Viwakilishi vina umuhimu gani katika mawasiliano?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza kwa Kina Sauti /g/ na /gh/ (Vipindi 2)",
+      "code": "2.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua sauti /g/ na /gh/ katika silabi na maneno, b) kutamka sauti /g/ na /gh/ ipasavyo katika silabi na maneno, c) kutumia maneno yenye sauti /g/ na /gh/ ipasavyo katika matini ili kuyatofautisha kimatamshi, d) kuchangamkia matamshi bora ya sauti /g/ na /gh/ katika mazungumzo ya kawaida.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua sauti /g/ na /gh/ katika maneno na silabi, ● kusikiliza maneno, sentensi au vitanzandimi vinavyohusisha sauti /g/ na /gh/ katika kifaa cha kidijitali na kutambua sauti hizo, ● kutafuta maneno yenye sauti /g/ na /gh/ katika matini andishi au za kidijitali na kuyatamka ipasavyo, ● kutunga sentensi akitumia maneno yenye sauti /g/ na /gh/ na kuziwasilisha darasani ili wenzake wazisikilize na kuzitathmini, ● kushiriki mazungumzo na mzazi au mlezi wake kuhusu suala lengwa kwa kuzingatia matamshi bora ya sauti /g/ na /gh/.",
+      "inquiryQuestions": "Ni maneno yapi yaliyo na sauti /g/ na /gh/?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Mapana Matini ya kujichagulia (Vipindi 2)",
+      "code": "2.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza ujumbe wa matini aliyosoma, b) kutambua msamiati uliotumiwa katika matini ya kujichagulia, c) kutumia ipasavyo msamiati unaotokana na matini aliyosoma, d) kujenga mazoea ya kusoma matini za miktadha mbalimbali ili kupanua mawanda ya fikra.",
+      "experiences": "Mwanafunzi aelekezwe:  kuteua matini kuhusu suala linalomvutia,  kusoma matini aliyojichagulia na kutambua vipengele vyake muhimu,  kueleza ujumbe wa matini aliyoisoma,  kuweka rekodi ya aliyosoma kwa kuyanakili katika kijitabu,  kutambua msamiati uliotumiwa katika matini ya kujichagulia  kutumia kamusi kutafuta maana za maneno asiyoyajua,  kutunga sentensi akitumia msamiati katika matini aliyoisoma,  kusakura mtandaoni na kujichagulia matini zaidi kuhusu suala lengwa kisha aisome,  kuwawasilishia wenzake kwa kifupi alichojifunza kutokana na matini aliyoisoma mtandaoni.",
+      "inquiryQuestions": "1. Unazingatia nini unapochagua matini ya kusoma? 2. Unapataje ujumbe katika matini uliyoisoma?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Barua ya Kirafiki Barua ya kirafiki ya kutoa shukrani (Vipindi 2)",
+      "code": "2.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza umuhimu wa barua ya kirafiki ya kutoa shukrani, b) kutambua vipengele vya kimuundo vya barua ya kirafiki ya kutoa shukrani, c) kuandika barua ya kirafiki ya kutoa shukrani kwa kuzingatia ujumbe, lugha na muundo ipasavyo, d) kukuza mazoea ya kuandika barua ya kirafiki ya kutoa shukrani katika maisha ya kila siku.",
+      "experiences": "Mwanafunzi aelekezwe:  kueleza umuhimu wa kuandika barua ya kirafiki ya kutoa shukrani kuhusu masuala mbalimbali,  kutambua ujumbe unaoafiki barua ya kirafiki ya kutoa shukrani,  kutambua lugha inayofaa kwa uandishi wa barua ya kirafiki ya kutoa shukrani,  kujadili vipengele vya kimuundo vya barua ya kirafiki ya kutoa shukrani (k.v. anwani ya mwandishi, tarehe,),  kuandika barua ya kirafiki ya kutoa shukrani daftarini au kwenye tarakilishi,  kuwasilisha insha yake darasani au kumsambazia mwenzake kupitia mtandaoni ili aitolee maoni,  kumwandikia mzazi, mlezi au mwenzake barua ya kirafiki ya kutoa shukrani na kuiwasilisha darasani.",
+      "inquiryQuestions": "1. Je, ni mambo gani yanayoweza kukufanya uandike barua ya kirafiki ya kutoa shukrani? 2. Barua ya kirafiki ya kutoa shukrani huwa na vipengele gani?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Viwakilishi  Viwalikishi vya Sifa,  Viwalikishi vya Pekee  Viwalikishi Viulizi (Vipindi 2)",
+      "code": "2.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua viwakilishi vya sifa, vya pekee na viulizi katika matini, b) kutumia viwakilishi vya sifa, vya pekee na viulizi ifaavyo katika matini, c) kuchangamkia kutumia viwakilishi vya sifa, vya pekee na viulizi katika mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kuchopoa viwakilishi vya sifa, vya pekee na viulizi katika kapu maneno, kadi maneno, chati au katika tarakilishi,  kutaja viwakilishi vya sifa, vya pekee na viulizi,  kutambua viwakilishi vya sifa, vya pekee na viulizi katika sentensi au vifungu kwenye vitabu au tarakilishi kwa kuvipigia mstari au kuvikolezea wino,  kujaza nafasi zilizoachwa katika sentensi na vifungu kwa kutumia viwakilishi vya sifa, vya pekee na viulizi vifaavyo,  kutunga sentensi au vifungu kuhusu suala lengwa kwa kutumia viwakilishi vya sifa, vya pekee na viuliziakizingatia masuala mtambuko mbalimbali likiwemo suala la matumizi yafaayo ya dawa,  kumtungia mzazi, mlezi au mwenzake",
+      "inquiryQuestions": "1. Kuna tofauti gani kati ya viwakilishi vya sifa na vivumishi vya sifa? 2. Viwakilishi vya vya pekee hutumiwa kwa namna gani?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Hadithi Mighani (Vipindi 2)",
+      "code": "3.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza dhana ya mighani ili kuipambanua, b) kujadili vipengele vya kuzingatia katika uwasilishaji wa mighani, c) kujadili ujumbe na lugha katika mighani, d) kusimulia mighani kwa kuzingatia vipengele vifaavyo vya uwasilishaji wa mighani, e) kuchangamkia kushiriki katika uwasilishaji wa mighani katika miktadha mbalimbali ya kijamii.",
+      "experiences": "Mwanafunzi aelekezwe:  kutafiti na kueleza maana ya mighani,  kutafiri na kueleza sifa za mighani,  kujadili na wenzake vipengele vya kuzingatia katika uwasilishaji wa mighani,  kushiriki na wenzake kujadili ujumbe na lugha katika mighani aliyosikiliza ikitambwa na wenzake, mgeni mwalikwa au katika kifaa cha kidijiali kama vile kinasasauti,  kusikiliza mighani ikisimuliwa katika vifaa vya kidijitali au kutoka kwa mgeni mwalikwa na kubainisha sifa na vipengele vya uwasilishaji vilivyozingatiwa,  kusimulia mighani kwa kuzingatia vipengele vifaavyo vya uwasilishaji,",
+      "inquiryQuestions": "Je, unaposimulia mighani unafaa kuzingatia vipengele gani?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusoma kwa Kina Tamthilia (Vipindi 2)",
+      "code": "3.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya tamthilia ili kuipambanua, b) kujadili sifa za tamthilia kama utanzu wa fasihi andishi, c) kuchangamkia usomaji wa tamthilia ili kukuza stadi ya kusoma.",
+      "experiences": "Mwanafunzi aelekezwe:  kutafiti na kueleza maana ya tamthilia,  kutafiti maktabani au mtandaoni kuhusu sifa za tamthilia,  kuwawasilishia wenzake utafiti wake darasani au kuwasambazia mtandaoni ili wautolee maoni,  kusoma tamthilia iliyoteuliwa na mwalimu na kutambua sifa zake,  kuwasilishia mzazi, mlezi au mwenzake sifa za tamthilia aliyosoma ili azitolee maoni.",
+      "inquiryQuestions": "Je, tamthilia uliyowahi kusoma ilikuwa inahusu nini?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya masimulizi (Vipindi 2)",
+      "code": "3.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kubaini wazo moja kuu la insha ya masimulizi atakayoandika, b) kuandika insha ya masimulizi inayoendeleza wazo moja kuu katika kila aya, c) kufurahia kuandika insha za masimulizi katika maisha ya kila siku akizingatia ujumbe uliotegemezwa kwenye wazo moja kuu.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua wazo moja kuu la simulizi kwenye matini andishi na za kidijitali au katika kielelezo cha insha za kubuni,  kuandika insha ya masimulizi kuhusu suala lengwa akizingatia wazo moja kuu,  kuliendeleza wazo moja kuu katika kila aya kupitia kwa wahusika katika simulizi,  kuandika kwenye tarakilishi, insha ya kubuni kuhusu suala lengwa akizingatia wazo moja kuu na kuwasambazia wenzake kwenye mtandao ili waitolee maoni,  kuwasomea wenzake insha aliyoandika na kuwataka kutambua wazo moja kuu.",
+      "inquiryQuestions": "Je, ni vipengele vipi vya kimsingi utakavyozingatia unapoandika insha ya kubuni?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Viwakilishi  Viwakilishi Vimilikishi  Viwakilishi Visisitizi (Vipindi 2)",
+      "code": "3.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua viwakilishi vimilikishi na visisitizi katika matini, b) kutumia viwakilishi vimilikishi na visisitizi ipasavyo katika matini, c) kuchangamkia kutumia viwakilishi vimilikishi na visisitizi katika sentensi na vifungu.",
+      "experiences": "Mwanafunzi aelekezwe:  kuchopoa viwakilishi vimilikishi na visisitizi katika kapu la maneno, orodha ya maneno, sentensi, vifungu au katika tarakilishi,  kutaja viwakilishi vimilikishi na visisitizi,  kutambua viwakilishi vimilikishi na visisitizi katika orodha ya maneno, sentensi, vifungu kwenye vitabu au tarakilishi kwa kuvipigia mstari au kuvikolezea wino,  kujaza nafasi kwenye sentensi au vifungu kwa kutumia viwakilishi vimilikishi na visisitizi ipasavyo,  kutunga sentensi au vifungu kuhusu suala lengwa kwa kutumia viwakilishi vimilikishi na visisitizi akizingatia masuala mtambuko mbalimbali likiwemo suala la dhiki zinazokumba wanyama,  kumsomea mzazi, mlezi au",
+      "inquiryQuestions": "1. Unazingatia nini unapotumia viwakilishi vimilikishi? 2. Je, viwakilishi visisitizi vina muhimu gani katika mawasiliano?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Hadithi Visasili (Vipindi 2)",
+      "code": "4.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza dhana ya visasili ili kuibanisha, b) kujadili vipengele vya kimsingi katika uwasilishaji wa visasili, c) kuwasilisha visasili kwa kuzingatia uwasilishaji ufaao, d) kufurahia uchambuzi na uwasilishaji wa visasili ili kujenga umahiri katika fasihi simulizi.",
+      "experiences": "Mwanafunzi aelekezwe:  kutafiti na kueleza maana ya visasili,  kufanya utafiti maktabani na mtandaoni kuhusu sifa za visasili,  kuwawasilishia wenzake matokeo ya utafiti wake wa sifa za visasili ili wazijadili,  kujadili vipengele vya kimsingi katika uwasilishaji wa visasili (k.v. ujumbe, wahusika na mbinu za lugha),  kusikiliza visasili katika vifaa vya kidijitali au kutoka kwa mgeni mwalikwa na kubainisha vipengele vya kimsingi vya uwasilishaji wa visasili,  kusimulia visasili kwa kuzingatia vipengele vya kimsingi vya visasili,  kujadili na mzazi au mlezi kuhusu visasili katika jamii yake,  kusimulia visasili akiwa na mzazi, mlezi au mwenzake akizingatia vipengele vya kimsingi vya",
+      "inquiryQuestions": "1. Je, uwasilishaji wa hadithi ya visasili huzingatia vipengele gani? 2. Visasili vina sifa gani?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufasaha (Vipindi 2)",
+      "code": "4.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) Kutambua vipengele vya kusoma kwa ufasaha ili kuvibainisha, b) kusoma kifungu kwa kuzingatia matamshi bora, c) kusoma kifungu kwa kasi ifaayo, d) kusoma kifungu kwa kutumia sauti ipasavyo, e) kusoma kifungu kwa kuambatanisha ishara zifaazo, f) kuchangamkia kusoma kifungu kwa kuzingatia vipengele vya usomaji.",
+      "experiences": "Mwanafunzi aelekezwe:  kujadiliana na wenzake vipengele vya kuzingatia katika kusoma makala kwa ufasaha,  kutazama na kusikiliza video inayoonyesha usomaji fasaha wa makala (k.v. hotuba, habari,),  kusoma kifungu kuhusu suala lengwa katika matini andishi au ya kidijitali akizingatia matamshi bora,  kusoma kifungu kuhusu suala lengwa kwa kuzingatia kasi ifaayo (maneno sahihi yasiyopungua 100 kwa dakika),  kusoma kifungu akizingatia sauti ifaayo,  kusoma kifungu kwa kuambatanisha ishara zifaazo panapofaa,  kushirikiana na mzazi au mlezi kusoma makala akizingatia vipengele vya usomaji bora.",
+      "inquiryQuestions": "1. Je, kusoma kwa ufasaha kuna umuhimu gani? 2. Unaposoma kifungu ni mambo yapi unayozingatia ili kufanikisha usomaji kwa ufasaha?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya masimulizi (Vipindi 2)",
+      "code": "4.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua mbinu za lugha katika insha ya masimulizi, b) kujadili umuhimu wa mbinu za lugha katika insha za masimulizi, c) kujadili wahusika na mandhari katika insha za masimulizi, d) kuandika insha ya masimulizi akizingatia mbinu za lugha, wahusika wanaobainika na mandhari ifaavyo, e) kufurahia kuandika insha ya masimulizi akizingatia lugha, wahusika na mandhari ifaavyo ili kukuza ubunifu.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua mbinu za lugha (k.v. tashbihi, sitiari, nahau,) katika vielelezo vya insha ya masimulizi,  kushirikiana na wenzake kujadili umuhimu wa lugha ya kiubunifu katika vielelezo vya insha za masimulizi,  kutafiti maktabani au mtandaoni kuhusu umuhimu wa mbinu za lugha katika insha ya masimulizi,  kuwasilisha utafiti wake darasani ili kujadiliana na wenzake,  kujadili na wenzake wahusika na mandhari katika vielelezo vya insha za masimulizi kutoka kwenye maandishi au vifaa vya kidijitali,  kuandika insha ya masimulizi akitumia lugha kiubunifu na kuwabainisha wahusika na mandhari akizingatia suala lengwa,  kuwasomea wenzake insha aliyoandika ili waitathmini,  kumsomea mzazi, mlezi au mwenzake",
+      "inquiryQuestions": "1. Je, ni vipengele vipi vya kimsingi utakavyozingati a unapoandika insha ya masimulizi? 2. Mbinu za lugha zina umuhimu gani katika uandishi wa insha ya masimulizi?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Nyakati na Hali  Hali ya mazoea  Hali timilifu (Vipindi 2)",
+      "code": "4.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya hali ya mazoea na timilifu, b) kubainisha vitenzi vilivyo katika hali ya mazoea na timilifu katika matini, c) kutumia hali ya mazoea na timilifu ipasavyo katika matini, d) kufurahia kutumia hali ya mazoea na timilifu ipasavyo ili kufanikisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kueleza maana ya hali ya mazoea na timilifu,  kusoma kifungu na kutambua hali iliyotumiwa,  kuchagua vitenzi vinavyoashiria hali ya mazoea na timilifu katika chati, sentensi, vifungu, na tarakilishi,  kujaza nafasi katika sentensi au vifungu kwa kutumia hali ya mazoea na timilifu ipasavyo,  kutunga sentensi au vifungu vifupi daftarini mwake au katika kifaa cha kidjitali kwa kutumia hali ya mazoea na timilifu akizingatia masuala mtambuko mbalimbali likiwemo suala la matumizi bora ya maliasili,  kuwasomea wenzake au kuwasambazia mtandaoni kazi yake ili ili waitolee maoni,  kumwasilishia mzazi, mlezi au mwenzake sentensi alizotunga katika hali ya mazoea na timilifu.",
+      "inquiryQuestions": "1. Je, unapotaka kuonyesha kwamba jambo hutokea mara kwa mara utatumia viambishi vipi? 2. Je, unapotaka kuonyesha kwamba jambo limefanyika na kukamilika utatumia viambishi vipi?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza Maagizo (Vipindi 2)",
+      "code": "5.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya maagizo ili kuyapambanua, b) kutambua maagizo katika miktadha mbalimbali, c) kujadili sifa za kimsingi za maagizo yafaayo, d) kutoa na kupokea maagizo ipasavyo, e) kuchangamkia kutoa na kufuata maagizo ifaavyo katika miktadha mbalimbali.",
+      "experiences": "Mwanafunzi aelekezwe:  kueleza maana ya maagizo ili kuipambanua,  kubainisha maagizo miongoni mwa kauli zilizoandikwa katika kadi, kapu maneno au vifaa vya kidijitali,  kutambua maagizo kutoka kwenye kitabu, chati au vifaa vya kidijitali,  kujadili na wenzake sifa za kimsingi za maagizo yafaayo,  kutafiti maktabani au mtandaoni kuhusu sifa za maagizo na kuwawasilishia wenzake darasani wazitathmini,  kuigiza utoaji na uitikiaji wa maagizo mbalimbali kwa uwazi,  kujadiliana na wenzake kuhusu aina mbalimbali za maagizo kulingana na miktadha ya jamii zao,  kusikiliza maagizo ya aina",
+      "inquiryQuestions": "1. Je, kwa nini mtu hupewa maagizo? 2. Maagizo ambayo umewahi kupewa yalikusaidia vipi?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufahamu (Vipindi 2)",
+      "code": "5.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kudondoa habari mahususi katika kifungu cha ufahamu, b) kueleza maana ya msamiati kulingana na muktadha wa kifungu cha ufahamu, c) kuchangamkia kusoma kwa ufahamu ili kukuza uelewa wa habari.",
+      "experiences": "Mwanafunzi aelekezwe:  kusoma kifungu kuhusu suala lengwa katika matini andishi au ya kidijitali,  kueleza habari za kifungu kwa ufupi,  kuchopoa msamiati wa suala lengwa na kuutia kwenye kapu la maneno,  kueleza maana za maneno kulingana na muktadha wa matumizi katika matini,  kusakura vifungu vya ufahamu kuhusu suala lengwa kwenye vifaa vya kidijitali,  kumsomea mzazi au mlezi kifungu kifupi kwa sauti na kueleza habari husika kwa ufupi.",
+      "inquiryQuestions": "Ni kwa njia gani tunaweza kudondoa habari mahususi kutokana na kifungu cha ufahamu?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha ya Maelekezo (Vipindi 2)",
+      "code": "5.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua insha ya maelekezo katika matini, b) kujadili sifa za insha ya maelekezo, c) kuandika insha ya maelekezo akizingatia anwani na mpangilio ufaao, d) kufurahia kuandika insha za maelekezo maishani.",
+      "experiences": "Mwanafunzi aelekezwe:  kutafiti na kueleza maana ya insha ya maelekezo,  kusoma kwenye kamusi au kifaa cha kidijitali maana ya insha ya maelekezo,  kutambua aina za insha za maelekezo kwenye maandishi au vifaa vya kidijitali,  kubainisha sifa za insha ya maelekezo kwa kuzingatia vielelezo vya insha kwenye matini za kimaandishi au za kidijitali (k.v. usahihi wa habari, mpangilio wa maelezo wenye mantiki, lugha sahili),  kushiriki kuandaa mpangilio ufaao wa hatua za insha ya maelekezo,  kuandika insha ya maelekezo akizingatia vipengele vyake muhimu (k.v. anwani na mpangilio mwafaka wa hatua) huku akitumia vipengele vya lugha,",
+      "inquiryQuestions": "Je, ni mambo gani unayozingatia unapoandika insha ya maelekezo?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Nyakati na Hali  Wakati uliopita hali timilifu  Wakati ujao hali timilifu (Vipindi 2)",
+      "code": "5.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya wakati uliopita hali timilifu na wakati ujao hali timilifu ili kuzipambanua, b) kutambua viambishi vya wakati uliopita hali timilifu na wakati ujao hali timilifu katika matini, c) kutumia wakati uliopita hali timilifu na wakati ujao hali timilifu ipasavyo katika matini, d) kuchangamkia kutumia wakati uliopita hali timilifu na wakati ujao hali timilifu ipasavyo ili kufanikisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza maana ya wakati uliopita hali timilifu na wakati ujao hali timilifu, ● kutambua viambishi vya wakati uliopita hali timilifu (li, me) na wakati ujao hali timilifu (ta, me), ● kutenga vitenzi vilivyo katika wakati uliopita hali timilifu na wakati ujao hali timilifu kutoka kwenye chati au mti maneno, ● kujaza nafasi katika sentensi au vifungu kwa kutumia wakati uliopita hali timilifu na wakati ujao hali timilifu ipasavyo, ● kutunga sentensi au vifungu vifupi kwa kutumia wakati uliopita hali timilifu na wakati ujao hali timilifu akizingatia masuala mtambuko mbalimbali likiwemo suala la majukumu ya kijinsia, ● kuandika kifungu kifupi kwenye kifaa cha kidijitali na kuwasambazia wenzake mtandaoni ili wakibadilishe",
+      "inquiryQuestions": "Kwa nini ni muhimu kujifunza nyakati na hali?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza kwa Kufasiri (Vipindi 2)",
+      "code": "6.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua ujumbe katika matini ya kusikiliza, b) kueleza uhusiano kati ya ujumbe wa matini na maisha ya kila siku, c) kujadili mafunzo yanayotokana na ujumbe wa matini, d) kujenga mazoea ya kuhusisha ujumbe katika matini na hali ya maisha ya kila siku.",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza masuala yanayozungumziwa katika matini aliyosikiliza kutoka kwa mwalimu, mgeni mwalikwa au katika vifaa vya kidijitali, ● kusikiliza matini katika vifaa vya kidijitali, kutoka kwa mwalimu au mgeni mwalikwa na kueleza uhusiano wa ujumbe wa matini hiyo na maisha ya kila siku, ● kujadili na wenzake mafunzo yanayotokana na ujumbe wa matini, ● kushirikiana na mzazi au mlezi kusikiliza na kuchanganua habari katika matini za aina mbalimbali kuhusu suala lengwa.",
+      "inquiryQuestions": "1. Ni ujumbe gani uliosikiliza katika matini ambao unafanana na mambo katika jamii yako? 2. Unajifunza nini kutokana na ujumbe katika matini ulizosikiliza?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Kina Tamthilia  Maudhui  Dhamira (Vipindi 2)",
+      "code": "6.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya maudhui na dhamira katika fasihi ili kuipambanua, b) kutambua maudhui na dhamira katika tamthilia, c) kujadili maudhui na dhamira katika tamthilia, d) kujenga mazoea ya usomaji wa kazi za kifasihi ili kujenga misingi ya uchambuzi.",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza maana ya maudhui katika fasihi ● kutambua maudhui mbalimbali katika tamthilia iliyoteuliwa na mwalimu, ● kujadili na wenzake maudhui ya tamthilia iliyoteuliwa na mwalimu, ● kuwawasilishia wenzake darasani uchambuzi wake kuhusu maudhui, ● kuandika maelezo mafupi kuhusu maudhui katika tamthilia iliyoteuliwa na mwalimu, ● kueleza maana ya dhamira katika fasihi, ● kutambua dhamira ya tamthilia iliyoteuliwa na mwalimu, ● kujadili na wenzake dhamira katika tamthilia, ● kuandika maelezo mafupi kuhusu dhamira ya tamthilia iliyoteuliwa na mwalimu, ● kuwawasilishia mzazi, mlezi au mwenzake uchambuzi wake kuhusu",
+      "inquiryQuestions": "Je, ni mambo gani muhimu yaliyo katika tamthilia ulizosoma?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya mdokezo (Vipindi 2)",
+      "code": "6.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya insha ya mdokezo ili kuipambanua, b) kubainisha aina za insha ya mdokezo, c) kujadili vipengele vya insha ya mdokezo, d) kuandika insha ya mdokezo kwa kuzingatia vipengele vya uandishi husika, e) kufurahia kuandika insha za mdokezo ili kukuza ubunifu.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua maana ya insha ya mdokezo, ● kujadili vipengele vya insha ya mdokezo atakachosimulia kutokana na mdokezo kwenye matini au kwenye kikundi, ● kubainisha aina za insha ya mdokezo (kuanzia na kumalizia) kwa kujadiliana na wenzake, ● kusoma kielelezo cha insha kutoka kwenye kitabu au kifaa cha kidijitali, ● kueleza vipengele vilivyozingatiwa katika uandishi wa insha ya mdokezo aliyosoma, ● kuandika insha ya mdokezo kwa kuzingatia vipengele vya uandishi wa insha za mdokezo, ● kuwasilisha insha yake darasani ili wenzake waitolee maoni, ● kuwasilishia mzazi au mlezi insha aliyoiandika ili aitolee maoni.",
+      "inquiryQuestions": "Je, ni vigezo vipi vinavyotumika katika kuandika insha za mdokezo?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Vivumishi  Vivumishi vya Sifa  Vivumishi Viashiria (Vipindi 2)",
+      "code": "6.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vivumishi vya sifa na viashiria/vionyeshi katika matini, b) kutumia vivumishi vya sifa na viashiria/vionyeshi ipasavyo katika matini, c) kuchangamkia matumizi ya vivumishi vya sifa na viashiria katika mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua vivumishi vya sifa na viashiria kwenye chati, kadi maneno au kapu maneno, ● kutenga vivumishi vya sifa na viashiria katika orodha ya maneno, sentensi au vifungu kwa kuvipigia mstari au kuvikolezea wino katika matini za kidijitali, ● kumtajia mwenzake vivumishi vya sifa na viashiria katika mazingira ya shuleni na ya nyumbani, ● kutafiti mtandaoni kuhusu vivumishi vya sifa na viashiria, ● kujaza nafasi katika sentensi au vifungu kwa kutumia vivumishi vya sifa na viashiria/vionyeshi ipasavyo, ● kutunga sentensi au vifungu vifupi kwa kutumia vivumishi vya sifa na viashiria akizingatia masuala mtambuko mbalimbali likiwemo suala la usalama nyumbani, ● kumsomea mzazi au mlezi kuhusu vivumishi vya sifa na viashiria",
+      "inquiryQuestions": "Je, kuna tofauti gani kati ya vivumishi vya sifa na vivumishi viashiria?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Usikilizaji Husishi (Vipindi 2)",
+      "code": "7.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya usikilizaji husishi ili kuubainisha, b) kujadili vipengele vya kuzingatia katik a usikilizaji husishi, c) kufanya mazungumzo yanayozingatia vipengele vya usikilizaji husishi, d) kuchangamkia kushiriki katika usikilizaji husishi ili kujenga uhusiano mwema na wengine.",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza maana ya usikilizaji husishi akishirikiana na wenzake, ● kujadili vipengele vya kuzingatia katika usikilizaji husishi, ● kusikiliza mazungumzo kuhusu suala lengwa kutoka kwenye vifaa vya kidijitali akizingatia na kutambua vipengele vya usikilizaji husishi vilivyozingatiwa, ● kumsikiliza mwenzake, mwalimu au mgeni mwalikwa akisema kauli au akisoma vifungu vifupi kuhusu suala lengwa na kufasiri hisia zake, ● kuigiza kikao cha utoaji nasaha akishirikiana na wenzake huku akizingatia vipengele vya usikilizaji husishi, ● kushiriki mazungumzo kuhusu suala lengwa na mzazi, mlezi au mwenzake huku akizingatia",
+      "inquiryQuestions": "Unaposhiriki katika usikilizaji husishi, utazingatia nini ili kufanikisha usikilizaji?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya maelezo (Vipindi 2)",
+      "code": "7.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua tamathali mbalimbali za lugha katika insha ya maelezo, b) kueleza jinsi tamathali mbalimbali za lugha zinavyochangia kujenga picha dhahiri katika insha ya maelezo, c) kuandika insha ya maelezo akitumia tamathali mbalimbali za lugha ili kujenga picha dhahiri, d) kufurahia kuandika insha za maelezo akitumia tamathali mbalimbali za lugha ili kujenga picha dhahiri.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua tamathali mbalimbali za lugha katika vielelezo vya insha za maelezo (k.v. tashbihi, sitiari, uhaishaji na tanakali sauti),  kutambua jinsi tamathali za lugha katika kielelezo cha insha ya maelezo zinavyochangia kujenga picha dhahiri ya kinachoelezewa akishirikiana na wenzake,  kupigia mstari tamathali mbalimbali zilizotumiwa kwenye kifungu na kutoa maelezo katika kitabu au kifaa cha kidijitali akishirikiana na wenzake,  kuandika insha ya maelezo akitumia tamathali mbalimbali za lugha ili kujenga picha dhahiri katika insha ya maelezo,  kuwasomea wenzake insha aliyoandika ili waitolee maoni.",
+      "inquiryQuestions": "Je, unatumia lugha ya aina gani wakati unapotaka kumweleza mtu kitu ili aweze kupata picha kamili?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Vivumishi  Vivumishi Vimilikishi  Vivumishi vya Idadi (Vipindi 2)",
+      "code": "7.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vivumishi vimilikishi na vya idadi katika matini, b) kutumia vivumishi vimilikishi na vya idadi ipasavyo katika matini, c) kuchangamkia matumizi ya vivumishi vimilikishi na vya idadi katika mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua vivumishi vimilikishi, na vya idadi kwenye chati, kadi maneno au kapu maneno akishirikiana na wenzake,  kutenga vivumishi vimilikishi na vya idadi katika orodha ya maneno, sentensi au vifungu kwa kuzipigia mstari au kuzikolezea wino katika matini za kidijitali au za kimaandishi,  kumtajia mwenzake vivumishi vimilikishi na vya idadi katika mazingira ya shuleni,  kujaza nafasi katika sentensi au vifungu kwa kutumia vivumishi vimilikishi na vya idadi ipasavyo,  kutunga sentensi au vifungu vifupi kwa kutumia vivumishi vimilikishi na vya idadi akizingatia masuala mtambuko mbalimbali likiwemo suala la kuhudumia wenye mahitaji maalum,  kumtajia mzazi au mlezi sentensi zenye vivumishi vimilikishi na vya idadi katika mazingira ya nyumbani.",
+      "inquiryQuestions": "Je, kuna tofauti gani kati ya vivumishi vimilikishi na vya idadi?"
+    },
+    {
+      "strand": "Kusikiliza na kuzungumza",
+      "subStrand": "Uzungumzaji wa Papo kwa Hapo (Vipindi 2)",
+      "code": "8.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya uzungumzaji wa papo kwa hapo ili kuupambanua, b) kutambua vipengele vya kuzingatia katika uzungumzaji wa papo kwa hapo, c) kutoa uzungumzaji wa papo kwa hapo kwa kuzingatia vipengele vifaavyo vya uzungumzaji, d) kuchangamkia kutoa uzungumzaji wa papo kwa hapo ili kufanikisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kueleza maana ya mazungumzo ya papo kwa hapo akishirikiana na wenzake,  kubainisha vipengele vya kuzingatia katika uzungumzaji wa papo kwa hapo,  kusikiliza uzungumzaji wa papo kwa hapo kuhusu suala lengwa yakitolewa na mwalimu, wenzake, mgeni mwalimu au kutoka kwenye vifaa vya kidijitali na kutathmini vipengele vya uwasilishaji vilivyotumika,  kushiriki katika uzungumzaji wa papo kwa hapo akizingatia vipengele vifaavyo,  kubuni uzungumzaji mwepesi wa papo kwa hapo kuhusu suala lengwa akizingatia vipengele vifaavyo na kuwawasilishia wenzake ili wautathmini.",
+      "inquiryQuestions": "Unazingatia mambo gani ili kufanikisha uzungumzaji wa papo kwa hapo?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Viakifishi  Alama za Mtajo  mshazari (Vipindi 2)",
+      "code": "8.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua matumizi ya alama za mtajo na mshazari katika matini, b) kutumia alama za mtajo na mshazari ipasavyo katika matini, c) kufurahia matumizi yafaayo ya alama za mtajo na mshazari katika matini.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua matumizi ya alama za mtajo na mshazari kwenye matini andishi au za kidijitali,  kuandika maneno, sentensi au vifungu vya maneno kwa kutumia alama za mtajo na mshazari ipasavyo,  kuandika kwenye kifaa cha kidijitali kifungu kifupi kuhusu suala lengwa akitumia alama za mtajo na mshazari ipasavyo na kuwasambazia wenzake kwenye mtandao ili wakitolee maoni,  kushirikiana na wenzake kusahihisha kifungu ambacho hakijatumia alama za mtajo na mshazari ipasavyo,  kuwasomea wenzake kifungu alichoandika na kuwataka waandike maneno, sentensi au vifungu vinavyostahili kuwa na alama za mtajo na mshazari,  kushirikiana na mzazi au mlezi kutafiti mtandaoni au kwenye vitabu",
+      "inquiryQuestions": "1. Je, alama za mtajo hutumiwa vipi katika maandishi? 2. Je, alama ya mshazari hutumiwa vipi katika maandishi?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Ngeli na Upatanisho wa Kisarufi  Ngeli ya I-ZI  Ngeli ya I-I (Vipindi 2)",
+      "code": "8.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua viambishi vya upatanisho wa kisarufi vya ngeli I-ZI na I-I katika sentensi, b) kutambua nomino za ngeli ya I-ZI na I-I katika matini, c) kutumia nomino za ngeli I-ZI na I-I katika matini kwa kuzingatia upatanisho ufaao wa kisarufi, d) kuchangamkia kutumia nomino za ngeli ya I-ZI na I-I ipasavyo katika sentensi na vifungu ili kuimarisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua viambishi vya upatanisho wa kisarufi vya ngeli ya I-ZI na I-I katika sentensi na mafungu ya maneno,  kujaza nafasi katika sentensi au vifungu kwa kuzingatia upatanisho wa kisarufi wa ngeli ya I-ZI na I-I,  kuchopoa nomino za ngeli I-ZI na I-I kwenye chati, kadi maneno, kapu maneno au katika tarakilishi,  kutaja majina ya vitu katika mazingira ya shuleni yaliyo katika ngeli ya I-ZI na I-I,  kutenga nomino za ngeli ya I-ZI na I-I katika orodha ya nomino, sentensi au vifungu kwenye vitabu, tarakilishi, chati kwa kuzikolezea wino au kuzipigia mstari,  kutunga sentensi au vifungu vyenye upatanisho ufaao wa kisarufi kwa kutumia nomino za ngeli ya I-ZI na I-I akizingatia masuala mtambuko mbalimbali likiwemo suala la uhalifu",
+      "inquiryQuestions": "1. Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya I-ZI? 2. Ni majina yapi unayojua ya ngeli ya I-I?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza kwa Kina  Sauti /ch/  Sauti /sh/ (Vipindi 2)",
+      "code": "9.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua sauti /ch/ na /sh/katika silabi na maneno, b) kutamka sauti /ch/ na /sh/ipasavyo katika silabi na maneno, c) kutumia maneno yenye sauti /ch/ na /sh/ipasavyo katika matini ili kuyatofautisha kimatamshi, d) kuchangamkia matamshi bora ya sauti /ch/ na /sh/katika mazungumzo ya kawaida ili kufanikisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua sauti /ch/ na /sh/katika maneno na silabi akishirikiana na wenzake,  kutambua maneno yenye sauti / ch/ na /gh/ katika matini andishi au za kidijitali na kuyatamka ipasavyo,  kutunga vitanzandimi vyenye maana akitumia sauti /ch/ na /sh/na kujirekodi kwa kutumia kifaa cha kidijitali,  kusikiliza na wenzake vitanzandimi alivyovirekodi ili kuvitathmini,  kumwasilishia mzazi au mlezi mazungumzo kuhusu suala lengwa kwa kuzingatia matamshi bora ya sauti /ch/ na /sh/.",
+      "inquiryQuestions": "Ni maneno yapi unayoyajua yaliyo na sauti /ch/ na /sh/?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufahamu Kifungu cha Kushawishi (Vipindi 2)",
+      "code": "9.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua habari mahususi katika kifungu cha ufahamu cha kushawishi, b) kutabiri matukio katika kifungu cha ufahamu cha kushawishi, c) kueleza maana ya msamiati na vifungu vya maneno katika kifungu cha ufahamu cha kushawishi, d) kujadili ushawishi katika kifungu cha ufahamu cha kushawishi, e) kuchangamkia usomaji wa ufahamu shawishi ili kukuza hamu ya ujifunzaji.",
+      "experiences": "Mwanafunzi aelekezwe:  kusoma ufahamu wa kifungu cha kushawishi kutoka kwa vitabu au vifaa vya kidijitali na kudondoa habari mahususi (k.v. nani, nini, wapi, lini),  kutabiri matukio katika kifungu cha ufahamu cha kushawishi akishirikiana na wenzake,  kueleza maana ya msamiati kuhusu suala lengwa (k.v. maneno na nahau) katika kifungu cha ufahamu cha kushawishi na kuueleza kwa kutumia kamusi akishirikiana na wenzake,  kujadili ushawishi katika kifungu cha ufahamu akishirikiana na wenzake,  kuwawasilishia wenzake kazi yake ili wamtolee maoni.",
+      "inquiryQuestions": "Ni kwa njia gani tunaweza kutambua ujumbe wenye lengo la kushawishi katika habari?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya masimulizi (Vipindi 2)",
+      "code": "9.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vipengele vinavyozingatiwa kujenga wazo katika insha ya masimulizi, b) kujadili vipengele vinavyojenga wazo katika aya kuhusu insha ya masimulizi, c) kuandika insha ya masimulizi akikuza wazo katika aya ipasavyo, d) kufurahia utunzi wa insha za masimulizi zenye mpangilio mzuri wa wazo.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua vipengele vinavyozingatiwa kujenga wazo (k.v. mada, utangulizi, kati, hitimisho) katika insha ya masimulizi katika matini za kimaandishi na za kidijitali,  kutambua ukuzaji wa wazo katika kila aya ya insha ya masimulizi katika matini za kimaandishi au za kidijitali,  kueleza jinsi wazo lilivyokuzwa katika kila aya ya insha ya masimulizi (k.v. kila wazo kuu kuwa katika aya yake, kutoa maelezo toshelevu kwa kila hoja kuu katika aya yake, kuepuka urudiaji au uchanganyaji wa hoja katika aya),  kushirikiana na wenzake kujadili vipengele vinavyojenga mawazo,  kuandika vidokezo vya insha vinavyozingatia ukuzaji wa wazo katika kila aya,  kuandika insha ya masimulizi akizingatia ukuzaji wa wazo katika kila aya na vipengele vinavyojenga",
+      "inquiryQuestions": "Je, unawezaje kulikuza wazo vizuri katika insha ya masimulizi?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Ngeli na Upatanisho wa Kisarufi  Ngeli ya U-U  Ngeli ya U-YA (Vipindi 2)",
+      "code": "9.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua viambishi vya upatanisho wa kisarufi wa ngeli ya U-U na U-YA katika sentensi, b) kutambua nomino za ngeli ya ya U-U na U-YA katika matini, c) kutumia nomino za ngeli ya U-U na U-YA katika matini kwa kuzingatia upatanisho ufaao wa kisarufi, d) kuchangamkia kutumia nomino katika ngeli ya U-U na U-YA ipasavyo ili kuimarisha umilisi wa lugha.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua viambishi vya upatanisho wa kisarufi vya ngeli ya U-U na U-YA katika sentensi na vifungu vya maneno,  kujaza nafasi katika sentensi au vifungu kwa kuzingatia upatanisho wa kisarufi wa ngeli ya U-U na U-YA,  kuchopoa nomino za ngeli ya U-U na U-YA kwenye chati, kadi maneno, kapu maneno au katika tarakilishi,  kutaja majina ya vitu katika mazingira ya shuleni yaliyo katika ngeli ya U-U na U-YA,  kutenga nomino za ngeli ya U-U na U-YA katika orodha ya nomino, sentensi au vifungu kwenye vitabu, tarakilishi, chati kwa kuzikolezea wino au kuzipigia mstari,  kutunga sentensi au vifungu vifupi",
+      "inquiryQuestions": "1. Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya U-U? 2. Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya U-YA?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Hadithi  Hurafa  Hekaya (Vipindi 2)",
+      "code": "10.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya hurafa na hekaya ili kuzibainisha, b) kueleza ujumbe katika hurafa na hekaya, c) kujadili vipengele vya uwasilishaji wa hurafa na hekaya, d) kusimulia hurafa na hekaya kwa kuzingatia vipengele vya uwasilishaji, e) kufurahia hurafa na hekaya kama vipera vya fasihi simulizi.",
+      "experiences": "Mwanafunzi aelekezwe: ● kusikiliza kielelezo cha hadithi ya hurafa na hekaya kutoka kwa mwalimu, mgeni mwalikwa au kifaa cha kidijitali, ● kueleza maana ya hurafa na hekaya ili kuzibainisha akishirikiana na wenzake, ● kueleza ujumbe katika hurafa na hekaya, ● kujadili na mwenzake vipengele vya uwasilishaji wa hurafa na hekaya, ● kuwasilisha hurafa na hekaya kwa kuzingatia vipengele vya uwasilishaji (kiini cha hadithi, kiwango cha lugha, mpangilio wa matukio, sauti, ishara za mwili), ● kujirekodi akitamba hurafa na hekaya kwa kutumia vifaa vya kidijitali na kusikiliza, ● kushirikiana na mzazi au mlezi kutambua hurafa na hekaya kutoka kwa jamii yake na kujadili ujumbe",
+      "inquiryQuestions": "1. Je, hadithi ambayo umewahi kusikiliza ilihusu wanyama gani? 2. Je, hurafa na hekaya hutofautianaje?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Kina Wahusika katika tamthilia (Vipindi 2)",
+      "code": "10.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua wahusika katika tamthilia aliyosoma, b) kujadili sifa za wahusika katika tamthilia, c) kujadili mafunzo yanayotokana na wahusika katika tamthilia, d) kujenga mazoea ya usomaji wa kazi za kifasihi ili kukuza hamu ya ujifunzaji.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua wahusika katika tamthilia aliyoisoma, ● kujadili na wenzake sifa za wahusika katika tamthilia iliyoteuliwa na mwalimu, ● kuigiza wahusika katika tamthilia akiwa na wenzake ili kukuza uelewa wa sifa zao, ● kueleza uhusiano kati ya wahusika katika tamthilia iliyoteuliwa na mwalimu, ● kutazama video kuhusu wahusika katika tamthilia aliyosoma, ● kuandaa muhtasari kuhusu sifa za wahusika katika video aliyotazama, ● kujadili mafunzo yanayotokana na matendo ya wahusika akishirikiana na wenzake.",
+      "inquiryQuestions": "1. Ni mambo yapi yanayokuelekez a kuwaelewa wahusika katika tamthilia? 2. Je, ni mambo gani tunayoweza kujifunza kutokana na wahusika wa tamthilia?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Barua ya Kuomba Msaada (Vipindi 2)",
+      "code": "10.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vipengele vya kimuundo vya barua rasmi ya kuomba msaada, b) kutambua ujumbe katika barua rasmi ya kuomba msaada, c) kuandika barua rasmi ya kuomba msaada kwa kuzingatia ujumbe, muundo na lugha ifaayo, d) kufurahia kujieleza ifaavyo kwa njia ya barua.",
+      "experiences": "Mwanafunzi aelekezwe: ● kujadili vipengele vya kimuundo vya barua rasmi ya kuomba msaada, ● kutambua ujumbe unaoafiki barua rasmi ya kuomba msaada, ● kujadili na wenzake kuhusu lugha inayofaa katika uandishi wa barua rasmi ya kuomba msaada, ● kuandika barua rasmi ya kuomba msaada kuhusu masuala mbalimbali na kuwasomea wenzake darasani ili waitolee maoni, ● kuandika barua ya kuomba msaada katika kifaa cha kidijitali na kuwasambazia wenzake kupitia mtandao ili waitolee maoni.",
+      "inquiryQuestions": "1. Je ni mambo gani yanayoweza kukufanya kuomba msaada? 2. Je, ni vipengele vipi unazingatia wakati unapoandika barua ya kuomba msaada?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Vinyume vya Vitenzi na Vielezi (Vipindi 2)",
+      "code": "10.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya kinyume ili kuibainisha, b) kutambua vinyume vya vitenzi na vielezi katika matini, c) kutumia vinyume vya vitenzi na vielezi ipasavyo katika matini, d) kuchangamkia kutumia vinyume vya vitenzi na vielezi katika mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kujadili maana ya kinyume akiwa na mwenzake, ● kutambua vinyume vya vitenzi na vielezi kwa kutumia kadi maneno, mti maneno, kapu maneno, ● kutambua vinyume vya vitenzi na vielezi katika matini (k.v. orodha ya maneno, sentensi na vifungu vya maneno), ● kuchagua sentensi zinazoashiria matumizi ya vinyume vya vitenzi na vielezi kutoka kwa sentensi mbalimbali kwenye vitabu, tarakilishi au chati, ● kujaza nafasi katika sentensi au vifungu kwa kutumia vinyume vya vitenzi na vielezi ipasavyo, ● kutunga sentensi au vifungu vifupi akitumia vinyume vya vitenzi na vielezi ipasavyo akizingatia masuala mtambuko mbalimbali likiwemo suala la kukabiliana na",
+      "inquiryQuestions": "1. Je, ni vinyume gani vya vitenzi unavyojua? 2. Je, unajua vinyume gani vya vielezi?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kuzungumza kwa Kutumia Vidokezo vya Hoja (Vipindi 2)",
+      "code": "11.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua umuhimu wa kuzungumza kwa kutumia vidokezo vya hoja, b) kutambua miktadha katika jamii ambapo kuzungumza kwa kutumia vidokezo vya hoja hufanywa, c) kujadili vipengele vya kuzingatia katika kuzungumza kwa kutumia vidokezo vya hoja, d) kutoa mazungumzo kwa kutumia vidokezo ifaavyo, e) kujenga mazoea ya kutumia vidokezo katika mazungumzo ili",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza maana ya kuzungumza kwa kutumia vidokezo vya hoja, ● kujadili na wenzake umuhimu wa kuzungumza kwa kutumia vidokezo vya hoja, ● kutambua miktadha katika jamii yake ambamo anahitaji kuzungumza kwa kutumia vidokezo vya hoja, ● kujadili na wenzake vipengele vya kuzingatia katika kuzungumza kwa kutumia vidokezo vya hoja, ● kusikiliza au kutazama aina mbalimbali za mazungumzo kutoka kwenye vifaa vya kidijitali, mgeni mwalikwa au wenzake na kubainisha vipengele vilivyozingatiwa, ● kuandaa vidokezo kuhusu suala lengwa, ● kuwawasilishia wenzake mazungumzo kuhusu suala lengwa kwa kutumia vidokezo alivyoandaa",
+      "inquiryQuestions": "Kwa nini ni muhimu kuandaa vidokezo unapozungumza?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Mapana Matini ya kujichagulia (Vipindi 2)",
+      "code": "11.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kuteua matini ifaayo ya kujisomea, b) kueleza ujumbe katika matini ya kujichagulia, c) kutambua maana za msamiati na matumizi mengine ya lugha katika matini ya kujichagulia, d) kujenga mazoea ya kusoma matini mbalimbali katika maisha ya kila siku.",
+      "experiences": "Mwanafunzi aelekezwe: ● kuteua matini ifaayo ya kujisomea, ● kueleza ujumbe wa matini ya kujichagulia aliyoisoma, ● kutambua msamiati uliotumiwa katika matini ya kujichagulia (k.v. ya usalama barabarani (mfano; tabia hatarishi kwa watumiaji wengine wa barabara, kutoa maoni na kuripoti kuhusu tabia hatarishi) ya kisayansi, ya kisiasa, ya kihistoria, ya kifasihi,), ● kutumia kamusi kutafuta maana za maneno asiyoyajua, ● kujenga rekodi ya msamiati aliojifunza katika kitabu, ● kutunga sentensi akitumia msamiati katika matini aliyoisoma, ● kusakura mtandaoni na kujichagulia matini ya ziada kisha aisome.",
+      "inquiryQuestions": "1. Unavutiwa zaidi na nini unaposoma makala ya kujichagulia? 2. Unazingatia mambo gani wakati wa kusoma makala ya kujichagulia?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya maelezo (Vipindi 2)",
+      "code": "11.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kujadili vipengele vya insha ya maelezo, b) kuandika insha ya maelezo ipasavyo kwa kuzingatia vipengele vyake, c) kufurahia kuandika insha za maelezo katika maisha ya kila siku.",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza maana ya insha ya maelezo kwa kurejelea matini mbalimbali, ● kutafiti maktabani au mtandaoni vipengele vya insha ya maelezo, ● kujadili na wenzake vipengele vya insha ya maelezo alivyotafiti mtandaoni, ● kuandika insha ya maelezo kwa kuzingatia vipengele vifaavyo, ● kuwasomea wenzake insha aliyoandika au kuwasambazia kwenye vifaa vya kidijitali ili waitolee maoni, ● kushirikiana na wenzake kusahihisha insha walizoandika na kutoleana maoni kwa amani na upendo.",
+      "inquiryQuestions": "Je, ni vipengele gani vya kuzingatia katika kuandika insha ya maelezo?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Mnyambuliko wa Vitenzi  Kutendeka  Kutendewa  Kutendatenda (Vipindi 2)",
+      "code": "11.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua kauli ya kutendeka, kutendewa na kutendatenda katika vitenzi, b) kutumia vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda ipasavyo katika matini, c) kuchangamkia kutumia vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda ipasavyo ili kuimarisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda mtawalia, ● kuteua vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda mtawalia, kwenye chati, kadi maneno, kapu maneno au tarakilishi, ● kutenga vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda katika sentensi na vifungu kwenye vitabu, tarakilishi, chati kwa kuvikolezea wino au kuvipigia mstari, ● kugeuza vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda, ● kujaza nafasi katika sentensi au vifungu kwa kutumia vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda",
+      "inquiryQuestions": "Kwa nini ni muhimu kujifunza kauli za vitenzi?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Kusikiliza kwa Makini (Vipindi 2)",
+      "code": "12.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza habari katika matini ya kusikiliza, b) kukadiria maana ya msamiati mahususi na vifungu katika matini ya kusikiliza, c) kudondoa habari muhimu katika matini aliyosikiliza kwa kufuata mpangilio ufaao, d) kujenga mazoea ya kufurahia kusikiliza vifungu vya kusikiliza ili kuimarisha uwezo wa kusikiliza.",
+      "experiences": "Mwanafunzi aelekezwe: ● kusikiliza matini kutoka kifaa cha kidijitali au mwalimu wake, ● kutambua hoja muhimu katika habari aliyosikiliza kuhusu suala lengwa kutoka kwa mwalimu, kifaa cha kidijitali, mgeni mwalikwa au wenzake, ● kueleza hoja muhimu aliyotambua kutoka matini aliyosikiliza, ● kukadiria maana ya msamiati mahususi na vifungu katika matini aliyosikiliza, ● kuelezea mwenzake maana ya msamiati katika matini ya kusikiliza, ● kudondoa habari muhimu katika matini aliyosikiliza kwa kufuata mpangilio ufaao.",
+      "inquiryQuestions": "Je, kwa nini ni muhimu kuwa na mpangilio ufaao wa hoja kutoka habari uliyosikiliza?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufasaha (Vipindi 2)",
+      "code": "12.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) Kueleza vipengele vya kusoma kwa ufasaha ili kuvibainisha, b) kusoma kifungu kwa kuzingatia matamshi bora, c) kusoma kifungu kwa kasi ifaayo, d) kusoma kifungu kwa kutumia sauti ipasavyo, e) kusoma kifungu kwa kuambatanisha ishara zifaazo, f) kuridhia kusoma makala kwa kuzingatia vipengele vinavyofanikisha mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kujadiliana na wenzake vipengele vya kuzingatia katika kusoma makala kwa ufasaha (matamshi bora, kasi ifaayo, sauti ifaayo, ishara zifaazo), ● kutazama vielelezo vya video za watu wanaosoma kwa ufasaha makala (k.v. hotuba, taarifa ya habari), ● kusoma kifungu kuhusu suala lengwa katika matini andishi au ya kidijitali akizingatia matamshi bora, ● kusoma kifungu kuhusu suala lengwa kwa kuzingatia kasi ifaayo (maneno sahihi yasiyopungua 105 kwa dakika), ● kusoma kifungu akizingatia sauti ifaayo (k.v. kiwango cha sauti na kiimbo), ● kusoma kifungu kwa kuambatanisha ishara zifaazo",
+      "inquiryQuestions": "Je, unaposoma kifungu unazingatia mambo gani ili kufanikisha usomaji?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kiuamilifu Hotuba ya kutoa ufafanuzi (Vipindi 2)",
+      "code": "12.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya hotuba ya kutoa ufafanuzi, b) kutambua hotuba ya kutoa ufafanuzi katika matini, c) kujadili ujumbe, lugha na muundo wa hotuba ya kutoa ufafanuzi, d) kuandika hotuba ya kutoa ufafanuzi kwa kuzingatia vipengele vyake, e) kuchangamkia nafasi ya hotuba ya kutoa ufafanuzi katika mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kueleza maana ya hotuba ya kutoa ufafanuzi, ● kujadiliana na wenzake kuhusu ujumbe (unaolenga kinachotolewa ufafanuzi), lugha (nyepesi inayoeleweka) na muundo ufaao wa hotuba ya kutoa ufafanuzi, ● kujadili na wenzake miktadha inayochochea hotuba ya kutoa ufafanuzi, ● kujadili na wenzake vidokezo vinavyoweza kutumiwa katika kuandika hotuba ya kutoa ufafanuzi, ● kuandika hotuba ya kutoa ufafanuzi kuhusu suala lengwa akizingatia ujumbe, lugha na muundo ufaao kisha awasambazie wenzake mtandaoni au kuwasomea darasani ili waitolee maoni, ● kuandika hotuba ya kutoa ufafanuzi kuhusu suala linaloathiri jamii yao kisha amsomee mzazi au mlezi ili aitolee maoni.",
+      "inquiryQuestions": "Ni mambo gani ya kuzingatia katika kutoa hotuba ya ufafanuzi?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Aina za Sentensi Sentensi changamano (Vipindi 2)",
+      "code": "12.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya sentensi changamano ili kuipambanua kutambua sentensi changamano katika matini, b) kutumia sentensi changamano ipasavyo katika matini, c) kuonea fahari matumizi ya sentensi changamano katika mawasiliano ya kila siku.",
+      "experiences": "Mwanafunzi aelekezwe:  kueleza maana ya sentensi changamano,  kutenga sentensi changamano katika orodha ya sentensi kwenye vitabu, chati au tarakilishi kwa kuzipigia mstari au kuzikolezea wino,  kubainisha sentensi changamano zinazojitokeza katika,  kutunga sentensi changamano ipasavyo akizingatia masuala mtambuko mbalimbali likiwemo suala la magonjwa yasiyoambukizwa,  kuwawasilishia wenzake darasani sentensi changamano alizotunga ili wazitathmini,  kumtungia mzazi au mlezi sentensi changamano zinazohusu shughuli katika mazingira ya nyumbani.",
+      "inquiryQuestions": "Ni nini tofauti kati ya sentensi changamano na aina zingine za sentensi unazozijua?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Hadithi Wahusika (Vipindi 2)",
+      "code": "13.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua wahusika katika hadithi, b) kuchambua sifa za wahusika katika hadithi, c) kueleza mafunzo kutokana na wahusika katika hadithi, d) kufurahia kushiriki katika uchambuzi wa wahusika katika hadithi.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua washiriki katika hadithi inayosimuliwa (k.v. fanani, hadhira), ● kutambua wahusika katika hadithi inayosimuliwa, ● kutambua sifa za wahusika katika hadithi aliyosikiliza kutoka kwa mwalimu, mgeni mwalikwa au vifaa vya kidijitali, ● kuchambua wahusika katika hadithi aliyosikiliza, ● kueleza mafunzo kutokana na wahusika katika hadithi, ● kutamba hadithi akiwa na wenzake huku wakichukua majukumu mbalimbali (k.v. fanani, hadhira), ● kutunga hadithi fupi ambayo ina wahusika wanyama kuhusu suala lengwa na kuwawasilishia wenzake darasani ili wachambue wahusika,",
+      "inquiryQuestions": "Je, hadithi uliyowahi kusimuliwa ilikuwa na wahusika gani?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Kina Tamthilia Mbinu za Lugha (Vipindi 2)",
+      "code": "13.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua mbinu za lugha katika tamthilia, b) kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia, c) kufurahia kuchanganua matumizi ya mbinu za lugha katika fasihi.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua mbinu za lugha kwenye tamthilia, ● kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia iliyoteuliwa na mwalimu, ● kuhakiki uwasilishaji wa wenzake kuhusu mbinu za lugha katika tamthilia na kuutolea maoni, ● kufanya utafiti maktabani au mtandaoni kuhusu matumizi ya mbinu za lugha katika tamthilia, ● kuwasilishia mzazi au mlezi uchambuzi wa matumizi ya mbinu za lugha katika tamthilia aliyosoma.",
+      "inquiryQuestions": "1. Tamthilia hutumia mbinu gani za lugha? 2. Mbinu za lugha zina umuhimu gani katika tamthilia?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Kubuni Insha ya maelezo (Vipindi 2)",
+      "code": "13.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vipengele vya insha ya maelezo kuhusu mahali, b) kujadili vipengele vya insha ya maelezo kuhusu mahali, c) kuandika insha ya maelezo inayodhihirisha sifa za mahali, d) kuonea fahari utoaji wa maelezo kamilifu kuhusu kitu au jambo.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua vigezo vya kimsingi katika uandishi wa insha ya maelezo, ● kujadiliana na wenzake kuhusu mada ya insha ya maelezo, ● kujadili na wenzake vipengele vya insha ya maelezo kutokana na kielelezo cha insha, ● kuandaa vidokezo vya insha ya maelezo kuhusu mahali panapolengwa katika insha ya maelezo, ● kutumia lugha inayojenga picha ya kinachoelezewa, ● kuandika insha ya maelezo inayotoa sifa za mahali akizingatia muundo ufaao na inayohusisha suala lengwa kisha awasomee wenzake darasani, ● kubuni insha ya maelezo inayotoa sifa za mahali kisha awasambazie wenzake mtandaoni ili waitolee maoni, ● kutolea insha za wenzake maoni kwa upendo, ● kumsomea mzazi au mlezi insha ya",
+      "inquiryQuestions": "Je, ni vigezo vipi vinavyotumika katika kuandika insha ya maelezo?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Ukanushaji kwa Kuzingatia Hali  Hali ya mazoea  Hali timilifu (Vipindi 2)",
+      "code": "13.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya ukanushaji ili kuupambanua, b) kutambua ukanushaji kwa kuzingatia hali ya mazoea na timilifu katika matini, c) kukanusha sentensi kwa kuzingatia hali ya mazoea na timilifu, d) kuchangamkia kukanusha sentensi katika hali ya mazoea na timilifu ili kukuza mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua hali ya mazoea na timilifu kutoka kwenye chati, mti maneno, vitabu au vifaa vya kidijitali,  kutambua ukanushaji wa sentensi katika hali ya mazoea na timilifu,  kuchagua sentensi zinazoonyesha ukanushaji wa hali ya mazoea na timilifu kutoka kwenye mchanganyiko wa sentensi kutoka kwenye vitabu, tarakilishi au chati kwa kuzikolezea wino au kuzipigia mstari,  kutunga sentensi au vifungu vifupi kwa kutumia hali ya mazoea na timilifu akizingatia masuala mtambuko mbalimbali likiwemo suala la heshima kwa tamaduni za wengine,  kukanusha sentensi au vifungu alivyotunga kisha awatumie",
+      "inquiryQuestions": "1. Je, unapotaka kukanusha sentensi unazingatia nini? 2. Je, ukanushaji wa hali ya mazoea na timilifu hutofautianaje?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Hadithi Matumizi ya Lugha (Vipindi 2)",
+      "code": "14.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua vipengele vya lugha vinavyotumika katika hadithi, b) kujadili umuhimu wa vipengele vya lugha vinavyotumika katika hadithi, c) kusimulia hadithi kwa kutumia vipengele vya lugha ipasavyo, d) kuonea fahari uchanganuzi wa lugha katika hadithi kama utungo wa fasihi simulizi.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua vipengele vya lugha kwa kusikiliza hadithi kutoka kwa mwalimu au vifaa vya kidijitali,  kujadili umuhimu wa vipengele vya lugha vilivyotumika katika hadithi walizosikiliza,  kusimulia hadithi kwa kutumia vipengele vya lugha,  kuwawasilishia wenzake hadithi aliyotunga ili watambue vipengele vya lugha vilivyotumika,  kushirikiana na mzazi au mlezi kusikiliza hadithi na kutambua vipengele vya lugha vilivyotumika.",
+      "inquiryQuestions": "1. Ni mbinu gani za lugha zinazotumika katika masimulizi ya hadithi? 2. Matumizi ya lugha katika hadithi yana umuhimu gani?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Kusoma kwa Ufahamu Kifungu cha Mjadala (Vipindi 2)",
+      "code": "14.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kudondoa habari mahususi katika kifungu cha mjadala, b) kutambua msamiati mpya katika kifungu cha mjadala, c) kuchambua mitazamo katika kifungu cha mjadala, d) kuridhia kusoma kifungu cha mjadala ili kukuza uelewa wa habari.",
+      "experiences": "Mwanafunzi aelekezwe:  kudondoa habari mahususi (k.v. nani, nini, wapi, lini) katika kifungu cha ufahamu cha mjadala,  kutambua msamiati mpya (k.v. maneno na nahau) katika kifungu cha ufahamu cha mjadala na kuueleza kwa kutumia kamusi,  kueleza maana ya msamiati uliotumiwa kwenye kifungu cha ufahamu cha mjadala na kutunga sentensi akiutumia,  kuchambua mitazamo iliyo katika kifungu cha ufahamu cha mjadala,  kuwawasilishia wenzake kazi yake ili waitolee maoni.",
+      "inquiryQuestions": "1. Utawezaje kutambua habari mahususi katika hadithi unayoisoma? 2. Je, unazingatia nini unaposoma vifungu vya ufahamu?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Insha za Maelekezo (Vipindi 2)",
+      "code": "14.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kujadili vipengele vya insha ya maelekezo, b) kuandika insha ya maelekezo akizingatia vipengele vyake muhimu, c) kufurahia kuandika insha za maelekezo akizingatia vipengele vyake muhimu.",
+      "experiences": "Mwanafunzi aelekezwe:  kujadili vipengele vya insha ya maelekezo (k.v. matumizi ya lugha, mpangilio ufaao wa maelekezo, uangavu, ubanaji),  kutambua maneno mwafaka, mpangilio mzuri wa sentensi na mpangilio sahihi wa hatua katika kielelezo cha insha ya maelekezo kutoka kwa mwalimu, kwenye maandishi (k.v. vitabu, chati) au vifaa vya kidijitali,  kuteua maneno yatakayosaidia kufanikisha maelekezo (k.v. vielezi vya mahali: kulia, kushoto; vitenzi k.v. pinda, elekea, kata; vielekezi vya kiasi: vijiko viwili, nyanya tatu),  kuandaa mpangilio ufaao wa sentensi zinazofuatana kulingana na maelekezo anayotaka kutoa (k.v. maelekezo ya mahali: Tembea hadi mwendo wa kilomita moja. Ukifika kwenye zahanati upinde kulia;",
+      "inquiryQuestions": "Je, unapoandika insha ya maelekezo unazingatia mambo gani?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Udogo wa Nomino (Vipindi 2)",
+      "code": "14.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua nomino katika hali ya udogo katika matini, b) kubadilisha nomino za hali ya wastani kuwa katika hali ya udogo, c) kutumia nomino katika hali ya udogo ipasavyo, d) kuonea fahari kutumia nomino katika hali ya udogo katika sentensi.",
+      "experiences": "Mwanafunzi:  kutambua nomino katika hali ya udogo kwenye orodha ya nomino, chati, kadi maneno, kapu maneno, sentensi, vifungu vya maneno au tarakilishi,  kutambua udogo katika maneno katika matini mbalimbali,  kuandika majina ya vifaa vya darasani katika udogo (k.v. kidawati, kijitabu),  kubadilisha nomino za hali ya wastani ziwe katika katika hali ya udogo akiwa na wenzake,  kujaza nafasi katika sentensi au vifungu kwa kutumia hali ya udogo ipasavyo,  kutunga sentensi au vifungu vifupi kwa kutumia nomino katika hali ya udogo akizingatia masuala mtambuko mbalimbali likiwemo suala la kuweka akiba,  kuwasilisha kazi yake darasani ili wenzake wazitathmini,  kumsomea mzazi au mlezi majina ya vitu vinavyopatikana nyumbani au",
+      "inquiryQuestions": "Je, ni mambo gani tunayozingatia tunapotumia nomino katika udogo?"
+    },
+    {
+      "strand": "Kusikiliza na Kuzungumza",
+      "subStrand": "Usikilizaji Husishi (Vipindi 2)",
+      "code": "15.1.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kueleza maana ya usikilizaji husishi, b) kutambua vipengele vya usikilizaji husishi katika matini, c) kujadili vipengele vya usikilizaji husishi ili kuvipambanua, d) kushiriki mazungumzo akizingatia vipengele vya usikilizaji husishi, e) kuchangamkia kushiriki katika kusikiliza husishi ili kuimarisha uwezo wa kufuatilia habari zinazoelezwa.",
+      "experiences": "Mwanafunzi aelekezwe:  kueleza maana ya usikilizaji husishi,  kutambua miktadha rasmi na isiyo rasmi ambamo kusikiliza husishi hutokea katika jamii yake,  kutambua vipengele vya kuzingatia katika kusikiliza husishi (k.v. kuwa makini, kuuliza maswali yasiyoelekeza, kuomba ufafanuzi, kumtazama mzungumzaji, kuelewa ujumbe anaotaka kukupitishia, kumhimiza kuzungumza badala ya kutoa ushauri, kutumia ishara zifaazo) kutoka kwenye mazungumzo mafupi,  kusikiliza mazungumzo kuhusu suala lengwa kutoka vifaa vya kidijitali kama vile vinasasauti na akizingatia, na kutambua vipengele vya kusikiliza husishi",
+      "inquiryQuestions": "1. Je, ni miktadha gani rasmi na isiyo rasmi ambapo usikilizaji husishi hutokea? 2. Ni vipengele gani unazingatia katika kusikiliza husishi?"
+    },
+    {
+      "strand": "Kusoma",
+      "subStrand": "Ufupisho (Vipindi 2)",
+      "code": "15.2.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo mwanafunzi aweze: a) kueleza kwa usahihi ujumbe wa aya za matini kwa sentensi mojamoja, b) kueleza kwa usahihi ujumbe wa aya zote za matini kwa aya moja, c) kuandika ufupisho unaozingatia mtazamo wa matini ya kufupishwa, d) kufurahia kufupisha ujumbe kwa usahihi katika miktadha mbalimbali.",
+      "experiences": "Mwanafunzi aelekezwe:  kujadili vipengele vya ufupisho (k.v. habari muhimu katika aya, lugha ya anayefupisha, kudumisha mtazamo wa kifungu, idadi ya maneno),  kueleza kwa usahihi ujumbe katika kila aya kwa kutumia sentensi mojamoja,  kueleza kwa usahihi ujumbe wa aya zote za matini kwa aya moja,  kujadili kuhusu jinsi ya kuandika ufupisho wa matini,  kuandika ufupisho unaozingatia mtazamo wa matini,  kumsomea mzazi au mlezi ufupisho alioufanya ili autolee maoni.",
+      "inquiryQuestions": "Je, unazingatia nini unapofupisha kifungu cha ufahamu?"
+    },
+    {
+      "strand": "Kuandika",
+      "subStrand": "Baruapepe ya Kiofisi (Vipindi 2)",
+      "code": "15.3.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua ujumbe unaoafiki baruapepe ya kiofisi, b) kutambua vipengele vya kimuundo vya baruapepe ya kiofisi, c) kutumia lugha inayofaa katika uandishi wa baruapepe ya kiofisi, d) kuandika baruapepe ya kiofisi kwa kuzingatia ujumbe, lugha na muundo ufaao, e) kujenga mazoea ya kuwasiliana kwa kuandika baruapepe ya kiofisi.",
+      "experiences": "Mwanafunzi aelekezwe:  kutambua ujumbe unaoafiki baruapepe ya kiofisi,  kujadili na wenzake vipengele vya kimuundo vya baruapepe ya kiofisi ,  kujadili na wenzake kuhusu lugha inayofaa katika uandishi wa baruapepe ya kiofisi,  kuandika baruapepe ya kiofisi kwenye tarakilishi na kumsambazia mwenzake kupitia mtandao ili aitolee maoni,  kumwandikia mwalimu wake baruapepe ya kiofisi ili aitathmini,  kumsomea mzazi au mlezi baruapepe aliyoiandika ili aitolee maoni.",
+      "inquiryQuestions": "Je, ulizingatia vipengele gani katika baruapepe uliyowahi kuandika?"
+    },
+    {
+      "strand": "Sarufi",
+      "subStrand": "Usemi Halisi na Usemi wa Taarifa (Vipindi 2)",
+      "code": "15.4.1",
+      "lessons": null,
+      "outcomes": "Kufikia mwisho wa mada ndogo, mwanafunzi aweze: a) kutambua usemi halisi na usemi wa taarifa katika matini, b) kujadili kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa kwa kuzingatia kanuni za kubadilisha usemi, c) kutumia usemi halisi na usemi wa taarifa ifaavyo, d) kuchangamkia matumizi ya usemi halisi na usemi wa taarifa katika mawasiliano.",
+      "experiences": "Mwanafunzi aelekezwe: ● kutambua usemi halisi na usemi wa taarifa katika matini, ● kujadili kanuni za kubadilisha usemi (k.v. wakati, nafsi, alama za uakifishi), ● kutambua kanuni za kimsingi za kubadilisha usemi halisi kuwa usemi wa taarifa, ● kubadilisha sentensi kutoka usemi halisi hadi usemi wa taarifa na usemi wa taarifa hadi usemi halisi, ● kutunga sentensi za usemi halisi na usemi wa taarifa akizingatia masuala mtambuko mbalimbali likiwemo suala la maadili ya kijamii, ● kuwasomea au kuwasambazia wenzake sentensi alizotunga ili wazitathmini.",
+      "inquiryQuestions": "1. Usemi halisi unatofautianaje na usemi wa taarifa? 2. Unazingatia nini unapobadilisha usemi?"
+    }
+  ],
+  "driveId": "1XkUFA7-VkJ-I_HGChUQJPXnR6PsSd2yz",
+  "harvestedAt": "2026-09-03T06:59:22.111Z",
+  "source": "KICD curriculum design"
+}
