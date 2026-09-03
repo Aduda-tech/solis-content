@@ -1,0 +1,824 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Physics",
+  "strandCount": 90,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Types of lenses",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of lenses; b) apply types of lenses in solving problems.",
+      "experiences": "The learner is guided to: discuss types of lenses; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of lenses in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Ray diagrams and terms used",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ray diagrams and terms used; b) apply ray diagrams and terms used in solving problems.",
+      "experiences": "The learner is guided to: discuss ray diagrams and terms used; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ray diagrams and terms used in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Image formed",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain image formed; b) apply image formed in solving problems.",
+      "experiences": "The learner is guided to: discuss image formed; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply image formed in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Ray construction",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ray construction; b) apply ray construction in solving problems.",
+      "experiences": "The learner is guided to: discuss ray construction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ray construction in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Characteristics,",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain characteristics,; b) apply characteristics, in solving problems.",
+      "experiences": "The learner is guided to: discuss characteristics,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply characteristics, in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Magnification",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain magnification; b) apply magnification in solving problems.",
+      "experiences": "The learner is guided to: discuss magnification; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply magnification in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Determination of focal length Experimental treatment required)",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain determination of focal length experimental treatment required); b) apply determination of focal length experimental treatment required) in solving problems.",
+      "experiences": "The learner is guided to: discuss determination of focal length experimental treatment required); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply determination of focal length experimental treatment required) in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Estimation methods",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain estimation methods; b) apply estimation methods in solving problems.",
+      "experiences": "The learner is guided to: discuss estimation methods; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply estimation methods in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Lens formula,",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain lens formula,; b) apply lens formula, in solving problems.",
+      "experiences": "The learner is guided to: discuss lens formula,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply lens formula, in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Lens-mirror method",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain lens-mirror method; b) apply lens-mirror method in solving problems.",
+      "experiences": "The learner is guided to: discuss lens-mirror method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply lens-mirror method in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Human eye, defects short sightedness only)",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain human eye, defects short sightedness only); b) apply human eye, defects short sightedness only) in solving problems.",
+      "experiences": "The learner is guided to: discuss human eye, defects short sightedness only); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply human eye, defects short sightedness only) in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Optical devices:",
+      "code": "1.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain optical devices:; b) apply optical devices: in solving problems.",
+      "experiences": "The learner is guided to: discuss optical devices:; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply optical devices: in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Simple microscope",
+      "code": "1.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple microscope; b) apply simple microscope in solving problems.",
+      "experiences": "The learner is guided to: discuss simple microscope; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple microscope in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Compound microscope,",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain compound microscope,; b) apply compound microscope, in solving problems.",
+      "experiences": "The learner is guided to: discuss compound microscope,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply compound microscope, in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "The camera",
+      "code": "1.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the camera; b) apply the camera in solving problems.",
+      "experiences": "The learner is guided to: discuss the camera; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the camera in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Problems involving the lens formula and the",
+      "code": "1.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems involving the lens formula and the; b) apply problems involving the lens formula and the in solving problems.",
+      "experiences": "The learner is guided to: discuss problems involving the lens formula and the; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems involving the lens formula and the in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "Project",
+      "code": "1.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain project; b) apply project in solving problems.",
+      "experiences": "The learner is guided to: discuss project; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply project in real life?"
+    },
+    {
+      "strand": "THIN LENSES",
+      "subStrand": "construct a telescope",
+      "code": "1.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construct a telescope; b) apply construct a telescope in solving problems.",
+      "experiences": "The learner is guided to: discuss construct a telescope; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construct a telescope in real life?"
+    },
+    {
+      "strand": "UNIFORM CIRCULAR MOTION",
+      "subStrand": "The radian, angular displacement, angular velocity",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the radian, angular displacement, angular velocity; b) apply the radian, angular displacement, angular velocity in solving problems.",
+      "experiences": "The learner is guided to: discuss the radian, angular displacement, angular velocity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the radian, angular displacement, angular velocity in real life?"
+    },
+    {
+      "strand": "UNIFORM CIRCULAR MOTION",
+      "subStrand": "Centripetal forces; F=mv2/r, F=mrw2",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain centripetal forces; f=mv2/r, f=mrw2; b) apply centripetal forces; f=mv2/r, f=mrw2 in solving problems.",
+      "experiences": "The learner is guided to: discuss centripetal forces; f=mv2/r, f=mrw2; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply centripetal forces; f=mv2/r, f=mrw2 in real life?"
+    },
+    {
+      "strand": "UNIFORM CIRCULAR MOTION",
+      "subStrand": "Application of uniform circular motion",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of uniform circular motion; b) apply application of uniform circular motion in solving problems.",
+      "experiences": "The learner is guided to: discuss application of uniform circular motion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of uniform circular motion in real life?"
+    },
+    {
+      "strand": "UNIFORM CIRCULAR MOTION",
+      "subStrand": "Centrifuge, vertical horizontal circles banked tracks ( calculation on banked tracks and conical",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain centrifuge, vertical horizontal circles banked tracks ( calculation on banked tracks and conical; b) apply centrifuge, vertical horizontal circles banked tracks ( calculation on banked tracks and conical in solving problems.",
+      "experiences": "The learner is guided to: discuss centrifuge, vertical horizontal circles banked tracks ( calculation on banked tracks and conical; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply centrifuge, vertical horizontal circles banked tracks ( calculation on banked tracks and conical in real life?"
+    },
+    {
+      "strand": "UNIFORM CIRCULAR MOTION",
+      "subStrand": "Problems solving",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems solving; b) apply problems solving in solving problems.",
+      "experiences": "The learner is guided to: discuss problems solving; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems solving in real life?"
+    },
+    {
+      "strand": "UNIFORM CIRCULAR MOTION",
+      "subStrand": "(apply F=mv2/r, F=mrw2)",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain (apply f=mv2/r, f=mrw2); b) apply (apply f=mv2/r, f=mrw2) in solving problems.",
+      "experiences": "The learner is guided to: discuss (apply f=mv2/r, f=mrw2); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply (apply f=mv2/r, f=mrw2) in real life?"
+    },
+    {
+      "strand": "FLOATING AND SINKING",
+      "subStrand": "Relative density",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain relative density; b) apply relative density in solving problems.",
+      "experiences": "The learner is guided to: discuss relative density; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply relative density in real life?"
+    },
+    {
+      "strand": "FLOATING AND SINKING",
+      "subStrand": "Application of Archimedes principle and relative density",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of archimedes principle and relative density; b) apply application of archimedes principle and relative density in solving problems.",
+      "experiences": "The learner is guided to: discuss application of archimedes principle and relative density; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of archimedes principle and relative density in real life?"
+    },
+    {
+      "strand": "FLOATING AND SINKING",
+      "subStrand": "Problems of Archimedes principle",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems of archimedes principle; b) apply problems of archimedes principle in solving problems.",
+      "experiences": "The learner is guided to: discuss problems of archimedes principle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems of archimedes principle in real life?"
+    },
+    {
+      "strand": "FLOATING AND SINKING",
+      "subStrand": "Project work",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain project work; b) apply project work in solving problems.",
+      "experiences": "The learner is guided to: discuss project work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply project work in real life?"
+    },
+    {
+      "strand": "FLOATING AND SINKING",
+      "subStrand": "Construct a hydrometer",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construct a hydrometer; b) apply construct a hydrometer in solving problems.",
+      "experiences": "The learner is guided to: discuss construct a hydrometer; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construct a hydrometer in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC SPECTRUM",
+      "subStrand": "Electromagnetic spectrum",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain electromagnetic spectrum; b) apply electromagnetic spectrum in solving problems.",
+      "experiences": "The learner is guided to: discuss electromagnetic spectrum; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply electromagnetic spectrum in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC SPECTRUM",
+      "subStrand": "Properties of electromagnetic waves",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain properties of electromagnetic waves; b) apply properties of electromagnetic waves in solving problems.",
+      "experiences": "The learner is guided to: discuss properties of electromagnetic waves; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply properties of electromagnetic waves in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC SPECTRUM",
+      "subStrand": "Detection of electromagnetic (e.m) radiations",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain detection of electromagnetic (e.m) radiations; b) apply detection of electromagnetic (e.m) radiations in solving problems.",
+      "experiences": "The learner is guided to: discuss detection of electromagnetic (e.m) radiations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply detection of electromagnetic (e.m) radiations in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC SPECTRUM",
+      "subStrand": "Applications of (e.m.) radiations",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain applications of (e.m.) radiations; b) apply applications of (e.m.) radiations in solving problems.",
+      "experiences": "The learner is guided to: discuss applications of (e.m.) radiations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply applications of (e.m.) radiations in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC SPECTRUM",
+      "subStrand": "Problems involving c=f",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems involving c=f; b) apply problems involving c=f in solving problems.",
+      "experiences": "The learner is guided to: discuss problems involving c=f; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems involving c=f in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Simple experiments to illustrate electromagnetic induction",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple experiments to illustrate electromagnetic induction; b) apply simple experiments to illustrate electromagnetic induction in solving problems.",
+      "experiences": "The learner is guided to: discuss simple experiments to illustrate electromagnetic induction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple experiments to illustrate electromagnetic induction in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Induction emf",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain induction emf; b) apply induction emf in solving problems.",
+      "experiences": "The learner is guided to: discuss induction emf; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply induction emf in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Faradays law,",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain faradays law,; b) apply faradays law, in solving problems.",
+      "experiences": "The learner is guided to: discuss faradays law,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply faradays law, in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Lenz's law",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain lenz's law; b) apply lenz's law in solving problems.",
+      "experiences": "The learner is guided to: discuss lenz's law; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply lenz's law in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Mutual induction",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mutual induction; b) apply mutual induction in solving problems.",
+      "experiences": "The learner is guided to: discuss mutual induction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mutual induction in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Alternating current generator, direct current generator",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain alternating current generator, direct current generator; b) apply alternating current generator, direct current generator in solving problems.",
+      "experiences": "The learner is guided to: discuss alternating current generator, direct current generator; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply alternating current generator, direct current generator in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Flemming right hand rule",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain flemming right hand rule; b) apply flemming right hand rule in solving problems.",
+      "experiences": "The learner is guided to: discuss flemming right hand rule; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply flemming right hand rule in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Transformers",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain transformers; b) apply transformers in solving problems.",
+      "experiences": "The learner is guided to: discuss transformers; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply transformers in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "application of electromagnetic induction",
+      "code": "5.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of electromagnetic induction; b) apply application of electromagnetic induction in solving problems.",
+      "experiences": "The learner is guided to: discuss application of electromagnetic induction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of electromagnetic induction in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Induction coils",
+      "code": "5.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain induction coils; b) apply induction coils in solving problems.",
+      "experiences": "The learner is guided to: discuss induction coils; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply induction coils in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "moving coil loudspeaker",
+      "code": "5.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain moving coil loudspeaker; b) apply moving coil loudspeaker in solving problems.",
+      "experiences": "The learner is guided to: discuss moving coil loudspeaker; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply moving coil loudspeaker in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Problems on transformers",
+      "code": "5.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on transformers; b) apply problems on transformers in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on transformers; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on transformers in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Project work",
+      "code": "5.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain project work; b) apply project work in solving problems.",
+      "experiences": "The learner is guided to: discuss project work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply project work in real life?"
+    },
+    {
+      "strand": "ELECTROMAGNETIC INDUCTION",
+      "subStrand": "Construction a simple transformer",
+      "code": "5.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construction a simple transformer; b) apply construction a simple transformer in solving problems.",
+      "experiences": "The learner is guided to: discuss construction a simple transformer; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construction a simple transformer in real life?"
+    },
+    {
+      "strand": "MAINS ELECTRICITY",
+      "subStrand": "sources of mains electricity",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sources of mains electricity; b) apply sources of mains electricity in solving problems.",
+      "experiences": "The learner is guided to: discuss sources of mains electricity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sources of mains electricity in real life?"
+    },
+    {
+      "strand": "MAINS ELECTRICITY",
+      "subStrand": "Power transmission",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain power transmission; b) apply power transmission in solving problems.",
+      "experiences": "The learner is guided to: discuss power transmission; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply power transmission in real life?"
+    },
+    {
+      "strand": "MAINS ELECTRICITY",
+      "subStrand": "Domestic wiring system",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain domestic wiring system; b) apply domestic wiring system in solving problems.",
+      "experiences": "The learner is guided to: discuss domestic wiring system; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply domestic wiring system in real life?"
+    },
+    {
+      "strand": "MAINS ELECTRICITY",
+      "subStrand": "Kw-hr, consumption and cost of electrical energy",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kw-hr, consumption and cost of electrical energy; b) apply kw-hr, consumption and cost of electrical energy in solving problems.",
+      "experiences": "The learner is guided to: discuss kw-hr, consumption and cost of electrical energy; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kw-hr, consumption and cost of electrical energy in real life?"
+    },
+    {
+      "strand": "MAINS ELECTRICITY",
+      "subStrand": "Problems in mains electricity",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems in mains electricity; b) apply problems in mains electricity in solving problems.",
+      "experiences": "The learner is guided to: discuss problems in mains electricity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems in mains electricity in real life?"
+    },
+    {
+      "strand": "MAINS ELECTRICITY",
+      "subStrand": "Excursion a field trip to a power station recommended",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain excursion a field trip to a power station recommended; b) apply excursion a field trip to a power station recommended in solving problems.",
+      "experiences": "The learner is guided to: discuss excursion a field trip to a power station recommended; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply excursion a field trip to a power station recommended in real life?"
+    },
+    {
+      "strand": "CATHODE RAYS AND CATHODE RAY TUBE",
+      "subStrand": "Production of cathode rays, cathodes ray tube",
+      "code": "7.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain production of cathode rays, cathodes ray tube; b) apply production of cathode rays, cathodes ray tube in solving problems.",
+      "experiences": "The learner is guided to: discuss production of cathode rays, cathodes ray tube; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply production of cathode rays, cathodes ray tube in real life?"
+    },
+    {
+      "strand": "CATHODE RAYS AND CATHODE RAY TUBE",
+      "subStrand": "Properties of cathodes rays",
+      "code": "7.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain properties of cathodes rays; b) apply properties of cathodes rays in solving problems.",
+      "experiences": "The learner is guided to: discuss properties of cathodes rays; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply properties of cathodes rays in real life?"
+    },
+    {
+      "strand": "CATHODE RAYS AND CATHODE RAY TUBE",
+      "subStrand": "C.R.O and TV tubes",
+      "code": "7.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain c.r.o and tv tubes; b) apply c.r.o and tv tubes in solving problems.",
+      "experiences": "The learner is guided to: discuss c.r.o and tv tubes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply c.r.o and tv tubes in real life?"
+    },
+    {
+      "strand": "CATHODE RAYS AND CATHODE RAY TUBE",
+      "subStrand": "uses of C.R.O",
+      "code": "7.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain uses of c.r.o; b) apply uses of c.r.o in solving problems.",
+      "experiences": "The learner is guided to: discuss uses of c.r.o; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply uses of c.r.o in real life?"
+    },
+    {
+      "strand": "CATHODE RAYS AND CATHODE RAY TUBE",
+      "subStrand": "Problems on C.R.O",
+      "code": "7.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on c.r.o; b) apply problems on c.r.o in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on c.r.o; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on c.r.o in real life?"
+    },
+    {
+      "strand": "X-RAYS",
+      "subStrand": "Production of X rays ,X-ray tubes",
+      "code": "8.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain production of x rays ,x-ray tubes; b) apply production of x rays ,x-ray tubes in solving problems.",
+      "experiences": "The learner is guided to: discuss production of x rays ,x-ray tubes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply production of x rays ,x-ray tubes in real life?"
+    },
+    {
+      "strand": "X-RAYS",
+      "subStrand": "Energy changes in an x-ray tube",
+      "code": "8.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain energy changes in an x-ray tube; b) apply energy changes in an x-ray tube in solving problems.",
+      "experiences": "The learner is guided to: discuss energy changes in an x-ray tube; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply energy changes in an x-ray tube in real life?"
+    },
+    {
+      "strand": "X-RAYS",
+      "subStrand": "Properties pf X-rays, soft X-rays and hard X-rays",
+      "code": "8.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain properties pf x-rays, soft x-rays and hard x-rays; b) apply properties pf x-rays, soft x-rays and hard x-rays in solving problems.",
+      "experiences": "The learner is guided to: discuss properties pf x-rays, soft x-rays and hard x-rays; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply properties pf x-rays, soft x-rays and hard x-rays in real life?"
+    },
+    {
+      "strand": "X-RAYS",
+      "subStrand": "Dangers of X-rays (Braggs law not required)",
+      "code": "8.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain dangers of x-rays (braggs law not required); b) apply dangers of x-rays (braggs law not required) in solving problems.",
+      "experiences": "The learner is guided to: discuss dangers of x-rays (braggs law not required); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply dangers of x-rays (braggs law not required) in real life?"
+    },
+    {
+      "strand": "X-RAYS",
+      "subStrand": "Problems on X-rays",
+      "code": "8.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on x-rays; b) apply problems on x-rays in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on x-rays; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on x-rays in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Photoelectric effect. protons, threshold frequency: work",
+      "code": "9.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain photoelectric effect. protons, threshold frequency: work; b) apply photoelectric effect. protons, threshold frequency: work in solving problems.",
+      "experiences": "The learner is guided to: discuss photoelectric effect. protons, threshold frequency: work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply photoelectric effect. protons, threshold frequency: work in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Factors affecting photoelectric emission",
+      "code": "9.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factors affecting photoelectric emission; b) apply factors affecting photoelectric emission in solving problems.",
+      "experiences": "The learner is guided to: discuss factors affecting photoelectric emission; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply factors affecting photoelectric emission in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Energy of photons",
+      "code": "9.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain energy of photons; b) apply energy of photons in solving problems.",
+      "experiences": "The learner is guided to: discuss energy of photons; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply energy of photons in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Einstein equation",
+      "code": "9.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain einstein equation; b) apply einstein equation in solving problems.",
+      "experiences": "The learner is guided to: discuss einstein equation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply einstein equation in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "hf=hf+1/2 mv2",
+      "code": "9.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain hf=hf+1/2 mv2; b) apply hf=hf+1/2 mv2 in solving problems.",
+      "experiences": "The learner is guided to: discuss hf=hf+1/2 mv2; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply hf=hf+1/2 mv2 in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Application of photoelectric effects",
+      "code": "9.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of photoelectric effects; b) apply application of photoelectric effects in solving problems.",
+      "experiences": "The learner is guided to: discuss application of photoelectric effects; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of photoelectric effects in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "photo emissive",
+      "code": "9.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain photo emissive; b) apply photo emissive in solving problems.",
+      "experiences": "The learner is guided to: discuss photo emissive; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply photo emissive in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "photo conductive",
+      "code": "9.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain photo conductive; b) apply photo conductive in solving problems.",
+      "experiences": "The learner is guided to: discuss photo conductive; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply photo conductive in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "photovoltaic cell",
+      "code": "9.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain photovoltaic cell; b) apply photovoltaic cell in solving problems.",
+      "experiences": "The learner is guided to: discuss photovoltaic cell; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply photovoltaic cell in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Problems on photoelectric emission",
+      "code": "9.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on photoelectric emission; b) apply problems on photoelectric emission in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on photoelectric emission; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on photoelectric emission in real life?"
+    },
+    {
+      "strand": "PHOTOELECTRIC EFFECT",
+      "subStrand": "Project work",
+      "code": "9.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain project work; b) apply project work in solving problems.",
+      "experiences": "The learner is guided to: discuss project work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply project work in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Radioactive decay",
+      "code": "10.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain radioactive decay; b) apply radioactive decay in solving problems.",
+      "experiences": "The learner is guided to: discuss radioactive decay; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply radioactive decay in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Half life",
+      "code": "10.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain half life; b) apply half life in solving problems.",
+      "experiences": "The learner is guided to: discuss half life; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply half life in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Types of radiations, properties of radiations",
+      "code": "10.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of radiations, properties of radiations; b) apply types of radiations, properties of radiations in solving problems.",
+      "experiences": "The learner is guided to: discuss types of radiations, properties of radiations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of radiations, properties of radiations in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Detectors of radiation",
+      "code": "10.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain detectors of radiation; b) apply detectors of radiation in solving problems.",
+      "experiences": "The learner is guided to: discuss detectors of radiation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply detectors of radiation in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Nuclear fission ,nuclear fusion",
+      "code": "10.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nuclear fission ,nuclear fusion; b) apply nuclear fission ,nuclear fusion in solving problems.",
+      "experiences": "The learner is guided to: discuss nuclear fission ,nuclear fusion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nuclear fission ,nuclear fusion in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Nuclear equations",
+      "code": "10.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nuclear equations; b) apply nuclear equations in solving problems.",
+      "experiences": "The learner is guided to: discuss nuclear equations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nuclear equations in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Hazards of radioactivity, precautions",
+      "code": "10.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain hazards of radioactivity, precautions; b) apply hazards of radioactivity, precautions in solving problems.",
+      "experiences": "The learner is guided to: discuss hazards of radioactivity, precautions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply hazards of radioactivity, precautions in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Applications",
+      "code": "10.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain applications; b) apply applications in solving problems.",
+      "experiences": "The learner is guided to: discuss applications; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply applications in real life?"
+    },
+    {
+      "strand": "RADIO ACTIVITY",
+      "subStrand": "Problems on half life (integration nor required",
+      "code": "10.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems on half life (integration nor required; b) apply problems on half life (integration nor required in solving problems.",
+      "experiences": "The learner is guided to: discuss problems on half life (integration nor required; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems on half life (integration nor required in real life?"
+    },
+    {
+      "strand": "ELECTRONICS",
+      "subStrand": "Conductors semi conductors, insulators",
+      "code": "11.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain conductors semi conductors, insulators; b) apply conductors semi conductors, insulators in solving problems.",
+      "experiences": "The learner is guided to: discuss conductors semi conductors, insulators; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply conductors semi conductors, insulators in real life?"
+    },
+    {
+      "strand": "ELECTRONICS",
+      "subStrand": "Intrinsic and extrinsic semi conductors",
+      "code": "11.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain intrinsic and extrinsic semi conductors; b) apply intrinsic and extrinsic semi conductors in solving problems.",
+      "experiences": "The learner is guided to: discuss intrinsic and extrinsic semi conductors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply intrinsic and extrinsic semi conductors in real life?"
+    },
+    {
+      "strand": "ELECTRONICS",
+      "subStrand": "Doping",
+      "code": "11.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain doping; b) apply doping in solving problems.",
+      "experiences": "The learner is guided to: discuss doping; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply doping in real life?"
+    },
+    {
+      "strand": "ELECTRONICS",
+      "subStrand": "p-n junction diode",
+      "code": "11.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain p-n junction diode; b) apply p-n junction diode in solving problems.",
+      "experiences": "The learner is guided to: discuss p-n junction diode; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply p-n junction diode in real life?"
+    },
+    {
+      "strand": "ELECTRONICS",
+      "subStrand": "Applications of diodes half wave rectification and full wave rectification",
+      "code": "11.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain applications of diodes half wave rectification and full wave rectification; b) apply applications of diodes half wave rectification and full wave rectification in solving problems.",
+      "experiences": "The learner is guided to: discuss applications of diodes half wave rectification and full wave rectification; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply applications of diodes half wave rectification and full wave rectification in real life?"
+    },
+    {
+      "strand": "ELECTRONICS",
+      "subStrand": "Project work",
+      "code": "11.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain project work; b) apply project work in solving problems.",
+      "experiences": "The learner is guided to: discuss project work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply project work in real life?"
+    }
+  ],
+  "driveId": "1nhZut6NhVuAK7gHZLzEsz8z2GSSWy82s",
+  "pages": 8,
+  "harvestedAt": "2026-09-03T06:57:24.571Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
