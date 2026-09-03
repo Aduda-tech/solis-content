@@ -1,0 +1,410 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Christian Religious Education",
+  "strandCount": 44,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Definitions of human sexuality, marriage and family",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain definitions of human sexuality, marriage and family; b) apply definitions of human sexuality, marriage and family in solving problems.",
+      "experiences": "The learner is guided to: discuss definitions of human sexuality, marriage and family; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definitions of human sexuality, marriage and family in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African understanding of human sexuality",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african understanding of human sexuality; b) apply traditional african understanding of human sexuality in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african understanding of human sexuality; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african understanding of human sexuality in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on human Sexuality",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on human sexuality; b) apply christian teaching on human sexuality in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on human sexuality; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on human sexuality in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African practices related to male/female relationships at various levels",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african practices related to male/female relationships at various levels; b) apply traditional african practices related to male/female relationships at various levels in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african practices related to male/female relationships at various levels; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african practices related to male/female relationships at various levels in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on male/female relationships at various levels",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on male/female relationships at various levels; b) apply christian teaching on male/female relationships at various levels in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on male/female relationships at various levels; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on male/female relationships at various levels in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on responsible sexual behaviour",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on responsible sexual behaviour; b) apply christian teaching on responsible sexual behaviour in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on responsible sexual behaviour; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on responsible sexual behaviour in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African understanding of marriage",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african understanding of marriage; b) apply traditional african understanding of marriage in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african understanding of marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african understanding of marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on marriage",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on marriage; b) apply christian teaching on marriage in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Preparation for marriage in both the traditional African society and Christian practice;",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain preparation for marriage in both the traditional african society and christian practice;; b) apply preparation for marriage in both the traditional african society and christian practice; in solving problems.",
+      "experiences": "The learner is guided to: discuss preparation for marriage in both the traditional african society and christian practice;; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply preparation for marriage in both the traditional african society and christian practice; in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Celibacy as an alternative to marriage",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain celibacy as an alternative to marriage; b) apply celibacy as an alternative to marriage in solving problems.",
+      "experiences": "The learner is guided to: discuss celibacy as an alternative to marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply celibacy as an alternative to marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African and Christian understanding of the family",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african and christian understanding of the family; b) apply traditional african and christian understanding of the family in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african and christian understanding of the family; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african and christian understanding of the family in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Value of responsible parenthood",
+      "code": "1.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain value of responsible parenthood; b) apply value of responsible parenthood in solving problems.",
+      "experiences": "The learner is guided to: discuss value of responsible parenthood; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply value of responsible parenthood in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Problems related to family life today",
+      "code": "1.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems related to family life today; b) apply problems related to family life today in solving problems.",
+      "experiences": "The learner is guided to: discuss problems related to family life today; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems related to family life today in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African and Christian approaches to problems related to family life today",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african and christian approaches to problems related to family life today; b) apply traditional african and christian approaches to problems related to family life today in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african and christian approaches to problems related to family life today; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african and christian approaches to problems related to family life today in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Definition of the term s ‘work ’ and ‘vocation ’",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain definition of the term s ‘work ’ and ‘vocation ’; b) apply definition of the term s ‘work ’ and ‘vocation ’ in solving problems.",
+      "experiences": "The learner is guided to: discuss definition of the term s ‘work ’ and ‘vocation ’; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definition of the term s ‘work ’ and ‘vocation ’ in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Traditional African attitude to work",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african attitude to work; b) apply traditional african attitude to work in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african attitude to work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african attitude to work in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Christian teaching on work",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on work; b) apply christian teaching on work in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on work in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "The roles of professional ethos, ethics and codes in society",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the roles of professional ethos, ethics and codes in society; b) apply the roles of professional ethos, ethics and codes in society in solving problems.",
+      "experiences": "The learner is guided to: discuss the roles of professional ethos, ethics and codes in society; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the roles of professional ethos, ethics and codes in society in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Some virtues related to various types of work",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain some virtues related to various types of work; b) apply some virtues related to various types of work in solving problems.",
+      "experiences": "The learner is guided to: discuss some virtues related to various types of work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply some virtues related to various types of work in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Moral duties and responsibilities of employers and employees",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain moral duties and responsibilities of employers and employees; b) apply moral duties and responsibilities of employers and employees in solving problems.",
+      "experiences": "The learner is guided to: discuss moral duties and responsibilities of employers and employees; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply moral duties and responsibilities of employers and employees in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Christian approaches to issues related to employment",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian approaches to issues related to employment; b) apply christian approaches to issues related to employment in solving problems.",
+      "experiences": "The learner is guided to: discuss christian approaches to issues related to employment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian approaches to issues related to employment in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Meaning of leisure",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of leisure; b) apply meaning of leisure in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of leisure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of leisure in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Traditional African understanding of leisure",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african understanding of leisure; b) apply traditional african understanding of leisure in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african understanding of leisure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african understanding of leisure in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Christian teaching on leisure",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on leisure; b) apply christian teaching on leisure in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on leisure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on leisure in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Importance of leisure",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance of leisure; b) apply importance of leisure in solving problems.",
+      "experiences": "The learner is guided to: discuss importance of leisure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance of leisure in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Various forms and uses of leisure",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain various forms and uses of leisure; b) apply various forms and uses of leisure in solving problems.",
+      "experiences": "The learner is guided to: discuss various forms and uses of leisure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply various forms and uses of leisure in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Misuse of leisure today",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain misuse of leisure today; b) apply misuse of leisure today in solving problems.",
+      "experiences": "The learner is guided to: discuss misuse of leisure today; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply misuse of leisure today in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Misuse/abuse of drugs",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain misuse/abuse of drugs; b) apply misuse/abuse of drugs in solving problems.",
+      "experiences": "The learner is guided to: discuss misuse/abuse of drugs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply misuse/abuse of drugs in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LEISURE",
+      "subStrand": "Christian criteria for evaluating the use of leisure",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian criteria for evaluating the use of leisure; b) apply christian criteria for evaluating the use of leisure in solving problems.",
+      "experiences": "The learner is guided to: discuss christian criteria for evaluating the use of leisure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian criteria for evaluating the use of leisure in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO WEALTH, MONEY AND POVERTY",
+      "subStrand": "Definition of the concepts wealth, money and poverty",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain definition of the concepts wealth, money and poverty; b) apply definition of the concepts wealth, money and poverty in solving problems.",
+      "experiences": "The learner is guided to: discuss definition of the concepts wealth, money and poverty; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definition of the concepts wealth, money and poverty in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO WEALTH, MONEY AND POVERTY",
+      "subStrand": "Traditional African understanding of wealth and poverty",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african understanding of wealth and poverty; b) apply traditional african understanding of wealth and poverty in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african understanding of wealth and poverty; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african understanding of wealth and poverty in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO WEALTH, MONEY AND POVERTY",
+      "subStrand": "Impact of the introduction of money economy in traditional African society",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain impact of the introduction of money economy in traditional african society; b) apply impact of the introduction of money economy in traditional african society in solving problems.",
+      "experiences": "The learner is guided to: discuss impact of the introduction of money economy in traditional african society; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply impact of the introduction of money economy in traditional african society in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO WEALTH, MONEY AND POVERTY",
+      "subStrand": "Christian teaching on money, wealth and poverty",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian teaching on money, wealth and poverty; b) apply christian teaching on money, wealth and poverty in solving problems.",
+      "experiences": "The learner is guided to: discuss christian teaching on money, wealth and poverty; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on money, wealth and poverty in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO WEALTH, MONEY AND POVERTY",
+      "subStrand": "Christian approaches to some issues related to wealth",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian approaches to some issues related to wealth; b) apply christian approaches to some issues related to wealth in solving problems.",
+      "experiences": "The learner is guided to: discuss christian approaches to some issues related to wealth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian approaches to some issues related to wealth in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Definition of the term s ‘law ’ ‘order’ and ‘justice’",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain definition of the term s ‘law ’ ‘order’ and ‘justice’; b) apply definition of the term s ‘law ’ ‘order’ and ‘justice’ in solving problems.",
+      "experiences": "The learner is guided to: discuss definition of the term s ‘law ’ ‘order’ and ‘justice’; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definition of the term s ‘law ’ ‘order’ and ‘justice’ in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Traditional African practices that promote law, order and justice",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain traditional african practices that promote law, order and justice; b) apply traditional african practices that promote law, order and justice in solving problems.",
+      "experiences": "The learner is guided to: discuss traditional african practices that promote law, order and justice; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african practices that promote law, order and justice in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Biblical teaching on law, order and justice",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain biblical teaching on law, order and justice; b) apply biblical teaching on law, order and justice in solving problems.",
+      "experiences": "The learner is guided to: discuss biblical teaching on law, order and justice; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply biblical teaching on law, order and justice in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Need for law, order and justice in the society",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain need for law, order and justice in the society; b) apply need for law, order and justice in the society in solving problems.",
+      "experiences": "The learner is guided to: discuss need for law, order and justice in the society; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply need for law, order and justice in the society in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Rights and duties of citizens",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain rights and duties of citizens; b) apply rights and duties of citizens in solving problems.",
+      "experiences": "The learner is guided to: discuss rights and duties of citizens; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply rights and duties of citizens in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Causes of social disorder and remedies",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain causes of social disorder and remedies; b) apply causes of social disorder and remedies in solving problems.",
+      "experiences": "The learner is guided to: discuss causes of social disorder and remedies; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply causes of social disorder and remedies in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "The role of Christians in transforming the social, economic and political life of the society",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the role of christians in transforming the social, economic and political life of the society; b) apply the role of christians in transforming the social, economic and political life of the society in solving problems.",
+      "experiences": "The learner is guided to: discuss the role of christians in transforming the social, economic and political life of the society; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the role of christians in transforming the social, economic and political life of the society in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO LAW, ORDER AND JUSTICE",
+      "subStrand": "Church - State relationship",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain church - state relationship; b) apply church - state relationship in solving problems.",
+      "experiences": "The learner is guided to: discuss church - state relationship; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply church - state relationship in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO SELECTED ISSUES RELATED TO MODERN SCIENCE,",
+      "subStrand": "Christian view on some issues related to science and technology",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain christian view on some issues related to science and technology; b) apply christian view on some issues related to science and technology in solving problems.",
+      "experiences": "The learner is guided to: discuss christian view on some issues related to science and technology; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian view on some issues related to science and technology in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO SELECTED ISSUES RELATED TO MODERN SCIENCE,",
+      "subStrand": "The Christian view on the effects of modern science and technology on the environment",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the christian view on the effects of modern science and technology on the environment; b) apply the christian view on the effects of modern science and technology on the environment in solving problems.",
+      "experiences": "The learner is guided to: discuss the christian view on the effects of modern science and technology on the environment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the christian view on the effects of modern science and technology on the environment in real life?"
+    }
+  ],
+  "driveId": "1AYQwPRx-WkMtQMUIhtTOGeJ35SsryLfa",
+  "pages": 16,
+  "harvestedAt": "2026-09-03T06:57:26.937Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": true
+}
