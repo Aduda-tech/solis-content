@@ -1,0 +1,536 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Biology",
+  "strandCount": 58,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "GENETICS",
+      "subStrand": "Concept of genetics",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain concept of genetics; b) apply concept of genetics in solving problems.",
+      "experiences": "The learner is guided to: discuss concept of genetics; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply concept of genetics in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Variation within plant and animal species",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain variation within plant and animal species; b) apply variation within plant and animal species in solving problems.",
+      "experiences": "The learner is guided to: discuss variation within plant and animal species; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply variation within plant and animal species in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Review of chromosomes",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain review of chromosomes; b) apply review of chromosomes in solving problems.",
+      "experiences": "The learner is guided to: discuss review of chromosomes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply review of chromosomes in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Brief mention of genes and DNA (Without details of molecular structure of genes and DNA)",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain brief mention of genes and dna (without details of molecular structure of genes and dna); b) apply brief mention of genes and dna (without details of molecular structure of genes and dna) in solving problems.",
+      "experiences": "The learner is guided to: discuss brief mention of genes and dna (without details of molecular structure of genes and dna); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply brief mention of genes and dna (without details of molecular structure of genes and dna) in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "First law of heredity",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain first law of heredity; b) apply first law of heredity in solving problems.",
+      "experiences": "The learner is guided to: discuss first law of heredity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply first law of heredity in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Mendel's experiments- monohybrid inheritance(3:1 ratio)",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mendel's experiments- monohybrid inheritance(3:1 ratio); b) apply mendel's experiments- monohybrid inheritance(3:1 ratio) in solving problems.",
+      "experiences": "The learner is guided to: discuss mendel's experiments- monohybrid inheritance(3:1 ratio); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mendel's experiments- monohybrid inheritance(3:1 ratio) in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Complete and incomplete dominance, back/ testcross",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain complete and incomplete dominance, back/ testcross; b) apply complete and incomplete dominance, back/ testcross in solving problems.",
+      "experiences": "The learner is guided to: discuss complete and incomplete dominance, back/ testcross; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply complete and incomplete dominance, back/ testcross in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Inheritance of ABO blood groups and Rh factor",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain inheritance of abo blood groups and rh factor; b) apply inheritance of abo blood groups and rh factor in solving problems.",
+      "experiences": "The learner is guided to: discuss inheritance of abo blood groups and rh factor; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply inheritance of abo blood groups and rh factor in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Sex determination in humans",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sex determination in humans; b) apply sex determination in humans in solving problems.",
+      "experiences": "The learner is guided to: discuss sex determination in humans; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sex determination in humans in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Linkage: sex linked genes, sex linked characteristics e.g. colour blindness, Haemophilia, Hairy ears",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain linkage: sex linked genes, sex linked characteristics e.g. colour blindness, haemophilia, hairy ears; b) apply linkage: sex linked genes, sex linked characteristics e.g. colour blindness, haemophilia, hairy ears in solving problems.",
+      "experiences": "The learner is guided to: discuss linkage: sex linked genes, sex linked characteristics e.g. colour blindness, haemophilia, hairy ears; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply linkage: sex linked genes, sex linked characteristics e.g. colour blindness, haemophilia, hairy ears in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Mutations",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mutations; b) apply mutations in solving problems.",
+      "experiences": "The learner is guided to: discuss mutations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mutations in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Types of mutations",
+      "code": "1.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of mutations; b) apply types of mutations in solving problems.",
+      "experiences": "The learner is guided to: discuss types of mutations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of mutations in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Causes and consequences of chromosomal mutations",
+      "code": "1.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain causes and consequences of chromosomal mutations; b) apply causes and consequences of chromosomal mutations in solving problems.",
+      "experiences": "The learner is guided to: discuss causes and consequences of chromosomal mutations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply causes and consequences of chromosomal mutations in real life?"
+    },
+    {
+      "strand": "GENETICS",
+      "subStrand": "Gene mutations",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gene mutations; b) apply gene mutations in solving problems.",
+      "experiences": "The learner is guided to: discuss gene mutations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gene mutations in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Meaning of evolution",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of evolution; b) apply meaning of evolution in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of evolution; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of evolution in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "The origin of life",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the origin of life; b) apply the origin of life in solving problems.",
+      "experiences": "The learner is guided to: discuss the origin of life; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the origin of life in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Special creation",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain special creation; b) apply special creation in solving problems.",
+      "experiences": "The learner is guided to: discuss special creation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply special creation in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Chemical evolution",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain chemical evolution; b) apply chemical evolution in solving problems.",
+      "experiences": "The learner is guided to: discuss chemical evolution; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply chemical evolution in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Evidence of organic evolution",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain evidence of organic evolution; b) apply evidence of organic evolution in solving problems.",
+      "experiences": "The learner is guided to: discuss evidence of organic evolution; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply evidence of organic evolution in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Fossil records",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fossil records; b) apply fossil records in solving problems.",
+      "experiences": "The learner is guided to: discuss fossil records; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fossil records in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Geographical distribution - Continental drift",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain geographical distribution - continental drift; b) apply geographical distribution - continental drift in solving problems.",
+      "experiences": "The learner is guided to: discuss geographical distribution - continental drift; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply geographical distribution - continental drift in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Comparative embryology",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain comparative embryology; b) apply comparative embryology in solving problems.",
+      "experiences": "The learner is guided to: discuss comparative embryology; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply comparative embryology in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Comparative anatomy",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain comparative anatomy; b) apply comparative anatomy in solving problems.",
+      "experiences": "The learner is guided to: discuss comparative anatomy; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply comparative anatomy in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Cell biology- occurrence of cell organelles and",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain cell biology- occurrence of cell organelles and; b) apply cell biology- occurrence of cell organelles and in solving problems.",
+      "experiences": "The learner is guided to: discuss cell biology- occurrence of cell organelles and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply cell biology- occurrence of cell organelles and in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Mechanisms of evolution",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mechanisms of evolution; b) apply mechanisms of evolution in solving problems.",
+      "experiences": "The learner is guided to: discuss mechanisms of evolution; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mechanisms of evolution in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Lamarck's theory (Brief mention)",
+      "code": "2.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain lamarck's theory (brief mention); b) apply lamarck's theory (brief mention) in solving problems.",
+      "experiences": "The learner is guided to: discuss lamarck's theory (brief mention); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply lamarck's theory (brief mention) in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Evolution by natural selection",
+      "code": "2.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain evolution by natural selection; b) apply evolution by natural selection in solving problems.",
+      "experiences": "The learner is guided to: discuss evolution by natural selection; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply evolution by natural selection in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Natural selection in action e.g. peppered moth",
+      "code": "2.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain natural selection in action e.g. peppered moth; b) apply natural selection in action e.g. peppered moth in solving problems.",
+      "experiences": "The learner is guided to: discuss natural selection in action e.g. peppered moth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply natural selection in action e.g. peppered moth in real life?"
+    },
+    {
+      "strand": "EVOLUTION",
+      "subStrand": "Resistance to drugs, pesticides and antibiotics",
+      "code": "2.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain resistance to drugs, pesticides and antibiotics; b) apply resistance to drugs, pesticides and antibiotics in solving problems.",
+      "experiences": "The learner is guided to: discuss resistance to drugs, pesticides and antibiotics; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply resistance to drugs, pesticides and antibiotics in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Meaning of stimulus, response and irritability",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of stimulus, response and irritability; b) apply meaning of stimulus, response and irritability in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of stimulus, response and irritability; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of stimulus, response and irritability in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Reception, response and coordination in plants",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reception, response and coordination in plants; b) apply reception, response and coordination in plants in solving problems.",
+      "experiences": "The learner is guided to: discuss reception, response and coordination in plants; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reception, response and coordination in plants in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Response to a variety of external stimuli",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain response to a variety of external stimuli; b) apply response to a variety of external stimuli in solving problems.",
+      "experiences": "The learner is guided to: discuss response to a variety of external stimuli; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply response to a variety of external stimuli in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Tropisms and tactic movements and their survival values",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tropisms and tactic movements and their survival values; b) apply tropisms and tactic movements and their survival values in solving problems.",
+      "experiences": "The learner is guided to: discuss tropisms and tactic movements and their survival values; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tropisms and tactic movements and their survival values in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Production of auxins and their effects on plant growth",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain production of auxins and their effects on plant growth; b) apply production of auxins and their effects on plant growth in solving problems.",
+      "experiences": "The learner is guided to: discuss production of auxins and their effects on plant growth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply production of auxins and their effects on plant growth in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Reception, responses and coordination in animals",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reception, responses and coordination in animals; b) apply reception, responses and coordination in animals in solving problems.",
+      "experiences": "The learner is guided to: discuss reception, responses and coordination in animals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reception, responses and coordination in animals in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Components of the nervous system in a mammal",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain components of the nervous system in a mammal; b) apply components of the nervous system in a mammal in solving problems.",
+      "experiences": "The learner is guided to: discuss components of the nervous system in a mammal; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply components of the nervous system in a mammal in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Structure and functions of the neurones",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain structure and functions of the neurones; b) apply structure and functions of the neurones in solving problems.",
+      "experiences": "The learner is guided to: discuss structure and functions of the neurones; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply structure and functions of the neurones in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Functions of major parts of human brain",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of major parts of human brain; b) apply functions of major parts of human brain in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of major parts of human brain; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of major parts of human brain in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Simple and conditioned reflex actions",
+      "code": "3.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple and conditioned reflex actions; b) apply simple and conditioned reflex actions in solving problems.",
+      "experiences": "The learner is guided to: discuss simple and conditioned reflex actions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple and conditioned reflex actions in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "The role of hormones in coordination in a mammal",
+      "code": "3.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the role of hormones in coordination in a mammal; b) apply the role of hormones in coordination in a mammal in solving problems.",
+      "experiences": "The learner is guided to: discuss the role of hormones in coordination in a mammal; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the role of hormones in coordination in a mammal in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Effects of over secretion and under secretion of",
+      "code": "3.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain effects of over secretion and under secretion of; b) apply effects of over secretion and under secretion of in solving problems.",
+      "experiences": "The learner is guided to: discuss effects of over secretion and under secretion of; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effects of over secretion and under secretion of in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Effects of drug abuse on human health",
+      "code": "3.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain effects of drug abuse on human health; b) apply effects of drug abuse on human health in solving problems.",
+      "experiences": "The learner is guided to: discuss effects of drug abuse on human health; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effects of drug abuse on human health in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Structure and functions of parts of the mammalian eye",
+      "code": "3.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain structure and functions of parts of the mammalian eye; b) apply structure and functions of parts of the mammalian eye in solving problems.",
+      "experiences": "The learner is guided to: discuss structure and functions of parts of the mammalian eye; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply structure and functions of parts of the mammalian eye in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Accommodation, image formation and interpretation",
+      "code": "3.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain accommodation, image formation and interpretation; b) apply accommodation, image formation and interpretation in solving problems.",
+      "experiences": "The learner is guided to: discuss accommodation, image formation and interpretation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply accommodation, image formation and interpretation in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "common eye defects and their corrections",
+      "code": "3.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain common eye defects and their corrections; b) apply common eye defects and their corrections in solving problems.",
+      "experiences": "The learner is guided to: discuss common eye defects and their corrections; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply common eye defects and their corrections in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Structure and functions of parts of the mammalian ear (human)",
+      "code": "3.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain structure and functions of parts of the mammalian ear (human); b) apply structure and functions of parts of the mammalian ear (human) in solving problems.",
+      "experiences": "The learner is guided to: discuss structure and functions of parts of the mammalian ear (human); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply structure and functions of parts of the mammalian ear (human) in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Hearing",
+      "code": "3.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain hearing; b) apply hearing in solving problems.",
+      "experiences": "The learner is guided to: discuss hearing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply hearing in real life?"
+    },
+    {
+      "strand": "RECEPTION, RESPONSE AND COORDINATION IN PLANTS AND ANIMALS",
+      "subStrand": "Balance and posture",
+      "code": "3.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain balance and posture; b) apply balance and posture in solving problems.",
+      "experiences": "The learner is guided to: discuss balance and posture; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply balance and posture in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Plants",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain plants; b) apply plants in solving problems.",
+      "experiences": "The learner is guided to: discuss plants; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply plants in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Necessity for support and movement in plants",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain necessity for support and movement in plants; b) apply necessity for support and movement in plants in solving problems.",
+      "experiences": "The learner is guided to: discuss necessity for support and movement in plants; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply necessity for support and movement in plants in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Review of tissue distribution in monocotyledonous",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain review of tissue distribution in monocotyledonous; b) apply review of tissue distribution in monocotyledonous in solving problems.",
+      "experiences": "The learner is guided to: discuss review of tissue distribution in monocotyledonous; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply review of tissue distribution in monocotyledonous in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Animals",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain animals; b) apply animals in solving problems.",
+      "experiences": "The learner is guided to: discuss animals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply animals in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Necessity for support and movement in animals",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain necessity for support and movement in animals; b) apply necessity for support and movement in animals in solving problems.",
+      "experiences": "The learner is guided to: discuss necessity for support and movement in animals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply necessity for support and movement in animals in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Types and functions of the skeleton",
+      "code": "4.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types and functions of the skeleton; b) apply types and functions of the skeleton in solving problems.",
+      "experiences": "The learner is guided to: discuss types and functions of the skeleton; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types and functions of the skeleton in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Locomotion in a finned fish",
+      "code": "4.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain locomotion in a finned fish; b) apply locomotion in a finned fish in solving problems.",
+      "experiences": "The learner is guided to: discuss locomotion in a finned fish; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply locomotion in a finned fish in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Identification of the bones of axial and appendicular",
+      "code": "4.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain identification of the bones of axial and appendicular; b) apply identification of the bones of axial and appendicular in solving problems.",
+      "experiences": "The learner is guided to: discuss identification of the bones of axial and appendicular; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply identification of the bones of axial and appendicular in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Types and functions of movable joints (ball and socket, hinge joint)",
+      "code": "4.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types and functions of movable joints (ball and socket, hinge joint); b) apply types and functions of movable joints (ball and socket, hinge joint) in solving problems.",
+      "experiences": "The learner is guided to: discuss types and functions of movable joints (ball and socket, hinge joint); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types and functions of movable joints (ball and socket, hinge joint) in real life?"
+    },
+    {
+      "strand": "SUPPORT AND MOVEMENT IN PLANTS AND ANIMALS",
+      "subStrand": "Structure, function and location of cardiac, smooth and skeletal muscles",
+      "code": "4.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain structure, function and location of cardiac, smooth and skeletal muscles; b) apply structure, function and location of cardiac, smooth and skeletal muscles in solving problems.",
+      "experiences": "The learner is guided to: discuss structure, function and location of cardiac, smooth and skeletal muscles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply structure, function and location of cardiac, smooth and skeletal muscles in real life?"
+    }
+  ],
+  "driveId": "130JQ8O0Ugxd2YXv02R8IA6zZnZaw5AIX",
+  "pages": 8,
+  "harvestedAt": "2026-09-03T06:57:24.165Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
