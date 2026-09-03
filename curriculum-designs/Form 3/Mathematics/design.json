@@ -1,0 +1,1031 @@
+{
+  "grade": "Form 3",
+  "learningArea": "Mathematics",
+  "strandCount": 113,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Factorisation of quadratic expressions",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factorisation of quadratic expressions; b) apply factorisation of quadratic expressions in solving problems.",
+      "experiences": "The learner is guided to: discuss factorisation of quadratic expressions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply factorisation of quadratic expressions in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Perfect squares",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain perfect squares; b) apply perfect squares in solving problems.",
+      "experiences": "The learner is guided to: discuss perfect squares; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply perfect squares in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Completion of the square",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain completion of the square; b) apply completion of the square in solving problems.",
+      "experiences": "The learner is guided to: discuss completion of the square; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply completion of the square in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Solution of quadratic equation by completing square method",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain solution of quadratic equation by completing square method; b) apply solution of quadratic equation by completing square method in solving problems.",
+      "experiences": "The learner is guided to: discuss solution of quadratic equation by completing square method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply solution of quadratic equation by completing square method in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Quadratic formulae",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain quadratic formulae; b) apply quadratic formulae in solving problems.",
+      "experiences": "The learner is guided to: discuss quadratic formulae; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply quadratic formulae in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Solutions of quadratic equations using the formulae",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain solutions of quadratic equations using the formulae; b) apply solutions of quadratic equations using the formulae in solving problems.",
+      "experiences": "The learner is guided to: discuss solutions of quadratic equations using the formulae; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply solutions of quadratic equations using the formulae in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Formation of quadratic equations and solving them",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain formation of quadratic equations and solving them; b) apply formation of quadratic equations and solving them in solving problems.",
+      "experiences": "The learner is guided to: discuss formation of quadratic equations and solving them; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply formation of quadratic equations and solving them in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Tables of values for a given quadratic relation",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tables of values for a given quadratic relation; b) apply tables of values for a given quadratic relation in solving problems.",
+      "experiences": "The learner is guided to: discuss tables of values for a given quadratic relation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tables of values for a given quadratic relation in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Graphs of quadratic equations",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain graphs of quadratic equations; b) apply graphs of quadratic equations in solving problems.",
+      "experiences": "The learner is guided to: discuss graphs of quadratic equations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply graphs of quadratic equations in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Simultaneous equations-one linear and one quadratic",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simultaneous equations-one linear and one quadratic; b) apply simultaneous equations-one linear and one quadratic in solving problems.",
+      "experiences": "The learner is guided to: discuss simultaneous equations-one linear and one quadratic; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simultaneous equations-one linear and one quadratic in real life?"
+    },
+    {
+      "strand": "QUADRATIC EXPRESSIONS AND EQUATIONS(2)",
+      "subStrand": "Application to real life situations",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application to real life situations; b) apply application to real life situations in solving problems.",
+      "experiences": "The learner is guided to: discuss application to real life situations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application to real life situations in real life?"
+    },
+    {
+      "strand": "APPROXIMATIONS AND ERRORS",
+      "subStrand": "Computing using calculators",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain computing using calculators; b) apply computing using calculators in solving problems.",
+      "experiences": "The learner is guided to: discuss computing using calculators; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply computing using calculators in real life?"
+    },
+    {
+      "strand": "APPROXIMATIONS AND ERRORS",
+      "subStrand": "Estimations and approximations",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain estimations and approximations; b) apply estimations and approximations in solving problems.",
+      "experiences": "The learner is guided to: discuss estimations and approximations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply estimations and approximations in real life?"
+    },
+    {
+      "strand": "APPROXIMATIONS AND ERRORS",
+      "subStrand": "Significant figures",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain significant figures; b) apply significant figures in solving problems.",
+      "experiences": "The learner is guided to: discuss significant figures; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply significant figures in real life?"
+    },
+    {
+      "strand": "APPROXIMATIONS AND ERRORS",
+      "subStrand": "Absolute, relative, percentage, round-off and truncation errors",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain absolute, relative, percentage, round-off and truncation errors; b) apply absolute, relative, percentage, round-off and truncation errors in solving problems.",
+      "experiences": "The learner is guided to: discuss absolute, relative, percentage, round-off and truncation errors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply absolute, relative, percentage, round-off and truncation errors in real life?"
+    },
+    {
+      "strand": "APPROXIMATIONS AND ERRORS",
+      "subStrand": "Propagation of errors from simple calculations",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain propagation of errors from simple calculations; b) apply propagation of errors from simple calculations in solving problems.",
+      "experiences": "The learner is guided to: discuss propagation of errors from simple calculations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply propagation of errors from simple calculations in real life?"
+    },
+    {
+      "strand": "APPROXIMATIONS AND ERRORS",
+      "subStrand": "Maximum and minimum errors",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain maximum and minimum errors; b) apply maximum and minimum errors in solving problems.",
+      "experiences": "The learner is guided to: discuss maximum and minimum errors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply maximum and minimum errors in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "The unit circle",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the unit circle; b) apply the unit circle in solving problems.",
+      "experiences": "The learner is guided to: discuss the unit circle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the unit circle in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Trigonometric ratios from the unit circle",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trigonometric ratios from the unit circle; b) apply trigonometric ratios from the unit circle in solving problems.",
+      "experiences": "The learner is guided to: discuss trigonometric ratios from the unit circle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trigonometric ratios from the unit circle in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Trigonometric ratios of angles greater than 360 and negative angles",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trigonometric ratios of angles greater than 360 and negative angles; b) apply trigonometric ratios of angles greater than 360 and negative angles in solving problems.",
+      "experiences": "The learner is guided to: discuss trigonometric ratios of angles greater than 360 and negative angles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trigonometric ratios of angles greater than 360 and negative angles in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Using trigonometric tables",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain using trigonometric tables; b) apply using trigonometric tables in solving problems.",
+      "experiences": "The learner is guided to: discuss using trigonometric tables; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply using trigonometric tables in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Radian measure",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain radian measure; b) apply radian measure in solving problems.",
+      "experiences": "The learner is guided to: discuss radian measure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply radian measure in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Simple trigonometric graphs",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple trigonometric graphs; b) apply simple trigonometric graphs in solving problems.",
+      "experiences": "The learner is guided to: discuss simple trigonometric graphs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple trigonometric graphs in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Derivation of sine and cosine rule",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain derivation of sine and cosine rule; b) apply derivation of sine and cosine rule in solving problems.",
+      "experiences": "The learner is guided to: discuss derivation of sine and cosine rule; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply derivation of sine and cosine rule in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Solution of triangles",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain solution of triangles; b) apply solution of triangles in solving problems.",
+      "experiences": "The learner is guided to: discuss solution of triangles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply solution of triangles in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (2)",
+      "subStrand": "Application of sine and cosine rule to real situation",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of sine and cosine rule to real situation; b) apply application of sine and cosine rule to real situation in solving problems.",
+      "experiences": "The learner is guided to: discuss application of sine and cosine rule to real situation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of sine and cosine rule to real situation in real life?"
+    },
+    {
+      "strand": "SURDS",
+      "subStrand": "Rational and irrational numbers",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain rational and irrational numbers; b) apply rational and irrational numbers in solving problems.",
+      "experiences": "The learner is guided to: discuss rational and irrational numbers; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply rational and irrational numbers in real life?"
+    },
+    {
+      "strand": "SURDS",
+      "subStrand": "Simplification of surds",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simplification of surds; b) apply simplification of surds in solving problems.",
+      "experiences": "The learner is guided to: discuss simplification of surds; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simplification of surds in real life?"
+    },
+    {
+      "strand": "SURDS",
+      "subStrand": "Rationalisation of denominators",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain rationalisation of denominators; b) apply rationalisation of denominators in solving problems.",
+      "experiences": "The learner is guided to: discuss rationalisation of denominators; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply rationalisation of denominators in real life?"
+    },
+    {
+      "strand": "FURTHER LOGARITHMS",
+      "subStrand": "Logarithmic notation",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain logarithmic notation; b) apply logarithmic notation in solving problems.",
+      "experiences": "The learner is guided to: discuss logarithmic notation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply logarithmic notation in real life?"
+    },
+    {
+      "strand": "FURTHER LOGARITHMS",
+      "subStrand": "The laws of logarithms",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the laws of logarithms; b) apply the laws of logarithms in solving problems.",
+      "experiences": "The learner is guided to: discuss the laws of logarithms; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the laws of logarithms in real life?"
+    },
+    {
+      "strand": "FURTHER LOGARITHMS",
+      "subStrand": "Simplification of logarithmic equations",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simplification of logarithmic equations; b) apply simplification of logarithmic equations in solving problems.",
+      "experiences": "The learner is guided to: discuss simplification of logarithmic equations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simplification of logarithmic equations in real life?"
+    },
+    {
+      "strand": "FURTHER LOGARITHMS",
+      "subStrand": "Further computations using logarithmic laws",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain further computations using logarithmic laws; b) apply further computations using logarithmic laws in solving problems.",
+      "experiences": "The learner is guided to: discuss further computations using logarithmic laws; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply further computations using logarithmic laws in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Principal rate and time",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain principal rate and time; b) apply principal rate and time in solving problems.",
+      "experiences": "The learner is guided to: discuss principal rate and time; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply principal rate and time in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Simple interest",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple interest; b) apply simple interest in solving problems.",
+      "experiences": "The learner is guided to: discuss simple interest; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple interest in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Compound interest using step by step method",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain compound interest using step by step method; b) apply compound interest using step by step method in solving problems.",
+      "experiences": "The learner is guided to: discuss compound interest using step by step method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply compound interest using step by step method in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Derivation of compound interest formulae",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain derivation of compound interest formulae; b) apply derivation of compound interest formulae in solving problems.",
+      "experiences": "The learner is guided to: discuss derivation of compound interest formulae; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply derivation of compound interest formulae in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Calculations using the compound interest formula",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain calculations using the compound interest formula; b) apply calculations using the compound interest formula in solving problems.",
+      "experiences": "The learner is guided to: discuss calculations using the compound interest formula; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply calculations using the compound interest formula in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Appreciation and depreciation",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain appreciation and depreciation; b) apply appreciation and depreciation in solving problems.",
+      "experiences": "The learner is guided to: discuss appreciation and depreciation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply appreciation and depreciation in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Calculation of appreciation and depreciation using the compound interest formula",
+      "code": "6.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain calculation of appreciation and depreciation using the compound interest formula; b) apply calculation of appreciation and depreciation using the compound interest formula in solving problems.",
+      "experiences": "The learner is guided to: discuss calculation of appreciation and depreciation using the compound interest formula; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply calculation of appreciation and depreciation using the compound interest formula in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Hire purchase",
+      "code": "6.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain hire purchase; b) apply hire purchase in solving problems.",
+      "experiences": "The learner is guided to: discuss hire purchase; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply hire purchase in real life?"
+    },
+    {
+      "strand": "COMMERCIAL ARITHMETIC",
+      "subStrand": "Income tax",
+      "code": "6.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain income tax; b) apply income tax in solving problems.",
+      "experiences": "The learner is guided to: discuss income tax; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply income tax in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Arcs, chords and tangents",
+      "code": "7.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain arcs, chords and tangents; b) apply arcs, chords and tangents in solving problems.",
+      "experiences": "The learner is guided to: discuss arcs, chords and tangents; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply arcs, chords and tangents in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Lengths of tangents and intersecting chords",
+      "code": "7.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain lengths of tangents and intersecting chords; b) apply lengths of tangents and intersecting chords in solving problems.",
+      "experiences": "The learner is guided to: discuss lengths of tangents and intersecting chords; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply lengths of tangents and intersecting chords in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Properties of chords",
+      "code": "7.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain properties of chords; b) apply properties of chords in solving problems.",
+      "experiences": "The learner is guided to: discuss properties of chords; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply properties of chords in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Construction of tangents to a circle",
+      "code": "7.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construction of tangents to a circle; b) apply construction of tangents to a circle in solving problems.",
+      "experiences": "The learner is guided to: discuss construction of tangents to a circle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construction of tangents to a circle in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Direct and transverse common tangents to two circles",
+      "code": "7.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain direct and transverse common tangents to two circles; b) apply direct and transverse common tangents to two circles in solving problems.",
+      "experiences": "The learner is guided to: discuss direct and transverse common tangents to two circles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply direct and transverse common tangents to two circles in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Angles in alternate segment",
+      "code": "7.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain angles in alternate segment; b) apply angles in alternate segment in solving problems.",
+      "experiences": "The learner is guided to: discuss angles in alternate segment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply angles in alternate segment in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Circumscribed, inscribed and described circles",
+      "code": "7.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain circumscribed, inscribed and described circles; b) apply circumscribed, inscribed and described circles in solving problems.",
+      "experiences": "The learner is guided to: discuss circumscribed, inscribed and described circles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply circumscribed, inscribed and described circles in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Centroid and orthocentre",
+      "code": "7.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain centroid and orthocentre; b) apply centroid and orthocentre in solving problems.",
+      "experiences": "The learner is guided to: discuss centroid and orthocentre; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply centroid and orthocentre in real life?"
+    },
+    {
+      "strand": "CIRCLES CHORDS AND TANGENTS",
+      "subStrand": "Apply knowledge of tangents and chords to real life situations",
+      "code": "7.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain apply knowledge of tangents and chords to real life situations; b) apply apply knowledge of tangents and chords to real life situations in solving problems.",
+      "experiences": "The learner is guided to: discuss apply knowledge of tangents and chords to real life situations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply apply knowledge of tangents and chords to real life situations in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Matrix",
+      "code": "8.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain matrix; b) apply matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply matrix in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Order of a matrix",
+      "code": "8.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain order of a matrix; b) apply order of a matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss order of a matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply order of a matrix in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Square matrix",
+      "code": "8.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain square matrix; b) apply square matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss square matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply square matrix in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Compatibility in addition and multiplication of matrices",
+      "code": "8.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain compatibility in addition and multiplication of matrices; b) apply compatibility in addition and multiplication of matrices in solving problems.",
+      "experiences": "The learner is guided to: discuss compatibility in addition and multiplication of matrices; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply compatibility in addition and multiplication of matrices in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Multiplication of a matrix by a scalar",
+      "code": "8.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain multiplication of a matrix by a scalar; b) apply multiplication of a matrix by a scalar in solving problems.",
+      "experiences": "The learner is guided to: discuss multiplication of a matrix by a scalar; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply multiplication of a matrix by a scalar in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Matrix multiplication",
+      "code": "8.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain matrix multiplication; b) apply matrix multiplication in solving problems.",
+      "experiences": "The learner is guided to: discuss matrix multiplication; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply matrix multiplication in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Identity matrix",
+      "code": "8.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain identity matrix; b) apply identity matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss identity matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply identity matrix in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Determinant of a 2x2 matrix",
+      "code": "8.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain determinant of a 2x2 matrix; b) apply determinant of a 2x2 matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss determinant of a 2x2 matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply determinant of a 2x2 matrix in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Inverse of a 2x2 matrix and singular matrix",
+      "code": "8.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain inverse of a 2x2 matrix and singular matrix; b) apply inverse of a 2x2 matrix and singular matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss inverse of a 2x2 matrix and singular matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply inverse of a 2x2 matrix and singular matrix in real life?"
+    },
+    {
+      "strand": "MATRICES",
+      "subStrand": "Solutions of simultaneous linear equations in two unknowns",
+      "code": "8.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain solutions of simultaneous linear equations in two unknowns; b) apply solutions of simultaneous linear equations in two unknowns in solving problems.",
+      "experiences": "The learner is guided to: discuss solutions of simultaneous linear equations in two unknowns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply solutions of simultaneous linear equations in two unknowns in real life?"
+    },
+    {
+      "strand": "FORMULA AND VARIATIONS",
+      "subStrand": "Change of the subject",
+      "code": "9.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain change of the subject; b) apply change of the subject in solving problems.",
+      "experiences": "The learner is guided to: discuss change of the subject; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply change of the subject in real life?"
+    },
+    {
+      "strand": "FORMULA AND VARIATIONS",
+      "subStrand": "Direct, inverse, partial and joint variations",
+      "code": "9.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain direct, inverse, partial and joint variations; b) apply direct, inverse, partial and joint variations in solving problems.",
+      "experiences": "The learner is guided to: discuss direct, inverse, partial and joint variations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply direct, inverse, partial and joint variations in real life?"
+    },
+    {
+      "strand": "FORMULA AND VARIATIONS",
+      "subStrand": "Constant of proportionality",
+      "code": "9.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain constant of proportionality; b) apply constant of proportionality in solving problems.",
+      "experiences": "The learner is guided to: discuss constant of proportionality; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply constant of proportionality in real life?"
+    },
+    {
+      "strand": "FORMULA AND VARIATIONS",
+      "subStrand": "Graphs of direct and inverse proportion",
+      "code": "9.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain graphs of direct and inverse proportion; b) apply graphs of direct and inverse proportion in solving problems.",
+      "experiences": "The learner is guided to: discuss graphs of direct and inverse proportion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply graphs of direct and inverse proportion in real life?"
+    },
+    {
+      "strand": "FORMULA AND VARIATIONS",
+      "subStrand": "Formation of equation on variation from real life situations",
+      "code": "9.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain formation of equation on variation from real life situations; b) apply formation of equation on variation from real life situations in solving problems.",
+      "experiences": "The learner is guided to: discuss formation of equation on variation from real life situations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply formation of equation on variation from real life situations in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Simple number patterns",
+      "code": "10.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple number patterns; b) apply simple number patterns in solving problems.",
+      "experiences": "The learner is guided to: discuss simple number patterns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple number patterns in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Sequences",
+      "code": "10.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sequences; b) apply sequences in solving problems.",
+      "experiences": "The learner is guided to: discuss sequences; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sequences in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Arithmetic sequence",
+      "code": "10.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain arithmetic sequence; b) apply arithmetic sequence in solving problems.",
+      "experiences": "The learner is guided to: discuss arithmetic sequence; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply arithmetic sequence in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Geometric sequence",
+      "code": "10.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain geometric sequence; b) apply geometric sequence in solving problems.",
+      "experiences": "The learner is guided to: discuss geometric sequence; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply geometric sequence in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Determining a term in the sequence",
+      "code": "10.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain determining a term in the sequence; b) apply determining a term in the sequence in solving problems.",
+      "experiences": "The learner is guided to: discuss determining a term in the sequence; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply determining a term in the sequence in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Arithmetic progression (A.P)",
+      "code": "10.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain arithmetic progression (a.p); b) apply arithmetic progression (a.p) in solving problems.",
+      "experiences": "The learner is guided to: discuss arithmetic progression (a.p); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply arithmetic progression (a.p) in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Geometric Progression (G.P)",
+      "code": "10.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain geometric progression (g.p); b) apply geometric progression (g.p) in solving problems.",
+      "experiences": "The learner is guided to: discuss geometric progression (g.p); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply geometric progression (g.p) in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Sum of an A.P",
+      "code": "10.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sum of an a.p; b) apply sum of an a.p in solving problems.",
+      "experiences": "The learner is guided to: discuss sum of an a.p; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sum of an a.p in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Sum of a G.P",
+      "code": "10.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sum of a g.p; b) apply sum of a g.p in solving problems.",
+      "experiences": "The learner is guided to: discuss sum of a g.p; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sum of a g.p in real life?"
+    },
+    {
+      "strand": "SEQUENCES AND SERIES",
+      "subStrand": "Application of A.P and G.P to real life situations",
+      "code": "10.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of a.p and g.p to real life situations; b) apply application of a.p and g.p to real life situations in solving problems.",
+      "experiences": "The learner is guided to: discuss application of a.p and g.p to real life situations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of a.p and g.p to real life situations in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Co-ordinates in two and three dimensions",
+      "code": "11.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain co-ordinates in two and three dimensions; b) apply co-ordinates in two and three dimensions in solving problems.",
+      "experiences": "The learner is guided to: discuss co-ordinates in two and three dimensions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply co-ordinates in two and three dimensions in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Column and position vectors in three dimensions",
+      "code": "11.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain column and position vectors in three dimensions; b) apply column and position vectors in three dimensions in solving problems.",
+      "experiences": "The learner is guided to: discuss column and position vectors in three dimensions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply column and position vectors in three dimensions in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Column vectors in terms of unit vectors and",
+      "code": "11.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain column vectors in terms of unit vectors and; b) apply column vectors in terms of unit vectors and in solving problems.",
+      "experiences": "The learner is guided to: discuss column vectors in terms of unit vectors and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply column vectors in terms of unit vectors and in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Magnitude of a vector",
+      "code": "11.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain magnitude of a vector; b) apply magnitude of a vector in solving problems.",
+      "experiences": "The learner is guided to: discuss magnitude of a vector; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply magnitude of a vector in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Parallel vectors",
+      "code": "11.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain parallel vectors; b) apply parallel vectors in solving problems.",
+      "experiences": "The learner is guided to: discuss parallel vectors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply parallel vectors in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Collinearity",
+      "code": "11.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain collinearity; b) apply collinearity in solving problems.",
+      "experiences": "The learner is guided to: discuss collinearity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply collinearity in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Proportional division of a line",
+      "code": "11.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain proportional division of a line; b) apply proportional division of a line in solving problems.",
+      "experiences": "The learner is guided to: discuss proportional division of a line; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply proportional division of a line in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Ratio theorem",
+      "code": "11.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ratio theorem; b) apply ratio theorem in solving problems.",
+      "experiences": "The learner is guided to: discuss ratio theorem; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ratio theorem in real life?"
+    },
+    {
+      "strand": "VECTORS (2)",
+      "subStrand": "Vector methods in geometry",
+      "code": "11.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain vector methods in geometry; b) apply vector methods in geometry in solving problems.",
+      "experiences": "The learner is guided to: discuss vector methods in geometry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply vector methods in geometry in real life?"
+    },
+    {
+      "strand": "BINOMIAL EXPANSION",
+      "subStrand": "Binomial expansion up to power four",
+      "code": "12.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain binomial expansion up to power four; b) apply binomial expansion up to power four in solving problems.",
+      "experiences": "The learner is guided to: discuss binomial expansion up to power four; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply binomial expansion up to power four in real life?"
+    },
+    {
+      "strand": "BINOMIAL EXPANSION",
+      "subStrand": "Pascal's triangle",
+      "code": "12.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain pascal's triangle; b) apply pascal's triangle in solving problems.",
+      "experiences": "The learner is guided to: discuss pascal's triangle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply pascal's triangle in real life?"
+    },
+    {
+      "strand": "BINOMIAL EXPANSION",
+      "subStrand": "Coefficient of terms in binomial expansion",
+      "code": "12.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain coefficient of terms in binomial expansion; b) apply coefficient of terms in binomial expansion in solving problems.",
+      "experiences": "The learner is guided to: discuss coefficient of terms in binomial expansion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply coefficient of terms in binomial expansion in real life?"
+    },
+    {
+      "strand": "BINOMIAL EXPANSION",
+      "subStrand": "Computation using binomial expansion",
+      "code": "12.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain computation using binomial expansion; b) apply computation using binomial expansion in solving problems.",
+      "experiences": "The learner is guided to: discuss computation using binomial expansion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply computation using binomial expansion in real life?"
+    },
+    {
+      "strand": "BINOMIAL EXPANSION",
+      "subStrand": "Evaluation of numerical cases using binomial expansion",
+      "code": "12.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain evaluation of numerical cases using binomial expansion; b) apply evaluation of numerical cases using binomial expansion in solving problems.",
+      "experiences": "The learner is guided to: discuss evaluation of numerical cases using binomial expansion; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply evaluation of numerical cases using binomial expansion in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Probability",
+      "code": "13.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain probability; b) apply probability in solving problems.",
+      "experiences": "The learner is guided to: discuss probability; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply probability in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Experimental probability",
+      "code": "13.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain experimental probability; b) apply experimental probability in solving problems.",
+      "experiences": "The learner is guided to: discuss experimental probability; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply experimental probability in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Range of probability measure 0Range of probability measure 0<p(x)Range of probability measure",
+      "code": "13.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain range of probability measure 0range of probability measure 0<p(x)range of probability measure; b) apply range of probability measure 0range of probability measure 0<p(x)range of probability measure in solving problems.",
+      "experiences": "The learner is guided to: discuss range of probability measure 0range of probability measure 0<p(x)range of probability measure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply range of probability measure 0range of probability measure 0<p(x)range of probability measure in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Probability space",
+      "code": "13.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain probability space; b) apply probability space in solving problems.",
+      "experiences": "The learner is guided to: discuss probability space; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply probability space in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Theoretical probability",
+      "code": "13.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain theoretical probability; b) apply theoretical probability in solving problems.",
+      "experiences": "The learner is guided to: discuss theoretical probability; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply theoretical probability in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Discrete and continuous probability (simple cases only)",
+      "code": "13.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain discrete and continuous probability (simple cases only); b) apply discrete and continuous probability (simple cases only) in solving problems.",
+      "experiences": "The learner is guided to: discuss discrete and continuous probability (simple cases only); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply discrete and continuous probability (simple cases only) in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Combined events (mutually exclusive and independent",
+      "code": "13.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain combined events (mutually exclusive and independent; b) apply combined events (mutually exclusive and independent in solving problems.",
+      "experiences": "The learner is guided to: discuss combined events (mutually exclusive and independent; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply combined events (mutually exclusive and independent in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "Laws of probability",
+      "code": "13.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain laws of probability; b) apply laws of probability in solving problems.",
+      "experiences": "The learner is guided to: discuss laws of probability; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply laws of probability in real life?"
+    },
+    {
+      "strand": "PROBABILITY",
+      "subStrand": "The tree diagrams",
+      "code": "13.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the tree diagrams; b) apply the tree diagrams in solving problems.",
+      "experiences": "The learner is guided to: discuss the tree diagrams; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the tree diagrams in real life?"
+    },
+    {
+      "strand": "COMPOUND PROPORTIONS AND RATES OF WORK",
+      "subStrand": "Proportional parts",
+      "code": "14.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain proportional parts; b) apply proportional parts in solving problems.",
+      "experiences": "The learner is guided to: discuss proportional parts; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply proportional parts in real life?"
+    },
+    {
+      "strand": "COMPOUND PROPORTIONS AND RATES OF WORK",
+      "subStrand": "Compound proportions",
+      "code": "14.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain compound proportions; b) apply compound proportions in solving problems.",
+      "experiences": "The learner is guided to: discuss compound proportions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply compound proportions in real life?"
+    },
+    {
+      "strand": "COMPOUND PROPORTIONS AND RATES OF WORK",
+      "subStrand": "Ratios and rates of work",
+      "code": "14.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ratios and rates of work; b) apply ratios and rates of work in solving problems.",
+      "experiences": "The learner is guided to: discuss ratios and rates of work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ratios and rates of work in real life?"
+    },
+    {
+      "strand": "COMPOUND PROPORTIONS AND RATES OF WORK",
+      "subStrand": "Proportions applied to mixtures",
+      "code": "14.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain proportions applied to mixtures; b) apply proportions applied to mixtures in solving problems.",
+      "experiences": "The learner is guided to: discuss proportions applied to mixtures; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply proportions applied to mixtures in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Tables and graphs of given relations",
+      "code": "15.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tables and graphs of given relations; b) apply tables and graphs of given relations in solving problems.",
+      "experiences": "The learner is guided to: discuss tables and graphs of given relations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tables and graphs of given relations in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Graphs of cubic equations",
+      "code": "15.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain graphs of cubic equations; b) apply graphs of cubic equations in solving problems.",
+      "experiences": "The learner is guided to: discuss graphs of cubic equations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply graphs of cubic equations in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Graphical solutions of cubic equations",
+      "code": "15.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain graphical solutions of cubic equations; b) apply graphical solutions of cubic equations in solving problems.",
+      "experiences": "The learner is guided to: discuss graphical solutions of cubic equations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply graphical solutions of cubic equations in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Average rate of change",
+      "code": "15.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain average rate of change; b) apply average rate of change in solving problems.",
+      "experiences": "The learner is guided to: discuss average rate of change; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply average rate of change in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Instantaneous rate of change",
+      "code": "15.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain instantaneous rate of change; b) apply instantaneous rate of change in solving problems.",
+      "experiences": "The learner is guided to: discuss instantaneous rate of change; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply instantaneous rate of change in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Empirical data and their graphs",
+      "code": "15.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain empirical data and their graphs; b) apply empirical data and their graphs in solving problems.",
+      "experiences": "The learner is guided to: discuss empirical data and their graphs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply empirical data and their graphs in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "The line of best fit",
+      "code": "15.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the line of best fit; b) apply the line of best fit in solving problems.",
+      "experiences": "The learner is guided to: discuss the line of best fit; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the line of best fit in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Equation of a circle",
+      "code": "15.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain equation of a circle; b) apply equation of a circle in solving problems.",
+      "experiences": "The learner is guided to: discuss equation of a circle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply equation of a circle in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Finding of the equation of a circle",
+      "code": "15.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain finding of the equation of a circle; b) apply finding of the equation of a circle in solving problems.",
+      "experiences": "The learner is guided to: discuss finding of the equation of a circle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply finding of the equation of a circle in real life?"
+    },
+    {
+      "strand": "GRAPHICAL METHODS",
+      "subStrand": "Determining of the centre and radius of a circle",
+      "code": "15.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain determining of the centre and radius of a circle; b) apply determining of the centre and radius of a circle in solving problems.",
+      "experiences": "The learner is guided to: discuss determining of the centre and radius of a circle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply determining of the centre and radius of a circle in real life?"
+    }
+  ],
+  "driveId": "18dxy1FrEqFYz9_ZtX11hDyfi1VVRavR4",
+  "pages": 13,
+  "harvestedAt": "2026-09-03T06:57:22.948Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
