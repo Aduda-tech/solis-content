@@ -1,0 +1,815 @@
+{
+  "grade": "Form 3",
+  "learningArea": "Agriculture",
+  "strandCount": 89,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Parasite relationship",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain parasite relationship; b) apply parasite relationship in solving problems.",
+      "experiences": "The learner is guided to: discuss parasite relationship; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply parasite relationship in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Effects of parasites on hosts",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain effects of parasites on hosts; b) apply effects of parasites on hosts in solving problems.",
+      "experiences": "The learner is guided to: discuss effects of parasites on hosts; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effects of parasites on hosts in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Ticks, Tsetse flies, Mites, Lice, Fleas, Keds",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ticks, tsetse flies, mites, lice, fleas, keds; b) apply ticks, tsetse flies, mites, lice, fleas, keds in solving problems.",
+      "experiences": "The learner is guided to: discuss ticks, tsetse flies, mites, lice, fleas, keds; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ticks, tsetse flies, mites, lice, fleas, keds in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Roundworms (Ascaris spp)",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain roundworms (ascaris spp); b) apply roundworms (ascaris spp) in solving problems.",
+      "experiences": "The learner is guided to: discuss roundworms (ascaris spp); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply roundworms (ascaris spp) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Tapeworms (Taenia spp)",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tapeworms (taenia spp); b) apply tapeworms (taenia spp) in solving problems.",
+      "experiences": "The learner is guided to: discuss tapeworms (taenia spp); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tapeworms (taenia spp) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Flukes (Fasciola spp)",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain flukes (fasciola spp); b) apply flukes (fasciola spp) in solving problems.",
+      "experiences": "The learner is guided to: discuss flukes (fasciola spp); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply flukes (fasciola spp) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Signs and symptoms of attack",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain signs and symptoms of attack; b) apply signs and symptoms of attack in solving problems.",
+      "experiences": "The learner is guided to: discuss signs and symptoms of attack; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply signs and symptoms of attack in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Roundworm (Ascaris spp)",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain roundworm (ascaris spp); b) apply roundworm (ascaris spp) in solving problems.",
+      "experiences": "The learner is guided to: discuss roundworm (ascaris spp); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply roundworm (ascaris spp) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Tapeworm (Taenia spp)",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tapeworm (taenia spp); b) apply tapeworm (taenia spp) in solving problems.",
+      "experiences": "The learner is guided to: discuss tapeworm (taenia spp); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tapeworm (taenia spp) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Liver",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain liver; b) apply liver in solving problems.",
+      "experiences": "The learner is guided to: discuss liver; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply liver in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH II (PARASITES)",
+      "subStrand": "Methods of parasite control giving appropriate example of a parasite for each method",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain methods of parasite control giving appropriate example of a parasite for each method; b) apply methods of parasite control giving appropriate example of a parasite for each method in solving problems.",
+      "experiences": "The learner is guided to: discuss methods of parasite control giving appropriate example of a parasite for each method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply methods of parasite control giving appropriate example of a parasite for each method in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "East coast fever",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain east coast fever; b) apply east coast fever in solving problems.",
+      "experiences": "The learner is guided to: discuss east coast fever; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply east coast fever in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Anaplasmosis",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain anaplasmosis; b) apply anaplasmosis in solving problems.",
+      "experiences": "The learner is guided to: discuss anaplasmosis; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply anaplasmosis in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Coccidiosis",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain coccidiosis; b) apply coccidiosis in solving problems.",
+      "experiences": "The learner is guided to: discuss coccidiosis; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply coccidiosis in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Trypanosomiasis (Nagana)",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trypanosomiasis (nagana); b) apply trypanosomiasis (nagana) in solving problems.",
+      "experiences": "The learner is guided to: discuss trypanosomiasis (nagana); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trypanosomiasis (nagana) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Fowl typhoid",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fowl typhoid; b) apply fowl typhoid in solving problems.",
+      "experiences": "The learner is guided to: discuss fowl typhoid; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fowl typhoid in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Foot rot",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain foot rot; b) apply foot rot in solving problems.",
+      "experiences": "The learner is guided to: discuss foot rot; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply foot rot in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Contagious abortion (Brucellosis)",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain contagious abortion (brucellosis); b) apply contagious abortion (brucellosis) in solving problems.",
+      "experiences": "The learner is guided to: discuss contagious abortion (brucellosis); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply contagious abortion (brucellosis) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Scours",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain scours; b) apply scours in solving problems.",
+      "experiences": "The learner is guided to: discuss scours; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply scours in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Blackquarter",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain blackquarter; b) apply blackquarter in solving problems.",
+      "experiences": "The learner is guided to: discuss blackquarter; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply blackquarter in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "rinderpest",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain rinderpest; b) apply rinderpest in solving problems.",
+      "experiences": "The learner is guided to: discuss rinderpest; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply rinderpest in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Foot and mouth",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain foot and mouth; b) apply foot and mouth in solving problems.",
+      "experiences": "The learner is guided to: discuss foot and mouth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply foot and mouth in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Newcastle",
+      "code": "2.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain newcastle; b) apply newcastle in solving problems.",
+      "experiences": "The learner is guided to: discuss newcastle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply newcastle in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Fowl pox",
+      "code": "2.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fowl pox; b) apply fowl pox in solving problems.",
+      "experiences": "The learner is guided to: discuss fowl pox; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fowl pox in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Gumboro",
+      "code": "2.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gumboro; b) apply gumboro in solving problems.",
+      "experiences": "The learner is guided to: discuss gumboro; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gumboro in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "African Swine fever",
+      "code": "2.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain african swine fever; b) apply african swine fever in solving problems.",
+      "experiences": "The learner is guided to: discuss african swine fever; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply african swine fever in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Milk fever",
+      "code": "2.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain milk fever; b) apply milk fever in solving problems.",
+      "experiences": "The learner is guided to: discuss milk fever; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply milk fever in real life?"
+    },
+    {
+      "strand": "LIVESTOCK HEALTH III (DISEASES)",
+      "subStrand": "Bloat",
+      "code": "2.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain bloat; b) apply bloat in solving problems.",
+      "experiences": "The learner is guided to: discuss bloat; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply bloat in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION II (NUTRITION)",
+      "subStrand": "Feeds and Feeding (identification, classification of feeds, terms used in",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain feeds and feeding (identification, classification of feeds, terms used in; b) apply feeds and feeding (identification, classification of feeds, terms used in in solving problems.",
+      "experiences": "The learner is guided to: discuss feeds and feeding (identification, classification of feeds, terms used in; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply feeds and feeding (identification, classification of feeds, terms used in in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION II (NUTRITION)",
+      "subStrand": "Appropriate livestock handling techniques while feeding",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain appropriate livestock handling techniques while feeding; b) apply appropriate livestock handling techniques while feeding in solving problems.",
+      "experiences": "The learner is guided to: discuss appropriate livestock handling techniques while feeding; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply appropriate livestock handling techniques while feeding in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Feeding practices (flushing, steaming up, creep feeding)",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain feeding practices (flushing, steaming up, creep feeding); b) apply feeding practices (flushing, steaming up, creep feeding) in solving problems.",
+      "experiences": "The learner is guided to: discuss feeding practices (flushing, steaming up, creep feeding); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply feeding practices (flushing, steaming up, creep feeding) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Importance",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance; b) apply importance in solving problems.",
+      "experiences": "The learner is guided to: discuss importance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Colony",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain colony; b) apply colony in solving problems.",
+      "experiences": "The learner is guided to: discuss colony; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply colony in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Siting of the apiary and hive",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain siting of the apiary and hive; b) apply siting of the apiary and hive in solving problems.",
+      "experiences": "The learner is guided to: discuss siting of the apiary and hive; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply siting of the apiary and hive in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Stocking a bee hive",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain stocking a bee hive; b) apply stocking a bee hive in solving problems.",
+      "experiences": "The learner is guided to: discuss stocking a bee hive; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply stocking a bee hive in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Types of fish kept in farm ponds",
+      "code": "4.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of fish kept in farm ponds; b) apply types of fish kept in farm ponds in solving problems.",
+      "experiences": "The learner is guided to: discuss types of fish kept in farm ponds; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of fish kept in farm ponds in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Management",
+      "code": "4.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain management; b) apply management in solving problems.",
+      "experiences": "The learner is guided to: discuss management; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply management in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION IV (LIVESTOCK REARING PRACTICES)",
+      "subStrand": "Appropriate handling of livestock during routine management",
+      "code": "4.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain appropriate handling of livestock during routine management; b) apply appropriate handling of livestock during routine management in solving problems.",
+      "experiences": "The learner is guided to: discuss appropriate handling of livestock during routine management; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply appropriate handling of livestock during routine management in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION VI (CATTLE)",
+      "subStrand": "Feeding",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain feeding; b) apply feeding in solving problems.",
+      "experiences": "The learner is guided to: discuss feeding; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply feeding in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION VI (CATTLE)",
+      "subStrand": "Weaning",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain weaning; b) apply weaning in solving problems.",
+      "experiences": "The learner is guided to: discuss weaning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply weaning in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION VI (CATTLE)",
+      "subStrand": "Housing",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain housing; b) apply housing in solving problems.",
+      "experiences": "The learner is guided to: discuss housing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply housing in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION VI (CATTLE)",
+      "subStrand": "Routine practices",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain routine practices; b) apply routine practices in solving problems.",
+      "experiences": "The learner is guided to: discuss routine practices; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply routine practices in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION VI (CATTLE)",
+      "subStrand": "Marketing of milk",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain marketing of milk; b) apply marketing of milk in solving problems.",
+      "experiences": "The learner is guided to: discuss marketing of milk; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply marketing of milk in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION VI (CATTLE)",
+      "subStrand": "Marketing beef cattle",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain marketing beef cattle; b) apply marketing beef cattle in solving problems.",
+      "experiences": "The learner is guided to: discuss marketing beef cattle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply marketing beef cattle in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Meaning",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning; b) apply meaning in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Selection of eggs for incubation",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain selection of eggs for incubation; b) apply selection of eggs for incubation in solving problems.",
+      "experiences": "The learner is guided to: discuss selection of eggs for incubation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply selection of eggs for incubation in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Natural incubation (Signs of broodiness in",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain natural incubation (signs of broodiness in; b) apply natural incubation (signs of broodiness in in solving problems.",
+      "experiences": "The learner is guided to: discuss natural incubation (signs of broodiness in; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply natural incubation (signs of broodiness in in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Sources of chicks",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sources of chicks; b) apply sources of chicks in solving problems.",
+      "experiences": "The learner is guided to: discuss sources of chicks; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sources of chicks in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Natural brooding",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain natural brooding; b) apply natural brooding in solving problems.",
+      "experiences": "The learner is guided to: discuss natural brooding; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply natural brooding in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Artificial brooding (brooder and brooder management,",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain artificial brooding (brooder and brooder management,; b) apply artificial brooding (brooder and brooder management, in solving problems.",
+      "experiences": "The learner is guided to: discuss artificial brooding (brooder and brooder management,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply artificial brooding (brooder and brooder management, in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Extensive (free range)",
+      "code": "6.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain extensive (free range); b) apply extensive (free range) in solving problems.",
+      "experiences": "The learner is guided to: discuss extensive (free range); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply extensive (free range) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Semi-intensive (fold system)",
+      "code": "6.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain semi-intensive (fold system); b) apply semi-intensive (fold system) in solving problems.",
+      "experiences": "The learner is guided to: discuss semi-intensive (fold system); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply semi-intensive (fold system) in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Intensive (deep litter and",
+      "code": "6.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain intensive (deep litter and; b) apply intensive (deep litter and in solving problems.",
+      "experiences": "The learner is guided to: discuss intensive (deep litter and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply intensive (deep litter and in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Broilers and Layers",
+      "code": "6.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain broilers and layers; b) apply broilers and layers in solving problems.",
+      "experiences": "The learner is guided to: discuss broilers and layers; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply broilers and layers in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Identification",
+      "code": "6.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain identification; b) apply identification in solving problems.",
+      "experiences": "The learner is guided to: discuss identification; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply identification in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Causes",
+      "code": "6.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain causes; b) apply causes in solving problems.",
+      "experiences": "The learner is guided to: discuss causes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply causes in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Control",
+      "code": "6.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain control; b) apply control in solving problems.",
+      "experiences": "The learner is guided to: discuss control; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply control in real life?"
+    },
+    {
+      "strand": "LIVESTOCK PRODUCTION V (POULTRY)",
+      "subStrand": "Eggs —(-include grading of eggs for marketing) and meat",
+      "code": "6.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain eggs —(-include grading of eggs for marketing) and meat; b) apply eggs —(-include grading of eggs for marketing) and meat in solving problems.",
+      "experiences": "The learner is guided to: discuss eggs —(-include grading of eggs for marketing) and meat; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply eggs —(-include grading of eggs for marketing) and meat in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Siting",
+      "code": "7.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain siting; b) apply siting in solving problems.",
+      "experiences": "The learner is guided to: discuss siting; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply siting in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Parts of a building (foundation, wall, roof",
+      "code": "7.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain parts of a building (foundation, wall, roof; b) apply parts of a building (foundation, wall, roof in solving problems.",
+      "experiences": "The learner is guided to: discuss parts of a building (foundation, wall, roof; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply parts of a building (foundation, wall, roof in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Crushes",
+      "code": "7.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain crushes; b) apply crushes in solving problems.",
+      "experiences": "The learner is guided to: discuss crushes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply crushes in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Spray race",
+      "code": "7.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain spray race; b) apply spray race in solving problems.",
+      "experiences": "The learner is guided to: discuss spray race; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply spray race in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Dairy shed/parlour",
+      "code": "7.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain dairy shed/parlour; b) apply dairy shed/parlour in solving problems.",
+      "experiences": "The learner is guided to: discuss dairy shed/parlour; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply dairy shed/parlour in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Calf pens",
+      "code": "7.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain calf pens; b) apply calf pens in solving problems.",
+      "experiences": "The learner is guided to: discuss calf pens; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply calf pens in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Farm produce",
+      "code": "7.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain farm produce; b) apply farm produce in solving problems.",
+      "experiences": "The learner is guided to: discuss farm produce; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply farm produce in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Chemical",
+      "code": "7.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain chemical; b) apply chemical in solving problems.",
+      "experiences": "The learner is guided to: discuss chemical; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply chemical in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Machinery",
+      "code": "7.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain machinery; b) apply machinery in solving problems.",
+      "experiences": "The learner is guided to: discuss machinery; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply machinery in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Tools",
+      "code": "7.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tools; b) apply tools in solving problems.",
+      "experiences": "The learner is guided to: discuss tools; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tools in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Meaning",
+      "code": "7.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning; b) apply meaning in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Construction materials used",
+      "code": "7.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construction materials used; b) apply construction materials used in solving problems.",
+      "experiences": "The learner is guided to: discuss construction materials used; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construction materials used in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Types of fences and materials used",
+      "code": "7.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of fences and materials used; b) apply types of fences and materials used in solving problems.",
+      "experiences": "The learner is guided to: discuss types of fences and materials used; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of fences and materials used in real life?"
+    },
+    {
+      "strand": "FARM STRUCTURES",
+      "subStrand": "Uses — advantages and disadvantages",
+      "code": "7.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain uses — advantages and disadvantages; b) apply uses — advantages and disadvantages in solving problems.",
+      "experiences": "The learner is guided to: discuss uses — advantages and disadvantages; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply uses — advantages and disadvantages in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Human",
+      "code": "8.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain human; b) apply human in solving problems.",
+      "experiences": "The learner is guided to: discuss human; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply human in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Animal",
+      "code": "8.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain animal; b) apply animal in solving problems.",
+      "experiences": "The learner is guided to: discuss animal; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply animal in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Water",
+      "code": "8.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain water; b) apply water in solving problems.",
+      "experiences": "The learner is guided to: discuss water; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply water in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Biomass (wood/charcoal, biogas)",
+      "code": "8.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain biomass (wood/charcoal, biogas); b) apply biomass (wood/charcoal, biogas) in solving problems.",
+      "experiences": "The learner is guided to: discuss biomass (wood/charcoal, biogas); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply biomass (wood/charcoal, biogas) in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "four stroke cycle engine (diesel and petrol)",
+      "code": "8.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain four stroke cycle engine (diesel and petrol); b) apply four stroke cycle engine (diesel and petrol) in solving problems.",
+      "experiences": "The learner is guided to: discuss four stroke cycle engine (diesel and petrol); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply four stroke cycle engine (diesel and petrol) in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Two stroke cycle engine",
+      "code": "8.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain two stroke cycle engine; b) apply two stroke cycle engine in solving problems.",
+      "experiences": "The learner is guided to: discuss two stroke cycle engine; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply two stroke cycle engine in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Fuel system",
+      "code": "8.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fuel system; b) apply fuel system in solving problems.",
+      "experiences": "The learner is guided to: discuss fuel system; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fuel system in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Electrical",
+      "code": "8.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain electrical; b) apply electrical in solving problems.",
+      "experiences": "The learner is guided to: discuss electrical; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply electrical in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Ignition",
+      "code": "8.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ignition; b) apply ignition in solving problems.",
+      "experiences": "The learner is guided to: discuss ignition; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ignition in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Cooling",
+      "code": "8.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain cooling; b) apply cooling in solving problems.",
+      "experiences": "The learner is guided to: discuss cooling; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply cooling in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Lubrication",
+      "code": "8.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain lubrication; b) apply lubrication in solving problems.",
+      "experiences": "The learner is guided to: discuss lubrication; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply lubrication in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Transmission (clutch,",
+      "code": "8.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain transmission (clutch,; b) apply transmission (clutch, in solving problems.",
+      "experiences": "The learner is guided to: discuss transmission (clutch,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply transmission (clutch, in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Tractor service and maintenance",
+      "code": "8.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tractor service and maintenance; b) apply tractor service and maintenance in solving problems.",
+      "experiences": "The learner is guided to: discuss tractor service and maintenance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tractor service and maintenance in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "Attachment methods (one point hitch -",
+      "code": "8.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain attachment methods (one point hitch -; b) apply attachment methods (one point hitch - in solving problems.",
+      "experiences": "The learner is guided to: discuss attachment methods (one point hitch -; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply attachment methods (one point hitch - in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "ploughs",
+      "code": "8.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ploughs; b) apply ploughs in solving problems.",
+      "experiences": "The learner is guided to: discuss ploughs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ploughs in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "carts",
+      "code": "8.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain carts; b) apply carts in solving problems.",
+      "experiences": "The learner is guided to: discuss carts; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply carts in real life?"
+    },
+    {
+      "strand": "FARM POWER AND MACHINERY",
+      "subStrand": "ridgers",
+      "code": "8.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ridgers; b) apply ridgers in solving problems.",
+      "experiences": "The learner is guided to: discuss ridgers; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ridgers in real life?"
+    }
+  ],
+  "driveId": "1KT8xi60nBz4SMqrNpDxJeRI2S9cr9rKC",
+  "pages": 20,
+  "harvestedAt": "2026-09-03T06:57:25.945Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": true
+}
