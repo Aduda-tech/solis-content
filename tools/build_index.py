@@ -106,6 +106,103 @@ def docx_text(path: Path) -> str:
         return ""
 
 
+# ─── Title cleaning for scraped downloads ─────────────────────────────
+# The arena docx files were scraped from the web and their filenames carry
+# Google-Drive/WordPress residue ("1ByiY2GRUH r Download 1 Download 2 a href
+# https drive google"). Those leak into search results as garbage titles.
+# clean_title() derives a human-readable title from the document text when
+# the filename title is residue, and only falls back to scrubbing the
+# filename when the text yields nothing.
+
+SCRAP_TOKENS = re.compile(
+    r"\b(?:a\s*href|a\s*hre|href|https?://|www|drive|google|com\s*uc\s*expo|uc\s*expo|"
+    r"target\s*blank|rel\s*noopener|noopener|wp\s*[- ]?block|wp\s*[- ]?content|"
+    r"p\s*class|li\s*class|class\s*has|has\s*inline|inline\s*color|color\s*rgba|"
+    r"rgba|span\s*style|open|blank|download|down|strong|img|div|arrow|mbs|ms)\b",
+    re.I,
+)
+LEAD_ID = re.compile(r"^(?=[A-Za-z0-9_-]*\d)[A-Za-z0-9_-]{8,}\b\s*", re.I)
+GOOD_LINE = re.compile(r"[A-Za-z]{4}")
+HEADER_SKIP = re.compile(
+    r"^(page\s*\d+|name|date|level|school|class|teacher|admission|instructions?|time|"
+    r"total\s*marks?|candidate|index\s*number|signature|jina|nambari|code\s*:|"
+    r"kenya\s*certificate|section\s*[a-z])",
+    re.I,
+)
+GRADE_RE = re.compile(
+    r"\b(grade\s*[0-9]|form\s*[1-4]|pp\s*[12]?|pre[\s-]*primary|primary|junior\s*school|senior\s*school)\b",
+    re.I,
+)
+SUBJECT_RE = re.compile(
+    r"\b(mathematics|maths|english|kiswahili|swahili|science|physics|chemistry|biology|"
+    r"agriculture|cre|christian|religious|ire|islamic|history|geography|business|"
+    r"home\s*science|computer|music|art|creative|french|german|arabic|technical|"
+    r"social\s*studies|hygiene|environment|indigenous|hindu|literacy|numeracy|"
+    r"composition|grammar|knec|kjsea|kicd|curriculum|scheme|schemes)\b",
+    re.I,
+)
+
+
+def _has_residue(title: str) -> bool:
+    return bool(LEAD_ID.search(title)) or bool(SCRAP_TOKENS.search(title))
+
+
+def _title_from_text(text: str) -> str:
+    lines: list[str] = []
+    for raw in (text or "").split("\n"):
+        s = re.sub(r"\s+", " ", raw).strip()
+        if not s or len(s) > 60:
+            continue
+        if LEAD_ID.match(s) or SCRAP_TOKENS.search(s):
+            continue
+        if re.fullmatch(r"page\s*\d+(\s*of\s*\d+)?", s, re.I):
+            continue
+        if re.fullmatch(r"table\s+of\s+contents", s, re.I):
+            continue
+        if not GOOD_LINE.search(s):
+            continue
+        lines.append(s)
+        if len(lines) >= 12:
+            break
+    subject_line = grade_line = first = None
+    for s in lines:
+        if HEADER_SKIP.match(s):
+            continue
+        if first is None:
+            first = s
+        if subject_line is None and SUBJECT_RE.search(s) and len(s.split()) <= 8:
+            subject_line = s
+        if grade_line is None and GRADE_RE.search(s) and len(s.split()) <= 6:
+            grade_line = s
+    if subject_line and grade_line and subject_line != grade_line:
+        return f"{subject_line} – {grade_line}"[:110]
+    if subject_line:
+        return subject_line[:110]
+    if grade_line:
+        return grade_line[:110]
+    return first[:110] if first else ""
+
+
+def _scrub_title(title: str) -> str:
+    t = re.sub(r"\s+", " ", SCRAP_TOKENS.sub(" ", LEAD_ID.sub(" ", title))).strip(" \t,;:-.()")
+    t = " ".join(
+        w for w in t.split()
+        if w.lower() not in ("a", "p", "hre", "er", "ng", "ht", "pdf", "docx", "in", "to", "of", "and", "the")
+    )
+    return t
+
+
+def clean_title(title: str, text: str) -> str:
+    """Return a human-readable title for a scraped docx, or the title unchanged."""
+    if not _has_residue(title):
+        return title[:120]
+    derived = _title_from_text(text)
+    if derived and len(derived) >= 8 and len(derived.split()) >= 2:
+        return derived
+    scrubbed = _scrub_title(title)
+    return scrubbed[:120] if len(scrubbed) >= 8 else title[:120]
+
+
 def iter_sources():
     for area in AREAS:
         base = ROOT / area
@@ -141,8 +238,8 @@ def main() -> int:
             title = title_of(rel, data if isinstance(data, dict) else {})
         else:
             text = docx_text(path)[:80000]
-            title = re.sub(r"^\d+-", "", path.stem)
-            title = re.sub(r"-+", " ", title).strip()[:120] or path.stem
+            raw_title = re.sub(r"-+", " ", re.sub(r"^\d+-", "", path.stem)).strip()[:120] or path.stem
+            title = clean_title(raw_title, text)
         words = len(text.split()) if text.strip() else 0
         rec = {
             "id": doc_id(rel),
