@@ -1,0 +1,446 @@
+{
+  "grade": "Form 3",
+  "learningArea": "Business Studies",
+  "strandCount": 48,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "PRODUCT MARKETS",
+      "subStrand": "Meaning of a market",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of a market; b) apply meaning of a market in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of a market; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of a market in real life?"
+    },
+    {
+      "strand": "PRODUCT MARKETS",
+      "subStrand": "Types of product markets and he assumptions of each",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of product markets and he assumptions of each; b) apply types of product markets and he assumptions of each in solving problems.",
+      "experiences": "The learner is guided to: discuss types of product markets and he assumptions of each; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of product markets and he assumptions of each in real life?"
+    },
+    {
+      "strand": "PRODUCT MARKETS",
+      "subStrand": "Determining price and output in various product markets",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain determining price and output in various product markets; b) apply determining price and output in various product markets in solving problems.",
+      "experiences": "The learner is guided to: discuss determining price and output in various product markets; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply determining price and output in various product markets in real life?"
+    },
+    {
+      "strand": "CHAIN OF DISTRIBUTION",
+      "subStrand": "Meaning of distribution",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of distribution; b) apply meaning of distribution in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of distribution; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of distribution in real life?"
+    },
+    {
+      "strand": "CHAIN OF DISTRIBUTION",
+      "subStrand": "Channels of distribution",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain channels of distribution; b) apply channels of distribution in solving problems.",
+      "experiences": "The learner is guided to: discuss channels of distribution; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply channels of distribution in real life?"
+    },
+    {
+      "strand": "CHAIN OF DISTRIBUTION",
+      "subStrand": "Intermediaries in the distribution chain",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain intermediaries in the distribution chain; b) apply intermediaries in the distribution chain in solving problems.",
+      "experiences": "The learner is guided to: discuss intermediaries in the distribution chain; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply intermediaries in the distribution chain in real life?"
+    },
+    {
+      "strand": "CHAIN OF DISTRIBUTION",
+      "subStrand": "Choosing a distribution channel",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain choosing a distribution channel; b) apply choosing a distribution channel in solving problems.",
+      "experiences": "The learner is guided to: discuss choosing a distribution channel; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply choosing a distribution channel in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Meaning of national income",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of national income; b) apply meaning of national income in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of national income; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of national income in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "The circular flow of income",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the circular flow of income; b) apply the circular flow of income in solving problems.",
+      "experiences": "The learner is guided to: discuss the circular flow of income; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the circular flow of income in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Approaches to measurement of national income",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain approaches to measurement of national income; b) apply approaches to measurement of national income in solving problems.",
+      "experiences": "The learner is guided to: discuss approaches to measurement of national income; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply approaches to measurement of national income in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Problems encountered in measuring national income",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems encountered in measuring national income; b) apply problems encountered in measuring national income in solving problems.",
+      "experiences": "The learner is guided to: discuss problems encountered in measuring national income; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems encountered in measuring national income in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Use of national income statistics",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain use of national income statistics; b) apply use of national income statistics in solving problems.",
+      "experiences": "The learner is guided to: discuss use of national income statistics; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply use of national income statistics in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Factors which influence the level of national income",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factors which influence the level of national income; b) apply factors which influence the level of national income in solving problems.",
+      "experiences": "The learner is guided to: discuss factors which influence the level of national income; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply factors which influence the level of national income in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Fertility, Mortality, Growth rate, Optimum",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fertility, mortality, growth rate, optimum; b) apply fertility, mortality, growth rate, optimum in solving problems.",
+      "experiences": "The learner is guided to: discuss fertility, mortality, growth rate, optimum; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fertility, mortality, growth rate, optimum in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Implication of population size and structure on development",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain implication of population size and structure on development; b) apply implication of population size and structure on development in solving problems.",
+      "experiences": "The learner is guided to: discuss implication of population size and structure on development; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply implication of population size and structure on development in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Employment and Unemployment",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain employment and unemployment; b) apply employment and unemployment in solving problems.",
+      "experiences": "The learner is guided to: discuss employment and unemployment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply employment and unemployment in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Types and causes of unemployment",
+      "code": "3.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types and causes of unemployment; b) apply types and causes of unemployment in solving problems.",
+      "experiences": "The learner is guided to: discuss types and causes of unemployment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types and causes of unemployment in real life?"
+    },
+    {
+      "strand": "NATIONAL INCOME",
+      "subStrand": "Solving unemployment",
+      "code": "3.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain solving unemployment; b) apply solving unemployment in solving problems.",
+      "experiences": "The learner is guided to: discuss solving unemployment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply solving unemployment in real life?"
+    },
+    {
+      "strand": "DETERMINING THE NET WORTH OF A BUSINESS",
+      "subStrand": "Meaning of assets, liabilities and capital",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of assets, liabilities and capital; b) apply meaning of assets, liabilities and capital in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of assets, liabilities and capital; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of assets, liabilities and capital in real life?"
+    },
+    {
+      "strand": "DETERMINING THE NET WORTH OF A BUSINESS",
+      "subStrand": "The book keeping equation",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the book keeping equation; b) apply the book keeping equation in solving problems.",
+      "experiences": "The learner is guided to: discuss the book keeping equation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the book keeping equation in real life?"
+    },
+    {
+      "strand": "DETERMINING THE NET WORTH OF A BUSINESS",
+      "subStrand": "Balance sheet",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain balance sheet; b) apply balance sheet in solving problems.",
+      "experiences": "The learner is guided to: discuss balance sheet; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply balance sheet in real life?"
+    },
+    {
+      "strand": "DETERMINING THE NET WORTH OF A BUSINESS",
+      "subStrand": "Relationship between book-keeping equation and balance sheet",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain relationship between book-keeping equation and balance sheet; b) apply relationship between book-keeping equation and balance sheet in solving problems.",
+      "experiences": "The learner is guided to: discuss relationship between book-keeping equation and balance sheet; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply relationship between book-keeping equation and balance sheet in real life?"
+    },
+    {
+      "strand": "DETERMINING THE NET WORTH OF A BUSINESS",
+      "subStrand": "Networth of a business",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain networth of a business; b) apply networth of a business in solving problems.",
+      "experiences": "The learner is guided to: discuss networth of a business; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply networth of a business in real life?"
+    },
+    {
+      "strand": "BUSINESS TRANSACTIONS",
+      "subStrand": "Meaning of a business transaction",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of a business transaction; b) apply meaning of a business transaction in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of a business transaction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of a business transaction in real life?"
+    },
+    {
+      "strand": "BUSINESS TRANSACTIONS",
+      "subStrand": "Cash and credit transactions",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain cash and credit transactions; b) apply cash and credit transactions in solving problems.",
+      "experiences": "The learner is guided to: discuss cash and credit transactions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply cash and credit transactions in real life?"
+    },
+    {
+      "strand": "BUSINESS TRANSACTIONS",
+      "subStrand": "Effects of transactions on the balance sheet",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain effects of transactions on the balance sheet; b) apply effects of transactions on the balance sheet in solving problems.",
+      "experiences": "The learner is guided to: discuss effects of transactions on the balance sheet; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effects of transactions on the balance sheet in real life?"
+    },
+    {
+      "strand": "BUSINESS TRANSACTIONS",
+      "subStrand": "Causes of changes in capital",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain causes of changes in capital; b) apply causes of changes in capital in solving problems.",
+      "experiences": "The learner is guided to: discuss causes of changes in capital; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply causes of changes in capital in real life?"
+    },
+    {
+      "strand": "BUSINESS TRANSACTIONS",
+      "subStrand": "Initial and final capital of a business",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain initial and final capital of a business; b) apply initial and final capital of a business in solving problems.",
+      "experiences": "The learner is guided to: discuss initial and final capital of a business; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply initial and final capital of a business in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Meaning and purpose of a ledger",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning and purpose of a ledger; b) apply meaning and purpose of a ledger in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning and purpose of a ledger; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning and purpose of a ledger in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Concept of double entry",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain concept of double entry; b) apply concept of double entry in solving problems.",
+      "experiences": "The learner is guided to: discuss concept of double entry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply concept of double entry in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Meaning and format of a ledger account",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning and format of a ledger account; b) apply meaning and format of a ledger account in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning and format of a ledger account; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning and format of a ledger account in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Asset account, Liability account, Expense account,",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain asset account, liability account, expense account,; b) apply asset account, liability account, expense account, in solving problems.",
+      "experiences": "The learner is guided to: discuss asset account, liability account, expense account,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply asset account, liability account, expense account, in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Recording business transactions in the ledger accounts",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain recording business transactions in the ledger accounts; b) apply recording business transactions in the ledger accounts in solving problems.",
+      "experiences": "The learner is guided to: discuss recording business transactions in the ledger accounts; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply recording business transactions in the ledger accounts in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Balancing a ledger account",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain balancing a ledger account; b) apply balancing a ledger account in solving problems.",
+      "experiences": "The learner is guided to: discuss balancing a ledger account; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply balancing a ledger account in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "The trial balance",
+      "code": "6.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the trial balance; b) apply the trial balance in solving problems.",
+      "experiences": "The learner is guided to: discuss the trial balance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the trial balance in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Purpose and limitations of a trial balance",
+      "code": "6.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain purpose and limitations of a trial balance; b) apply purpose and limitations of a trial balance in solving problems.",
+      "experiences": "The learner is guided to: discuss purpose and limitations of a trial balance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply purpose and limitations of a trial balance in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Classification of ledger accounts",
+      "code": "6.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain classification of ledger accounts; b) apply classification of ledger accounts in solving problems.",
+      "experiences": "The learner is guided to: discuss classification of ledger accounts; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply classification of ledger accounts in real life?"
+    },
+    {
+      "strand": "THE LEDGER",
+      "subStrand": "Types of ledgers",
+      "code": "6.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of ledgers; b) apply types of ledgers in solving problems.",
+      "experiences": "The learner is guided to: discuss types of ledgers; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of ledgers in real life?"
+    },
+    {
+      "strand": "THE CASH BOOK",
+      "subStrand": "Meaning and purpose of a cash book",
+      "code": "7.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning and purpose of a cash book; b) apply meaning and purpose of a cash book in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning and purpose of a cash book; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning and purpose of a cash book in real life?"
+    },
+    {
+      "strand": "THE CASH BOOK",
+      "subStrand": "Basic types of cash books",
+      "code": "7.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain basic types of cash books; b) apply basic types of cash books in solving problems.",
+      "experiences": "The learner is guided to: discuss basic types of cash books; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply basic types of cash books in real life?"
+    },
+    {
+      "strand": "THE CASH BOOK",
+      "subStrand": "Contra entry",
+      "code": "7.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain contra entry; b) apply contra entry in solving problems.",
+      "experiences": "The learner is guided to: discuss contra entry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply contra entry in real life?"
+    },
+    {
+      "strand": "THE CASH BOOK",
+      "subStrand": "Single — column, Two— column, Three column, Petty cash book",
+      "code": "7.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain single — column, two— column, three column, petty cash book; b) apply single — column, two— column, three column, petty cash book in solving problems.",
+      "experiences": "The learner is guided to: discuss single — column, two— column, three column, petty cash book; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply single — column, two— column, three column, petty cash book in real life?"
+    },
+    {
+      "strand": "SOURCE DOCUMENTS AND BOOKS OF ORIGINAL ENTRY",
+      "subStrand": "Source documents",
+      "code": "8.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain source documents; b) apply source documents in solving problems.",
+      "experiences": "The learner is guided to: discuss source documents; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply source documents in real life?"
+    },
+    {
+      "strand": "SOURCE DOCUMENTS AND BOOKS OF ORIGINAL ENTRY",
+      "subStrand": "Different source documents used in recording business transactions",
+      "code": "8.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain different source documents used in recording business transactions; b) apply different source documents used in recording business transactions in solving problems.",
+      "experiences": "The learner is guided to: discuss different source documents used in recording business transactions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply different source documents used in recording business transactions in real life?"
+    },
+    {
+      "strand": "SOURCE DOCUMENTS AND BOOKS OF ORIGINAL ENTRY",
+      "subStrand": "Journal",
+      "code": "8.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain journal; b) apply journal in solving problems.",
+      "experiences": "The learner is guided to: discuss journal; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply journal in real life?"
+    },
+    {
+      "strand": "SOURCE DOCUMENTS AND BOOKS OF ORIGINAL ENTRY",
+      "subStrand": "Books of original entry",
+      "code": "8.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain books of original entry; b) apply books of original entry in solving problems.",
+      "experiences": "The learner is guided to: discuss books of original entry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply books of original entry in real life?"
+    },
+    {
+      "strand": "SOURCE DOCUMENTS AND BOOKS OF ORIGINAL ENTRY",
+      "subStrand": "Recording information in the relevant journals from the source documents",
+      "code": "8.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain recording information in the relevant journals from the source documents; b) apply recording information in the relevant journals from the source documents in solving problems.",
+      "experiences": "The learner is guided to: discuss recording information in the relevant journals from the source documents; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply recording information in the relevant journals from the source documents in real life?"
+    },
+    {
+      "strand": "SOURCE DOCUMENTS AND BOOKS OF ORIGINAL ENTRY",
+      "subStrand": "Posting information to the relevant ledger accounts from various journals",
+      "code": "8.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain posting information to the relevant ledger accounts from various journals; b) apply posting information to the relevant ledger accounts from various journals in solving problems.",
+      "experiences": "The learner is guided to: discuss posting information to the relevant ledger accounts from various journals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply posting information to the relevant ledger accounts from various journals in real life?"
+    }
+  ],
+  "driveId": "1IuZ-dAPrs1bgyrSy0lkBidhni1XYvMwZ",
+  "pages": 16,
+  "harvestedAt": "2026-09-03T06:57:27.865Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": true
+}
