@@ -1,0 +1,500 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Kiswahili",
+  "strandCount": 54,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Maamkizi na mazungumzo",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain maamkizi na mazungumzo; b) apply maamkizi na mazungumzo in solving problems.",
+      "experiences": "The learner is guided to: discuss maamkizi na mazungumzo; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply maamkizi na mazungumzo in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Ufahamu wa kusikiliza",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ufahamu wa kusikiliza; b) apply ufahamu wa kusikiliza in solving problems.",
+      "experiences": "The learner is guided to: discuss ufahamu wa kusikiliza; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ufahamu wa kusikiliza in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Kusikiliza na kudadisi",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kusikiliza na kudadisi; b) apply kusikiliza na kudadisi in solving problems.",
+      "experiences": "The learner is guided to: discuss kusikiliza na kudadisi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kusikiliza na kudadisi in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Sifa bainifu za fasihi simulizi na fasihi andishi",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sifa bainifu za fasihi simulizi na fasihi andishi; b) apply sifa bainifu za fasihi simulizi na fasihi andishi in solving problems.",
+      "experiences": "The learner is guided to: discuss sifa bainifu za fasihi simulizi na fasihi andishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sifa bainifu za fasihi simulizi na fasihi andishi in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Muanisho wa fasihi simulizi (i)semi (ii)Masimulizi",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain muanisho wa fasihi simulizi (i)semi (ii)masimulizi; b) apply muanisho wa fasihi simulizi (i)semi (ii)masimulizi in solving problems.",
+      "experiences": "The learner is guided to: discuss muanisho wa fasihi simulizi (i)semi (ii)masimulizi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply muanisho wa fasihi simulizi (i)semi (ii)masimulizi in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Maigizo kutegemea shabaha na miktadha",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain maigizo kutegemea shabaha na miktadha; b) apply maigizo kutegemea shabaha na miktadha in solving problems.",
+      "experiences": "The learner is guided to: discuss maigizo kutegemea shabaha na miktadha; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply maigizo kutegemea shabaha na miktadha in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Ngomezi",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ngomezi; b) apply ngomezi in solving problems.",
+      "experiences": "The learner is guided to: discuss ngomezi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ngomezi in real life?"
+    },
+    {
+      "strand": "KUSIKILIZA NA KUZUNGUMZA",
+      "subStrand": "Ushairi",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ushairi; b) apply ushairi in solving problems.",
+      "experiences": "The learner is guided to: discuss ushairi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ushairi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Ngeli za nomino",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ngeli za nomino; b) apply ngeli za nomino in solving problems.",
+      "experiences": "The learner is guided to: discuss ngeli za nomino; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ngeli za nomino in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Ngeli za nomino na upatanisho wa kisarufi kwa",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ngeli za nomino na upatanisho wa kisarufi kwa; b) apply ngeli za nomino na upatanisho wa kisarufi kwa in solving problems.",
+      "experiences": "The learner is guided to: discuss ngeli za nomino na upatanisho wa kisarufi kwa; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ngeli za nomino na upatanisho wa kisarufi kwa in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Aina mbalimbali za maneno",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain aina mbalimbali za maneno; b) apply aina mbalimbali za maneno in solving problems.",
+      "experiences": "The learner is guided to: discuss aina mbalimbali za maneno; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply aina mbalimbali za maneno in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Viunganishi",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain viunganishi; b) apply viunganishi in solving problems.",
+      "experiences": "The learner is guided to: discuss viunganishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply viunganishi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Nomino",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nomino; b) apply nomino in solving problems.",
+      "experiences": "The learner is guided to: discuss nomino; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nomino in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Vitenzi",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain vitenzi; b) apply vitenzi in solving problems.",
+      "experiences": "The learner is guided to: discuss vitenzi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply vitenzi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Viwakilishi",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain viwakilishi; b) apply viwakilishi in solving problems.",
+      "experiences": "The learner is guided to: discuss viwakilishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply viwakilishi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Vivumishi",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain vivumishi; b) apply vivumishi in solving problems.",
+      "experiences": "The learner is guided to: discuss vivumishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply vivumishi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Vielezi",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain vielezi; b) apply vielezi in solving problems.",
+      "experiences": "The learner is guided to: discuss vielezi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply vielezi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Vihusishi",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain vihusishi; b) apply vihusishi in solving problems.",
+      "experiences": "The learner is guided to: discuss vihusishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply vihusishi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Vihisishi",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain vihisishi; b) apply vihisishi in solving problems.",
+      "experiences": "The learner is guided to: discuss vihisishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply vihisishi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Mwingiliano wa aina mbalimbali za maneno k.m kivumishi",
+      "code": "2.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mwingiliano wa aina mbalimbali za maneno k.m kivumishi; b) apply mwingiliano wa aina mbalimbali za maneno k.m kivumishi in solving problems.",
+      "experiences": "The learner is guided to: discuss mwingiliano wa aina mbalimbali za maneno k.m kivumishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mwingiliano wa aina mbalimbali za maneno k.m kivumishi in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Muundo wa sentensi ya kiswahili",
+      "code": "2.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain muundo wa sentensi ya kiswahili; b) apply muundo wa sentensi ya kiswahili in solving problems.",
+      "experiences": "The learner is guided to: discuss muundo wa sentensi ya kiswahili; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply muundo wa sentensi ya kiswahili in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Mnyamuliko wa vitenzi vya:",
+      "code": "2.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mnyamuliko wa vitenzi vya:; b) apply mnyamuliko wa vitenzi vya: in solving problems.",
+      "experiences": "The learner is guided to: discuss mnyamuliko wa vitenzi vya:; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mnyamuliko wa vitenzi vya: in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Asili ya kigeni",
+      "code": "2.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain asili ya kigeni; b) apply asili ya kigeni in solving problems.",
+      "experiences": "The learner is guided to: discuss asili ya kigeni; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply asili ya kigeni in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Silabi moja",
+      "code": "2.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain silabi moja; b) apply silabi moja in solving problems.",
+      "experiences": "The learner is guided to: discuss silabi moja; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply silabi moja in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Asili ya kibantu",
+      "code": "2.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain asili ya kibantu; b) apply asili ya kibantu in solving problems.",
+      "experiences": "The learner is guided to: discuss asili ya kibantu; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply asili ya kibantu in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Nyakati na hali",
+      "code": "2.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nyakati na hali; b) apply nyakati na hali in solving problems.",
+      "experiences": "The learner is guided to: discuss nyakati na hali; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nyakati na hali in real life?"
+    },
+    {
+      "strand": "SARUFI NA MATUMIZI YA LUGHA",
+      "subStrand": "Nyakati: LI,NA.TA",
+      "code": "2.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nyakati: li,na.ta; b) apply nyakati: li,na.ta in solving problems.",
+      "experiences": "The learner is guided to: discuss nyakati: li,na.ta; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nyakati: li,na.ta in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Hali ya kuamuru",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain hali ya kuamuru; b) apply hali ya kuamuru in solving problems.",
+      "experiences": "The learner is guided to: discuss hali ya kuamuru; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply hali ya kuamuru in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Ukanushaji kutegemea nafsi",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ukanushaji kutegemea nafsi; b) apply ukanushaji kutegemea nafsi in solving problems.",
+      "experiences": "The learner is guided to: discuss ukanushaji kutegemea nafsi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ukanushaji kutegemea nafsi in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Uakifishaji",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain uakifishaji; b) apply uakifishaji in solving problems.",
+      "experiences": "The learner is guided to: discuss uakifishaji; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply uakifishaji in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Uundaji wa maneno",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain uundaji wa maneno; b) apply uundaji wa maneno in solving problems.",
+      "experiences": "The learner is guided to: discuss uundaji wa maneno; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply uundaji wa maneno in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Nomino kutokana na mzizi wa nomino",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nomino kutokana na mzizi wa nomino; b) apply nomino kutokana na mzizi wa nomino in solving problems.",
+      "experiences": "The learner is guided to: discuss nomino kutokana na mzizi wa nomino; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nomino kutokana na mzizi wa nomino in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Nomino kutokana na mzizi wa kitenzi",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nomino kutokana na mzizi wa kitenzi; b) apply nomino kutokana na mzizi wa kitenzi in solving problems.",
+      "experiences": "The learner is guided to: discuss nomino kutokana na mzizi wa kitenzi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nomino kutokana na mzizi wa kitenzi in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Kitenzi kutokana na mzizi wa nomino",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kitenzi kutokana na mzizi wa nomino; b) apply kitenzi kutokana na mzizi wa nomino in solving problems.",
+      "experiences": "The learner is guided to: discuss kitenzi kutokana na mzizi wa nomino; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kitenzi kutokana na mzizi wa nomino in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Kivumishi kutokana na mzizi wa nomino",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kivumishi kutokana na mzizi wa nomino; b) apply kivumishi kutokana na mzizi wa nomino in solving problems.",
+      "experiences": "The learner is guided to: discuss kivumishi kutokana na mzizi wa nomino; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kivumishi kutokana na mzizi wa nomino in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Nomino kutokana na mzizi wa kivumishi",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nomino kutokana na mzizi wa kivumishi; b) apply nomino kutokana na mzizi wa kivumishi in solving problems.",
+      "experiences": "The learner is guided to: discuss nomino kutokana na mzizi wa kivumishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nomino kutokana na mzizi wa kivumishi in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Kivumishi kutokana na mzizi wa kitenzi",
+      "code": "3.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kivumishi kutokana na mzizi wa kitenzi; b) apply kivumishi kutokana na mzizi wa kitenzi in solving problems.",
+      "experiences": "The learner is guided to: discuss kivumishi kutokana na mzizi wa kitenzi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kivumishi kutokana na mzizi wa kitenzi in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Kitenzi kutokanan na mzizi wa kivumishi",
+      "code": "3.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kitenzi kutokanan na mzizi wa kivumishi; b) apply kitenzi kutokanan na mzizi wa kivumishi in solving problems.",
+      "experiences": "The learner is guided to: discuss kitenzi kutokanan na mzizi wa kivumishi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kitenzi kutokanan na mzizi wa kivumishi in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Matumizi ya maneno na viambishi maalum",
+      "code": "3.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain matumizi ya maneno na viambishi maalum; b) apply matumizi ya maneno na viambishi maalum in solving problems.",
+      "experiences": "The learner is guided to: discuss matumizi ya maneno na viambishi maalum; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply matumizi ya maneno na viambishi maalum in real life?"
+    },
+    {
+      "strand": "Hali:ME,HU,NGE,NGELI,NGALI,PO,A,KA,KI,KU",
+      "subStrand": "Umoja na wingi",
+      "code": "3.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain umoja na wingi; b) apply umoja na wingi in solving problems.",
+      "experiences": "The learner is guided to: discuss umoja na wingi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply umoja na wingi in real life?"
+    },
+    {
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa sauti",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kusoma kwa sauti; b) apply kusoma kwa sauti in solving problems.",
+      "experiences": "The learner is guided to: discuss kusoma kwa sauti; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kusoma kwa sauti in real life?"
+    },
+    {
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa ufahamu",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kusoma kwa ufahamu; b) apply kusoma kwa ufahamu in solving problems.",
+      "experiences": "The learner is guided to: discuss kusoma kwa ufahamu; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kusoma kwa ufahamu in real life?"
+    },
+    {
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa kina",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kusoma kwa kina; b) apply kusoma kwa kina in solving problems.",
+      "experiences": "The learner is guided to: discuss kusoma kwa kina; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kusoma kwa kina in real life?"
+    },
+    {
+      "strand": "KUSOMA",
+      "subStrand": "Kusoma kwa mapana",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain kusoma kwa mapana; b) apply kusoma kwa mapana in solving problems.",
+      "experiences": "The learner is guided to: discuss kusoma kwa mapana; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply kusoma kwa mapana in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Uandishi wa kawaida",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain uandishi wa kawaida; b) apply uandishi wa kawaida in solving problems.",
+      "experiences": "The learner is guided to: discuss uandishi wa kawaida; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply uandishi wa kawaida in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Majibu ya ufahamu na uchanganuzi",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain majibu ya ufahamu na uchanganuzi; b) apply majibu ya ufahamu na uchanganuzi in solving problems.",
+      "experiences": "The learner is guided to: discuss majibu ya ufahamu na uchanganuzi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply majibu ya ufahamu na uchanganuzi in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Muhtasari",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain muhtasari; b) apply muhtasari in solving problems.",
+      "experiences": "The learner is guided to: discuss muhtasari; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply muhtasari in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Tahakiki za kazi za kisanii",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain tahakiki za kazi za kisanii; b) apply tahakiki za kazi za kisanii in solving problems.",
+      "experiences": "The learner is guided to: discuss tahakiki za kazi za kisanii; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply tahakiki za kazi za kisanii in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Utungaji wa kiuamilifu",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain utungaji wa kiuamilifu; b) apply utungaji wa kiuamilifu in solving problems.",
+      "experiences": "The learner is guided to: discuss utungaji wa kiuamilifu; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply utungaji wa kiuamilifu in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Uandishi wa insha",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain uandishi wa insha; b) apply uandishi wa insha in solving problems.",
+      "experiences": "The learner is guided to: discuss uandishi wa insha; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply uandishi wa insha in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Masimulizi",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain masimulizi; b) apply masimulizi in solving problems.",
+      "experiences": "The learner is guided to: discuss masimulizi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply masimulizi in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Mazungumzo",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mazungumzo; b) apply mazungumzo in solving problems.",
+      "experiences": "The learner is guided to: discuss mazungumzo; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mazungumzo in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Mawazo",
+      "code": "5.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mawazo; b) apply mawazo in solving problems.",
+      "experiences": "The learner is guided to: discuss mawazo; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mawazo in real life?"
+    },
+    {
+      "strand": "KUANDIKA",
+      "subStrand": "Maelezo",
+      "code": "5.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain maelezo; b) apply maelezo in solving problems.",
+      "experiences": "The learner is guided to: discuss maelezo; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply maelezo in real life?"
+    }
+  ],
+  "driveId": "1GXGIxQ7AE7k0LzRz3f4J0-PxtibCU25u",
+  "pages": 8,
+  "harvestedAt": "2026-09-03T06:57:23.738Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
