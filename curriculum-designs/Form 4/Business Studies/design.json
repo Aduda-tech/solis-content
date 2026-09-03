@@ -1,0 +1,536 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Business Studies",
+  "strandCount": 58,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "FINANCIAL STATEMENTS",
+      "subStrand": "Importance of the financial statements",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance of the financial statements; b) apply importance of the financial statements in solving problems.",
+      "experiences": "The learner is guided to: discuss importance of the financial statements; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance of the financial statements in real life?"
+    },
+    {
+      "strand": "FINANCIAL STATEMENTS",
+      "subStrand": "Concept of trading period",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain concept of trading period; b) apply concept of trading period in solving problems.",
+      "experiences": "The learner is guided to: discuss concept of trading period; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply concept of trading period in real life?"
+    },
+    {
+      "strand": "FINANCIAL STATEMENTS",
+      "subStrand": "Preparations of simple financial statements",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain preparations of simple financial statements; b) apply preparations of simple financial statements in solving problems.",
+      "experiences": "The learner is guided to: discuss preparations of simple financial statements; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply preparations of simple financial statements in real life?"
+    },
+    {
+      "strand": "FINANCIAL STATEMENTS",
+      "subStrand": "working capital, borrowed capital, capital employed, capital owned",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain working capital, borrowed capital, capital employed, capital owned; b) apply working capital, borrowed capital, capital employed, capital owned in solving problems.",
+      "experiences": "The learner is guided to: discuss working capital, borrowed capital, capital employed, capital owned; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply working capital, borrowed capital, capital employed, capital owned in real life?"
+    },
+    {
+      "strand": "FINANCIAL STATEMENTS",
+      "subStrand": "margins and mark-ups, current ratio/working capital ratio, rate of",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain margins and mark-ups, current ratio/working capital ratio, rate of; b) apply margins and mark-ups, current ratio/working capital ratio, rate of in solving problems.",
+      "experiences": "The learner is guided to: discuss margins and mark-ups, current ratio/working capital ratio, rate of; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply margins and mark-ups, current ratio/working capital ratio, rate of in real life?"
+    },
+    {
+      "strand": "FINANCIAL STATEMENTS",
+      "subStrand": "Importance of financial ratios",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance of financial ratios; b) apply importance of financial ratios in solving problems.",
+      "experiences": "The learner is guided to: discuss importance of financial ratios; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance of financial ratios in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Incomplete records",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain incomplete records; b) apply incomplete records in solving problems.",
+      "experiences": "The learner is guided to: discuss incomplete records; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply incomplete records in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Statements of affairs",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain statements of affairs; b) apply statements of affairs in solving problems.",
+      "experiences": "The learner is guided to: discuss statements of affairs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply statements of affairs in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Preparation of a statement of affairs",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain preparation of a statement of affairs; b) apply preparation of a statement of affairs in solving problems.",
+      "experiences": "The learner is guided to: discuss preparation of a statement of affairs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply preparation of a statement of affairs in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Distinction between a statement of affairs and a balance sheet",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain distinction between a statement of affairs and a balance sheet; b) apply distinction between a statement of affairs and a balance sheet in solving problems.",
+      "experiences": "The learner is guided to: discuss distinction between a statement of affairs and a balance sheet; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply distinction between a statement of affairs and a balance sheet in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Updating incomplete records",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain updating incomplete records; b) apply updating incomplete records in solving problems.",
+      "experiences": "The learner is guided to: discuss updating incomplete records; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply updating incomplete records in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Preparation of final statements from updated records",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain preparation of final statements from updated records; b) apply preparation of final statements from updated records in solving problems.",
+      "experiences": "The learner is guided to: discuss preparation of final statements from updated records; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply preparation of final statements from updated records in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Barter",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain barter; b) apply barter in solving problems.",
+      "experiences": "The learner is guided to: discuss barter; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply barter in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Meaning and characteristics of money",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning and characteristics of money; b) apply meaning and characteristics of money in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning and characteristics of money; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning and characteristics of money in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Functions of money",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of money; b) apply functions of money in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of money; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of money in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Demand for and supply of money",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain demand for and supply of money; b) apply demand for and supply of money in solving problems.",
+      "experiences": "The learner is guided to: discuss demand for and supply of money; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply demand for and supply of money in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Meaning of banking",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of banking; b) apply meaning of banking in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of banking; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of banking in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Development of banking",
+      "code": "2.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain development of banking; b) apply development of banking in solving problems.",
+      "experiences": "The learner is guided to: discuss development of banking; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply development of banking in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Functions of commercial banks",
+      "code": "2.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of commercial banks; b) apply functions of commercial banks in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of commercial banks; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of commercial banks in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Types of accounts offered by commercial banks",
+      "code": "2.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types of accounts offered by commercial banks; b) apply types of accounts offered by commercial banks in solving problems.",
+      "experiences": "The learner is guided to: discuss types of accounts offered by commercial banks; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types of accounts offered by commercial banks in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Functions of non-bank financial institutions",
+      "code": "2.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of non-bank financial institutions; b) apply functions of non-bank financial institutions in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of non-bank financial institutions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of non-bank financial institutions in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "The role of the Central Bank in an economy",
+      "code": "2.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the role of the central bank in an economy; b) apply the role of the central bank in an economy in solving problems.",
+      "experiences": "The learner is guided to: discuss the role of the central bank in an economy; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the role of the central bank in an economy in real life?"
+    },
+    {
+      "strand": "INCOMPLETE RECORDS",
+      "subStrand": "Trends in banking",
+      "code": "2.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trends in banking; b) apply trends in banking in solving problems.",
+      "experiences": "The learner is guided to: discuss trends in banking; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trends in banking in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Public finance",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain public finance; b) apply public finance in solving problems.",
+      "experiences": "The learner is guided to: discuss public finance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply public finance in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Sources of public finance",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sources of public finance; b) apply sources of public finance in solving problems.",
+      "experiences": "The learner is guided to: discuss sources of public finance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sources of public finance in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Categories of Government expenditure",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain categories of government expenditure; b) apply categories of government expenditure in solving problems.",
+      "experiences": "The learner is guided to: discuss categories of government expenditure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply categories of government expenditure in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Principles of Government expenditure",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain principles of government expenditure; b) apply principles of government expenditure in solving problems.",
+      "experiences": "The learner is guided to: discuss principles of government expenditure; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply principles of government expenditure in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Taxation",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain taxation; b) apply taxation in solving problems.",
+      "experiences": "The learner is guided to: discuss taxation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply taxation in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Principles of taxation",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain principles of taxation; b) apply principles of taxation in solving problems.",
+      "experiences": "The learner is guided to: discuss principles of taxation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply principles of taxation in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Classification of taxes",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain classification of taxes; b) apply classification of taxes in solving problems.",
+      "experiences": "The learner is guided to: discuss classification of taxes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply classification of taxes in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Merits and demerits of each type of tax",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain merits and demerits of each type of tax; b) apply merits and demerits of each type of tax in solving problems.",
+      "experiences": "The learner is guided to: discuss merits and demerits of each type of tax; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply merits and demerits of each type of tax in real life?"
+    },
+    {
+      "strand": "PUBLIC FINANCE",
+      "subStrand": "Budget as a tool of planning",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain budget as a tool of planning; b) apply budget as a tool of planning in solving problems.",
+      "experiences": "The learner is guided to: discuss budget as a tool of planning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply budget as a tool of planning in real life?"
+    },
+    {
+      "strand": "INFLATION",
+      "subStrand": "Consumer price index",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain consumer price index; b) apply consumer price index in solving problems.",
+      "experiences": "The learner is guided to: discuss consumer price index; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply consumer price index in real life?"
+    },
+    {
+      "strand": "INFLATION",
+      "subStrand": "Types and causes of inflation",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain types and causes of inflation; b) apply types and causes of inflation in solving problems.",
+      "experiences": "The learner is guided to: discuss types and causes of inflation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply types and causes of inflation in real life?"
+    },
+    {
+      "strand": "INFLATION",
+      "subStrand": "Effects of inflation in an economy",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain effects of inflation in an economy; b) apply effects of inflation in an economy in solving problems.",
+      "experiences": "The learner is guided to: discuss effects of inflation in an economy; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effects of inflation in an economy in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "International trade",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain international trade; b) apply international trade in solving problems.",
+      "experiences": "The learner is guided to: discuss international trade; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply international trade in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Advantages and disadvantages of international trade",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain advantages and disadvantages of international trade; b) apply advantages and disadvantages of international trade in solving problems.",
+      "experiences": "The learner is guided to: discuss advantages and disadvantages of international trade; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply advantages and disadvantages of international trade in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Terms of trade",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain terms of trade; b) apply terms of trade in solving problems.",
+      "experiences": "The learner is guided to: discuss terms of trade; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply terms of trade in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Reasons for differences in the terms of trade between countries",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reasons for differences in the terms of trade between countries; b) apply reasons for differences in the terms of trade between countries in solving problems.",
+      "experiences": "The learner is guided to: discuss reasons for differences in the terms of trade between countries; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reasons for differences in the terms of trade between countries in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Balance of payments accounts",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain balance of payments accounts; b) apply balance of payments accounts in solving problems.",
+      "experiences": "The learner is guided to: discuss balance of payments accounts; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply balance of payments accounts in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Balance of payments disequilibrium",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain balance of payments disequilibrium; b) apply balance of payments disequilibrium in solving problems.",
+      "experiences": "The learner is guided to: discuss balance of payments disequilibrium; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply balance of payments disequilibrium in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Correcting balance of payments disequilibrium",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain correcting balance of payments disequilibrium; b) apply correcting balance of payments disequilibrium in solving problems.",
+      "experiences": "The learner is guided to: discuss correcting balance of payments disequilibrium; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply correcting balance of payments disequilibrium in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Terms of sale in international trade",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain terms of sale in international trade; b) apply terms of sale in international trade in solving problems.",
+      "experiences": "The learner is guided to: discuss terms of sale in international trade; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply terms of sale in international trade in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Documents used in international trade",
+      "code": "5.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain documents used in international trade; b) apply documents used in international trade in solving problems.",
+      "experiences": "The learner is guided to: discuss documents used in international trade; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply documents used in international trade in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "International Monetary Fund (IMF), African Development Bank",
+      "code": "5.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain international monetary fund (imf), african development bank; b) apply international monetary fund (imf), african development bank in solving problems.",
+      "experiences": "The learner is guided to: discuss international monetary fund (imf), african development bank; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply international monetary fund (imf), african development bank in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Forms of economic integration",
+      "code": "5.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain forms of economic integration; b) apply forms of economic integration in solving problems.",
+      "experiences": "The learner is guided to: discuss forms of economic integration; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply forms of economic integration in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Importance of economic integration to a country",
+      "code": "5.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance of economic integration to a country; b) apply importance of economic integration to a country in solving problems.",
+      "experiences": "The learner is guided to: discuss importance of economic integration to a country; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance of economic integration to a country in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Free trade",
+      "code": "5.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain free trade; b) apply free trade in solving problems.",
+      "experiences": "The learner is guided to: discuss free trade; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply free trade in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Reasons for and methods of trade restriction",
+      "code": "5.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reasons for and methods of trade restriction; b) apply reasons for and methods of trade restriction in solving problems.",
+      "experiences": "The learner is guided to: discuss reasons for and methods of trade restriction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reasons for and methods of trade restriction in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Advantages and disadvantages of trade restriction",
+      "code": "5.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain advantages and disadvantages of trade restriction; b) apply advantages and disadvantages of trade restriction in solving problems.",
+      "experiences": "The learner is guided to: discuss advantages and disadvantages of trade restriction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply advantages and disadvantages of trade restriction in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "fixed, flexible",
+      "code": "5.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fixed, flexible; b) apply fixed, flexible in solving problems.",
+      "experiences": "The learner is guided to: discuss fixed, flexible; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fixed, flexible in real life?"
+    },
+    {
+      "strand": "INTERNATIONAL TRADE",
+      "subStrand": "Trends in international trade e.g. Liberalization, Export Processing Zones (E.P.Z)",
+      "code": "5.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trends in international trade e.g. liberalization, export processing zones (e.p.z); b) apply trends in international trade e.g. liberalization, export processing zones (e.p.z) in solving problems.",
+      "experiences": "The learner is guided to: discuss trends in international trade e.g. liberalization, export processing zones (e.p.z); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trends in international trade e.g. liberalization, export processing zones (e.p.z) in real life?"
+    },
+    {
+      "strand": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "subStrand": "Economic growth and development",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain economic growth and development; b) apply economic growth and development in solving problems.",
+      "experiences": "The learner is guided to: discuss economic growth and development; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply economic growth and development in real life?"
+    },
+    {
+      "strand": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "subStrand": "Characteristics of underdevelopment",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain characteristics of underdevelopment; b) apply characteristics of underdevelopment in solving problems.",
+      "experiences": "The learner is guided to: discuss characteristics of underdevelopment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply characteristics of underdevelopment in real life?"
+    },
+    {
+      "strand": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "subStrand": "Goals and development",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain goals and development; b) apply goals and development in solving problems.",
+      "experiences": "The learner is guided to: discuss goals and development; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply goals and development in real life?"
+    },
+    {
+      "strand": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "subStrand": "Meaning of development planning",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of development planning; b) apply meaning of development planning in solving problems.",
+      "experiences": "The learner is guided to: discuss meaning of development planning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply meaning of development planning in real life?"
+    },
+    {
+      "strand": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "subStrand": "Need for development planning",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain need for development planning; b) apply need for development planning in solving problems.",
+      "experiences": "The learner is guided to: discuss need for development planning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply need for development planning in real life?"
+    },
+    {
+      "strand": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "subStrand": "Problems encountered in development planning",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain problems encountered in development planning; b) apply problems encountered in development planning in solving problems.",
+      "experiences": "The learner is guided to: discuss problems encountered in development planning; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems encountered in development planning in real life?"
+    }
+  ],
+  "driveId": "1IuZ-dAPrs1bgyrSy0lkBidhni1XYvMwZ",
+  "pages": 16,
+  "harvestedAt": "2026-09-03T06:57:27.866Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": true
+}
