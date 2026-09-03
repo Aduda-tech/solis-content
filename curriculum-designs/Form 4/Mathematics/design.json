@@ -1,0 +1,788 @@
+{
+  "grade": "Form 4",
+  "learningArea": "Mathematics",
+  "strandCount": 86,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Transformation on the cartesian plane",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain transformation on the cartesian plane; b) apply transformation on the cartesian plane in solving problems.",
+      "experiences": "The learner is guided to: discuss transformation on the cartesian plane; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply transformation on the cartesian plane in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Identification of transformation matrix",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain identification of transformation matrix; b) apply identification of transformation matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss identification of transformation matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply identification of transformation matrix in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Successive transformations",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain successive transformations; b) apply successive transformations in solving problems.",
+      "experiences": "The learner is guided to: discuss successive transformations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply successive transformations in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Single matrix of transformation for successive transformations",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain single matrix of transformation for successive transformations; b) apply single matrix of transformation for successive transformations in solving problems.",
+      "experiences": "The learner is guided to: discuss single matrix of transformation for successive transformations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply single matrix of transformation for successive transformations in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Identity matrix and transformation",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain identity matrix and transformation; b) apply identity matrix and transformation in solving problems.",
+      "experiences": "The learner is guided to: discuss identity matrix and transformation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply identity matrix and transformation in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Inverse of a transformation",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain inverse of a transformation; b) apply inverse of a transformation in solving problems.",
+      "experiences": "The learner is guided to: discuss inverse of a transformation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply inverse of a transformation in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Area scale factor and determinant of a matrix",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain area scale factor and determinant of a matrix; b) apply area scale factor and determinant of a matrix in solving problems.",
+      "experiences": "The learner is guided to: discuss area scale factor and determinant of a matrix; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply area scale factor and determinant of a matrix in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Shear and stretch (include their matrices)",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain shear and stretch (include their matrices); b) apply shear and stretch (include their matrices) in solving problems.",
+      "experiences": "The learner is guided to: discuss shear and stretch (include their matrices); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply shear and stretch (include their matrices) in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Isometric and non-isometric transformation",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain isometric and non-isometric transformation; b) apply isometric and non-isometric transformation in solving problems.",
+      "experiences": "The learner is guided to: discuss isometric and non-isometric transformation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply isometric and non-isometric transformation in real life?"
+    },
+    {
+      "strand": "MATRICES AND TRANSFORMATIONS",
+      "subStrand": "Application of transformation to real life situations",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of transformation to real life situations; b) apply application of transformation to real life situations in solving problems.",
+      "experiences": "The learner is guided to: discuss application of transformation to real life situations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of transformation to real life situations in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Mean from assumed mean",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mean from assumed mean; b) apply mean from assumed mean in solving problems.",
+      "experiences": "The learner is guided to: discuss mean from assumed mean; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mean from assumed mean in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Cumulative frequency table",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain cumulative frequency table; b) apply cumulative frequency table in solving problems.",
+      "experiences": "The learner is guided to: discuss cumulative frequency table; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply cumulative frequency table in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Ogive",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ogive; b) apply ogive in solving problems.",
+      "experiences": "The learner is guided to: discuss ogive; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ogive in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Median",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain median; b) apply median in solving problems.",
+      "experiences": "The learner is guided to: discuss median; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply median in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Quartiles",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain quartiles; b) apply quartiles in solving problems.",
+      "experiences": "The learner is guided to: discuss quartiles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply quartiles in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Range",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain range; b) apply range in solving problems.",
+      "experiences": "The learner is guided to: discuss range; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply range in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Interquartile range",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain interquartile range; b) apply interquartile range in solving problems.",
+      "experiences": "The learner is guided to: discuss interquartile range; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply interquartile range in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Quartile deviation",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain quartile deviation; b) apply quartile deviation in solving problems.",
+      "experiences": "The learner is guided to: discuss quartile deviation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply quartile deviation in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Variance",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain variance; b) apply variance in solving problems.",
+      "experiences": "The learner is guided to: discuss variance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply variance in real life?"
+    },
+    {
+      "strand": "STATISTICS",
+      "subStrand": "Standard deviation",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain standard deviation; b) apply standard deviation in solving problems.",
+      "experiences": "The learner is guided to: discuss standard deviation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply standard deviation in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Common types of loci",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain common types of loci; b) apply common types of loci in solving problems.",
+      "experiences": "The learner is guided to: discuss common types of loci; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply common types of loci in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Perpendicular bisector loci",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain perpendicular bisector loci; b) apply perpendicular bisector loci in solving problems.",
+      "experiences": "The learner is guided to: discuss perpendicular bisector loci; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply perpendicular bisector loci in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Loci of a point at a given distance from a fixed point and a fixed line",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain loci of a point at a given distance from a fixed point and a fixed line; b) apply loci of a point at a given distance from a fixed point and a fixed line in solving problems.",
+      "experiences": "The learner is guided to: discuss loci of a point at a given distance from a fixed point and a fixed line; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply loci of a point at a given distance from a fixed point and a fixed line in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Angle bisector loci",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain angle bisector loci; b) apply angle bisector loci in solving problems.",
+      "experiences": "The learner is guided to: discuss angle bisector loci; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply angle bisector loci in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Constant angle loci",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain constant angle loci; b) apply constant angle loci in solving problems.",
+      "experiences": "The learner is guided to: discuss constant angle loci; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply constant angle loci in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Other loci under given condition including intersecting loci",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain other loci under given condition including intersecting loci; b) apply other loci under given condition including intersecting loci in solving problems.",
+      "experiences": "The learner is guided to: discuss other loci under given condition including intersecting loci; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply other loci under given condition including intersecting loci in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "loci of inequalities",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain loci of inequalities; b) apply loci of inequalities in solving problems.",
+      "experiences": "The learner is guided to: discuss loci of inequalities; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply loci of inequalities in real life?"
+    },
+    {
+      "strand": "LOCI",
+      "subStrand": "Loci involving chords",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain loci involving chords; b) apply loci involving chords in solving problems.",
+      "experiences": "The learner is guided to: discuss loci involving chords; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply loci involving chords in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "Trigonometric ratios",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trigonometric ratios; b) apply trigonometric ratios in solving problems.",
+      "experiences": "The learner is guided to: discuss trigonometric ratios; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trigonometric ratios in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "Deriving the relation",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain deriving the relation; b) apply deriving the relation in solving problems.",
+      "experiences": "The learner is guided to: discuss deriving the relation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply deriving the relation in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "`(sin^{2}(x))+(cos^{2}(x))=1`",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain `(sin^{2}(x))+(cos^{2}(x))=1`; b) apply `(sin^{2}(x))+(cos^{2}(x))=1` in solving problems.",
+      "experiences": "The learner is guided to: discuss `(sin^{2}(x))+(cos^{2}(x))=1`; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply `(sin^{2}(x))+(cos^{2}(x))=1` in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "Graphs of trigonometric functions",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain graphs of trigonometric functions; b) apply graphs of trigonometric functions in solving problems.",
+      "experiences": "The learner is guided to: discuss graphs of trigonometric functions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply graphs of trigonometric functions in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=sinx",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=sinx; b) apply y=sinx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=sinx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=sinx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=cosx",
+      "code": "4.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=cosx; b) apply y=cosx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=cosx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=cosx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=tanx",
+      "code": "4.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=tanx; b) apply y=tanx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=tanx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=tanx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=a sinx",
+      "code": "4.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=a sinx; b) apply y=a sinx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=a sinx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=a sinx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=a cosx",
+      "code": "4.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=a cosx; b) apply y=a cosx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=a cosx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=a cosx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=a sinbx",
+      "code": "4.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=a sinbx; b) apply y=a sinbx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=a sinbx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=a sinbx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=a cosbx",
+      "code": "4.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=a cosbx; b) apply y=a cosbx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=a cosbx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=a cosbx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "y=a tanbx",
+      "code": "4.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain y=a tanbx; b) apply y=a tanbx in solving problems.",
+      "experiences": "The learner is guided to: discuss y=a tanbx; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply y=a tanbx in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "`y=a sin(bx +- theta )`",
+      "code": "4.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain `y=a sin(bx +- theta )`; b) apply `y=a sin(bx +- theta )` in solving problems.",
+      "experiences": "The learner is guided to: discuss `y=a sin(bx +- theta )`; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply `y=a sin(bx +- theta )` in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "`y=a cos(bx +- theta )`",
+      "code": "4.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain `y=a cos(bx +- theta )`; b) apply `y=a cos(bx +- theta )` in solving problems.",
+      "experiences": "The learner is guided to: discuss `y=a cos(bx +- theta )`; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply `y=a cos(bx +- theta )` in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "`y=a tan(bx +- theta )`",
+      "code": "4.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain `y=a tan(bx +- theta )`; b) apply `y=a tan(bx +- theta )` in solving problems.",
+      "experiences": "The learner is guided to: discuss `y=a tan(bx +- theta )`; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply `y=a tan(bx +- theta )` in real life?"
+    },
+    {
+      "strand": "TRIGONOMETRY (3)",
+      "subStrand": "Simple trigonometric equations amplitude, period,",
+      "code": "4.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain simple trigonometric equations amplitude, period,; b) apply simple trigonometric equations amplitude, period, in solving problems.",
+      "experiences": "The learner is guided to: discuss simple trigonometric equations amplitude, period,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply simple trigonometric equations amplitude, period, in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "Geometrical properties of common solids",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain geometrical properties of common solids; b) apply geometrical properties of common solids in solving problems.",
+      "experiences": "The learner is guided to: discuss geometrical properties of common solids; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply geometrical properties of common solids in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "Skew lines and projection of a line onto a plane",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain skew lines and projection of a line onto a plane; b) apply skew lines and projection of a line onto a plane in solving problems.",
+      "experiences": "The learner is guided to: discuss skew lines and projection of a line onto a plane; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply skew lines and projection of a line onto a plane in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "Length of a line in 3-dimensional geometry",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain length of a line in 3-dimensional geometry; b) apply length of a line in 3-dimensional geometry in solving problems.",
+      "experiences": "The learner is guided to: discuss length of a line in 3-dimensional geometry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply length of a line in 3-dimensional geometry in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "The angle between",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the angle between; b) apply the angle between in solving problems.",
+      "experiences": "The learner is guided to: discuss the angle between; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the angle between in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "a line and a line",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain a line and a line; b) apply a line and a line in solving problems.",
+      "experiences": "The learner is guided to: discuss a line and a line; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply a line and a line in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "A line and a plane",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain a line and a plane; b) apply a line and a plane in solving problems.",
+      "experiences": "The learner is guided to: discuss a line and a plane; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply a line and a plane in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "A plane and a plane",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain a plane and a plane; b) apply a plane and a plane in solving problems.",
+      "experiences": "The learner is guided to: discuss a plane and a plane; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply a plane and a plane in real life?"
+    },
+    {
+      "strand": "THREE DIMENSIONAL GEOMETRY",
+      "subStrand": "Angles between skew lines",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain angles between skew lines; b) apply angles between skew lines in solving problems.",
+      "experiences": "The learner is guided to: discuss angles between skew lines; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply angles between skew lines in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Latitude and longitudes (great and small circles)",
+      "code": "6.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain latitude and longitudes (great and small circles); b) apply latitude and longitudes (great and small circles) in solving problems.",
+      "experiences": "The learner is guided to: discuss latitude and longitudes (great and small circles); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply latitude and longitudes (great and small circles) in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "The equator and Greenwich Meridian",
+      "code": "6.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the equator and greenwich meridian; b) apply the equator and greenwich meridian in solving problems.",
+      "experiences": "The learner is guided to: discuss the equator and greenwich meridian; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the equator and greenwich meridian in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Radii of small and great circles",
+      "code": "6.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain radii of small and great circles; b) apply radii of small and great circles in solving problems.",
+      "experiences": "The learner is guided to: discuss radii of small and great circles; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply radii of small and great circles in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Position of a place on the surface of the earth",
+      "code": "6.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain position of a place on the surface of the earth; b) apply position of a place on the surface of the earth in solving problems.",
+      "experiences": "The learner is guided to: discuss position of a place on the surface of the earth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply position of a place on the surface of the earth in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Distance between two points along the small and great circles in nautical miles and kilometres",
+      "code": "6.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain distance between two points along the small and great circles in nautical miles and kilometres; b) apply distance between two points along the small and great circles in nautical miles and kilometres in solving problems.",
+      "experiences": "The learner is guided to: discuss distance between two points along the small and great circles in nautical miles and kilometres; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply distance between two points along the small and great circles in nautical miles and kilometres in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Distance in nautical miles and kilometres along a circle of latitude",
+      "code": "6.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain distance in nautical miles and kilometres along a circle of latitude; b) apply distance in nautical miles and kilometres along a circle of latitude in solving problems.",
+      "experiences": "The learner is guided to: discuss distance in nautical miles and kilometres along a circle of latitude; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply distance in nautical miles and kilometres along a circle of latitude in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Time and longitude",
+      "code": "6.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain time and longitude; b) apply time and longitude in solving problems.",
+      "experiences": "The learner is guided to: discuss time and longitude; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply time and longitude in real life?"
+    },
+    {
+      "strand": "LONGITUDES AND LATITUDES",
+      "subStrand": "Speed in knots and kilometres per hour",
+      "code": "6.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain speed in knots and kilometres per hour; b) apply speed in knots and kilometres per hour in solving problems.",
+      "experiences": "The learner is guided to: discuss speed in knots and kilometres per hour; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply speed in knots and kilometres per hour in real life?"
+    },
+    {
+      "strand": "LINEAR PROGRAMMING",
+      "subStrand": "Formation of linear inequalities",
+      "code": "7.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain formation of linear inequalities; b) apply formation of linear inequalities in solving problems.",
+      "experiences": "The learner is guided to: discuss formation of linear inequalities; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply formation of linear inequalities in real life?"
+    },
+    {
+      "strand": "LINEAR PROGRAMMING",
+      "subStrand": "Analytical solutions of linear inequalities",
+      "code": "7.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain analytical solutions of linear inequalities; b) apply analytical solutions of linear inequalities in solving problems.",
+      "experiences": "The learner is guided to: discuss analytical solutions of linear inequalities; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply analytical solutions of linear inequalities in real life?"
+    },
+    {
+      "strand": "LINEAR PROGRAMMING",
+      "subStrand": "Solutions of linear inequalities by graphs",
+      "code": "7.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain solutions of linear inequalities by graphs; b) apply solutions of linear inequalities by graphs in solving problems.",
+      "experiences": "The learner is guided to: discuss solutions of linear inequalities by graphs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply solutions of linear inequalities by graphs in real life?"
+    },
+    {
+      "strand": "LINEAR PROGRAMMING",
+      "subStrand": "Optimization (include objective function)",
+      "code": "7.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain optimization (include objective function); b) apply optimization (include objective function) in solving problems.",
+      "experiences": "The learner is guided to: discuss optimization (include objective function); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply optimization (include objective function) in real life?"
+    },
+    {
+      "strand": "LINEAR PROGRAMMING",
+      "subStrand": "Application to real life situations",
+      "code": "7.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application to real life situations; b) apply application to real life situations in solving problems.",
+      "experiences": "The learner is guided to: discuss application to real life situations; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application to real life situations in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Average and instantaneous rates of change",
+      "code": "8.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain average and instantaneous rates of change; b) apply average and instantaneous rates of change in solving problems.",
+      "experiences": "The learner is guided to: discuss average and instantaneous rates of change; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply average and instantaneous rates of change in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Gradient of a curve at a point",
+      "code": "8.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gradient of a curve at a point; b) apply gradient of a curve at a point in solving problems.",
+      "experiences": "The learner is guided to: discuss gradient of a curve at a point; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gradient of a curve at a point in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Gradient of `y=x^{n} (where n is a positive integer)",
+      "code": "8.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gradient of `y=x^{n} (where n is a positive integer); b) apply gradient of `y=x^{n} (where n is a positive integer) in solving problems.",
+      "experiences": "The learner is guided to: discuss gradient of `y=x^{n} (where n is a positive integer); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gradient of `y=x^{n} (where n is a positive integer) in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Delta notation `( Delta )`",
+      "code": "8.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain delta notation `( delta )`; b) apply delta notation `( delta )` in solving problems.",
+      "experiences": "The learner is guided to: discuss delta notation `( delta )`; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply delta notation `( delta )` in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Derivative of a polynomial",
+      "code": "8.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain derivative of a polynomial; b) apply derivative of a polynomial in solving problems.",
+      "experiences": "The learner is guided to: discuss derivative of a polynomial; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply derivative of a polynomial in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Equations of tangents and normals to the curve",
+      "code": "8.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain equations of tangents and normals to the curve; b) apply equations of tangents and normals to the curve in solving problems.",
+      "experiences": "The learner is guided to: discuss equations of tangents and normals to the curve; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply equations of tangents and normals to the curve in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Stationary points",
+      "code": "8.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain stationary points; b) apply stationary points in solving problems.",
+      "experiences": "The learner is guided to: discuss stationary points; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply stationary points in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Curve sketching",
+      "code": "8.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain curve sketching; b) apply curve sketching in solving problems.",
+      "experiences": "The learner is guided to: discuss curve sketching; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply curve sketching in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Application of differentiation in calculation of distance, velocity and acceleration",
+      "code": "8.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application of differentiation in calculation of distance, velocity and acceleration; b) apply application of differentiation in calculation of distance, velocity and acceleration in solving problems.",
+      "experiences": "The learner is guided to: discuss application of differentiation in calculation of distance, velocity and acceleration; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application of differentiation in calculation of distance, velocity and acceleration in real life?"
+    },
+    {
+      "strand": "DIFFERENTIATION",
+      "subStrand": "Maxima and minima",
+      "code": "8.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain maxima and minima; b) apply maxima and minima in solving problems.",
+      "experiences": "The learner is guided to: discuss maxima and minima; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply maxima and minima in real life?"
+    },
+    {
+      "strand": "AREA APPROXIMATION",
+      "subStrand": "Area by counting techniques",
+      "code": "9.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain area by counting techniques; b) apply area by counting techniques in solving problems.",
+      "experiences": "The learner is guided to: discuss area by counting techniques; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply area by counting techniques in real life?"
+    },
+    {
+      "strand": "AREA APPROXIMATION",
+      "subStrand": "Trapezium rule",
+      "code": "9.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain trapezium rule; b) apply trapezium rule in solving problems.",
+      "experiences": "The learner is guided to: discuss trapezium rule; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply trapezium rule in real life?"
+    },
+    {
+      "strand": "AREA APPROXIMATION",
+      "subStrand": "Area using trapezium rule",
+      "code": "9.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain area using trapezium rule; b) apply area using trapezium rule in solving problems.",
+      "experiences": "The learner is guided to: discuss area using trapezium rule; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply area using trapezium rule in real life?"
+    },
+    {
+      "strand": "AREA APPROXIMATION",
+      "subStrand": "Mid-ordinate rule",
+      "code": "9.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mid-ordinate rule; b) apply mid-ordinate rule in solving problems.",
+      "experiences": "The learner is guided to: discuss mid-ordinate rule; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mid-ordinate rule in real life?"
+    },
+    {
+      "strand": "AREA APPROXIMATION",
+      "subStrand": "Area by the mid-ordinate rule",
+      "code": "9.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain area by the mid-ordinate rule; b) apply area by the mid-ordinate rule in solving problems.",
+      "experiences": "The learner is guided to: discuss area by the mid-ordinate rule; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply area by the mid-ordinate rule in real life?"
+    },
+    {
+      "strand": "INTEGRATION",
+      "subStrand": "Differentiation",
+      "code": "10.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain differentiation; b) apply differentiation in solving problems.",
+      "experiences": "The learner is guided to: discuss differentiation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply differentiation in real life?"
+    },
+    {
+      "strand": "INTEGRATION",
+      "subStrand": "Reverse differentiation",
+      "code": "10.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reverse differentiation; b) apply reverse differentiation in solving problems.",
+      "experiences": "The learner is guided to: discuss reverse differentiation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reverse differentiation in real life?"
+    },
+    {
+      "strand": "INTEGRATION",
+      "subStrand": "Integration notation and sum of areas of trapezia",
+      "code": "10.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain integration notation and sum of areas of trapezia; b) apply integration notation and sum of areas of trapezia in solving problems.",
+      "experiences": "The learner is guided to: discuss integration notation and sum of areas of trapezia; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply integration notation and sum of areas of trapezia in real life?"
+    },
+    {
+      "strand": "INTEGRATION",
+      "subStrand": "Indefinite and definite integrals",
+      "code": "10.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain indefinite and definite integrals; b) apply indefinite and definite integrals in solving problems.",
+      "experiences": "The learner is guided to: discuss indefinite and definite integrals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply indefinite and definite integrals in real life?"
+    },
+    {
+      "strand": "INTEGRATION",
+      "subStrand": "Area under a curve by integration",
+      "code": "10.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain area under a curve by integration; b) apply area under a curve by integration in solving problems.",
+      "experiences": "The learner is guided to: discuss area under a curve by integration; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply area under a curve by integration in real life?"
+    },
+    {
+      "strand": "INTEGRATION",
+      "subStrand": "Application in kinematics",
+      "code": "10.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain application in kinematics; b) apply application in kinematics in solving problems.",
+      "experiences": "The learner is guided to: discuss application in kinematics; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply application in kinematics in real life?"
+    }
+  ],
+  "driveId": "18dxy1FrEqFYz9_ZtX11hDyfi1VVRavR4",
+  "pages": 13,
+  "harvestedAt": "2026-09-03T06:57:22.949Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
