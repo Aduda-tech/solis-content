@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T07:41:30.236Z",
-  "count": 94,
+  "generatedAt": "2026-09-03T11:05:47.894176+00:00",
+  "count": 92,
   "designs": [
     {
       "grade": "Form 3",
@@ -399,7 +399,7 @@
       "learningArea": "Mathematics",
       "path": "curriculum-designs/Grade 7/Mathematics/design.json",
       "strandCount": 18,
-      "totalLessons": 92,
+      "totalLessons": 112,
       "curriculum": "CBC"
     },
     {
@@ -734,15 +734,6 @@
     },
     {
       "grade": "PP1",
-      "learningArea": "Hindu Religious Education",
-      "path": "curriculum-designs/PP1/Hindu Religious Education/design.json",
-      "strandCount": 7,
-      "totalLessons": 27,
-      "edition": 2017,
-      "curriculum": "CBC"
-    },
-    {
-      "grade": "PP1",
       "learningArea": "Islamic Religious Education",
       "path": "curriculum-designs/PP1/Islamic Religious Education/design.json",
       "strandCount": 10,
@@ -765,15 +756,6 @@
       "path": "curriculum-designs/PP1/Mathematical Activities/design.json",
       "strandCount": 16,
       "totalLessons": 150,
-      "edition": 2017,
-      "curriculum": "CBC"
-    },
-    {
-      "grade": "PP1",
-      "learningArea": "Psychomotor and Creative Activities",
-      "path": "curriculum-designs/PP1/Psychomotor and Creative Activities/design.json",
-      "strandCount": 25,
-      "totalLessons": 229,
       "edition": 2017,
       "curriculum": "CBC"
     }

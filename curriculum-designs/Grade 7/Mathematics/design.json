@@ -5,7 +5,7 @@
   "sourceLabel": "1 Mathematics",
   "pages": 81,
   "strandCount": 18,
-  "totalLessons": 92,
+  "totalLessons": 112,
   "strands": [
     {
       "strand": "Numbers",
@@ -117,9 +117,9 @@
     },
     {
       "strand": "Measurements",
-      "subStrand": "Time, Distance and Speed (8 l essons)",
+      "subStrand": "Time, Distance and Speed",
       "code": "3.5",
-      "lessons": null,
+      "lessons": 8,
       "outcomes": "By the end of the sub strand, the learner should be able to: a) identify units of measuring time in real life situations b) convert units of time from one form to another in learning situations c) convert units of measuring distance in learning situations d) identify speed as distance covered per unit time in different situations e) work out speed in km/h and m/s in real life situations f) Convert units of speed from kilometers per hour (Km/h) to meters per second (m/s) and vice versa in real life situations g) Use IT devices to learn more on time, distance and speed for planning",
       "experiences": "The learner is guided to: • use analog or digital clock to tell time in hours, minutes and seconds and discuss the units of time • create conversion table on units of time • discuss and estimate distances between two or more points and convert from Km to meters and vice versa • engage in activities that involve distance and time such as track events to relate time, distance and speed • discuss how long they take to travel from home to school, discuss the aspects of distance, and time taken to get to school • practice calculating speeds in km/h or m/s",
       "inquiryQuestions": "1. Why do we relate distance, time and speed? 2. What is the importance of speed in daily a ctivities?"
@@ -135,9 +135,9 @@
     },
     {
       "strand": "Measurements",
-      "subStrand": "Money (12 l essons)",
+      "subStrand": "Money",
       "code": "3.7",
-      "lessons": null,
+      "lessons": 12,
       "outcomes": "By the end of the sub strand, the learner should be able to: a) work out profit and loss in real life situations b) calculate the percentage profit and loss in different situations c) calculate discount and percentage discount of different goods and services d) calculate commission and percentage commission in real life situations e) interpret bills at home f) prepare bills in real life situations g) work out postal charges in real life situations h) identify mobile money services for different transactions",
       "experiences": "The learner is guided to: • role play shopping activities involving profit, loss, discount and commission • work out profit and loss in different situations • work out percentage profit/loss in different situations • work out discount and percentage discount in different situations • work out commission and percentage commission in different situations • identify different types of bills and read the components of bills • prepare bills in different situations • visit post office to gather information on postal services and charges",
       "inquiryQuestions": "1. Why do we use money in daily activities? 2. What considerations would we make when buying or selling? 3. What is involved in mobile money transactions?"
