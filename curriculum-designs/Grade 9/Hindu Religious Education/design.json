@@ -1,0 +1,65 @@
+{
+  "grade": "Grade 9",
+  "learningArea": "Hindu Religious Education",
+  "strandCount": 6,
+  "totalLessons": 100,
+  "strands": [
+    {
+      "strand": "Manifestation of Paramatma (Supreme Being)",
+      "subStrand": "Enlightened Beings  Tridev’s contribution to mankind  The Tirthankars’ way of non- violence (Ahimsa)  Buddha’s gift to humanity and -The Guru’s way of life (Khalsa Panth)",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the sub- strand the learner should be able to: a) state the contributions of the Enlightened Beings for harmonious living, b) narrate Scriptural stories that portray the teachings of the Enlightened Beings for moral and social development, c) desire to implement the teachings of the Enlightened Beings for personal improvement.",
+      "experiences": "The learner is guided to: ● mention contribution of Enlightened Beings ● conduct research using digital media/digital media with assistive technology library/ magazines to describe the contributions of Enlightened Beings ● write an essay on The Guru’s way of life (Khalsa Panth), ● research on the concept of The Tirthankars’ way of non- violence (Ahimsa), ● listen to audio-visual clips on the life history of the Enlightened Beings ● write a composition on how they have implemented any of the teachings they have learnt from the Enlightened Beings,",
+      "inquiryQuestions": "1. How have the teachings of the Enlightened Beings impacted society? 2. How do the life histories of Enlightened Beings guide our lives today?"
+    },
+    {
+      "strand": "Manifestation of Paramatma (Supreme Being)",
+      "subStrand": ". Scriptural Text and role of Sikh Scriptures  Sri Sukhumani sahib in Sri Guru Granth Sahib ji  Ashtpadi from 17-24",
+      "code": "2.1",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) outline the role of Sikh Scriptures for guidance in one’s life, b) explain the compilation of Sri Sukhmani Sahib in Sri Guru Granth Sahib ji for internalization, c) interpret the universal message embedded in the Sri Sukhmani Sahib for deeper understanding, d) appreciate the teachings of the Sikh Scriptures for spiritual development.",
+      "experiences": "The learner is guided to:  mention compilation of Sri Sukhumani sahib in Sri Guru Granth Sahib ji,  discuss the compilation of the Sri Guru Granth Sahib ji,  prepare a PowerPoint and present in class for constructive feedback from peers,  conduct research using digital media/digital media with assistive technology library/ magazines on the compilation of Ashtpadi from 17-24 from Sri Sukhmani Sahib in Sri Guru Granth Sahib ji  interact with resource persons on the role of Sri Guru Granth Sahib ji",
+      "inquiryQuestions": "1. How do Scriptures influence your lifestyle? 2. How does recitation of Scriptures help to acquire self- efficacy?"
+    },
+    {
+      "strand": "Manifestation of Paramatma (Supreme Being)",
+      "subStrand": ". Sikh Principles of Dharma  Compassion (Daya)  Satisfaction (Santokh)  Truth (Sat)  Humility (Nimrata)  Love (Pyaar)  (Naam Japnaa),  Honest livelihood (Kirat Karni),  Sharing (Vand ke Chhakna)",
+      "code": "3.1",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) state the Sikh Principles of Dharma for knowledge, b) describe the concepts of the three pillars of Sikh Dharma for spiritual uplift, c) display the Sikh Principles of Dharma in a school environment, d) appreciate the Sikh Principles of Dharma for character development.",
+      "experiences": "The learner is guided to: ● mention the Sikh Principles of dharma. ● discuss Sikh principles with peers. ● research using digital media/digital media with assistive technology library/ magazines, ● research on the pillars of Sikhism, create and present a poster/ videoclip in class ● discuss with peers the Sikh Principles of Dharma ● research on how Sikh Principles of Dharma are helpful in eradicating evils in society ● discuss with peers the relevance of Sikh",
+      "inquiryQuestions": "1. How are the Sikh Principles of Dharma still relevant in today’s age? 2. How does the implementation of Sikh Principles of Dharma uplift your spirituality?"
+    },
+    {
+      "strand": "Religious Practices",
+      "subStrand": ". Rituals and Protocols (During religious activities)  Akhand Ramayan Path  Kalpa Sutra Recitation  Akhand path  Katha",
+      "code": "4.1",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand, the learner should be able to: a) enumerate common rituals and protocols during religious practices, b) describe the rituals and protocols performed during religious activities for spiritual grounding, c) model the mandatory religious etiquette for self-efficacy, d) appreciates rituals and protocols performed during religious activities for spiritual growth.",
+      "experiences": "",
+      "inquiryQuestions": ""
+    },
+    {
+      "strand": "Religious Practices",
+      "subStrand": ". Knowledge (Gyan/Jnana Yog)  Hearing (sravana),  Thinking (manana)  Meditation (nididhyasana) Practitioners  Nachiketa  Gautam Swami  Webu Sayadaw  Bhai Gurdas Ji",
+      "code": "5.1",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand the learner should be able to: a) state the key events of the selected four prominent practitioners of Gyan/Jnana Yog for better understanding, b) outline the four key practitioners of Gyan/Jnana Yog from the four faiths for familiarisation, c) interpret the importance of Gyan/Jnana Yog as a spiritual path, d) acknowledge Gyan/Jnana Yog as a tool of holistic development.",
+      "experiences": "The learner is guided to: ● name key events of prominent practitioners of Gyan/Jnana Yog, ● listen /watch the discourses on Gyan/Jnana Yog, ● discuss the concept of Gyan/Jnana Yog with peers, ● conduct research using digital devices/resource persons/libraries to get a better understanding of the components of Gyan/Jnana Yog ● write an essay on Gyan/Jnana Yog and present in class for peer review, ● outline the personalities from the four faiths who attained spiritualism through Gyan/Jnana Yog, ● Plan with neighbouring schools and organize a symposium on Gyan/Jnana Yog, ● Make a collage of pictures of different Gyan/Jnana Yog",
+      "inquiryQuestions": "1. How relevant is Gyan/Jnana Yog in modern society? 2. Why are contemplative practices important in our lives?"
+    },
+    {
+      "strand": "Religious Practices",
+      "subStrand": ". Sikh Sanskaars  naming ceremony (naam karan)  tying the turban (dastar bandhan)  baptism (amrit shakna)  marriage (anand karaj)  death (antim sanskaar)",
+      "code": "6.1",
+      "lessons": 20,
+      "outcomes": "By the end of the sub strand, the Learner should be able to: a) outline the five Sanskaars as per Sikh Dharma for familiarization, b) illustrate the significance of the five Sikh Sanskaars for better understanding, c) appreciate the Sikh Sanskaars for harmonious living.",
+      "experiences": "",
+      "inquiryQuestions": ""
+    }
+  ],
+  "driveId": "1AjzgjZFFcREIQkqbUfeTaJwCpxLP5Yfm",
+  "harvestedAt": "2026-09-03T07:00:02.635Z",
+  "source": "KICD curriculum design"
+}
