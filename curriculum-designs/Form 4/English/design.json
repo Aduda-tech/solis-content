@@ -1,0 +1,743 @@
+{
+  "grade": "Form 4",
+  "learningArea": "English",
+  "strandCount": 81,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Pronunciation",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain pronunciation; b) apply pronunciation in solving problems.",
+      "experiences": "The learner is guided to: discuss pronunciation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply pronunciation in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Distinguish word class on basis of stress",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain distinguish word class on basis of stress; b) apply distinguish word class on basis of stress in solving problems.",
+      "experiences": "The learner is guided to: discuss distinguish word class on basis of stress; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply distinguish word class on basis of stress in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Use of tone to reveal attitude",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain use of tone to reveal attitude; b) apply use of tone to reveal attitude in solving problems.",
+      "experiences": "The learner is guided to: discuss use of tone to reveal attitude; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply use of tone to reveal attitude in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Listening Comprehension and Note-taking Listen and respond to:",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain listening comprehension and note-taking listen and respond to:; b) apply listening comprehension and note-taking listen and respond to: in solving problems.",
+      "experiences": "The learner is guided to: discuss listening comprehension and note-taking listen and respond to:; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply listening comprehension and note-taking listen and respond to: in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Oral poetry",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain oral poetry; b) apply oral poetry in solving problems.",
+      "experiences": "The learner is guided to: discuss oral poetry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply oral poetry in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Proverbs",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain proverbs; b) apply proverbs in solving problems.",
+      "experiences": "The learner is guided to: discuss proverbs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply proverbs in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Features of oral poetry and proverbs",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain features of oral poetry and proverbs; b) apply features of oral poetry and proverbs in solving problems.",
+      "experiences": "The learner is guided to: discuss features of oral poetry and proverbs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply features of oral poetry and proverbs in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Information on poverty eradication",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain information on poverty eradication; b) apply information on poverty eradication in solving problems.",
+      "experiences": "The learner is guided to: discuss information on poverty eradication; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply information on poverty eradication in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Mastery of content",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mastery of content; b) apply mastery of content in solving problems.",
+      "experiences": "The learner is guided to: discuss mastery of content; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mastery of content in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Oral reports",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain oral reports; b) apply oral reports in solving problems.",
+      "experiences": "The learner is guided to: discuss oral reports; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply oral reports in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Etiquette",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain etiquette; b) apply etiquette in solving problems.",
+      "experiences": "The learner is guided to: discuss etiquette; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply etiquette in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Interrupting and disagreeing politely",
+      "code": "1.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain interrupting and disagreeing politely; b) apply interrupting and disagreeing politely in solving problems.",
+      "experiences": "The learner is guided to: discuss interrupting and disagreeing politely; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply interrupting and disagreeing politely in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Negotiation skills",
+      "code": "1.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain negotiation skills; b) apply negotiation skills in solving problems.",
+      "experiences": "The learner is guided to: discuss negotiation skills; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply negotiation skills in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Turn-taking",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain turn-taking; b) apply turn-taking in solving problems.",
+      "experiences": "The learner is guided to: discuss turn-taking; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply turn-taking in real life?"
+    },
+    {
+      "strand": "LISTENING AND SPEAKING",
+      "subStrand": "Paying attention (listening)",
+      "code": "1.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain paying attention (listening); b) apply paying attention (listening) in solving problems.",
+      "experiences": "The learner is guided to: discuss paying attention (listening); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply paying attention (listening) in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Parts of Speech - Nouns",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain parts of speech - nouns; b) apply parts of speech - nouns in solving problems.",
+      "experiences": "The learner is guided to: discuss parts of speech - nouns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply parts of speech - nouns in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Functions of nouns in sentences e.g. subject, object, complement",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of nouns in sentences e.g. subject, object, complement; b) apply functions of nouns in sentences e.g. subject, object, complement in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of nouns in sentences e.g. subject, object, complement; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of nouns in sentences e.g. subject, object, complement in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Pronouns",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain pronouns; b) apply pronouns in solving problems.",
+      "experiences": "The learner is guided to: discuss pronouns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply pronouns in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Interrogative pronouns",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain interrogative pronouns; b) apply interrogative pronouns in solving problems.",
+      "experiences": "The learner is guided to: discuss interrogative pronouns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply interrogative pronouns in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Relative pronouns",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain relative pronouns; b) apply relative pronouns in solving problems.",
+      "experiences": "The learner is guided to: discuss relative pronouns; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply relative pronouns in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Verbs",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain verbs; b) apply verbs in solving problems.",
+      "experiences": "The learner is guided to: discuss verbs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply verbs in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Participle phrases",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain participle phrases; b) apply participle phrases in solving problems.",
+      "experiences": "The learner is guided to: discuss participle phrases; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply participle phrases in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Gerunds",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gerunds; b) apply gerunds in solving problems.",
+      "experiences": "The learner is guided to: discuss gerunds; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gerunds in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Adjectives",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain adjectives; b) apply adjectives in solving problems.",
+      "experiences": "The learner is guided to: discuss adjectives; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply adjectives in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Typical endings of adjectives (e.g. - ful, - less,-ous)",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain typical endings of adjectives (e.g. - ful, - less,-ous); b) apply typical endings of adjectives (e.g. - ful, - less,-ous) in solving problems.",
+      "experiences": "The learner is guided to: discuss typical endings of adjectives (e.g. - ful, - less,-ous); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply typical endings of adjectives (e.g. - ful, - less,-ous) in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Functions of adjectives",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of adjectives; b) apply functions of adjectives in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of adjectives; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of adjectives in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Adverbs",
+      "code": "2.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain adverbs; b) apply adverbs in solving problems.",
+      "experiences": "The learner is guided to: discuss adverbs; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply adverbs in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Position of adverbs in sentences",
+      "code": "2.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain position of adverbs in sentences; b) apply position of adverbs in sentences in solving problems.",
+      "experiences": "The learner is guided to: discuss position of adverbs in sentences; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply position of adverbs in sentences in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Typical endings of adverbs e.g. -ly, -wards, -wise)",
+      "code": "2.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain typical endings of adverbs e.g. -ly, -wards, -wise); b) apply typical endings of adverbs e.g. -ly, -wards, -wise) in solving problems.",
+      "experiences": "The learner is guided to: discuss typical endings of adverbs e.g. -ly, -wards, -wise); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply typical endings of adverbs e.g. -ly, -wards, -wise) in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Prepositions",
+      "code": "2.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain prepositions; b) apply prepositions in solving problems.",
+      "experiences": "The learner is guided to: discuss prepositions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply prepositions in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Functions of prepositions in sentences",
+      "code": "2.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of prepositions in sentences; b) apply functions of prepositions in sentences in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of prepositions in sentences; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of prepositions in sentences in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Conjunctions",
+      "code": "2.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain conjunctions; b) apply conjunctions in solving problems.",
+      "experiences": "The learner is guided to: discuss conjunctions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply conjunctions in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Functions of conjunctions in sentences",
+      "code": "2.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of conjunctions in sentences; b) apply functions of conjunctions in sentences in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of conjunctions in sentences; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of conjunctions in sentences in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Clauses",
+      "code": "2.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain clauses; b) apply clauses in solving problems.",
+      "experiences": "The learner is guided to: discuss clauses; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply clauses in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Inversions",
+      "code": "2.20",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain inversions; b) apply inversions in solving problems.",
+      "experiences": "The learner is guided to: discuss inversions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply inversions in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Sentence connectors",
+      "code": "2.21",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sentence connectors; b) apply sentence connectors in solving problems.",
+      "experiences": "The learner is guided to: discuss sentence connectors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sentence connectors in real life?"
+    },
+    {
+      "strand": "GRAMMAR",
+      "subStrand": "Substitution and ellipsis",
+      "code": "2.22",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain substitution and ellipsis; b) apply substitution and ellipsis in solving problems.",
+      "experiences": "The learner is guided to: discuss substitution and ellipsis; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply substitution and ellipsis in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Reading Skills",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reading skills; b) apply reading skills in solving problems.",
+      "experiences": "The learner is guided to: discuss reading skills; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reading skills in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Note-making",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain note-making; b) apply note-making in solving problems.",
+      "experiences": "The learner is guided to: discuss note-making; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply note-making in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Study reading",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain study reading; b) apply study reading in solving problems.",
+      "experiences": "The learner is guided to: discuss study reading; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply study reading in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Critical reading",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain critical reading; b) apply critical reading in solving problems.",
+      "experiences": "The learner is guided to: discuss critical reading; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply critical reading in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Interpretive reading",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain interpretive reading; b) apply interpretive reading in solving problems.",
+      "experiences": "The learner is guided to: discuss interpretive reading; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply interpretive reading in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Responsive reading",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain responsive reading; b) apply responsive reading in solving problems.",
+      "experiences": "The learner is guided to: discuss responsive reading; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply responsive reading in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Recognising attitude and tone",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain recognising attitude and tone; b) apply recognising attitude and tone in solving problems.",
+      "experiences": "The learner is guided to: discuss recognising attitude and tone; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply recognising attitude and tone in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Distinguishing facts from opinions",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain distinguishing facts from opinions; b) apply distinguishing facts from opinions in solving problems.",
+      "experiences": "The learner is guided to: discuss distinguishing facts from opinions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply distinguishing facts from opinions in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Intensive Reading",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain intensive reading; b) apply intensive reading in solving problems.",
+      "experiences": "The learner is guided to: discuss intensive reading; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply intensive reading in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Focus on critical analysis of prescribed texts: I novel play 1 play/novel/anthology of short stories",
+      "code": "3.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain focus on critical analysis of prescribed texts: i novel play 1 play/novel/anthology of short stories; b) apply focus on critical analysis of prescribed texts: i novel play 1 play/novel/anthology of short stories in solving problems.",
+      "experiences": "The learner is guided to: discuss focus on critical analysis of prescribed texts: i novel play 1 play/novel/anthology of short stories; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply focus on critical analysis of prescribed texts: i novel play 1 play/novel/anthology of short stories in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Focus on oral literature",
+      "code": "3.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain focus on oral literature; b) apply focus on oral literature in solving problems.",
+      "experiences": "The learner is guided to: discuss focus on oral literature; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply focus on oral literature in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Extensive Reading",
+      "code": "3.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain extensive reading; b) apply extensive reading in solving problems.",
+      "experiences": "The learner is guided to: discuss extensive reading; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply extensive reading in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Literary and non literary materials on contemporary issues such as: Poverty Eradication Drug and",
+      "code": "3.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain literary and non literary materials on contemporary issues such as: poverty eradication drug and; b) apply literary and non literary materials on contemporary issues such as: poverty eradication drug and in solving problems.",
+      "experiences": "The learner is guided to: discuss literary and non literary materials on contemporary issues such as: poverty eradication drug and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply literary and non literary materials on contemporary issues such as: poverty eradication drug and in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Journals and magazines on different subjects",
+      "code": "3.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain journals and magazines on different subjects; b) apply journals and magazines on different subjects in solving problems.",
+      "experiences": "The learner is guided to: discuss journals and magazines on different subjects; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply journals and magazines on different subjects in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Novels",
+      "code": "3.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain novels; b) apply novels in solving problems.",
+      "experiences": "The learner is guided to: discuss novels; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply novels in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Short stories",
+      "code": "3.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain short stories; b) apply short stories in solving problems.",
+      "experiences": "The learner is guided to: discuss short stories; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply short stories in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Plays",
+      "code": "3.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain plays; b) apply plays in solving problems.",
+      "experiences": "The learner is guided to: discuss plays; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply plays in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Reports",
+      "code": "3.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reports; b) apply reports in solving problems.",
+      "experiences": "The learner is guided to: discuss reports; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reports in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Comprehension Skills",
+      "code": "3.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain comprehension skills; b) apply comprehension skills in solving problems.",
+      "experiences": "The learner is guided to: discuss comprehension skills; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply comprehension skills in real life?"
+    },
+    {
+      "strand": "READING",
+      "subStrand": "Summarising and note-making",
+      "code": "3.20",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain summarising and note-making; b) apply summarising and note-making in solving problems.",
+      "experiences": "The learner is guided to: discuss summarising and note-making; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply summarising and note-making in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Building sentence skills and paragraphing",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain building sentence skills and paragraphing; b) apply building sentence skills and paragraphing in solving problems.",
+      "experiences": "The learner is guided to: discuss building sentence skills and paragraphing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply building sentence skills and paragraphing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Paraphrasing",
+      "code": "4.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain paraphrasing; b) apply paraphrasing in solving problems.",
+      "experiences": "The learner is guided to: discuss paraphrasing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply paraphrasing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Punctuation",
+      "code": "4.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain punctuation; b) apply punctuation in solving problems.",
+      "experiences": "The learner is guided to: discuss punctuation; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply punctuation in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Devices for presenting quotations and headings",
+      "code": "4.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain devices for presenting quotations and headings; b) apply devices for presenting quotations and headings in solving problems.",
+      "experiences": "The learner is guided to: discuss devices for presenting quotations and headings; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply devices for presenting quotations and headings in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Personal writing",
+      "code": "4.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain personal writing; b) apply personal writing in solving problems.",
+      "experiences": "The learner is guided to: discuss personal writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply personal writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Recipes",
+      "code": "4.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain recipes; b) apply recipes in solving problems.",
+      "experiences": "The learner is guided to: discuss recipes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply recipes in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Social writing",
+      "code": "4.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain social writing; b) apply social writing in solving problems.",
+      "experiences": "The learner is guided to: discuss social writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply social writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "E-mails",
+      "code": "4.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain e-mails; b) apply e-mails in solving problems.",
+      "experiences": "The learner is guided to: discuss e-mails; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply e-mails in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Fax",
+      "code": "4.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fax; b) apply fax in solving problems.",
+      "experiences": "The learner is guided to: discuss fax; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fax in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Instructions to family and friends",
+      "code": "4.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain instructions to family and friends; b) apply instructions to family and friends in solving problems.",
+      "experiences": "The learner is guided to: discuss instructions to family and friends; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply instructions to family and friends in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Public writing",
+      "code": "4.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain public writing; b) apply public writing in solving problems.",
+      "experiences": "The learner is guided to: discuss public writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply public writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Letters of inquiry",
+      "code": "4.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain letters of inquiry; b) apply letters of inquiry in solving problems.",
+      "experiences": "The learner is guided to: discuss letters of inquiry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply letters of inquiry in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Letters of request",
+      "code": "4.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain letters of request; b) apply letters of request in solving problems.",
+      "experiences": "The learner is guided to: discuss letters of request; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply letters of request in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Study writing",
+      "code": "4.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain study writing; b) apply study writing in solving problems.",
+      "experiences": "The learner is guided to: discuss study writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply study writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Reviews",
+      "code": "4.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain reviews; b) apply reviews in solving problems.",
+      "experiences": "The learner is guided to: discuss reviews; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply reviews in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Expository writing",
+      "code": "4.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain expository writing; b) apply expository writing in solving problems.",
+      "experiences": "The learner is guided to: discuss expository writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply expository writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Questionnaires",
+      "code": "4.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain questionnaires; b) apply questionnaires in solving problems.",
+      "experiences": "The learner is guided to: discuss questionnaires; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply questionnaires in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Creative writing",
+      "code": "4.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain creative writing; b) apply creative writing in solving problems.",
+      "experiences": "The learner is guided to: discuss creative writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply creative writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Imaginative compositions",
+      "code": "4.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain imaginative compositions; b) apply imaginative compositions in solving problems.",
+      "experiences": "The learner is guided to: discuss imaginative compositions; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply imaginative compositions in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Autobiographies",
+      "code": "4.20",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain autobiographies; b) apply autobiographies in solving problems.",
+      "experiences": "The learner is guided to: discuss autobiographies; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply autobiographies in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Biographies",
+      "code": "4.21",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain biographies; b) apply biographies in solving problems.",
+      "experiences": "The learner is guided to: discuss biographies; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply biographies in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Institutional writing",
+      "code": "4.22",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain institutional writing; b) apply institutional writing in solving problems.",
+      "experiences": "The learner is guided to: discuss institutional writing; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply institutional writing in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Curriculum vitae",
+      "code": "4.23",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain curriculum vitae; b) apply curriculum vitae in solving problems.",
+      "experiences": "The learner is guided to: discuss curriculum vitae; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply curriculum vitae in real life?"
+    },
+    {
+      "strand": "WRITING",
+      "subStrand": "Speeches",
+      "code": "4.24",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain speeches; b) apply speeches in solving problems.",
+      "experiences": "The learner is guided to: discuss speeches; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply speeches in real life?"
+    }
+  ],
+  "driveId": "1Iq91jfiTa6AM0isiJtSkNwvJy9ayO1Kv",
+  "pages": 11,
+  "harvestedAt": "2026-09-03T06:57:23.401Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
