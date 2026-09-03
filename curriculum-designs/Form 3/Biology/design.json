@@ -1,0 +1,779 @@
+{
+  "grade": "Form 3",
+  "learningArea": "Biology",
+  "strandCount": 85,
+  "totalLessons": 0,
+  "strands": [
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Review of binomial nomenclature",
+      "code": "1.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain review of binomial nomenclature; b) apply review of binomial nomenclature in solving problems.",
+      "experiences": "The learner is guided to: discuss review of binomial nomenclature; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply review of binomial nomenclature in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "General principles of classification",
+      "code": "1.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain general principles of classification; b) apply general principles of classification in solving problems.",
+      "experiences": "The learner is guided to: discuss general principles of classification; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply general principles of classification in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "General characteristics of kingdoms",
+      "code": "1.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain general characteristics of kingdoms; b) apply general characteristics of kingdoms in solving problems.",
+      "experiences": "The learner is guided to: discuss general characteristics of kingdoms; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply general characteristics of kingdoms in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Monera",
+      "code": "1.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain monera; b) apply monera in solving problems.",
+      "experiences": "The learner is guided to: discuss monera; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply monera in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Protoctista",
+      "code": "1.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain protoctista; b) apply protoctista in solving problems.",
+      "experiences": "The learner is guided to: discuss protoctista; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply protoctista in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Fungi",
+      "code": "1.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fungi; b) apply fungi in solving problems.",
+      "experiences": "The learner is guided to: discuss fungi; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fungi in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Plantae",
+      "code": "1.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain plantae; b) apply plantae in solving problems.",
+      "experiences": "The learner is guided to: discuss plantae; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply plantae in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Animalia",
+      "code": "1.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain animalia; b) apply animalia in solving problems.",
+      "experiences": "The learner is guided to: discuss animalia; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply animalia in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Main characteristics of major divisions of plantae",
+      "code": "1.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain main characteristics of major divisions of plantae; b) apply main characteristics of major divisions of plantae in solving problems.",
+      "experiences": "The learner is guided to: discuss main characteristics of major divisions of plantae; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply main characteristics of major divisions of plantae in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Bryophyta",
+      "code": "1.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain bryophyta; b) apply bryophyta in solving problems.",
+      "experiences": "The learner is guided to: discuss bryophyta; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply bryophyta in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Pterodophyta",
+      "code": "1.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain pterodophyta; b) apply pterodophyta in solving problems.",
+      "experiences": "The learner is guided to: discuss pterodophyta; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply pterodophyta in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Spermatophyta",
+      "code": "1.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain spermatophyta; b) apply spermatophyta in solving problems.",
+      "experiences": "The learner is guided to: discuss spermatophyta; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply spermatophyta in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Main characteristics of phyla Arthropoda and Chordata",
+      "code": "1.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain main characteristics of phyla arthropoda and chordata; b) apply main characteristics of phyla arthropoda and chordata in solving problems.",
+      "experiences": "The learner is guided to: discuss main characteristics of phyla arthropoda and chordata; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply main characteristics of phyla arthropoda and chordata in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Arthropoda",
+      "code": "1.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain arthropoda; b) apply arthropoda in solving problems.",
+      "experiences": "The learner is guided to: discuss arthropoda; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply arthropoda in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Diplopoda",
+      "code": "1.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain diplopoda; b) apply diplopoda in solving problems.",
+      "experiences": "The learner is guided to: discuss diplopoda; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply diplopoda in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Chilopoda",
+      "code": "1.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain chilopoda; b) apply chilopoda in solving problems.",
+      "experiences": "The learner is guided to: discuss chilopoda; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply chilopoda in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "insecta",
+      "code": "1.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain insecta; b) apply insecta in solving problems.",
+      "experiences": "The learner is guided to: discuss insecta; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply insecta in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "crustacea",
+      "code": "1.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain crustacea; b) apply crustacea in solving problems.",
+      "experiences": "The learner is guided to: discuss crustacea; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply crustacea in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "arachnida",
+      "code": "1.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain arachnida; b) apply arachnida in solving problems.",
+      "experiences": "The learner is guided to: discuss arachnida; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply arachnida in real life?"
+    },
+    {
+      "strand": "CLASSIFICATION II",
+      "subStrand": "Construction and use of simple dichotomous keys based on observable features of plants and animals",
+      "code": "1.20",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain construction and use of simple dichotomous keys based on observable features of plants and animals; b) apply construction and use of simple dichotomous keys based on observable features of plants and animals in solving problems.",
+      "experiences": "The learner is guided to: discuss construction and use of simple dichotomous keys based on observable features of plants and animals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply construction and use of simple dichotomous keys based on observable features of plants and animals in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Concepts of ecology",
+      "code": "2.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain concepts of ecology; b) apply concepts of ecology in solving problems.",
+      "experiences": "The learner is guided to: discuss concepts of ecology; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply concepts of ecology in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Habitat",
+      "code": "2.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain habitat; b) apply habitat in solving problems.",
+      "experiences": "The learner is guided to: discuss habitat; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply habitat in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Niche",
+      "code": "2.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain niche; b) apply niche in solving problems.",
+      "experiences": "The learner is guided to: discuss niche; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply niche in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Population",
+      "code": "2.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain population; b) apply population in solving problems.",
+      "experiences": "The learner is guided to: discuss population; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply population in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Community",
+      "code": "2.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain community; b) apply community in solving problems.",
+      "experiences": "The learner is guided to: discuss community; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply community in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Ecosystem",
+      "code": "2.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ecosystem; b) apply ecosystem in solving problems.",
+      "experiences": "The learner is guided to: discuss ecosystem; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ecosystem in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Biomass",
+      "code": "2.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain biomass; b) apply biomass in solving problems.",
+      "experiences": "The learner is guided to: discuss biomass; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply biomass in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Carrying capacity",
+      "code": "2.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain carrying capacity; b) apply carrying capacity in solving problems.",
+      "experiences": "The learner is guided to: discuss carrying capacity; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply carrying capacity in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Factors in an ecosystem",
+      "code": "2.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factors in an ecosystem; b) apply factors in an ecosystem in solving problems.",
+      "experiences": "The learner is guided to: discuss factors in an ecosystem; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply factors in an ecosystem in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Abiotic factors",
+      "code": "2.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain abiotic factors; b) apply abiotic factors in solving problems.",
+      "experiences": "The learner is guided to: discuss abiotic factors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply abiotic factors in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Biotic factors",
+      "code": "2.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain biotic factors; b) apply biotic factors in solving problems.",
+      "experiences": "The learner is guided to: discuss biotic factors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply biotic factors in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Inter-relationships:- Competition, predation,",
+      "code": "2.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain inter-relationships:- competition, predation,; b) apply inter-relationships:- competition, predation, in solving problems.",
+      "experiences": "The learner is guided to: discuss inter-relationships:- competition, predation,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply inter-relationships:- competition, predation, in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Nitrogen cycle",
+      "code": "2.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain nitrogen cycle; b) apply nitrogen cycle in solving problems.",
+      "experiences": "The learner is guided to: discuss nitrogen cycle; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply nitrogen cycle in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Energy flow in an ecosystem:- Food chains, food webs, decomposers, pyramid of numbers and",
+      "code": "2.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain energy flow in an ecosystem:- food chains, food webs, decomposers, pyramid of numbers and; b) apply energy flow in an ecosystem:- food chains, food webs, decomposers, pyramid of numbers and in solving problems.",
+      "experiences": "The learner is guided to: discuss energy flow in an ecosystem:- food chains, food webs, decomposers, pyramid of numbers and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply energy flow in an ecosystem:- food chains, food webs, decomposers, pyramid of numbers and in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Population estimation methods",
+      "code": "2.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain population estimation methods; b) apply population estimation methods in solving problems.",
+      "experiences": "The learner is guided to: discuss population estimation methods; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply population estimation methods in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Quadrat method",
+      "code": "2.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain quadrat method; b) apply quadrat method in solving problems.",
+      "experiences": "The learner is guided to: discuss quadrat method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply quadrat method in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Line transect",
+      "code": "2.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain line transect; b) apply line transect in solving problems.",
+      "experiences": "The learner is guided to: discuss line transect; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply line transect in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Belt transect",
+      "code": "2.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain belt transect; b) apply belt transect in solving problems.",
+      "experiences": "The learner is guided to: discuss belt transect; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply belt transect in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Capture-recapture method",
+      "code": "2.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain capture-recapture method; b) apply capture-recapture method in solving problems.",
+      "experiences": "The learner is guided to: discuss capture-recapture method; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply capture-recapture method in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Adaptations of plants to various habitats",
+      "code": "2.20",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain adaptations of plants to various habitats; b) apply adaptations of plants to various habitats in solving problems.",
+      "experiences": "The learner is guided to: discuss adaptations of plants to various habitats; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply adaptations of plants to various habitats in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Xerophytes",
+      "code": "2.21",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain xerophytes; b) apply xerophytes in solving problems.",
+      "experiences": "The learner is guided to: discuss xerophytes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply xerophytes in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Mesophytes",
+      "code": "2.22",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain mesophytes; b) apply mesophytes in solving problems.",
+      "experiences": "The learner is guided to: discuss mesophytes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply mesophytes in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Hydrophytes",
+      "code": "2.23",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain hydrophytes; b) apply hydrophytes in solving problems.",
+      "experiences": "The learner is guided to: discuss hydrophytes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply hydrophytes in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Halophytes",
+      "code": "2.24",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain halophytes; b) apply halophytes in solving problems.",
+      "experiences": "The learner is guided to: discuss halophytes; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply halophytes in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Effect of pollution on human beings and other organisms",
+      "code": "2.25",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain effect of pollution on human beings and other organisms; b) apply effect of pollution on human beings and other organisms in solving problems.",
+      "experiences": "The learner is guided to: discuss effect of pollution on human beings and other organisms; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effect of pollution on human beings and other organisms in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Human diseases",
+      "code": "2.26",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain human diseases; b) apply human diseases in solving problems.",
+      "experiences": "The learner is guided to: discuss human diseases; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply human diseases in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Bacterial diseases- Cholera and Typhoid",
+      "code": "2.27",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain bacterial diseases- cholera and typhoid; b) apply bacterial diseases- cholera and typhoid in solving problems.",
+      "experiences": "The learner is guided to: discuss bacterial diseases- cholera and typhoid; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply bacterial diseases- cholera and typhoid in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Protozoa- malaria and amoebic dysentry",
+      "code": "2.28",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain protozoa- malaria and amoebic dysentry; b) apply protozoa- malaria and amoebic dysentry in solving problems.",
+      "experiences": "The learner is guided to: discuss protozoa- malaria and amoebic dysentry; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply protozoa- malaria and amoebic dysentry in real life?"
+    },
+    {
+      "strand": "ECOLOGY",
+      "subStrand": "Ascaris lumbricodes and schistosoma",
+      "code": "2.29",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain ascaris lumbricodes and schistosoma; b) apply ascaris lumbricodes and schistosoma in solving problems.",
+      "experiences": "The learner is guided to: discuss ascaris lumbricodes and schistosoma; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply ascaris lumbricodes and schistosoma in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Concept of reproduction",
+      "code": "3.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain concept of reproduction; b) apply concept of reproduction in solving problems.",
+      "experiences": "The learner is guided to: discuss concept of reproduction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply concept of reproduction in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Importance of reproduction",
+      "code": "3.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain importance of reproduction; b) apply importance of reproduction in solving problems.",
+      "experiences": "The learner is guided to: discuss importance of reproduction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply importance of reproduction in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Chromosomes, meiosis and mitosis",
+      "code": "3.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain chromosomes, meiosis and mitosis; b) apply chromosomes, meiosis and mitosis in solving problems.",
+      "experiences": "The learner is guided to: discuss chromosomes, meiosis and mitosis; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply chromosomes, meiosis and mitosis in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Asexual reproduction",
+      "code": "3.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain asexual reproduction; b) apply asexual reproduction in solving problems.",
+      "experiences": "The learner is guided to: discuss asexual reproduction; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply asexual reproduction in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Binary fission in amoeba",
+      "code": "3.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain binary fission in amoeba; b) apply binary fission in amoeba in solving problems.",
+      "experiences": "The learner is guided to: discuss binary fission in amoeba; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply binary fission in amoeba in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Spore formation/ reproduction in mucor / Rhizopus",
+      "code": "3.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain spore formation/ reproduction in mucor / rhizopus; b) apply spore formation/ reproduction in mucor / rhizopus in solving problems.",
+      "experiences": "The learner is guided to: discuss spore formation/ reproduction in mucor / rhizopus; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply spore formation/ reproduction in mucor / rhizopus in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Budding in yeast",
+      "code": "3.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain budding in yeast; b) apply budding in yeast in solving problems.",
+      "experiences": "The learner is guided to: discuss budding in yeast; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply budding in yeast in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Sexual reproduction in plants",
+      "code": "3.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sexual reproduction in plants; b) apply sexual reproduction in plants in solving problems.",
+      "experiences": "The learner is guided to: discuss sexual reproduction in plants; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sexual reproduction in plants in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Structure and function of parts of named insect and",
+      "code": "3.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain structure and function of parts of named insect and; b) apply structure and function of parts of named insect and in solving problems.",
+      "experiences": "The learner is guided to: discuss structure and function of parts of named insect and; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply structure and function of parts of named insect and in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Pollination and agents of pollination",
+      "code": "3.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain pollination and agents of pollination; b) apply pollination and agents of pollination in solving problems.",
+      "experiences": "The learner is guided to: discuss pollination and agents of pollination; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply pollination and agents of pollination in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Features and mechanisms that hinder self",
+      "code": "3.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain features and mechanisms that hinder self; b) apply features and mechanisms that hinder self in solving problems.",
+      "experiences": "The learner is guided to: discuss features and mechanisms that hinder self; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply features and mechanisms that hinder self in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "The process of fertilization",
+      "code": "3.12",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the process of fertilization; b) apply the process of fertilization in solving problems.",
+      "experiences": "The learner is guided to: discuss the process of fertilization; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the process of fertilization in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Fruit and seed formation and dispersal",
+      "code": "3.13",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fruit and seed formation and dispersal; b) apply fruit and seed formation and dispersal in solving problems.",
+      "experiences": "The learner is guided to: discuss fruit and seed formation and dispersal; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fruit and seed formation and dispersal in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Sexual reproduction in animals",
+      "code": "3.14",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sexual reproduction in animals; b) apply sexual reproduction in animals in solving problems.",
+      "experiences": "The learner is guided to: discuss sexual reproduction in animals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sexual reproduction in animals in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "External fertilization in amphibians",
+      "code": "3.15",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain external fertilization in amphibians; b) apply external fertilization in amphibians in solving problems.",
+      "experiences": "The learner is guided to: discuss external fertilization in amphibians; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply external fertilization in amphibians in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Structure of the reproductive system of a named mammal (human)",
+      "code": "3.16",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain structure of the reproductive system of a named mammal (human); b) apply structure of the reproductive system of a named mammal (human) in solving problems.",
+      "experiences": "The learner is guided to: discuss structure of the reproductive system of a named mammal (human); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply structure of the reproductive system of a named mammal (human) in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Functions of the parts of reproductive system",
+      "code": "3.17",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain functions of the parts of reproductive system; b) apply functions of the parts of reproductive system in solving problems.",
+      "experiences": "The learner is guided to: discuss functions of the parts of reproductive system; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply functions of the parts of reproductive system in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Fertilization, implantation and role of placenta",
+      "code": "3.18",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain fertilization, implantation and role of placenta; b) apply fertilization, implantation and role of placenta in solving problems.",
+      "experiences": "The learner is guided to: discuss fertilization, implantation and role of placenta; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply fertilization, implantation and role of placenta in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Gestation period",
+      "code": "3.19",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gestation period; b) apply gestation period in solving problems.",
+      "experiences": "The learner is guided to: discuss gestation period; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gestation period in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Role of hormones in reproduction in humans",
+      "code": "3.20",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain role of hormones in reproduction in humans; b) apply role of hormones in reproduction in humans in solving problems.",
+      "experiences": "The learner is guided to: discuss role of hormones in reproduction in humans; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply role of hormones in reproduction in humans in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Sexually transmitted infections (S.T.Is)",
+      "code": "3.21",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain sexually transmitted infections (s.t.is); b) apply sexually transmitted infections (s.t.is) in solving problems.",
+      "experiences": "The learner is guided to: discuss sexually transmitted infections (s.t.is); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply sexually transmitted infections (s.t.is) in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Gonorrhea",
+      "code": "3.22",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain gonorrhea; b) apply gonorrhea in solving problems.",
+      "experiences": "The learner is guided to: discuss gonorrhea; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply gonorrhea in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Herpes Simplex",
+      "code": "3.23",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain herpes simplex; b) apply herpes simplex in solving problems.",
+      "experiences": "The learner is guided to: discuss herpes simplex; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply herpes simplex in real life?"
+    },
+    {
+      "strand": "REPRODUCTION IN PLANTS AND ANIMALS",
+      "subStrand": "Syphilis, Trichomoniasis, hepatitis, Candidiasis",
+      "code": "3.24",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain syphilis, trichomoniasis, hepatitis, candidiasis; b) apply syphilis, trichomoniasis, hepatitis, candidiasis in solving problems.",
+      "experiences": "The learner is guided to: discuss syphilis, trichomoniasis, hepatitis, candidiasis; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply syphilis, trichomoniasis, hepatitis, candidiasis in real life?"
+    },
+    {
+      "strand": "HIV/AIDS",
+      "subStrand": "Advantages and disadvantages of asexual and sexual",
+      "code": "4.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain advantages and disadvantages of asexual and sexual; b) apply advantages and disadvantages of asexual and sexual in solving problems.",
+      "experiences": "The learner is guided to: discuss advantages and disadvantages of asexual and sexual; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply advantages and disadvantages of asexual and sexual in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Concepts of growth and development",
+      "code": "5.1",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain concepts of growth and development; b) apply concepts of growth and development in solving problems.",
+      "experiences": "The learner is guided to: discuss concepts of growth and development; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply concepts of growth and development in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Growth and development in plants",
+      "code": "5.2",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain growth and development in plants; b) apply growth and development in plants in solving problems.",
+      "experiences": "The learner is guided to: discuss growth and development in plants; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply growth and development in plants in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Dormancy and ways of breaking it",
+      "code": "5.3",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain dormancy and ways of breaking it; b) apply dormancy and ways of breaking it in solving problems.",
+      "experiences": "The learner is guided to: discuss dormancy and ways of breaking it; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply dormancy and ways of breaking it in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Conditions necessary for germination",
+      "code": "5.4",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain conditions necessary for germination; b) apply conditions necessary for germination in solving problems.",
+      "experiences": "The learner is guided to: discuss conditions necessary for germination; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply conditions necessary for germination in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Measurement of one aspect of growth in a named",
+      "code": "5.5",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain measurement of one aspect of growth in a named; b) apply measurement of one aspect of growth in a named in solving problems.",
+      "experiences": "The learner is guided to: discuss measurement of one aspect of growth in a named; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply measurement of one aspect of growth in a named in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Primary and secondary growth",
+      "code": "5.6",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain primary and secondary growth; b) apply primary and secondary growth in solving problems.",
+      "experiences": "The learner is guided to: discuss primary and secondary growth; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply primary and secondary growth in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Role of growth hormone in plants",
+      "code": "5.7",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain role of growth hormone in plants; b) apply role of growth hormone in plants in solving problems.",
+      "experiences": "The learner is guided to: discuss role of growth hormone in plants; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply role of growth hormone in plants in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Apical dominance",
+      "code": "5.8",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain apical dominance; b) apply apical dominance in solving problems.",
+      "experiences": "The learner is guided to: discuss apical dominance; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply apical dominance in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Growth and development in animals",
+      "code": "5.9",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain growth and development in animals; b) apply growth and development in animals in solving problems.",
+      "experiences": "The learner is guided to: discuss growth and development in animals; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply growth and development in animals in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Complete and incomplete metamorphosis in insects",
+      "code": "5.10",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain complete and incomplete metamorphosis in insects; b) apply complete and incomplete metamorphosis in insects in solving problems.",
+      "experiences": "The learner is guided to: discuss complete and incomplete metamorphosis in insects; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply complete and incomplete metamorphosis in insects in real life?"
+    },
+    {
+      "strand": "GROWTH AND DEVELOPMENT",
+      "subStrand": "Role of growth hormones in insects",
+      "code": "5.11",
+      "lessons": null,
+      "outcomes": "By the end of the lesson, the learner should be able to: a) explain role of growth hormones in insects; b) apply role of growth hormones in insects in solving problems.",
+      "experiences": "The learner is guided to: discuss role of growth hormones in insects; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply role of growth hormones in insects in real life?"
+    }
+  ],
+  "driveId": "130JQ8O0Ugxd2YXv02R8IA6zZnZaw5AIX",
+  "pages": 8,
+  "harvestedAt": "2026-09-03T06:57:24.165Z",
+  "source": "KNEC 8-4-4 secondary syllabus",
+  "outcomesDerived": true,
+  "formInferred": false
+}
