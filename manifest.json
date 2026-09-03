@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
-  "lastUpdated": "2026-09-03T14:13:50Z",
+  "version": "1.3",
+  "lastUpdated": "2026-09-03T15:19:12Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -318,11 +318,13 @@
   },
   "indexedMaterials": {
     "source": "JSON corpus on disk (post-flush)",
-    "convertedOn": "2026-09-03T14:13:50Z",
-    "totalDocuments": 877,
-    "totalTextChars": 29834249,
+    "convertedOn": "2026-09-03T15:19:12Z",
+    "totalDocuments": 2061,
+    "totalTextChars": 44584757,
     "byQuality": {
-      "text": 877
+      "text": 1923,
+      "sparse": 18,
+      "none": 120
     },
     "location": "indexed/catalog.json + indexed/_jsonl/"
   },
