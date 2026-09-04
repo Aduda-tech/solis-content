@@ -1,0 +1,73 @@
+{
+  "id": "exam-mathematics-grade2-t1",
+  "name": "Grade 2 Mathematics Term 1 Exam",
+  "grade": "Grade 2",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 75,
+  "totalMarks": 45,
+  "instructions": "Answer ALL questions. Show your working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "What is 25 + 15?",
+          "options": [
+            "30",
+            "40",
+            "45"
+          ],
+          "answer": "40",
+          "marks": 1
+        },
+        {
+          "question": "How many days are in one week?",
+          "options": [
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "7",
+          "marks": 1
+        },
+        {
+          "question": "Which is the value of 8 tens?",
+          "options": [
+            "8",
+            "80",
+            "800"
+          ],
+          "answer": "80",
+          "marks": 1
+        },
+        {
+          "question": "What is half of 10?",
+          "options": [
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (41 marks)",
+      "items": [
+        "1. Write in words: 47 (2 marks)",
+        "2. Write in figures: sixty-three (2 marks)",
+        "3. Add: 34 + 28 = ____ (3 marks)",
+        "4. Subtract: 71 - 25 = ____ (3 marks)",
+        "5. 5 x 4 = ____ (2 marks)",
+        "6. 12 / 3 = ____ (2 marks)",
+        "7. Which is longer: 1 metre or 50 centimetres? (2 marks)",
+        "8. A shopkeeper has 20 oranges and sells 8. How many are left? (3 marks)",
+        "9. Shade 1/4 of the square in the picture. (2 marks)",
+        "10. How many shillings is fifty shillings plus twenty shillings? (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

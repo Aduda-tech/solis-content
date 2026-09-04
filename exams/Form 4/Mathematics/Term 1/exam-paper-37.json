@@ -1,0 +1,70 @@
+{
+  "id": "exam-mathematics-form4-t1",
+  "name": "Form 4 Mathematics Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions. Show all working. Mathematical tables may be used.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The derivative of 3x^2 + 2x is?",
+          "options": [
+            "6x + 2",
+            "3x + 2",
+            "6x"
+          ],
+          "answer": "6x + 2",
+          "marks": 1
+        },
+        {
+          "question": "The integral of 2x dx is?",
+          "options": [
+            "x^2 + c",
+            "2x^2 + c",
+            "x + c"
+          ],
+          "answer": "x^2 + c",
+          "marks": 1
+        },
+        {
+          "question": "The value of cos(90 degrees) is?",
+          "options": [
+            "1",
+            "0",
+            "-1"
+          ],
+          "answer": "0",
+          "marks": 1
+        },
+        {
+          "question": "The matrix product of [[1,0],[0,1]] and [[2,3],[4,5]] is?",
+          "options": [
+            "[[2,3],[4,5]]",
+            "[[1,1],[1,1]]",
+            "[[2,4],[3,5]]"
+          ],
+          "answer": "[[2,3],[4,5]]",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Differentiate y = 3x^3 - 4x^2 + 5x - 7 with respect to x. (4 marks)",
+        "2. Find the stationary point of the curve y = x^2 - 6x + 5 and state its nature. (6 marks)",
+        "3. Solve the equation: 2cos x - 1 = 0 for 0 <= x <= 360. (4 marks)",
+        "4. Using the triangle in the diagram, find the value of tan A. (4 marks)",
+        "5. Calculate the mean and standard deviation of 2, 4, 6, 8, 10. (6 marks)",
+        "6. A bag contains 5 red and 3 white balls. Two balls are drawn without replacement. Find the probability that both are red. (4 marks)",
+        "7. Solve the simultaneous equations using matrices: 2x + y = 7, x - y = 2 (6 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "exam-physics-form3-t1",
+  "name": "Form 3 Physics Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Physics",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions. Show all working. Take g = 10 m/s^2.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The momentum of a body is the product of its?",
+          "options": [
+            "mass and acceleration",
+            "mass and velocity",
+            "force and time"
+          ],
+          "answer": "mass and velocity",
+          "marks": 1
+        },
+        {
+          "question": "The unit of work is the?",
+          "options": [
+            "newton",
+            "joule",
+            "watt"
+          ],
+          "answer": "joule",
+          "marks": 1
+        },
+        {
+          "question": "Which wave does not require a medium to travel?",
+          "options": [
+            "sound",
+            "light",
+            "water waves"
+          ],
+          "answer": "light",
+          "marks": 1
+        },
+        {
+          "question": "The turning effect of a force is called?",
+          "options": [
+            "moment",
+            "impulse",
+            "work"
+          ],
+          "answer": "moment",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State the principle of moments. (2 marks)",
+        "2. A force of 20 N acts on a body of mass 5 kg. Calculate the acceleration produced. (3 marks)",
+        "3. Using the circuit diagram, calculate the total resistance of the two resistors in series. (4 marks)",
+        "4. An object of mass 2 kg moving at 6 m/s collides and stops in 0.4 s. Find the force exerted. (4 marks)",
+        "5. State two differences between transverse and longitudinal waves. (2 marks)",
+        "6. Calculate the pressure exerted by a force of 500 N on an area of 0.25 m^2. (3 marks)",
+        "7. Define the term 'work' and state its SI unit. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

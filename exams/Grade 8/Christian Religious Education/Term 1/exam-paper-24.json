@@ -1,0 +1,67 @@
+{
+  "id": "exam-christian-religious-education-grade8-t1",
+  "name": "Grade 8 Christian Religious Education Term 1 Exam",
+  "grade": "Grade 8",
+  "subject": "Christian Religious Education",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Who was the first king of Israel?",
+          "options": [
+            "David",
+            "Saul",
+            "Solomon"
+          ],
+          "answer": "Saul",
+          "marks": 1
+        },
+        {
+          "question": "The parable of the Good Samaritan teaches?",
+          "options": [
+            "prayer",
+            "love for neighbours",
+            "fasting"
+          ],
+          "answer": "love for neighbours",
+          "marks": 1
+        },
+        {
+          "question": "Which disciple betrayed Jesus?",
+          "options": [
+            "Peter",
+            "Judas Iscariot",
+            "John"
+          ],
+          "answer": "Judas Iscariot",
+          "marks": 1
+        },
+        {
+          "question": "Jesus was baptised in the River?",
+          "options": [
+            "Nile",
+            "Jordan",
+            "Euphrates"
+          ],
+          "answer": "Jordan",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. State two reasons why Jesus used parables in his teaching. (2 marks)",
+        "2. Name the four Gospel writers. (4 marks)",
+        "3. What are the two greatest commandments according to Jesus? (2 marks)",
+        "4. State two values a Christian should practise. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

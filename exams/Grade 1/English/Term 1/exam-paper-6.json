@@ -1,0 +1,69 @@
+{
+  "id": "exam-english-grade1-t1",
+  "name": "Grade 1 English Term 1 Exam",
+  "grade": "Grade 1",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 60,
+  "totalMarks": 40,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Fill in: I ____ a boy.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "am",
+          "marks": 1
+        },
+        {
+          "question": "The plural of 'cat' is?",
+          "options": [
+            "cat",
+            "cats",
+            "caties"
+          ],
+          "answer": "cats",
+          "marks": 1
+        },
+        {
+          "question": "Which word starts with the letter 'b'?",
+          "options": [
+            "ball",
+            "dog",
+            "sun"
+          ],
+          "answer": "ball",
+          "marks": 1
+        },
+        {
+          "question": "Fill in: She ____ to school.",
+          "options": [
+            "go",
+            "goes",
+            "going"
+          ],
+          "answer": "goes",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (36 marks)",
+      "items": [
+        "1. Write your full name. (2 marks)",
+        "2. Write the letters of the alphabet from A to M. (5 marks)",
+        "3. Read and write: 'The cat sat on the mat.' (3 marks)",
+        "4. Write two words that start with the letter 's'. (2 marks)",
+        "5. Fill in the missing letter: c__t, d__g, s__n (3 marks)",
+        "6. Draw a picture of an animal and write its name. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

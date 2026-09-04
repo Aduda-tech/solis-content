@@ -1,0 +1,73 @@
+{
+  "id": "exam-mathematical-activities-pp1-t1",
+  "name": "PP1 Mathematical Activities Term 1 Exam",
+  "grade": "PP1",
+  "subject": "Mathematical Activities",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "totalMarks": 20,
+  "instructions": "Answer ALL questions. Your teacher will read the questions aloud. Count the objects, then circle or write the correct answer.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Count the apples in the picture: 1, 2, 3. How many apples are there?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "marks": 1
+        },
+        {
+          "question": "Which number comes after 4?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5",
+          "marks": 1
+        },
+        {
+          "question": "Count the balls: 1, 2, 3, 4, 5. How many balls?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is the number 2? (look at the number cards)",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (16 marks)",
+      "items": [
+        "1. Count and write the number of cups in the picture. (2 marks)",
+        "2. Write the numbers 1 to 5 in order. (5 marks)",
+        "3. Draw 4 circles. (2 marks)",
+        "4. Match: two hands have ___ fingers. Write the number. (1 mark)",
+        "5. Which is more, 3 or 5? Write the bigger number. (1 mark)",
+        "6. Count backwards from 5 to 1 and write the numbers. (5 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "exam-mathematics-grade9-t1",
+  "name": "Grade 9 Mathematics Term 1 Exam",
+  "grade": "Grade 9",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Answer ALL questions. Show your working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Expand: (x + 3)(x - 2)",
+          "options": [
+            "x^2 + x - 6",
+            "x^2 - x - 6",
+            "x^2 + 5x - 6"
+          ],
+          "answer": "x^2 + x - 6",
+          "marks": 1
+        },
+        {
+          "question": "Solve: 2x - 3 = 11. x = ?",
+          "options": [
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "7",
+          "marks": 1
+        },
+        {
+          "question": "The value of 4^2 is?",
+          "options": [
+            "8",
+            "16",
+            "12"
+          ],
+          "answer": "16",
+          "marks": 1
+        },
+        {
+          "question": "A triangle with all sides equal is?",
+          "options": [
+            "isosceles",
+            "equilateral",
+            "scalene"
+          ],
+          "answer": "equilateral",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (56 marks)",
+      "items": [
+        "1. Factorise: x^2 + 7x + 12 (3 marks)",
+        "2. Solve the simultaneous equations: x + y = 8 and x - y = 2 (4 marks)",
+        "3. Find the length of the hypotenuse of a right-angled triangle with sides 6 cm and 8 cm. (3 marks)",
+        "4. Calculate the volume of a cube of side 5 cm. (3 marks)",
+        "5. Express 0.00045 in standard form. (3 marks)",
+        "6. Find the mean of 12, 15, 18, 21, 24. (3 marks)",
+        "7. A mobile phone costs Ksh 12,000. Its price increased by 15%. Find the new price. (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

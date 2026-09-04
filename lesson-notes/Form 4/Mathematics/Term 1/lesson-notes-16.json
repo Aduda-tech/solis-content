@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-form4-16",
+  "name": "Form 4 Mathematics: Differentiation",
+  "grade": "Form 4",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Calculus",
+  "subStrand": "Differentiation",
+  "lessonNumber": 15,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to differentiate polynomial functions",
+    "By the end of the lesson, the learner should be able to find stationary points and their nature"
+  ],
+  "learningActivities": [
+    "Revision: gradients of straight lines",
+    "Demonstration: teacher differentiates y = 3x^2 + 2x using the power rule",
+    "Guided practice: learners differentiate various polynomials",
+    "Application: learners find stationary points and their nature"
+  ],
+  "keyPoints": [
+    "The derivative of x^n is nx^(n-1)",
+    "The derivative of a constant is zero",
+    "At a stationary point, dy/dx = 0"
+  ],
+  "commonMisconceptions": [
+    "Forgetting to reduce the power by one",
+    "Confusing maximum and minimum points"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Graph paper",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners differentiate five functions and find one stationary point. Teacher marks and gives feedback.",
+  "teacherReflection": "Good progress. Emphasise the second derivative test next lesson."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematical-activities-pp1-1",
+  "name": "PP1 Mathematical Activities: Counting objects 1-5",
+  "grade": "PP1",
+  "subject": "Mathematical Activities",
+  "term": "Term 1",
+  "durationMinutes": 30,
+  "strand": "Numbers",
+  "subStrand": "Counting objects 1-5",
+  "lessonNumber": 1,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to count objects up to 5",
+    "By the end of the lesson, the learner should be able to match numbers 1-5 to groups of objects"
+  ],
+  "learningActivities": [
+    "Counting song: learners sing and clap while counting from 1 to 5",
+    "Concrete counting: learners count bottle tops, stones and sticks on their desks",
+    "Number cards: learners match number cards to groups of objects",
+    "Class game: 'count and sit' - learners count objects and sit when they reach 5"
+  ],
+  "keyPoints": [
+    "Counting means saying numbers in order to find how many",
+    "The last number counted tells how many objects there are",
+    "Numbers 1, 2, 3, 4, 5 must be said in the correct order"
+  ],
+  "commonMisconceptions": [
+    "Rote counting without touching or pointing at objects",
+    "Skipping numbers when counting aloud"
+  ],
+  "resourcesRequired": [
+    "Counting objects (bottle tops, sticks, stones)",
+    "Number cards 1-5",
+    "Counting charts"
+  ],
+  "lessonEvaluation": "Learners count groups of objects up to 5 and match them to number cards. Teacher observes and records.",
+  "teacherReflection": "Most learners counted confidently. A few needed help pointing at each object as they counted."
+}

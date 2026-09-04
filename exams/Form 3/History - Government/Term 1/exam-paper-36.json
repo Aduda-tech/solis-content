@@ -1,0 +1,68 @@
+{
+  "id": "exam-history---government-form3-t1",
+  "name": "Form 3 History & Government Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "History & Government",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Kenya became independent in the year?",
+          "options": [
+            "1953",
+            "1963",
+            "1968"
+          ],
+          "answer": "1963",
+          "marks": 1
+        },
+        {
+          "question": "The first President of Kenya was?",
+          "options": [
+            "Daniel arap Moi",
+            "Jomo Kenyatta",
+            "Mwai Kibaki"
+          ],
+          "answer": "Jomo Kenyatta",
+          "marks": 1
+        },
+        {
+          "question": "The Berlin Conference of 1884-85 was about?",
+          "options": [
+            "world trade",
+            "partition of Africa",
+            "ending slavery"
+          ],
+          "answer": "partition of Africa",
+          "marks": 1
+        },
+        {
+          "question": "The movement that fought for independence in Kenya was?",
+          "options": [
+            "Mau Mau",
+            "KANU",
+            "Mingi Mingi"
+          ],
+          "answer": "Mau Mau",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State three reasons why the British colonised Kenya. (3 marks)",
+        "2. Name two African leaders who led the struggle for independence in Kenya. (2 marks)",
+        "3. State two effects of the construction of the Kenya-Uganda railway. (2 marks)",
+        "4. What was the role of women in the struggle for independence? (2 marks)",
+        "5. Name the first president of independent Kenya and the year independence was attained. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

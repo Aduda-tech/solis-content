@@ -1,0 +1,69 @@
+{
+  "id": "exam-kiswahili-grade7-t1",
+  "name": "Grade 7 Kiswahili Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Kiswahili",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Jibu maswali YOTE.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Kinyume cha neno 'kubwa' ni?",
+          "options": [
+            "kubwa",
+            "dogo",
+            "ndefu"
+          ],
+          "answer": "dogo",
+          "marks": 1
+        },
+        {
+          "question": "Wingi wa 'mtoto' ni?",
+          "options": [
+            "mtoto",
+            "watoto",
+            "toto"
+          ],
+          "answer": "watoto",
+          "marks": 1
+        },
+        {
+          "question": "'Asubuhi' ina maana gani?",
+          "options": [
+            "usiku",
+            "wakati wa mapambazuko",
+            "mchana"
+          ],
+          "answer": "wakati wa mapambazuko",
+          "marks": 1
+        },
+        {
+          "question": "Neno 'soma' liko katika kauli gani?",
+          "options": [
+            "kuamuru",
+            "kuuliza",
+            "kushangaa"
+          ],
+          "answer": "kuamuru",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Andika wingi wa maneno haya: kitabu, kijiko, ndizi. (3 marks)",
+        "2. Kamilisha methali: 'Mtaka cha mvunguni ____'. (2 marks)",
+        "3. Andika kinyume cha: juu, pana, karibu. (3 marks)",
+        "4. Tunga sentensi ukitumia neno 'shule'. (2 marks)",
+        "5. Andika siku saba za wiki kwa Kiswahili. (7 marks)",
+        "6. Tambua ngeli ya nomino 'mwanafunzi'. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

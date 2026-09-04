@@ -1,0 +1,68 @@
+{
+  "id": "exam-biology-form4-t1",
+  "name": "Form 4 Biology Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Biology",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The basic unit of heredity is the?",
+          "options": [
+            "chromosome",
+            "gene",
+            "allele"
+          ],
+          "answer": "gene",
+          "marks": 1
+        },
+        {
+          "question": "DNA stands for?",
+          "options": [
+            "deoxyribonucleic acid",
+            "dioxyribonucleic acid",
+            "deoxyribose acid"
+          ],
+          "answer": "deoxyribonucleic acid",
+          "marks": 1
+        },
+        {
+          "question": "The part of the eye that controls the amount of light entering is the?",
+          "options": [
+            "pupil",
+            "iris",
+            "lens"
+          ],
+          "answer": "iris",
+          "marks": 1
+        },
+        {
+          "question": "The hormone that regulates blood sugar is?",
+          "options": [
+            "insulin",
+            "adrenaline",
+            "thyroxine"
+          ],
+          "answer": "insulin",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Name the parts of the eye labelled in the diagram and state the function of each. (6 marks)",
+        "2. Explain the difference between mitosis and meiosis. (4 marks)",
+        "3. Define the terms gene, allele and genotype. (3 marks)",
+        "4. State two functions of the kidney in the human body. (2 marks)",
+        "5. Describe how insulin regulates the level of sugar in the blood. (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

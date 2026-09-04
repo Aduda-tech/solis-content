@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-grade2-4",
+  "name": "Grade 2 Mathematics: Addition of two-digit numbers",
+  "grade": "Grade 2",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 35,
+  "strand": "Numbers",
+  "subStrand": "Addition of two-digit numbers",
+  "lessonNumber": 3,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to add two two-digit numbers without regrouping",
+    "By the end of the lesson, the learner should be able to solve word problems involving addition"
+  ],
+  "learningActivities": [
+    "Mental warm-up: quick-fire addition facts within 10",
+    "Concrete stage: learners use bundles of sticks to add tens and ones",
+    "Pictorial stage: learners use number lines and base-ten pictures",
+    "Abstract stage: learners solve addition sums in their exercise books"
+  ],
+  "keyPoints": [
+    "Add the ones first, then the tens",
+    "43 + 25 = 68 because 3 + 5 = 8 and 40 + 20 = 60",
+    "The answer in addition is called the sum"
+  ],
+  "commonMisconceptions": [
+    "Adding across columns (e.g. adding 4 + 2 as tens)",
+    "Forgetting to write the answer under the correct place value"
+  ],
+  "resourcesRequired": [
+    "Bundles of sticks",
+    "Number lines",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners complete five addition sums and two word problems. Teacher marks and gives feedback.",
+  "teacherReflection": "Concrete and pictorial stages helped. A few learners still add across columns - provide remedial work."
+}

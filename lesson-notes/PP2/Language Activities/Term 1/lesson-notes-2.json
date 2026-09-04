@@ -1,0 +1,37 @@
+{
+  "id": "ln-language-activities-pp2-2",
+  "name": "PP2 Language Activities: Letter sounds a, b, c",
+  "grade": "PP2",
+  "subject": "Language Activities",
+  "term": "Term 1",
+  "durationMinutes": 30,
+  "strand": "Listening and Speaking",
+  "subStrand": "Letter sounds: a, b, c",
+  "lessonNumber": 1,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to say the sounds of letters a, b and c",
+    "By the end of the lesson, the learner should be able to name words beginning with a, b and c"
+  ],
+  "learningActivities": [
+    "Sound game: teacher says a sound, learners repeat it together",
+    "Picture cards: learners name pictures and identify the beginning sound",
+    "Sound hunt: learners find classroom objects beginning with a, b or c",
+    "Rhyme: learners recite a short rhyme emphasising the sounds"
+  ],
+  "keyPoints": [
+    "Letter 'a' makes the sound /a/ as in 'apple'",
+    "Letter 'b' makes the sound /b/ as in 'ball'",
+    "Letter 'c' makes the sound /k/ as in 'cat'"
+  ],
+  "commonMisconceptions": [
+    "Confusing letter names with letter sounds",
+    "Adding a vowel sound after a consonant (saying 'buh' instead of /b/)"
+  ],
+  "resourcesRequired": [
+    "Letter cards a, b, c",
+    "Picture cards (apple, ball, cat)",
+    "Charts with letters"
+  ],
+  "lessonEvaluation": "Learners say the sounds of a, b, c and name words beginning with each sound. Teacher observes.",
+  "teacherReflection": "Sounds were well mastered. Learners enjoyed the sound hunt activity."
+}

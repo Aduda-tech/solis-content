@@ -1,0 +1,72 @@
+{
+  "id": "exam-mathematics-grade10-t1",
+  "name": "Grade 10 Mathematics Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions. Show all working. Use mathematical tables or a non-programmable calculator where needed.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Solve: log_2(32) = ?",
+          "options": [
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5",
+          "marks": 1
+        },
+        {
+          "question": "The derivative of x^2 is?",
+          "options": [
+            "x",
+            "2x",
+            "2"
+          ],
+          "answer": "2x",
+          "marks": 1
+        },
+        {
+          "question": "sin(30 degrees) = ?",
+          "options": [
+            "0.5",
+            "1",
+            "0.866"
+          ],
+          "answer": "0.5",
+          "marks": 1
+        },
+        {
+          "question": "The gradient of the line y = 3x + 2 is?",
+          "options": [
+            "2",
+            "3",
+            "-3"
+          ],
+          "answer": "3",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Solve the equation: 3x - 5 = 2x + 7 (3 marks)",
+        "2. Factorise fully: 2x^2 - 8 (3 marks)",
+        "3. Solve the simultaneous equations: 2x + y = 10 and x - y = 2 (4 marks)",
+        "4. Find the equation of the line through (2, 3) with gradient 4. (3 marks)",
+        "5. Use the triangle in the diagram to find the value of sin A and cos A. (4 marks)",
+        "6. A car is bought for Ksh 800,000 and depreciates at 15% per year. Find its value after 2 years. (4 marks)",
+        "7. Given that the radius of the circle in the diagram is 14 cm, find the area of the shaded sector of 90 degrees. (4 marks)",
+        "8. Solve for x: 2^(x+1) = 16 (3 marks)",
+        "9. The mean of five numbers is 12. Four of them are 10, 14, 11 and 9. Find the fifth number. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

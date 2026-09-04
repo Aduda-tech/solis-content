@@ -1,0 +1,73 @@
+{
+  "id": "exam-mathematics-grade1-t1",
+  "name": "Grade 1 Mathematics Term 1 Exam",
+  "grade": "Grade 1",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 60,
+  "totalMarks": 40,
+  "instructions": "Answer ALL questions. Show your working where needed.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "What is 4 + 3?",
+          "options": [
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "7",
+          "marks": 1
+        },
+        {
+          "question": "Which number is the smallest: 2, 5, 1, 9?",
+          "options": [
+            "2",
+            "1",
+            "5",
+            "9"
+          ],
+          "answer": "1",
+          "marks": 1
+        },
+        {
+          "question": "How many sides does a square have?",
+          "options": [
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "4",
+          "marks": 1
+        },
+        {
+          "question": "What is 10 - 4?",
+          "options": [
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "6",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (36 marks)",
+      "items": [
+        "1. Write the numbers 1 to 20. (5 marks)",
+        "2. Count the shapes in the picture and write the number. (2 marks)",
+        "3. Add: 12 + 5 = ____ (2 marks)",
+        "4. Take away: 9 - 6 = ____ (2 marks)",
+        "5. Which is heavier: a stone or a leaf? (1 mark)",
+        "6. How many legs do two chickens have? (2 marks)",
+        "7. Fill in the missing number: 6, 7, __, 9, 10 (2 marks)",
+        "8. Write the number that comes before 13. (2 marks)",
+        "9. Mary has 8 sweets. She gives 3 to John. How many are left? (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

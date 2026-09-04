@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-form3-13",
+  "name": "Form 3 Mathematics: Quadratic Equations",
+  "grade": "Form 3",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Algebra",
+  "subStrand": "Quadratic Equations",
+  "lessonNumber": 12,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to solve quadratic equations by factorisation",
+    "By the end of the lesson, the learner should be able to form quadratic equations from word problems"
+  ],
+  "learningActivities": [
+    "Revision: expanding brackets and factorising",
+    "Demonstration: teacher solves x^2 - 5x + 6 = 0 by factorisation",
+    "Guided practice: learners solve quadratic equations on the board",
+    "Application: learners solve word problems leading to quadratics"
+  ],
+  "keyPoints": [
+    "A quadratic equation has the form ax^2 + bx + c = 0",
+    "To factorise, find two numbers that multiply to c and add to b",
+    "x^2 - 5x + 6 = 0 gives (x - 2)(x - 3) = 0, so x = 2 or x = 3"
+  ],
+  "commonMisconceptions": [
+    "Forgetting that the equation must equal zero before factorising",
+    "Errors in the signs of factors"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Exercise books",
+    "Past paper questions"
+  ],
+  "lessonEvaluation": "Learners solve five quadratic equations and one word problem. Teacher marks and gives feedback.",
+  "teacherReflection": "Most learners solved correctly. Emphasise checking answers by substitution."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ln-physics-grade10-11",
+  "name": "Grade 10 Physics: Newton's Laws of Motion",
+  "grade": "Grade 10",
+  "subject": "Physics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Mechanics",
+  "subStrand": "Newton's Laws of Motion",
+  "lessonNumber": 10,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to state Newton's three laws of motion",
+    "By the end of the lesson, the learner should be able to apply F = ma to solve problems"
+  ],
+  "learningActivities": [
+    "Discussion: everyday examples of motion and forces",
+    "Demonstration: teacher uses a trolley and masses to show F = ma",
+    "Group work: learners solve problems using F = ma",
+    "Summary: learners state the three laws with examples"
+  ],
+  "keyPoints": [
+    "Newton's first law: an object remains at rest or in uniform motion unless acted on by a force",
+    "Newton's second law: force equals mass times acceleration (F = ma)",
+    "Newton's third law: for every action there is an equal and opposite reaction"
+  ],
+  "commonMisconceptions": [
+    "Confusing mass with weight",
+    "Forgetting that force is a vector quantity"
+  ],
+  "resourcesRequired": [
+    "Trolley and masses",
+    "Spring balance",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners state the three laws and solve three problems using F = ma.",
+  "teacherReflection": "Strong understanding. Extend to momentum in the next lesson."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ln-mathematics-grade4-5",
+  "name": "Grade 4 Mathematics: Fractions",
+  "grade": "Grade 4",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Numbers",
+  "subStrand": "Fractions",
+  "lessonNumber": 4,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to identify and represent fractions using shapes",
+    "By the end of the lesson, the learner should be able to compare fractions with the same denominator"
+  ],
+  "learningActivities": [
+    "Revision: learners identify halves and quarters from shaded shapes",
+    "Demonstration: teacher folds paper into equal parts to show fractions",
+    "Group work: learners shade given fractions of shapes",
+    "Comparison: learners use fraction strips to compare fractions"
+  ],
+  "keyPoints": [
+    "A fraction shows equal parts of a whole",
+    "The top number is the numerator and the bottom number is the denominator",
+    "The denominator shows the number of equal parts the whole is divided into"
+  ],
+  "commonMisconceptions": [
+    "Thinking the denominator is the shaded part",
+    "Counting parts that are not equal when identifying fractions"
+  ],
+  "resourcesRequired": [
+    "Paper shapes",
+    "Fraction strips",
+    "Exercise books",
+    "Pencils and colours"
+  ],
+  "lessonEvaluation": "Learners shade given fractions and compare fractions with the same denominator. Teacher assesses through observation.",
+  "teacherReflection": "Learners enjoyed folding paper. More practice needed on writing fractions correctly."
+}

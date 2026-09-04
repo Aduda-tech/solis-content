@@ -1,0 +1,70 @@
+{
+  "id": "exam-english-grade7-t1",
+  "name": "Grade 7 English Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions. Read the questions carefully.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which of these is a synonym of 'happy'?",
+          "options": [
+            "sad",
+            "joyful",
+            "angry"
+          ],
+          "answer": "joyful",
+          "marks": 1
+        },
+        {
+          "question": "Fill in: Neither the teacher nor the students ____ present.",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "answer": "were",
+          "marks": 1
+        },
+        {
+          "question": "Which word is correctly spelt?",
+          "options": [
+            "recieve",
+            "receive",
+            "receve"
+          ],
+          "answer": "receive",
+          "marks": 1
+        },
+        {
+          "question": "A group of lions is called a?",
+          "options": [
+            "pack",
+            "pride",
+            "flock"
+          ],
+          "answer": "pride",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Read the passage and answer: 'Juma woke up early to prepare for the inter-school games.' What did Juma wake up early to prepare for? (2 marks)",
+        "2. Write the plural of: loaf, mouse, tooth (3 marks)",
+        "3. Rewrite in reported speech: 'I will come tomorrow,' said Mary. (3 marks)",
+        "4. Use 'despite' in a sentence of your own. (2 marks)",
+        "5. Write the comparative and superlative of: good, bad, far (3 marks)",
+        "6. Punctuate: he asked where are you going (2 marks)",
+        "7. Write an antonym for each: ancient, victory, expand (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "exam-language-activities-pp2-t1",
+  "name": "PP2 Language Activities Term 1 Exam",
+  "grade": "PP2",
+  "subject": "Language Activities",
+  "term": "Term 1",
+  "durationMinutes": 45,
+  "totalMarks": 25,
+  "instructions": "Answer ALL questions. Your teacher will read the questions aloud.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which letter comes after 'C'?",
+          "options": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "answer": "D",
+          "marks": 1
+        },
+        {
+          "question": "What is the sound of the letter 'S'?",
+          "options": [
+            "mmm",
+            "sss",
+            "fff"
+          ],
+          "answer": "sss",
+          "marks": 1
+        },
+        {
+          "question": "A baby dog is called a?",
+          "options": [
+            "Kitten",
+            "Puppy",
+            "Cub"
+          ],
+          "answer": "Puppy",
+          "marks": 1
+        },
+        {
+          "question": "The opposite of 'hot' is?",
+          "options": [
+            "Hot",
+            "Cold",
+            "Wet"
+          ],
+          "answer": "Cold",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (21 marks)",
+      "items": [
+        "1. Write your name and the name of your school. (3 marks)",
+        "2. Write the first five letters of the alphabet. (5 marks)",
+        "3. Name the picture: a round yellow fruit that monkeys love. (2 marks)",
+        "4. Say the sound of 'm' and write two words starting with 'm'. (3 marks)",
+        "5. Sing or say a short rhyme you know. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

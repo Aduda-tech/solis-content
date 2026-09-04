@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "lastUpdated": "2026-09-03T15:19:12Z",
+  "version": "1.4",
+  "lastUpdated": "2026-09-04T06:24:53Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -268,6 +268,1308 @@
             "marks": 60
           }
         ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade7-t1",
+            "name": "Grade 7 English Term 1 Exam",
+            "path": "exams/Grade 7/English/Term 1/exam-paper-15.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade7-t1",
+            "name": "Grade 7 English Term 1 Exam",
+            "path": "exams/Grade 7/English/Term 1/exam-paper-15.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      },
+      "Kiswahili": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-grade7-t1",
+            "name": "Grade 7 Kiswahili Term 1 Exam",
+            "path": "exams/Grade 7/Kiswahili/Term 1/exam-paper-16.json",
+            "questions": 10,
+            "marks": 50
+          }
+        ]
+      },
+      "KIS": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-grade7-t1",
+            "name": "Grade 7 Kiswahili Term 1 Exam",
+            "path": "exams/Grade 7/Kiswahili/Term 1/exam-paper-16.json",
+            "questions": 10,
+            "marks": 50
+          }
+        ]
+      },
+      "Integrated Science": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade7-t1",
+            "name": "Grade 7 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 7/Integrated Science/Term 1/exam-paper-17.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      },
+      "SCI": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade7-t1",
+            "name": "Grade 7 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 7/Integrated Science/Term 1/exam-paper-17.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      },
+      "Science": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade7-t1",
+            "name": "Grade 7 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 7/Integrated Science/Term 1/exam-paper-17.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      },
+      "Pre-Technical Studies": {
+        "Term 1": [
+          {
+            "id": "exam-pre-technical-studies-grade7-t1",
+            "name": "Grade 7 Pre-Technical Studies Term 1 Exam",
+            "path": "exams/Grade 7/Pre-Technical Studies/Term 1/exam-paper-18.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "PTS": {
+        "Term 1": [
+          {
+            "id": "exam-pre-technical-studies-grade7-t1",
+            "name": "Grade 7 Pre-Technical Studies Term 1 Exam",
+            "path": "exams/Grade 7/Pre-Technical Studies/Term 1/exam-paper-18.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "Pre-Technical": {
+        "Term 1": [
+          {
+            "id": "exam-pre-technical-studies-grade7-t1",
+            "name": "Grade 7 Pre-Technical Studies Term 1 Exam",
+            "path": "exams/Grade 7/Pre-Technical Studies/Term 1/exam-paper-18.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "Social Studies": {
+        "Term 1": [
+          {
+            "id": "exam-social-studies-grade7-t1",
+            "name": "Grade 7 Social Studies Term 1 Exam",
+            "path": "exams/Grade 7/Social Studies/Term 1/exam-paper-19.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "SST": {
+        "Term 1": [
+          {
+            "id": "exam-social-studies-grade7-t1",
+            "name": "Grade 7 Social Studies Term 1 Exam",
+            "path": "exams/Grade 7/Social Studies/Term 1/exam-paper-19.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "Christian Religious Education": {
+        "Term 1": [
+          {
+            "id": "exam-christian-religious-education-grade7-t1",
+            "name": "Grade 7 Christian Religious Education Term 1 Exam",
+            "path": "exams/Grade 7/Christian Religious Education/Term 1/exam-paper-20.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "CRE": {
+        "Term 1": [
+          {
+            "id": "exam-christian-religious-education-grade7-t1",
+            "name": "Grade 7 Christian Religious Education Term 1 Exam",
+            "path": "exams/Grade 7/Christian Religious Education/Term 1/exam-paper-20.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "Agriculture": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-grade7-t1",
+            "name": "Grade 7 Agriculture Term 1 Exam",
+            "path": "exams/Grade 7/Agriculture/Term 1/exam-paper-21.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      },
+      "AGR": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-grade7-t1",
+            "name": "Grade 7 Agriculture Term 1 Exam",
+            "path": "exams/Grade 7/Agriculture/Term 1/exam-paper-21.json",
+            "questions": 9,
+            "marks": 50
+          }
+        ]
+      }
+    },
+    "PP1": {
+      "Mathematical Activities": {
+        "Term 1": [
+          {
+            "id": "exam-mathematical-activities-pp1-t1",
+            "name": "PP1 Mathematical Activities Term 1 Exam",
+            "path": "exams/PP1/Mathematical Activities/Term 1/exam-paper-1.json",
+            "questions": 10,
+            "marks": 20
+          }
+        ]
+      },
+      "MAA": {
+        "Term 1": [
+          {
+            "id": "exam-mathematical-activities-pp1-t1",
+            "name": "PP1 Mathematical Activities Term 1 Exam",
+            "path": "exams/PP1/Mathematical Activities/Term 1/exam-paper-1.json",
+            "questions": 10,
+            "marks": 20
+          }
+        ]
+      },
+      "Math Activities": {
+        "Term 1": [
+          {
+            "id": "exam-mathematical-activities-pp1-t1",
+            "name": "PP1 Mathematical Activities Term 1 Exam",
+            "path": "exams/PP1/Mathematical Activities/Term 1/exam-paper-1.json",
+            "questions": 10,
+            "marks": 20
+          }
+        ]
+      },
+      "Language Activities": {
+        "Term 1": [
+          {
+            "id": "exam-language-activities-pp1-t1",
+            "name": "PP1 Language Activities Term 1 Exam",
+            "path": "exams/PP1/Language Activities/Term 1/exam-paper-2.json",
+            "questions": 9,
+            "marks": 20
+          }
+        ]
+      },
+      "LGA": {
+        "Term 1": [
+          {
+            "id": "exam-language-activities-pp1-t1",
+            "name": "PP1 Language Activities Term 1 Exam",
+            "path": "exams/PP1/Language Activities/Term 1/exam-paper-2.json",
+            "questions": 9,
+            "marks": 20
+          }
+        ]
+      },
+      "Literacy Activities": {
+        "Term 1": [
+          {
+            "id": "exam-language-activities-pp1-t1",
+            "name": "PP1 Language Activities Term 1 Exam",
+            "path": "exams/PP1/Language Activities/Term 1/exam-paper-2.json",
+            "questions": 9,
+            "marks": 20
+          }
+        ]
+      }
+    },
+    "PP2": {
+      "Mathematical Activities": {
+        "Term 1": [
+          {
+            "id": "exam-mathematical-activities-pp2-t1",
+            "name": "PP2 Mathematical Activities Term 1 Exam",
+            "path": "exams/PP2/Mathematical Activities/Term 1/exam-paper-3.json",
+            "questions": 11,
+            "marks": 25
+          }
+        ]
+      },
+      "MAA": {
+        "Term 1": [
+          {
+            "id": "exam-mathematical-activities-pp2-t1",
+            "name": "PP2 Mathematical Activities Term 1 Exam",
+            "path": "exams/PP2/Mathematical Activities/Term 1/exam-paper-3.json",
+            "questions": 11,
+            "marks": 25
+          }
+        ]
+      },
+      "Math Activities": {
+        "Term 1": [
+          {
+            "id": "exam-mathematical-activities-pp2-t1",
+            "name": "PP2 Mathematical Activities Term 1 Exam",
+            "path": "exams/PP2/Mathematical Activities/Term 1/exam-paper-3.json",
+            "questions": 11,
+            "marks": 25
+          }
+        ]
+      },
+      "Language Activities": {
+        "Term 1": [
+          {
+            "id": "exam-language-activities-pp2-t1",
+            "name": "PP2 Language Activities Term 1 Exam",
+            "path": "exams/PP2/Language Activities/Term 1/exam-paper-4.json",
+            "questions": 9,
+            "marks": 25
+          }
+        ]
+      },
+      "LGA": {
+        "Term 1": [
+          {
+            "id": "exam-language-activities-pp2-t1",
+            "name": "PP2 Language Activities Term 1 Exam",
+            "path": "exams/PP2/Language Activities/Term 1/exam-paper-4.json",
+            "questions": 9,
+            "marks": 25
+          }
+        ]
+      },
+      "Literacy Activities": {
+        "Term 1": [
+          {
+            "id": "exam-language-activities-pp2-t1",
+            "name": "PP2 Language Activities Term 1 Exam",
+            "path": "exams/PP2/Language Activities/Term 1/exam-paper-4.json",
+            "questions": 9,
+            "marks": 25
+          }
+        ]
+      }
+    },
+    "Grade 1": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade1-t1",
+            "name": "Grade 1 Mathematics Term 1 Exam",
+            "path": "exams/Grade 1/Mathematics/Term 1/exam-paper-5.json",
+            "questions": 13,
+            "marks": 40
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade1-t1",
+            "name": "Grade 1 Mathematics Term 1 Exam",
+            "path": "exams/Grade 1/Mathematics/Term 1/exam-paper-5.json",
+            "questions": 13,
+            "marks": 40
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade1-t1",
+            "name": "Grade 1 Mathematics Term 1 Exam",
+            "path": "exams/Grade 1/Mathematics/Term 1/exam-paper-5.json",
+            "questions": 13,
+            "marks": 40
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade1-t1",
+            "name": "Grade 1 Mathematics Term 1 Exam",
+            "path": "exams/Grade 1/Mathematics/Term 1/exam-paper-5.json",
+            "questions": 13,
+            "marks": 40
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade1-t1",
+            "name": "Grade 1 English Term 1 Exam",
+            "path": "exams/Grade 1/English/Term 1/exam-paper-6.json",
+            "questions": 10,
+            "marks": 40
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade1-t1",
+            "name": "Grade 1 English Term 1 Exam",
+            "path": "exams/Grade 1/English/Term 1/exam-paper-6.json",
+            "questions": 10,
+            "marks": 40
+          }
+        ]
+      }
+    },
+    "Grade 2": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade2-t1",
+            "name": "Grade 2 Mathematics Term 1 Exam",
+            "path": "exams/Grade 2/Mathematics/Term 1/exam-paper-7.json",
+            "questions": 14,
+            "marks": 45
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade2-t1",
+            "name": "Grade 2 Mathematics Term 1 Exam",
+            "path": "exams/Grade 2/Mathematics/Term 1/exam-paper-7.json",
+            "questions": 14,
+            "marks": 45
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade2-t1",
+            "name": "Grade 2 Mathematics Term 1 Exam",
+            "path": "exams/Grade 2/Mathematics/Term 1/exam-paper-7.json",
+            "questions": 14,
+            "marks": 45
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade2-t1",
+            "name": "Grade 2 Mathematics Term 1 Exam",
+            "path": "exams/Grade 2/Mathematics/Term 1/exam-paper-7.json",
+            "questions": 14,
+            "marks": 45
+          }
+        ]
+      }
+    },
+    "Grade 3": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade3-t1",
+            "name": "Grade 3 Mathematics Term 1 Exam",
+            "path": "exams/Grade 3/Mathematics/Term 1/exam-paper-8.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade3-t1",
+            "name": "Grade 3 Mathematics Term 1 Exam",
+            "path": "exams/Grade 3/Mathematics/Term 1/exam-paper-8.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade3-t1",
+            "name": "Grade 3 Mathematics Term 1 Exam",
+            "path": "exams/Grade 3/Mathematics/Term 1/exam-paper-8.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade3-t1",
+            "name": "Grade 3 Mathematics Term 1 Exam",
+            "path": "exams/Grade 3/Mathematics/Term 1/exam-paper-8.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade3-t1",
+            "name": "Grade 3 English Term 1 Exam",
+            "path": "exams/Grade 3/English/Term 1/exam-paper-9.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade3-t1",
+            "name": "Grade 3 English Term 1 Exam",
+            "path": "exams/Grade 3/English/Term 1/exam-paper-9.json",
+            "questions": 11,
+            "marks": 50
+          }
+        ]
+      }
+    },
+    "Grade 4": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade4-t1",
+            "name": "Grade 4 Mathematics Term 1 Exam",
+            "path": "exams/Grade 4/Mathematics/Term 1/exam-paper-10.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade4-t1",
+            "name": "Grade 4 Mathematics Term 1 Exam",
+            "path": "exams/Grade 4/Mathematics/Term 1/exam-paper-10.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade4-t1",
+            "name": "Grade 4 Mathematics Term 1 Exam",
+            "path": "exams/Grade 4/Mathematics/Term 1/exam-paper-10.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade4-t1",
+            "name": "Grade 4 Mathematics Term 1 Exam",
+            "path": "exams/Grade 4/Mathematics/Term 1/exam-paper-10.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade4-t1",
+            "name": "Grade 4 English Term 1 Exam",
+            "path": "exams/Grade 4/English/Term 1/exam-paper-11.json",
+            "questions": 10,
+            "marks": 50
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade4-t1",
+            "name": "Grade 4 English Term 1 Exam",
+            "path": "exams/Grade 4/English/Term 1/exam-paper-11.json",
+            "questions": 10,
+            "marks": 50
+          }
+        ]
+      }
+    },
+    "Grade 5": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade5-t1",
+            "name": "Grade 5 Mathematics Term 1 Exam",
+            "path": "exams/Grade 5/Mathematics/Term 1/exam-paper-12.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade5-t1",
+            "name": "Grade 5 Mathematics Term 1 Exam",
+            "path": "exams/Grade 5/Mathematics/Term 1/exam-paper-12.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade5-t1",
+            "name": "Grade 5 Mathematics Term 1 Exam",
+            "path": "exams/Grade 5/Mathematics/Term 1/exam-paper-12.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade5-t1",
+            "name": "Grade 5 Mathematics Term 1 Exam",
+            "path": "exams/Grade 5/Mathematics/Term 1/exam-paper-12.json",
+            "questions": 14,
+            "marks": 50
+          }
+        ]
+      }
+    },
+    "Grade 6": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade6-t1",
+            "name": "Grade 6 Mathematics Term 1 Exam",
+            "path": "exams/Grade 6/Mathematics/Term 1/exam-paper-13.json",
+            "questions": 14,
+            "marks": 60
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade6-t1",
+            "name": "Grade 6 Mathematics Term 1 Exam",
+            "path": "exams/Grade 6/Mathematics/Term 1/exam-paper-13.json",
+            "questions": 14,
+            "marks": 60
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade6-t1",
+            "name": "Grade 6 Mathematics Term 1 Exam",
+            "path": "exams/Grade 6/Mathematics/Term 1/exam-paper-13.json",
+            "questions": 14,
+            "marks": 60
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade6-t1",
+            "name": "Grade 6 Mathematics Term 1 Exam",
+            "path": "exams/Grade 6/Mathematics/Term 1/exam-paper-13.json",
+            "questions": 14,
+            "marks": 60
+          }
+        ]
+      },
+      "Social Studies": {
+        "Term 1": [
+          {
+            "id": "exam-social-studies-grade6-t1",
+            "name": "Grade 6 Social Studies Term 1 Exam",
+            "path": "exams/Grade 6/Social Studies/Term 1/exam-paper-14.json",
+            "questions": 10,
+            "marks": 50
+          }
+        ]
+      },
+      "SST": {
+        "Term 1": [
+          {
+            "id": "exam-social-studies-grade6-t1",
+            "name": "Grade 6 Social Studies Term 1 Exam",
+            "path": "exams/Grade 6/Social Studies/Term 1/exam-paper-14.json",
+            "questions": 10,
+            "marks": 50
+          }
+        ]
+      }
+    },
+    "Grade 8": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade8-t1",
+            "name": "Grade 8 Mathematics Term 1 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-22.json",
+            "questions": 12,
+            "marks": 60
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade8-t1",
+            "name": "Grade 8 Mathematics Term 1 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-22.json",
+            "questions": 12,
+            "marks": 60
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade8-t1",
+            "name": "Grade 8 Mathematics Term 1 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-22.json",
+            "questions": 12,
+            "marks": 60
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade8-t1",
+            "name": "Grade 8 Mathematics Term 1 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-22.json",
+            "questions": 12,
+            "marks": 60
+          }
+        ]
+      },
+      "Integrated Science": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade8-t1",
+            "name": "Grade 8 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 8/Integrated Science/Term 1/exam-paper-23.json",
+            "questions": 10,
+            "marks": 60
+          }
+        ]
+      },
+      "SCI": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade8-t1",
+            "name": "Grade 8 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 8/Integrated Science/Term 1/exam-paper-23.json",
+            "questions": 10,
+            "marks": 60
+          }
+        ]
+      },
+      "Science": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade8-t1",
+            "name": "Grade 8 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 8/Integrated Science/Term 1/exam-paper-23.json",
+            "questions": 10,
+            "marks": 60
+          }
+        ]
+      },
+      "Christian Religious Education": {
+        "Term 1": [
+          {
+            "id": "exam-christian-religious-education-grade8-t1",
+            "name": "Grade 8 Christian Religious Education Term 1 Exam",
+            "path": "exams/Grade 8/Christian Religious Education/Term 1/exam-paper-24.json",
+            "questions": 8,
+            "marks": 50
+          }
+        ]
+      },
+      "CRE": {
+        "Term 1": [
+          {
+            "id": "exam-christian-religious-education-grade8-t1",
+            "name": "Grade 8 Christian Religious Education Term 1 Exam",
+            "path": "exams/Grade 8/Christian Religious Education/Term 1/exam-paper-24.json",
+            "questions": 8,
+            "marks": 50
+          }
+        ]
+      }
+    },
+    "Grade 9": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade9-t1",
+            "name": "Grade 9 Mathematics Term 1 Exam",
+            "path": "exams/Grade 9/Mathematics/Term 1/exam-paper-25.json",
+            "questions": 11,
+            "marks": 60
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade9-t1",
+            "name": "Grade 9 Mathematics Term 1 Exam",
+            "path": "exams/Grade 9/Mathematics/Term 1/exam-paper-25.json",
+            "questions": 11,
+            "marks": 60
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade9-t1",
+            "name": "Grade 9 Mathematics Term 1 Exam",
+            "path": "exams/Grade 9/Mathematics/Term 1/exam-paper-25.json",
+            "questions": 11,
+            "marks": 60
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade9-t1",
+            "name": "Grade 9 Mathematics Term 1 Exam",
+            "path": "exams/Grade 9/Mathematics/Term 1/exam-paper-25.json",
+            "questions": 11,
+            "marks": 60
+          }
+        ]
+      },
+      "Integrated Science": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade9-t1",
+            "name": "Grade 9 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 9/Integrated Science/Term 1/exam-paper-26.json",
+            "questions": 10,
+            "marks": 60
+          }
+        ]
+      },
+      "SCI": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade9-t1",
+            "name": "Grade 9 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 9/Integrated Science/Term 1/exam-paper-26.json",
+            "questions": 10,
+            "marks": 60
+          }
+        ]
+      },
+      "Science": {
+        "Term 1": [
+          {
+            "id": "exam-integrated-science-grade9-t1",
+            "name": "Grade 9 Integrated Science Term 1 Exam",
+            "path": "exams/Grade 9/Integrated Science/Term 1/exam-paper-26.json",
+            "questions": 10,
+            "marks": 60
+          }
+        ]
+      }
+    },
+    "Grade 10": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade10-t1",
+            "name": "Grade 10 Mathematics Term 1 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 1/exam-paper-27.json",
+            "questions": 13,
+            "marks": 80
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade10-t1",
+            "name": "Grade 10 Mathematics Term 1 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 1/exam-paper-27.json",
+            "questions": 13,
+            "marks": 80
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade10-t1",
+            "name": "Grade 10 Mathematics Term 1 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 1/exam-paper-27.json",
+            "questions": 13,
+            "marks": 80
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-grade10-t1",
+            "name": "Grade 10 Mathematics Term 1 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 1/exam-paper-27.json",
+            "questions": 13,
+            "marks": 80
+          }
+        ]
+      },
+      "Physics": {
+        "Term 1": [
+          {
+            "id": "exam-physics-grade10-t1",
+            "name": "Grade 10 Physics Term 1 Exam",
+            "path": "exams/Grade 10/Physics/Term 1/exam-paper-28.json",
+            "questions": 12,
+            "marks": 80
+          }
+        ]
+      },
+      "PHY": {
+        "Term 1": [
+          {
+            "id": "exam-physics-grade10-t1",
+            "name": "Grade 10 Physics Term 1 Exam",
+            "path": "exams/Grade 10/Physics/Term 1/exam-paper-28.json",
+            "questions": 12,
+            "marks": 80
+          }
+        ]
+      },
+      "Chemistry": {
+        "Term 1": [
+          {
+            "id": "exam-chemistry-grade10-t1",
+            "name": "Grade 10 Chemistry Term 1 Exam",
+            "path": "exams/Grade 10/Chemistry/Term 1/exam-paper-29.json",
+            "questions": 11,
+            "marks": 80
+          }
+        ]
+      },
+      "CHE": {
+        "Term 1": [
+          {
+            "id": "exam-chemistry-grade10-t1",
+            "name": "Grade 10 Chemistry Term 1 Exam",
+            "path": "exams/Grade 10/Chemistry/Term 1/exam-paper-29.json",
+            "questions": 11,
+            "marks": 80
+          }
+        ]
+      },
+      "Biology": {
+        "Term 1": [
+          {
+            "id": "exam-biology-grade10-t1",
+            "name": "Grade 10 Biology Term 1 Exam",
+            "path": "exams/Grade 10/Biology/Term 1/exam-paper-30.json",
+            "questions": 11,
+            "marks": 80
+          }
+        ]
+      },
+      "BIO": {
+        "Term 1": [
+          {
+            "id": "exam-biology-grade10-t1",
+            "name": "Grade 10 Biology Term 1 Exam",
+            "path": "exams/Grade 10/Biology/Term 1/exam-paper-30.json",
+            "questions": 11,
+            "marks": 80
+          }
+        ]
+      }
+    },
+    "Form 3": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form3-t1",
+            "name": "Form 3 Mathematics Term 1 Exam",
+            "path": "exams/Form 3/Mathematics/Term 1/exam-paper-31.json",
+            "questions": 12,
+            "marks": 80
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form3-t1",
+            "name": "Form 3 Mathematics Term 1 Exam",
+            "path": "exams/Form 3/Mathematics/Term 1/exam-paper-31.json",
+            "questions": 12,
+            "marks": 80
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form3-t1",
+            "name": "Form 3 Mathematics Term 1 Exam",
+            "path": "exams/Form 3/Mathematics/Term 1/exam-paper-31.json",
+            "questions": 12,
+            "marks": 80
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form3-t1",
+            "name": "Form 3 Mathematics Term 1 Exam",
+            "path": "exams/Form 3/Mathematics/Term 1/exam-paper-31.json",
+            "questions": 12,
+            "marks": 80
+          }
+        ]
+      },
+      "Physics": {
+        "Term 1": [
+          {
+            "id": "exam-physics-form3-t1",
+            "name": "Form 3 Physics Term 1 Exam",
+            "path": "exams/Form 3/Physics/Term 1/exam-paper-32.json",
+            "questions": 11,
+            "marks": 80
+          }
+        ]
+      },
+      "PHY": {
+        "Term 1": [
+          {
+            "id": "exam-physics-form3-t1",
+            "name": "Form 3 Physics Term 1 Exam",
+            "path": "exams/Form 3/Physics/Term 1/exam-paper-32.json",
+            "questions": 11,
+            "marks": 80
+          }
+        ]
+      },
+      "Chemistry": {
+        "Term 1": [
+          {
+            "id": "exam-chemistry-form3-t1",
+            "name": "Form 3 Chemistry Term 1 Exam",
+            "path": "exams/Form 3/Chemistry/Term 1/exam-paper-33.json",
+            "questions": 10,
+            "marks": 80
+          }
+        ]
+      },
+      "CHE": {
+        "Term 1": [
+          {
+            "id": "exam-chemistry-form3-t1",
+            "name": "Form 3 Chemistry Term 1 Exam",
+            "path": "exams/Form 3/Chemistry/Term 1/exam-paper-33.json",
+            "questions": 10,
+            "marks": 80
+          }
+        ]
+      },
+      "Biology": {
+        "Term 1": [
+          {
+            "id": "exam-biology-form3-t1",
+            "name": "Form 3 Biology Term 1 Exam",
+            "path": "exams/Form 3/Biology/Term 1/exam-paper-34.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "BIO": {
+        "Term 1": [
+          {
+            "id": "exam-biology-form3-t1",
+            "name": "Form 3 Biology Term 1 Exam",
+            "path": "exams/Form 3/Biology/Term 1/exam-paper-34.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Geography": {
+        "Term 1": [
+          {
+            "id": "exam-geography-form3-t1",
+            "name": "Form 3 Geography Term 1 Exam",
+            "path": "exams/Form 3/Geography/Term 1/exam-paper-35.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "GEO": {
+        "Term 1": [
+          {
+            "id": "exam-geography-form3-t1",
+            "name": "Form 3 Geography Term 1 Exam",
+            "path": "exams/Form 3/Geography/Term 1/exam-paper-35.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "History & Government": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form3-t1",
+            "name": "Form 3 History & Government Term 1 Exam",
+            "path": "exams/Form 3/History - Government/Term 1/exam-paper-36.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "HIS": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form3-t1",
+            "name": "Form 3 History & Government Term 1 Exam",
+            "path": "exams/Form 3/History - Government/Term 1/exam-paper-36.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "History and Government": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form3-t1",
+            "name": "Form 3 History & Government Term 1 Exam",
+            "path": "exams/Form 3/History - Government/Term 1/exam-paper-36.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "History": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form3-t1",
+            "name": "Form 3 History & Government Term 1 Exam",
+            "path": "exams/Form 3/History - Government/Term 1/exam-paper-36.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      }
+    },
+    "Form 4": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form4-t1",
+            "name": "Form 4 Mathematics Term 1 Exam",
+            "path": "exams/Form 4/Mathematics/Term 1/exam-paper-37.json",
+            "questions": 11,
+            "marks": 100
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form4-t1",
+            "name": "Form 4 Mathematics Term 1 Exam",
+            "path": "exams/Form 4/Mathematics/Term 1/exam-paper-37.json",
+            "questions": 11,
+            "marks": 100
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form4-t1",
+            "name": "Form 4 Mathematics Term 1 Exam",
+            "path": "exams/Form 4/Mathematics/Term 1/exam-paper-37.json",
+            "questions": 11,
+            "marks": 100
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "exam-mathematics-form4-t1",
+            "name": "Form 4 Mathematics Term 1 Exam",
+            "path": "exams/Form 4/Mathematics/Term 1/exam-paper-37.json",
+            "questions": 11,
+            "marks": 100
+          }
+        ]
+      },
+      "Physics": {
+        "Term 1": [
+          {
+            "id": "exam-physics-form4-t1",
+            "name": "Form 4 Physics Term 1 Exam",
+            "path": "exams/Form 4/Physics/Term 1/exam-paper-38.json",
+            "questions": 10,
+            "marks": 100
+          }
+        ]
+      },
+      "PHY": {
+        "Term 1": [
+          {
+            "id": "exam-physics-form4-t1",
+            "name": "Form 4 Physics Term 1 Exam",
+            "path": "exams/Form 4/Physics/Term 1/exam-paper-38.json",
+            "questions": 10,
+            "marks": 100
+          }
+        ]
+      },
+      "Chemistry": {
+        "Term 1": [
+          {
+            "id": "exam-chemistry-form4-t1",
+            "name": "Form 4 Chemistry Term 1 Exam",
+            "path": "exams/Form 4/Chemistry/Term 1/exam-paper-39.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "CHE": {
+        "Term 1": [
+          {
+            "id": "exam-chemistry-form4-t1",
+            "name": "Form 4 Chemistry Term 1 Exam",
+            "path": "exams/Form 4/Chemistry/Term 1/exam-paper-39.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "Biology": {
+        "Term 1": [
+          {
+            "id": "exam-biology-form4-t1",
+            "name": "Form 4 Biology Term 1 Exam",
+            "path": "exams/Form 4/Biology/Term 1/exam-paper-40.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "BIO": {
+        "Term 1": [
+          {
+            "id": "exam-biology-form4-t1",
+            "name": "Form 4 Biology Term 1 Exam",
+            "path": "exams/Form 4/Biology/Term 1/exam-paper-40.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "Geography": {
+        "Term 1": [
+          {
+            "id": "exam-geography-form4-t1",
+            "name": "Form 4 Geography Term 1 Exam",
+            "path": "exams/Form 4/Geography/Term 1/exam-paper-41.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "GEO": {
+        "Term 1": [
+          {
+            "id": "exam-geography-form4-t1",
+            "name": "Form 4 Geography Term 1 Exam",
+            "path": "exams/Form 4/Geography/Term 1/exam-paper-41.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "Business Studies": {
+        "Term 1": [
+          {
+            "id": "exam-business-studies-form4-t1",
+            "name": "Form 4 Business Studies Term 1 Exam",
+            "path": "exams/Form 4/Business Studies/Term 1/exam-paper-42.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "BST": {
+        "Term 1": [
+          {
+            "id": "exam-business-studies-form4-t1",
+            "name": "Form 4 Business Studies Term 1 Exam",
+            "path": "exams/Form 4/Business Studies/Term 1/exam-paper-42.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
       }
     }
   },
@@ -296,6 +1598,596 @@
             "path": "lesson-notes/Grade 7/Mathematics/Term 1/lesson-notes-1.json",
             "questions": 8,
             "marks": 20
+          },
+          {
+            "id": "ln-mathematics-grade7-7",
+            "name": "Grade 7 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 7/Mathematics/Term 1/lesson-notes-7.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade7-7",
+            "name": "Grade 7 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 7/Mathematics/Term 1/lesson-notes-7.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade7-7",
+            "name": "Grade 7 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 7/Mathematics/Term 1/lesson-notes-7.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade7-7",
+            "name": "Grade 7 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 7/Mathematics/Term 1/lesson-notes-7.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Integrated Science": {
+        "Term 1": [
+          {
+            "id": "ln-integrated-science-grade7-8",
+            "name": "Grade 7 Integrated Science: The Human Skeleton",
+            "path": "lesson-notes/Grade 7/Integrated Science/Term 1/lesson-notes-8.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "SCI": {
+        "Term 1": [
+          {
+            "id": "ln-integrated-science-grade7-8",
+            "name": "Grade 7 Integrated Science: The Human Skeleton",
+            "path": "lesson-notes/Grade 7/Integrated Science/Term 1/lesson-notes-8.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Science": {
+        "Term 1": [
+          {
+            "id": "ln-integrated-science-grade7-8",
+            "name": "Grade 7 Integrated Science: The Human Skeleton",
+            "path": "lesson-notes/Grade 7/Integrated Science/Term 1/lesson-notes-8.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "PP1": {
+      "Mathematical Activities": {
+        "Term 1": [
+          {
+            "id": "ln-mathematical-activities-pp1-1",
+            "name": "PP1 Mathematical Activities: Counting objects 1-5",
+            "path": "lesson-notes/PP1/Mathematical Activities/Term 1/lesson-notes-1.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAA": {
+        "Term 1": [
+          {
+            "id": "ln-mathematical-activities-pp1-1",
+            "name": "PP1 Mathematical Activities: Counting objects 1-5",
+            "path": "lesson-notes/PP1/Mathematical Activities/Term 1/lesson-notes-1.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math Activities": {
+        "Term 1": [
+          {
+            "id": "ln-mathematical-activities-pp1-1",
+            "name": "PP1 Mathematical Activities: Counting objects 1-5",
+            "path": "lesson-notes/PP1/Mathematical Activities/Term 1/lesson-notes-1.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "PP2": {
+      "Language Activities": {
+        "Term 1": [
+          {
+            "id": "ln-language-activities-pp2-2",
+            "name": "PP2 Language Activities: Letter sounds a, b, c",
+            "path": "lesson-notes/PP2/Language Activities/Term 1/lesson-notes-2.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "LGA": {
+        "Term 1": [
+          {
+            "id": "ln-language-activities-pp2-2",
+            "name": "PP2 Language Activities: Letter sounds a, b, c",
+            "path": "lesson-notes/PP2/Language Activities/Term 1/lesson-notes-2.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Literacy Activities": {
+        "Term 1": [
+          {
+            "id": "ln-language-activities-pp2-2",
+            "name": "PP2 Language Activities: Letter sounds a, b, c",
+            "path": "lesson-notes/PP2/Language Activities/Term 1/lesson-notes-2.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 1": {
+      "English": {
+        "Term 1": [
+          {
+            "id": "ln-english-grade1-3",
+            "name": "Grade 1 English: Phonics - consonant sounds m, s, t",
+            "path": "lesson-notes/Grade 1/English/Term 1/lesson-notes-3.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "ln-english-grade1-3",
+            "name": "Grade 1 English: Phonics - consonant sounds m, s, t",
+            "path": "lesson-notes/Grade 1/English/Term 1/lesson-notes-3.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 2": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade2-4",
+            "name": "Grade 2 Mathematics: Addition of two-digit numbers",
+            "path": "lesson-notes/Grade 2/Mathematics/Term 1/lesson-notes-4.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade2-4",
+            "name": "Grade 2 Mathematics: Addition of two-digit numbers",
+            "path": "lesson-notes/Grade 2/Mathematics/Term 1/lesson-notes-4.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade2-4",
+            "name": "Grade 2 Mathematics: Addition of two-digit numbers",
+            "path": "lesson-notes/Grade 2/Mathematics/Term 1/lesson-notes-4.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade2-4",
+            "name": "Grade 2 Mathematics: Addition of two-digit numbers",
+            "path": "lesson-notes/Grade 2/Mathematics/Term 1/lesson-notes-4.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 4": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade4-5",
+            "name": "Grade 4 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 4/Mathematics/Term 1/lesson-notes-5.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade4-5",
+            "name": "Grade 4 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 4/Mathematics/Term 1/lesson-notes-5.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade4-5",
+            "name": "Grade 4 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 4/Mathematics/Term 1/lesson-notes-5.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade4-5",
+            "name": "Grade 4 Mathematics: Fractions",
+            "path": "lesson-notes/Grade 4/Mathematics/Term 1/lesson-notes-5.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 5": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade5-6",
+            "name": "Grade 5 Mathematics: Multiplication of large numbers",
+            "path": "lesson-notes/Grade 5/Mathematics/Term 1/lesson-notes-6.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade5-6",
+            "name": "Grade 5 Mathematics: Multiplication of large numbers",
+            "path": "lesson-notes/Grade 5/Mathematics/Term 1/lesson-notes-6.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade5-6",
+            "name": "Grade 5 Mathematics: Multiplication of large numbers",
+            "path": "lesson-notes/Grade 5/Mathematics/Term 1/lesson-notes-6.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade5-6",
+            "name": "Grade 5 Mathematics: Multiplication of large numbers",
+            "path": "lesson-notes/Grade 5/Mathematics/Term 1/lesson-notes-6.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 8": {
+      "Integrated Science": {
+        "Term 1": [
+          {
+            "id": "ln-integrated-science-grade8-9",
+            "name": "Grade 8 Integrated Science: The Human Heart",
+            "path": "lesson-notes/Grade 8/Integrated Science/Term 1/lesson-notes-9.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "SCI": {
+        "Term 1": [
+          {
+            "id": "ln-integrated-science-grade8-9",
+            "name": "Grade 8 Integrated Science: The Human Heart",
+            "path": "lesson-notes/Grade 8/Integrated Science/Term 1/lesson-notes-9.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Science": {
+        "Term 1": [
+          {
+            "id": "ln-integrated-science-grade8-9",
+            "name": "Grade 8 Integrated Science: The Human Heart",
+            "path": "lesson-notes/Grade 8/Integrated Science/Term 1/lesson-notes-9.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 9": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade9-10",
+            "name": "Grade 9 Mathematics: Algebraic Expressions",
+            "path": "lesson-notes/Grade 9/Mathematics/Term 1/lesson-notes-10.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade9-10",
+            "name": "Grade 9 Mathematics: Algebraic Expressions",
+            "path": "lesson-notes/Grade 9/Mathematics/Term 1/lesson-notes-10.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade9-10",
+            "name": "Grade 9 Mathematics: Algebraic Expressions",
+            "path": "lesson-notes/Grade 9/Mathematics/Term 1/lesson-notes-10.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-grade9-10",
+            "name": "Grade 9 Mathematics: Algebraic Expressions",
+            "path": "lesson-notes/Grade 9/Mathematics/Term 1/lesson-notes-10.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Grade 10": {
+      "Physics": {
+        "Term 1": [
+          {
+            "id": "ln-physics-grade10-11",
+            "name": "Grade 10 Physics: Newton's Laws of Motion",
+            "path": "lesson-notes/Grade 10/Physics/Term 1/lesson-notes-11.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "PHY": {
+        "Term 1": [
+          {
+            "id": "ln-physics-grade10-11",
+            "name": "Grade 10 Physics: Newton's Laws of Motion",
+            "path": "lesson-notes/Grade 10/Physics/Term 1/lesson-notes-11.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Chemistry": {
+        "Term 1": [
+          {
+            "id": "ln-chemistry-grade10-12",
+            "name": "Grade 10 Chemistry: The Periodic Table",
+            "path": "lesson-notes/Grade 10/Chemistry/Term 1/lesson-notes-12.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "CHE": {
+        "Term 1": [
+          {
+            "id": "ln-chemistry-grade10-12",
+            "name": "Grade 10 Chemistry: The Periodic Table",
+            "path": "lesson-notes/Grade 10/Chemistry/Term 1/lesson-notes-12.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Form 3": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form3-13",
+            "name": "Form 3 Mathematics: Quadratic Equations",
+            "path": "lesson-notes/Form 3/Mathematics/Term 1/lesson-notes-13.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form3-13",
+            "name": "Form 3 Mathematics: Quadratic Equations",
+            "path": "lesson-notes/Form 3/Mathematics/Term 1/lesson-notes-13.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form3-13",
+            "name": "Form 3 Mathematics: Quadratic Equations",
+            "path": "lesson-notes/Form 3/Mathematics/Term 1/lesson-notes-13.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form3-13",
+            "name": "Form 3 Mathematics: Quadratic Equations",
+            "path": "lesson-notes/Form 3/Mathematics/Term 1/lesson-notes-13.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Physics": {
+        "Term 1": [
+          {
+            "id": "ln-physics-form3-14",
+            "name": "Form 3 Physics: Newton's Laws of Motion",
+            "path": "lesson-notes/Form 3/Physics/Term 1/lesson-notes-14.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "PHY": {
+        "Term 1": [
+          {
+            "id": "ln-physics-form3-14",
+            "name": "Form 3 Physics: Newton's Laws of Motion",
+            "path": "lesson-notes/Form 3/Physics/Term 1/lesson-notes-14.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Biology": {
+        "Term 1": [
+          {
+            "id": "ln-biology-form3-15",
+            "name": "Form 3 Biology: Aerobic and Anaerobic Respiration",
+            "path": "lesson-notes/Form 3/Biology/Term 1/lesson-notes-15.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "BIO": {
+        "Term 1": [
+          {
+            "id": "ln-biology-form3-15",
+            "name": "Form 3 Biology: Aerobic and Anaerobic Respiration",
+            "path": "lesson-notes/Form 3/Biology/Term 1/lesson-notes-15.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      }
+    },
+    "Form 4": {
+      "Mathematics": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form4-16",
+            "name": "Form 4 Mathematics: Differentiation",
+            "path": "lesson-notes/Form 4/Mathematics/Term 1/lesson-notes-16.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "MAT": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form4-16",
+            "name": "Form 4 Mathematics: Differentiation",
+            "path": "lesson-notes/Form 4/Mathematics/Term 1/lesson-notes-16.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Maths": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form4-16",
+            "name": "Form 4 Mathematics: Differentiation",
+            "path": "lesson-notes/Form 4/Mathematics/Term 1/lesson-notes-16.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Math": {
+        "Term 1": [
+          {
+            "id": "ln-mathematics-form4-16",
+            "name": "Form 4 Mathematics: Differentiation",
+            "path": "lesson-notes/Form 4/Mathematics/Term 1/lesson-notes-16.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Biology": {
+        "Term 1": [
+          {
+            "id": "ln-biology-form4-17",
+            "name": "Form 4 Biology: The Human Eye",
+            "path": "lesson-notes/Form 4/Biology/Term 1/lesson-notes-17.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "BIO": {
+        "Term 1": [
+          {
+            "id": "ln-biology-form4-17",
+            "name": "Form 4 Biology: The Human Eye",
+            "path": "lesson-notes/Form 4/Biology/Term 1/lesson-notes-17.json",
+            "questions": 0,
+            "marks": 0
           }
         ]
       }
@@ -318,11 +2210,11 @@
   },
   "indexedMaterials": {
     "source": "JSON corpus on disk (post-flush)",
-    "convertedOn": "2026-09-03T15:19:12Z",
-    "totalDocuments": 2061,
-    "totalTextChars": 44584757,
+    "convertedOn": "2026-09-04T06:24:53Z",
+    "totalDocuments": 2120,
+    "totalTextChars": 44666735,
     "byQuality": {
-      "text": 1923,
+      "text": 1982,
       "sparse": 18,
       "none": 120
     },

@@ -1,0 +1,73 @@
+{
+  "id": "exam-mathematics-grade3-t1",
+  "name": "Grade 3 Mathematics Term 1 Exam",
+  "grade": "Grade 3",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions. Show your working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "What is 100 x 10?",
+          "options": [
+            "100",
+            "1000",
+            "10000"
+          ],
+          "answer": "1000",
+          "marks": 1
+        },
+        {
+          "question": "How many metres make one kilometre?",
+          "options": [
+            "100",
+            "1000",
+            "10"
+          ],
+          "answer": "1000",
+          "marks": 1
+        },
+        {
+          "question": "Which number is 5,000 + 300 + 40 + 7?",
+          "options": [
+            "5347",
+            "5437",
+            "5734"
+          ],
+          "answer": "5347",
+          "marks": 1
+        },
+        {
+          "question": "What is 1/4 of 20?",
+          "options": [
+            "4",
+            "5",
+            "10"
+          ],
+          "answer": "5",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Write in words: 2,507 (3 marks)",
+        "2. Arrange from smallest to largest: 402, 204, 420, 240 (3 marks)",
+        "3. Add: 1,245 + 678 = ____ (3 marks)",
+        "4. Subtract: 3,000 - 1,245 = ____ (3 marks)",
+        "5. Multiply: 23 x 6 = ____ (3 marks)",
+        "6. Divide: 144 / 12 = ____ (3 marks)",
+        "7. Convert 3 km 250 m to metres. (2 marks)",
+        "8. A farmer has 48 eggs. He packs them in trays of 6. How many trays? (3 marks)",
+        "9. Shade 1/2 of the circle in the picture. (2 marks)",
+        "10. Write the next two numbers: 5, 10, 15, 20, __, __ (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

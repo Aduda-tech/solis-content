@@ -1,0 +1,37 @@
+{
+  "id": "ln-chemistry-grade10-12",
+  "name": "Grade 10 Chemistry: The Periodic Table",
+  "grade": "Grade 10",
+  "subject": "Chemistry",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Structure of Matter",
+  "subStrand": "The Periodic Table",
+  "lessonNumber": 11,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to describe the arrangement of elements in the periodic table",
+    "By the end of the lesson, the learner should be able to relate electron configuration to group and period"
+  ],
+  "learningActivities": [
+    "Discussion: learners recall elements they know",
+    "Chart work: teacher explains groups and periods using a periodic table chart",
+    "Group work: learners locate given elements on the periodic table",
+    "Application: learners write electronic configurations and state group and period"
+  ],
+  "keyPoints": [
+    "Elements are arranged in order of increasing atomic number",
+    "Vertical columns are called groups and horizontal rows are called periods",
+    "The group number relates to the number of outer electrons"
+  ],
+  "commonMisconceptions": [
+    "Confusing atomic number with mass number",
+    "Thinking periods are vertical columns"
+  ],
+  "resourcesRequired": [
+    "Periodic table chart",
+    "Element cards",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners locate elements and write their electronic configurations. Teacher checks work.",
+  "teacherReflection": "Good progress. More practice on electronic configuration needed."
+}

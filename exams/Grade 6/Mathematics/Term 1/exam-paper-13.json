@@ -1,0 +1,73 @@
+{
+  "id": "exam-mathematics-grade6-t1",
+  "name": "Grade 6 Mathematics Term 1 Exam",
+  "grade": "Grade 6",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Answer ALL questions. Show your working clearly.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "What is 7.5 x 100?",
+          "options": [
+            "75",
+            "750",
+            "7500"
+          ],
+          "answer": "750",
+          "marks": 1
+        },
+        {
+          "question": "The area of a square of side 9 cm is?",
+          "options": [
+            "18 sq cm",
+            "81 sq cm",
+            "36 sq cm"
+          ],
+          "answer": "81 sq cm",
+          "marks": 1
+        },
+        {
+          "question": "What is the HCF of 12 and 18?",
+          "options": [
+            "3",
+            "6",
+            "9"
+          ],
+          "answer": "6",
+          "marks": 1
+        },
+        {
+          "question": "A right angle measures how many degrees?",
+          "options": [
+            "60",
+            "90",
+            "180"
+          ],
+          "answer": "90",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (56 marks)",
+      "items": [
+        "1. Write 90,075,008 in words. (2 marks)",
+        "2. Round off 8,546 to the nearest ten and nearest hundred. (4 marks)",
+        "3. Work out: 3 1/2 + 2 1/4 = ____ (3 marks)",
+        "4. Multiply: 426 x 35 = ____ (3 marks)",
+        "5. Divide: 3,705 / 15 = ____ (3 marks)",
+        "6. Convert 4.5 litres to millilitres. (2 marks)",
+        "7. Find the circumference of a circle of radius 7 cm (use pi = 22/7). (3 marks)",
+        "8. A shop sells a book at Ksh 250 making a profit of Ksh 50. Find the buying price. (3 marks)",
+        "9. The graph shows rainfall for 5 months. Name the month with the highest rainfall. (2 marks)",
+        "10. If 3 bags of maize weigh 270 kg, what is the weight of 5 bags? (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

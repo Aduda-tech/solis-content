@@ -1,0 +1,70 @@
+{
+  "id": "exam-english-grade3-t1",
+  "name": "Grade 3 English Term 1 Exam",
+  "grade": "Grade 3",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions. Read each question carefully.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The past tense of 'go' is?",
+          "options": [
+            "go",
+            "went",
+            "gone"
+          ],
+          "answer": "went",
+          "marks": 1
+        },
+        {
+          "question": "Which sentence is correct?",
+          "options": [
+            "She is my friend",
+            "She am my friend",
+            "She are my friend"
+          ],
+          "answer": "She is my friend",
+          "marks": 1
+        },
+        {
+          "question": "The opposite of 'clean' is?",
+          "options": [
+            "tidy",
+            "dirty",
+            "neat"
+          ],
+          "answer": "dirty",
+          "marks": 1
+        },
+        {
+          "question": "Which word is a noun?",
+          "options": [
+            "run",
+            "table",
+            "quickly"
+          ],
+          "answer": "table",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Read and write: 'The farmer has a big brown cow.' (3 marks)",
+        "2. Write the plural of: box, child, man (3 marks)",
+        "3. Use 'and' to join: I like rice. I like beans. (2 marks)",
+        "4. Fill in: The sun ____ (shine/shines) brightly in the morning. (2 marks)",
+        "5. Write two sentences about your school. (4 marks)",
+        "6. Arrange the words to make a sentence: plays / Tom / football (2 marks)",
+        "7. Write the opposite of: big, hot, day (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

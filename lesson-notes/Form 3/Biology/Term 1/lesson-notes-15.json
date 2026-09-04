@@ -1,0 +1,37 @@
+{
+  "id": "ln-biology-form3-15",
+  "name": "Form 3 Biology: Aerobic and Anaerobic Respiration",
+  "grade": "Form 3",
+  "subject": "Biology",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Respiration",
+  "subStrand": "Aerobic and Anaerobic Respiration",
+  "lessonNumber": 14,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to distinguish between aerobic and anaerobic respiration",
+    "By the end of the lesson, the learner should be able to write word equations for respiration"
+  ],
+  "learningActivities": [
+    "Discussion: why do we breathe heavily after exercise?",
+    "Demonstration: teacher uses a diagram to explain respiration",
+    "Group work: learners compare aerobic and anaerobic respiration",
+    "Application: learners explain respiration in yeast and muscles"
+  ],
+  "keyPoints": [
+    "Aerobic respiration uses oxygen: glucose + oxygen -> carbon dioxide + water + energy",
+    "Anaerobic respiration occurs without oxygen and produces less energy",
+    "Anaerobic respiration in muscles produces lactic acid"
+  ],
+  "commonMisconceptions": [
+    "Thinking breathing is the same as respiration",
+    "Writing the word equation incorrectly"
+  ],
+  "resourcesRequired": [
+    "Diagrams",
+    "Charts",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners write word equations and compare aerobic and anaerobic respiration.",
+  "teacherReflection": "Clear understanding. Practical on fermentation next lesson."
+}

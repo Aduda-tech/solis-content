@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-grade7-7",
+  "name": "Grade 7 Mathematics: Fractions",
+  "grade": "Grade 7",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Numbers",
+  "subStrand": "Fractions",
+  "lessonNumber": 6,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to add and subtract fractions with different denominators",
+    "By the end of the lesson, the learner should be able to apply fractions in real-life situations"
+  ],
+  "learningActivities": [
+    "Revision: equivalent fractions",
+    "Demonstration: teacher models finding the LCM of denominators",
+    "Group work: learners add and subtract fractions using fraction cards",
+    "Application: learners solve real-life problems involving fractions"
+  ],
+  "keyPoints": [
+    "To add fractions with different denominators, find a common denominator first",
+    "1/2 + 1/3 = 5/6",
+    "Fractions must have the same denominator before adding or subtracting"
+  ],
+  "commonMisconceptions": [
+    "Adding denominators as well as numerators",
+    "Not simplifying answers to the lowest terms"
+  ],
+  "resourcesRequired": [
+    "Fraction cards",
+    "Charts",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners add and subtract fractions and solve two real-life problems. Teacher assesses through written work.",
+  "teacherReflection": "Good understanding shown. Emphasis on simplifying answers in the next lesson."
+}

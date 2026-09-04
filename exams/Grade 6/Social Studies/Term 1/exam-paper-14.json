@@ -1,0 +1,69 @@
+{
+  "id": "exam-social-studies-grade6-t1",
+  "name": "Grade 6 Social Studies Term 1 Exam",
+  "grade": "Grade 6",
+  "subject": "Social Studies",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Kenya is located in which continent?",
+          "options": [
+            "Asia",
+            "Africa",
+            "Europe"
+          ],
+          "answer": "Africa",
+          "marks": 1
+        },
+        {
+          "question": "The capital city of Kenya is?",
+          "options": [
+            "Mombasa",
+            "Nairobi",
+            "Kisumu"
+          ],
+          "answer": "Nairobi",
+          "marks": 1
+        },
+        {
+          "question": "Which is the largest county in Kenya?",
+          "options": [
+            "Nairobi",
+            "Turkana",
+            "Kiambu"
+          ],
+          "answer": "Turkana",
+          "marks": 1
+        },
+        {
+          "question": "The highest mountain in Africa is?",
+          "options": [
+            "Mount Kenya",
+            "Mount Kilimanjaro",
+            "Mount Elgon"
+          ],
+          "answer": "Mount Kilimanjaro",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Name the four cardinal points of a compass. (4 marks)",
+        "2. Name any three physical features found in Kenya. (3 marks)",
+        "3. State two ways people protect the environment. (2 marks)",
+        "4. Name the eight neighbouring countries of Kenya. (8 marks)",
+        "5. What is the difference between weather and climate? (2 marks)",
+        "6. Name two cash crops grown in Kenya. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

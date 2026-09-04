@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-grade9-10",
+  "name": "Grade 9 Mathematics: Algebraic Expressions",
+  "grade": "Grade 9",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Algebra",
+  "subStrand": "Algebraic Expressions",
+  "lessonNumber": 9,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to simplify algebraic expressions by collecting like terms",
+    "By the end of the lesson, the learner should be able to expand simple brackets"
+  ],
+  "learningActivities": [
+    "Revision: learners identify like and unlike terms",
+    "Demonstration: teacher simplifies 3a + 4b - a + 2b",
+    "Guided practice: learners expand brackets like 3(x + 2)",
+    "Independent work: learners solve algebraic problems"
+  ],
+  "keyPoints": [
+    "Like terms have the same letters and powers",
+    "Only like terms can be added or subtracted",
+    "3(x + 2) = 3x + 6"
+  ],
+  "commonMisconceptions": [
+    "Adding unlike terms (e.g. 2a + 3b = 5ab)",
+    "Forgetting to multiply every term inside the bracket"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Exercise books",
+    "Algebra tiles (optional)"
+  ],
+  "lessonEvaluation": "Learners simplify five expressions and expand five brackets. Teacher marks and gives feedback.",
+  "teacherReflection": "Most learners collected like terms correctly. Focus on bracket expansion next lesson."
+}

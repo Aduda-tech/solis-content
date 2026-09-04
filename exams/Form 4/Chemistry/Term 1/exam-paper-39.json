@@ -1,0 +1,68 @@
+{
+  "id": "exam-chemistry-form4-t1",
+  "name": "Form 4 Chemistry Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Chemistry",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The functional group of an alcohol is?",
+          "options": [
+            "-COOH",
+            "-OH",
+            "-CHO"
+          ],
+          "answer": "-OH",
+          "marks": 1
+        },
+        {
+          "question": "The process of converting large hydrocarbon molecules into smaller ones is?",
+          "options": [
+            "polymerisation",
+            "cracking",
+            "fractional distillation"
+          ],
+          "answer": "cracking",
+          "marks": 1
+        },
+        {
+          "question": "The pH of a neutral solution at 25 degrees Celsius is?",
+          "options": [
+            "0",
+            "7",
+            "14"
+          ],
+          "answer": "7",
+          "marks": 1
+        },
+        {
+          "question": "Which element is the most electronegative?",
+          "options": [
+            "oxygen",
+            "fluorine",
+            "chlorine"
+          ],
+          "answer": "fluorine",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Define the terms 'electronegativity' and 'ionisation energy'. (2 marks)",
+        "2. Write the structural formula of ethene and state one use of it. (3 marks)",
+        "3. Using the diagram, name the products collected at the anode and cathode during electrolysis of dilute sulphuric acid. (4 marks)",
+        "4. Explain the difference between an exothermic and an endothermic reaction. (2 marks)",
+        "5. Calculate the concentration in mol/dm^3 of a solution containing 4 g of NaOH in 250 cm^3 (Na = 23, O = 16, H = 1). (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

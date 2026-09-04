@@ -1,0 +1,68 @@
+{
+  "id": "exam-agriculture-grade7-t1",
+  "name": "Grade 7 Agriculture Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Agriculture",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which of these is a food crop?",
+          "options": [
+            "cotton",
+            "maize",
+            "sisal"
+          ],
+          "answer": "maize",
+          "marks": 1
+        },
+        {
+          "question": "The practice of growing crops and keeping animals is?",
+          "options": [
+            "horticulture",
+            "agriculture",
+            "forestry"
+          ],
+          "answer": "agriculture",
+          "marks": 1
+        },
+        {
+          "question": "Which soil has the largest particles?",
+          "options": [
+            "clay",
+            "silt",
+            "sand"
+          ],
+          "answer": "sand",
+          "marks": 1
+        },
+        {
+          "question": "A baby chicken is called a?",
+          "options": [
+            "duckling",
+            "chick",
+            "calf"
+          ],
+          "answer": "chick",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. State three importance of agriculture to a country. (3 marks)",
+        "2. Name the three types of soil and state one crop grown in each. (6 marks)",
+        "3. State two factors to consider when selecting a site for a crop garden. (2 marks)",
+        "4. What is mixed farming? (2 marks)",
+        "5. Name two pests that attack maize in the field. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "exam-language-activities-pp1-t1",
+  "name": "PP1 Language Activities Term 1 Exam",
+  "grade": "PP1",
+  "subject": "Language Activities",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "totalMarks": 20,
+  "instructions": "Answer ALL questions. Your teacher will read the questions aloud.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which letter comes first in the alphabet?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "marks": 1
+        },
+        {
+          "question": "What sound does a cow make?",
+          "options": [
+            "Moo",
+            "Woof",
+            "Meow",
+            "Quack"
+          ],
+          "answer": "Moo",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a fruit?",
+          "options": [
+            "Mango",
+            "Stone",
+            "Chair",
+            "Cup"
+          ],
+          "answer": "Mango",
+          "marks": 1
+        },
+        {
+          "question": "The opposite of 'big' is?",
+          "options": [
+            "Big",
+            "Small",
+            "Tall",
+            "Round"
+          ],
+          "answer": "Small",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (16 marks)",
+      "items": [
+        "1. Say and write your name. (2 marks)",
+        "2. Write the letter that comes after 'B'. (1 mark)",
+        "3. Circle the word that begins with the sound 'm': mat, sun, pot. (2 marks)",
+        "4. Draw a picture of your home and say what it is. (3 marks)",
+        "5. Name three animals you know. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

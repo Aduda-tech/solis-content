@@ -1,0 +1,37 @@
+{
+  "id": "ln-integrated-science-grade8-9",
+  "name": "Grade 8 Integrated Science: The Human Heart",
+  "grade": "Grade 8",
+  "subject": "Integrated Science",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Living Things",
+  "subStrand": "The Human Heart",
+  "lessonNumber": 8,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to draw and label the human heart",
+    "By the end of the lesson, the learner should be able to explain how the heart pumps blood"
+  ],
+  "learningActivities": [
+    "Discussion: learners locate their pulse and count heartbeats",
+    "Diagram work: teacher uses a heart diagram to explain the chambers",
+    "Group work: learners draw and label the heart",
+    "Explanation: learners describe the flow of blood through the heart"
+  ],
+  "keyPoints": [
+    "The heart has four chambers: two atria and two ventricles",
+    "The heart pumps blood to the lungs and around the body",
+    "The heart is made of strong cardiac muscle"
+  ],
+  "commonMisconceptions": [
+    "Thinking the heart is on the right side of the chest",
+    "Confusing the direction of blood flow"
+  ],
+  "resourcesRequired": [
+    "Heart diagram",
+    "Heart model",
+    "Worksheets"
+  ],
+  "lessonEvaluation": "Learners draw and label the heart and explain the flow of blood through it.",
+  "teacherReflection": "Good diagrams produced. Some learners confused arteries and veins - revisit next lesson."
+}

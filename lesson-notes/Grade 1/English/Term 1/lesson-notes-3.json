@@ -1,0 +1,37 @@
+{
+  "id": "ln-english-grade1-3",
+  "name": "Grade 1 English: Phonics - consonant sounds m, s, t",
+  "grade": "Grade 1",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 35,
+  "strand": "Reading",
+  "subStrand": "Phonics: consonant sounds m, s, t",
+  "lessonNumber": 2,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to read and write the sounds m, s and t",
+    "By the end of the lesson, the learner should be able to blend simple words like 'mat', 'sat' and 'tap'"
+  ],
+  "learningActivities": [
+    "Sound drill: learners repeat the sounds m, s, t after the teacher",
+    "Blending: teacher models blending 'm-a-t' to read 'mat', learners practise in pairs",
+    "Word building: learners use letter cards to build words",
+    "Reading game: learners read word cards and match them to pictures"
+  ],
+  "keyPoints": [
+    "The letter 'm' has the sound /m/, 's' has /s/ and 't' has /t/",
+    "Blending sounds together forms words: m-a-t makes 'mat'",
+    "Reading from left to right is important"
+  ],
+  "commonMisconceptions": [
+    "Sounding out each letter in isolation without blending",
+    "Reversing letter order when writing words"
+  ],
+  "resourcesRequired": [
+    "Letter cards",
+    "Word and picture cards",
+    "Chalkboard"
+  ],
+  "lessonEvaluation": "Learners blend and read the words mat, sat, tap and write them. Teacher checks each learner.",
+  "teacherReflection": "Blending needs more practice. Next lesson: continue with two-letter blends."
+}

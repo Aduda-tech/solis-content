@@ -1,0 +1,69 @@
+{
+  "id": "exam-mathematical-activities-pp2-t1",
+  "name": "PP2 Mathematical Activities Term 1 Exam",
+  "grade": "PP2",
+  "subject": "Mathematical Activities",
+  "term": "Term 1",
+  "durationMinutes": 45,
+  "totalMarks": 25,
+  "instructions": "Answer ALL questions. Your teacher will read the questions aloud. Count and write the correct answers.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which number is bigger: 7 or 9?",
+          "options": [
+            "7",
+            "9"
+          ],
+          "answer": "9",
+          "marks": 1
+        },
+        {
+          "question": "What is 5 + 2?",
+          "options": [
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "7",
+          "marks": 1
+        },
+        {
+          "question": "Which shape has 3 sides?",
+          "options": [
+            "Circle",
+            "Square",
+            "Triangle"
+          ],
+          "answer": "Triangle",
+          "marks": 1
+        },
+        {
+          "question": "What comes before 10?",
+          "options": [
+            "8",
+            "9",
+            "11"
+          ],
+          "answer": "9",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (21 marks)",
+      "items": [
+        "1. Count and write the number of pencils in the picture. (2 marks)",
+        "2. Write numbers 1 to 10 in order. (5 marks)",
+        "3. Add: 3 + 4 = ____ (2 marks)",
+        "4. Take away: 8 - 3 = ____ (2 marks)",
+        "5. Draw 6 stars and count them aloud. (3 marks)",
+        "6. Which one is the longest: a pencil, a stick or a leaf? (1 mark)",
+        "7. Write the number that comes after 15. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

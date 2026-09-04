@@ -1,0 +1,68 @@
+{
+  "id": "exam-social-studies-grade7-t1",
+  "name": "Grade 7 Social Studies Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Social Studies",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Kenya's highest mountain is?",
+          "options": [
+            "Mount Elgon",
+            "Mount Kenya",
+            "Mount Longonot"
+          ],
+          "answer": "Mount Kenya",
+          "marks": 1
+        },
+        {
+          "question": "The imaginary line dividing the earth into two equal halves is the?",
+          "options": [
+            "equator",
+            "tropic",
+            "axis"
+          ],
+          "answer": "equator",
+          "marks": 1
+        },
+        {
+          "question": "Which ocean lies to the east of Kenya?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean"
+          ],
+          "answer": "Indian Ocean",
+          "marks": 1
+        },
+        {
+          "question": "The rotation of the earth causes?",
+          "options": [
+            "seasons",
+            "day and night",
+            "eclipses"
+          ],
+          "answer": "day and night",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Name the seven continents of the world. (7 marks)",
+        "2. State three effects of climate change. (3 marks)",
+        "3. What is the difference between rotation and revolution of the earth? (2 marks)",
+        "4. Name two national symbols of Kenya. (2 marks)",
+        "5. State two functions of a county government. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

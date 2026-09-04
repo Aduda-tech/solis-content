@@ -1,0 +1,70 @@
+{
+  "id": "exam-integrated-science-grade7-t1",
+  "name": "Grade 7 Integrated Science Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Integrated Science",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The basic unit of life is the?",
+          "options": [
+            "atom",
+            "cell",
+            "tissue"
+          ],
+          "answer": "cell",
+          "marks": 1
+        },
+        {
+          "question": "Which part of the plant makes food through photosynthesis?",
+          "options": [
+            "root",
+            "stem",
+            "leaf"
+          ],
+          "answer": "leaf",
+          "marks": 1
+        },
+        {
+          "question": "The force that pulls objects to the ground is?",
+          "options": [
+            "friction",
+            "gravity",
+            "magnetism"
+          ],
+          "answer": "gravity",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a non-living thing?",
+          "options": [
+            "stone",
+            "grass",
+            "cow"
+          ],
+          "answer": "stone",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Name the three states of matter. (3 marks)",
+        "2. State two functions of the human skeleton. (2 marks)",
+        "3. What is the difference between a vertebrate and an invertebrate? (2 marks)",
+        "4. Name the parts of the leaf labelled in the diagram. (4 marks)",
+        "5. State two ways of preventing the spread of diseases. (2 marks)",
+        "6. What energy change takes place in a torch when it is switched on? (2 marks)",
+        "7. Name two sources of renewable energy. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

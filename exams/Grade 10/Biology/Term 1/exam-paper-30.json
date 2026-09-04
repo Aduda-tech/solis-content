@@ -1,0 +1,70 @@
+{
+  "id": "exam-biology-grade10-t1",
+  "name": "Grade 10 Biology Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Biology",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The organelle that controls the activities of the cell is the?",
+          "options": [
+            "nucleus",
+            "cytoplasm",
+            "cell membrane"
+          ],
+          "answer": "nucleus",
+          "marks": 1
+        },
+        {
+          "question": "The process of cell division that produces gametes is?",
+          "options": [
+            "mitosis",
+            "meiosis",
+            "binary fission"
+          ],
+          "answer": "meiosis",
+          "marks": 1
+        },
+        {
+          "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+          "options": [
+            "vitamin A",
+            "vitamin C",
+            "vitamin D"
+          ],
+          "answer": "vitamin D",
+          "marks": 1
+        },
+        {
+          "question": "The green pigment in plants is?",
+          "options": [
+            "chlorophyll",
+            "carotene",
+            "haemoglobin"
+          ],
+          "answer": "chlorophyll",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State two differences between plant and animal cells. (2 marks)",
+        "2. Name the parts of the flower labelled in the diagram and state the function of each. (6 marks)",
+        "3. Explain the process of photosynthesis and write its word equation. (4 marks)",
+        "4. State two functions of blood in the human body. (2 marks)",
+        "5. What is the difference between aerobic and anaerobic respiration? (2 marks)",
+        "6. Name three parts of the human digestive system and state one function of each. (6 marks)",
+        "7. State two adaptations of a leaf for photosynthesis. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

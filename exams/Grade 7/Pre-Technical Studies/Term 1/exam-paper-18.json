@@ -1,0 +1,68 @@
+{
+  "id": "exam-pre-technical-studies-grade7-t1",
+  "name": "Grade 7 Pre-Technical Studies Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Pre-Technical Studies",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which tool is used to measure length?",
+          "options": [
+            "hammer",
+            "ruler",
+            "saw"
+          ],
+          "answer": "ruler",
+          "marks": 1
+        },
+        {
+          "question": "Safety goggles protect the?",
+          "options": [
+            "ears",
+            "eyes",
+            "hands"
+          ],
+          "answer": "eyes",
+          "marks": 1
+        },
+        {
+          "question": "Which material is used to make a metallic ruler?",
+          "options": [
+            "plastic",
+            "steel",
+            "glass"
+          ],
+          "answer": "steel",
+          "marks": 1
+        },
+        {
+          "question": "First aid for a small cut involves?",
+          "options": [
+            "ignoring it",
+            "cleaning and covering the wound",
+            "pouring hot water"
+          ],
+          "answer": "cleaning and covering the wound",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. State three safety rules to observe in a workshop. (3 marks)",
+        "2. Name three common workshop tools and state one use of each. (6 marks)",
+        "3. What is the difference between a hand tool and a machine tool? (2 marks)",
+        "4. Draw and label a try-square. (4 marks)",
+        "5. State two causes of accidents in the workshop. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

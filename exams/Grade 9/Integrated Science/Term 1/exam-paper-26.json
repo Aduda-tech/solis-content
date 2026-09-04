@@ -1,0 +1,69 @@
+{
+  "id": "exam-integrated-science-grade9-t1",
+  "name": "Grade 9 Integrated Science Term 1 Exam",
+  "grade": "Grade 9",
+  "subject": "Integrated Science",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The powerhouse of the cell is the?",
+          "options": [
+            "nucleus",
+            "mitochondrion",
+            "ribosome"
+          ],
+          "answer": "mitochondrion",
+          "marks": 1
+        },
+        {
+          "question": "Which organ pumps blood around the body?",
+          "options": [
+            "liver",
+            "heart",
+            "kidney"
+          ],
+          "answer": "heart",
+          "marks": 1
+        },
+        {
+          "question": "Sound travels fastest in?",
+          "options": [
+            "gases",
+            "liquids",
+            "solids"
+          ],
+          "answer": "solids",
+          "marks": 1
+        },
+        {
+          "question": "The pH of a neutral solution is?",
+          "options": [
+            "0",
+            "7",
+            "14"
+          ],
+          "answer": "7",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (56 marks)",
+      "items": [
+        "1. Define the terms: element, compound and mixture. (3 marks)",
+        "2. State Newton's first law of motion. (2 marks)",
+        "3. Name the parts of the heart shown in the diagram. (4 marks)",
+        "4. What is the difference between speed and velocity? (2 marks)",
+        "5. State two functions of the liver. (2 marks)",
+        "6. Draw and label a simple electric circuit with a bulb, cell and switch. (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "exam-physics-form4-t1",
+  "name": "Form 4 Physics Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Physics",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions. Show all working. Take g = 10 m/s^2.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The energy possessed by a body due to its motion is?",
+          "options": [
+            "potential energy",
+            "kinetic energy",
+            "chemical energy"
+          ],
+          "answer": "kinetic energy",
+          "marks": 1
+        },
+        {
+          "question": "The unit of electrical power is the?",
+          "options": [
+            "joule",
+            "watt",
+            "ampere"
+          ],
+          "answer": "watt",
+          "marks": 1
+        },
+        {
+          "question": "Sound is an example of a?",
+          "options": [
+            "transverse wave",
+            "longitudinal wave",
+            "standing wave"
+          ],
+          "answer": "longitudinal wave",
+          "marks": 1
+        },
+        {
+          "question": "The law relating voltage, current and resistance is?",
+          "options": [
+            "Newton's law",
+            "Ohm's law",
+            "Hooke's law"
+          ],
+          "answer": "Ohm's law",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. State Ohm's law and write its equation. (3 marks)",
+        "2. Using the circuit diagram, calculate the total current flowing when a 12 V battery is connected to a 6 ohm resistor. (4 marks)",
+        "3. A body of mass 2 kg is thrown vertically upwards at 20 m/s. Calculate the maximum height reached. (4 marks)",
+        "4. Define the term 'half-life' of a radioactive substance. (2 marks)",
+        "5. Calculate the kinetic energy of a body of mass 3 kg moving at 4 m/s. (3 marks)",
+        "6. State two differences between series and parallel circuits. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

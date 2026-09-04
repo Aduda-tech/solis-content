@@ -1,0 +1,68 @@
+{
+  "id": "exam-business-studies-form4-t1",
+  "name": "Form 4 Business Studies Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Business Studies",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The document issued by a seller showing goods sold is an?",
+          "options": [
+            "receipt",
+            "invoice",
+            "order"
+          ],
+          "answer": "invoice",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a current asset?",
+          "options": [
+            "stock",
+            "buildings",
+            "machinery"
+          ],
+          "answer": "stock",
+          "marks": 1
+        },
+        {
+          "question": "The reward for capital is?",
+          "options": [
+            "rent",
+            "interest",
+            "profit"
+          ],
+          "answer": "interest",
+          "marks": 1
+        },
+        {
+          "question": "A business owned by one person is a?",
+          "options": [
+            "partnership",
+            "sole proprietorship",
+            "cooperative"
+          ],
+          "answer": "sole proprietorship",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Define the terms asset, liability and capital. (3 marks)",
+        "2. State three differences between a partnership and a sole proprietorship. (3 marks)",
+        "3. Record the following transactions in a simple ledger: started business with Ksh 50,000 cash; bought goods for Ksh 20,000 cash. (4 marks)",
+        "4. Name four factors of production and give the reward for each. (8 marks)",
+        "5. State two functions of the central bank of Kenya. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

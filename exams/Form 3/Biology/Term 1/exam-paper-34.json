@@ -1,0 +1,68 @@
+{
+  "id": "exam-biology-form3-t1",
+  "name": "Form 3 Biology Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Biology",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The part of the cell where respiration takes place is the?",
+          "options": [
+            "nucleus",
+            "mitochondrion",
+            "vacuole"
+          ],
+          "answer": "mitochondrion",
+          "marks": 1
+        },
+        {
+          "question": "The process by which plants make their own food is?",
+          "options": [
+            "respiration",
+            "photosynthesis",
+            "transpiration"
+          ],
+          "answer": "photosynthesis",
+          "marks": 1
+        },
+        {
+          "question": "Which blood vessels carry blood away from the heart?",
+          "options": [
+            "arteries",
+            "veins",
+            "capillaries"
+          ],
+          "answer": "arteries",
+          "marks": 1
+        },
+        {
+          "question": "The genetic material of a cell is found in the?",
+          "options": [
+            "cytoplasm",
+            "nucleus",
+            "cell wall"
+          ],
+          "answer": "nucleus",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Name the parts of the leaf labelled in the diagram and state the function of each. (6 marks)",
+        "2. State three differences between aerobic and anaerobic respiration. (3 marks)",
+        "3. Explain the role of the following in the human body: red blood cells, white blood cells, platelets. (6 marks)",
+        "4. Describe the process of osmosis. (3 marks)",
+        "5. State two factors that affect the rate of transpiration. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

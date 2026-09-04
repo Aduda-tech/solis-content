@@ -1,0 +1,71 @@
+{
+  "id": "exam-physics-grade10-t1",
+  "name": "Grade 10 Physics Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Physics",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions. Show all working. Take acceleration due to gravity, g = 10 m/s^2.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The SI unit of force is the?",
+          "options": [
+            "joule",
+            "newton",
+            "watt"
+          ],
+          "answer": "newton",
+          "marks": 1
+        },
+        {
+          "question": "Speed is defined as?",
+          "options": [
+            "distance times time",
+            "distance divided by time",
+            "mass times velocity"
+          ],
+          "answer": "distance divided by time",
+          "marks": 1
+        },
+        {
+          "question": "Which quantity is a vector?",
+          "options": [
+            "speed",
+            "velocity",
+            "distance"
+          ],
+          "answer": "velocity",
+          "marks": 1
+        },
+        {
+          "question": "The device used to measure electric current is the?",
+          "options": [
+            "voltmeter",
+            "ammeter",
+            "galvanometer only"
+          ],
+          "answer": "ammeter",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Define the terms speed, velocity and acceleration. (3 marks)",
+        "2. A car accelerates from rest to 20 m/s in 5 s. Calculate its acceleration. (3 marks)",
+        "3. Using the circuit diagram, state the reading on the ammeter when the switch is closed. (3 marks)",
+        "4. An object of mass 4 kg is lifted through a height of 5 m. Calculate the work done. (4 marks)",
+        "5. State Newton's three laws of motion. (6 marks)",
+        "6. A body falls freely from rest for 3 s. Calculate the distance it covers. (4 marks)",
+        "7. Distinguish between heat and temperature. (2 marks)",
+        "8. State two factors that affect the resistance of a conductor. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

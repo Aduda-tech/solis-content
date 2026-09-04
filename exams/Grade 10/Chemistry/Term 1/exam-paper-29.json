@@ -1,0 +1,70 @@
+{
+  "id": "exam-chemistry-grade10-t1",
+  "name": "Grade 10 Chemistry Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Chemistry",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions. Show all working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The atomic number of an element is the number of?",
+          "options": [
+            "protons",
+            "neutrons",
+            "electrons only"
+          ],
+          "answer": "protons",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a noble gas?",
+          "options": [
+            "oxygen",
+            "argon",
+            "chlorine"
+          ],
+          "answer": "argon",
+          "marks": 1
+        },
+        {
+          "question": "The pH of an acid is?",
+          "options": [
+            "7",
+            "less than 7",
+            "greater than 7"
+          ],
+          "answer": "less than 7",
+          "marks": 1
+        },
+        {
+          "question": "The process of separating a solid from a liquid using filter paper is?",
+          "options": [
+            "distillation",
+            "filtration",
+            "evaporation"
+          ],
+          "answer": "filtration",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Define the terms element, compound and mixture. (3 marks)",
+        "2. Write the electronic configuration of sodium (atomic number 11). (3 marks)",
+        "3. Balance the equation: H2 + O2 -> H2O (3 marks)",
+        "4. State two differences between metals and non-metals. (2 marks)",
+        "5. Using the periodic table section in the diagram, name the element in group 1 period 3. (3 marks)",
+        "6. What is the difference between a physical and a chemical change? Give an example of each. (4 marks)",
+        "7. Calculate the relative molecular mass of carbon dioxide (C = 12, O = 16). (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

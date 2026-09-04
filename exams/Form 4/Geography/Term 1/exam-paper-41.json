@@ -1,0 +1,68 @@
+{
+  "id": "exam-geography-form4-t1",
+  "name": "Form 4 Geography Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Geography",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The study of population is called?",
+          "options": [
+            "topography",
+            "demography",
+            "cartography"
+          ],
+          "answer": "demography",
+          "marks": 1
+        },
+        {
+          "question": "The movement of people from rural to urban areas is?",
+          "options": [
+            "urbanisation",
+            "rural-urban migration",
+            "immigration"
+          ],
+          "answer": "rural-urban migration",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a renewable source of energy?",
+          "options": [
+            "coal",
+            "petroleum",
+            "solar"
+          ],
+          "answer": "solar",
+          "marks": 1
+        },
+        {
+          "question": "The layer of the atmosphere where weather occurs is the?",
+          "options": [
+            "stratosphere",
+            "troposphere",
+            "mesosphere"
+          ],
+          "answer": "troposphere",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Define the terms population density and population distribution. (2 marks)",
+        "2. State three factors that influence population distribution in Kenya. (3 marks)",
+        "3. Name three renewable sources of energy. (3 marks)",
+        "4. Using the diagram, identify the type of rainfall shown and explain how it forms. (4 marks)",
+        "5. State two problems facing urban centres in Kenya. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

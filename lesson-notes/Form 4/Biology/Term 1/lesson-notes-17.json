@@ -1,0 +1,37 @@
+{
+  "id": "ln-biology-form4-17",
+  "name": "Form 4 Biology: The Human Eye",
+  "grade": "Form 4",
+  "subject": "Biology",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Reception and Response",
+  "subStrand": "The Human Eye",
+  "lessonNumber": 16,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to draw and label the human eye",
+    "By the end of the lesson, the learner should be able to explain how the eye forms images"
+  ],
+  "learningActivities": [
+    "Discussion: how do we see objects?",
+    "Diagram work: teacher uses an eye diagram to explain the parts",
+    "Group work: learners draw and label the eye",
+    "Explanation: learners describe the role of the lens and retina"
+  ],
+  "keyPoints": [
+    "The lens focuses light onto the retina",
+    "The iris controls the amount of light entering the eye",
+    "The retina contains light-sensitive cells that send signals to the brain"
+  ],
+  "commonMisconceptions": [
+    "Confusing the pupil with the iris",
+    "Thinking the image is formed in front of the retina"
+  ],
+  "resourcesRequired": [
+    "Eye diagram",
+    "Eye model",
+    "Worksheets"
+  ],
+  "lessonEvaluation": "Learners draw and label the eye and explain image formation.",
+  "teacherReflection": "Good diagrams. Relate to short-sightedness and long-sightedness next lesson."
+}

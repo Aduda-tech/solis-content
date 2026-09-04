@@ -1,0 +1,37 @@
+{
+  "id": "ln-integrated-science-grade7-8",
+  "name": "Grade 7 Integrated Science: The Human Skeleton",
+  "grade": "Grade 7",
+  "subject": "Integrated Science",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Living Things",
+  "subStrand": "The Human Skeleton",
+  "lessonNumber": 7,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to name the main parts of the human skeleton",
+    "By the end of the lesson, the learner should be able to state the functions of the skeleton"
+  ],
+  "learningActivities": [
+    "Discussion: learners feel the bones in their arms and legs",
+    "Chart work: teacher uses a skeleton chart to name the main bones",
+    "Group work: learners label a skeleton diagram",
+    "Summary: learners state the functions of the skeleton"
+  ],
+  "keyPoints": [
+    "The skeleton is the framework of bones in the body",
+    "Main bones include the skull, ribs, backbone and limb bones",
+    "The skeleton supports the body, protects organs and enables movement"
+  ],
+  "commonMisconceptions": [
+    "Thinking the skull is one solid bone",
+    "Confusing the skeleton with muscles"
+  ],
+  "resourcesRequired": [
+    "Skeleton chart",
+    "Skeleton model or diagram",
+    "Worksheets"
+  ],
+  "lessonEvaluation": "Learners label a skeleton diagram and state three functions of the skeleton.",
+  "teacherReflection": "Learners were fascinated by the skeleton chart. Follow-up: joints and muscles."
+}

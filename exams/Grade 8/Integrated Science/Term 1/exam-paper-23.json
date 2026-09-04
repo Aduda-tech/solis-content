@@ -1,0 +1,69 @@
+{
+  "id": "exam-integrated-science-grade8-t1",
+  "name": "Grade 8 Integrated Science Term 1 Exam",
+  "grade": "Grade 8",
+  "subject": "Integrated Science",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which blood cells fight infection?",
+          "options": [
+            "red blood cells",
+            "white blood cells",
+            "platelets"
+          ],
+          "answer": "white blood cells",
+          "marks": 1
+        },
+        {
+          "question": "The process by which plants lose water through leaves is?",
+          "options": [
+            "respiration",
+            "transpiration",
+            "photosynthesis"
+          ],
+          "answer": "transpiration",
+          "marks": 1
+        },
+        {
+          "question": "The SI unit of force is the?",
+          "options": [
+            "joule",
+            "newton",
+            "watt"
+          ],
+          "answer": "newton",
+          "marks": 1
+        },
+        {
+          "question": "Which gas is used by plants in photosynthesis?",
+          "options": [
+            "oxygen",
+            "carbon dioxide",
+            "nitrogen"
+          ],
+          "answer": "carbon dioxide",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (56 marks)",
+      "items": [
+        "1. Name the parts of the heart labelled in the diagram. (4 marks)",
+        "2. State two differences between plant and animal cells. (2 marks)",
+        "3. What is a food chain? Give an example. (3 marks)",
+        "4. State two effects of drug abuse on the human body. (2 marks)",
+        "5. Define the term 'density' and state its SI unit. (2 marks)",
+        "6. Name two simple machines and give one use of each. (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

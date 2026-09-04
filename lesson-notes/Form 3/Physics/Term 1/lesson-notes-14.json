@@ -1,0 +1,37 @@
+{
+  "id": "ln-physics-form3-14",
+  "name": "Form 3 Physics: Newton's Laws of Motion",
+  "grade": "Form 3",
+  "subject": "Physics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Mechanics",
+  "subStrand": "Newton's Laws of Motion",
+  "lessonNumber": 13,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to state Newton's three laws of motion",
+    "By the end of the lesson, the learner should be able to solve problems on momentum and impulse"
+  ],
+  "learningActivities": [
+    "Discussion: learners share observations of moving objects",
+    "Demonstration: teacher uses a trolley to show conservation of momentum",
+    "Group work: learners solve momentum problems",
+    "Summary: learners relate the laws to everyday life"
+  ],
+  "keyPoints": [
+    "Momentum is the product of mass and velocity",
+    "Impulse is the product of force and time",
+    "In a collision, momentum is conserved"
+  ],
+  "commonMisconceptions": [
+    "Confusing momentum with force",
+    "Forgetting the direction of velocity in momentum calculations"
+  ],
+  "resourcesRequired": [
+    "Trolley and masses",
+    "Timers",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners solve three momentum problems and state Newton's laws.",
+  "teacherReflection": "Good understanding. Link to collisions and safety features next lesson."
+}

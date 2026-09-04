@@ -1,0 +1,68 @@
+{
+  "id": "exam-christian-religious-education-grade7-t1",
+  "name": "Grade 7 Christian Religious Education Term 1 Exam",
+  "grade": "Grade 7",
+  "subject": "Christian Religious Education",
+  "term": "Term 1",
+  "durationMinutes": 90,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Who led the Israelites out of Egypt?",
+          "options": [
+            "Abraham",
+            "Moses",
+            "Joshua"
+          ],
+          "answer": "Moses",
+          "marks": 1
+        },
+        {
+          "question": "Jesus was born in?",
+          "options": [
+            "Jerusalem",
+            "Bethlehem",
+            "Nazareth"
+          ],
+          "answer": "Bethlehem",
+          "marks": 1
+        },
+        {
+          "question": "How many disciples did Jesus choose?",
+          "options": [
+            "7",
+            "10",
+            "12"
+          ],
+          "answer": "12",
+          "marks": 1
+        },
+        {
+          "question": "The first book of the Bible is?",
+          "options": [
+            "Genesis",
+            "Exodus",
+            "Psalms"
+          ],
+          "answer": "Genesis",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. State the two main divisions of the Bible. (2 marks)",
+        "2. Name the first five books of the Old Testament. (5 marks)",
+        "3. State two values taught in the parable of the Good Samaritan. (2 marks)",
+        "4. What is the meaning of 'repentance'? (2 marks)",
+        "5. Name two prophets in the Old Testament. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

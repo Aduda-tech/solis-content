@@ -1,0 +1,69 @@
+{
+  "id": "exam-english-grade4-t1",
+  "name": "Grade 4 English Term 1 Exam",
+  "grade": "Grade 4",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 50,
+  "instructions": "Answer ALL questions. Read the passage and answer the questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which word is the opposite of 'arrive'?",
+          "options": [
+            "arrive",
+            "depart",
+            "enter"
+          ],
+          "answer": "depart",
+          "marks": 1
+        },
+        {
+          "question": "Fill in: The children ____ playing in the field.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "are",
+          "marks": 1
+        },
+        {
+          "question": "Which is a proper noun?",
+          "options": [
+            "city",
+            "Nairobi",
+            "school"
+          ],
+          "answer": "Nairobi",
+          "marks": 1
+        },
+        {
+          "question": "The plural of 'knife' is?",
+          "options": [
+            "knifes",
+            "knives",
+            "knife"
+          ],
+          "answer": "knives",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (46 marks)",
+      "items": [
+        "1. Write the plural of: baby, wolf, sheep (3 marks)",
+        "2. Use 'because' to join: She stayed home. It was raining. (2 marks)",
+        "3. Write the past tense of: run, eat, see (3 marks)",
+        "4. Fill in with 'a' or 'an': ____ orange, ____ house, ____ umbrella (3 marks)",
+        "5. Write three sentences about your favourite animal. (6 marks)",
+        "6. Punctuate: today is monday the first day of the week (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

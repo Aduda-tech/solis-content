@@ -1,0 +1,69 @@
+{
+  "id": "exam-chemistry-form3-t1",
+  "name": "Form 3 Chemistry Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Chemistry",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The mass number of an atom is the number of?",
+          "options": [
+            "protons only",
+            "protons and neutrons",
+            "electrons only"
+          ],
+          "answer": "protons and neutrons",
+          "marks": 1
+        },
+        {
+          "question": "Which gas turns limewater milky?",
+          "options": [
+            "oxygen",
+            "carbon dioxide",
+            "hydrogen"
+          ],
+          "answer": "carbon dioxide",
+          "marks": 1
+        },
+        {
+          "question": "The oxidation number of oxygen in most compounds is?",
+          "options": [
+            "+2",
+            "-2",
+            "-1"
+          ],
+          "answer": "-2",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is an alkali?",
+          "options": [
+            "hydrochloric acid",
+            "sodium hydroxide",
+            "sodium chloride"
+          ],
+          "answer": "sodium hydroxide",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Define the term 'isotope' and give an example. (3 marks)",
+        "2. Write the electronic configuration of calcium (atomic number 20). (3 marks)",
+        "3. Using the periodic table section in the diagram, state the group and period of fluorine. (3 marks)",
+        "4. Write a balanced equation for the reaction between sodium hydroxide and hydrochloric acid. (3 marks)",
+        "5. Explain the difference between an ionic and a covalent bond. (4 marks)",
+        "6. Calculate the number of moles in 4 g of sodium hydroxide (Na = 23, O = 16, H = 1). (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

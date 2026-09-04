@@ -1,0 +1,71 @@
+{
+  "id": "exam-mathematics-grade8-t1",
+  "name": "Grade 8 Mathematics Term 1 Exam",
+  "grade": "Grade 8",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Answer ALL questions. Show your working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Solve: 3x + 5 = 20. x = ?",
+          "options": [
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5",
+          "marks": 1
+        },
+        {
+          "question": "The area of a circle of radius 7 cm (pi = 22/7) is?",
+          "options": [
+            "44 sq cm",
+            "154 sq cm",
+            "308 sq cm"
+          ],
+          "answer": "154 sq cm",
+          "marks": 1
+        },
+        {
+          "question": "What is 2/3 + 1/6?",
+          "options": [
+            "1/2",
+            "5/6",
+            "2/9"
+          ],
+          "answer": "5/6",
+          "marks": 1
+        },
+        {
+          "question": "The supplement of an angle of 70 degrees is?",
+          "options": [
+            "20",
+            "110",
+            "180"
+          ],
+          "answer": "110",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (56 marks)",
+      "items": [
+        "1. Evaluate: 3(4 + 2) - 5 x 2 (3 marks)",
+        "2. Solve for x: 4x - 7 = 13 (3 marks)",
+        "3. Simplify: 3a + 4b - a + 2b (3 marks)",
+        "4. Find the gradient of the line through (1, 2) and (3, 8). (3 marks)",
+        "5. A shopkeeper bought 40 kg of sugar at Ksh 120 per kg and sold it at Ksh 135 per kg. Find the profit. (4 marks)",
+        "6. The radius of the circle in the diagram is 7 cm. Find its circumference. (3 marks)",
+        "7. Convert 0.35 to a fraction in its simplest form. (3 marks)",
+        "8. Find the value of angle x in the triangle diagram if the other angles are 50 and 60 degrees. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

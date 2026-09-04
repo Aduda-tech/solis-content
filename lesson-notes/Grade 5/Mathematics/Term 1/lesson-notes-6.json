@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-grade5-6",
+  "name": "Grade 5 Mathematics: Multiplication of large numbers",
+  "grade": "Grade 5",
+  "subject": "Mathematics",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Numbers",
+  "subStrand": "Multiplication of large numbers",
+  "lessonNumber": 5,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to multiply a three-digit number by a two-digit number",
+    "By the end of the lesson, the learner should be able to solve word problems involving multiplication"
+  ],
+  "learningActivities": [
+    "Mental warm-up: multiplication tables 2-12",
+    "Demonstration: teacher models 345 x 12 using place value",
+    "Guided practice: learners work through examples on the board",
+    "Independent work: learners solve multiplication sums and word problems"
+  ],
+  "keyPoints": [
+    "Multiply by the ones digit first, then the tens digit",
+    "Place a zero when multiplying by the tens digit",
+    "345 x 12 = 4,140"
+  ],
+  "commonMisconceptions": [
+    "Forgetting the zero placeholder when multiplying by tens",
+    "Errors in multiplication tables"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Exercise books",
+    "Multiplication charts"
+  ],
+  "lessonEvaluation": "Learners solve five multiplication sums and two word problems. Teacher marks and provides feedback.",
+  "teacherReflection": "Most learners grasped the method. Remedial practice for the multiplication tables needed."
+}

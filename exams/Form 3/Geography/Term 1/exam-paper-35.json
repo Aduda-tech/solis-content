@@ -1,0 +1,68 @@
+{
+  "id": "exam-geography-form3-t1",
+  "name": "Form 3 Geography Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Geography",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The process by which rocks are broken down is called?",
+          "options": [
+            "weathering",
+            "erosion",
+            "deposition"
+          ],
+          "answer": "weathering",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is an igneous rock?",
+          "options": [
+            "granite",
+            "limestone",
+            "marble"
+          ],
+          "answer": "granite",
+          "marks": 1
+        },
+        {
+          "question": "The wearing away of the land by moving agents is called?",
+          "options": [
+            "weathering",
+            "erosion",
+            "faulting"
+          ],
+          "answer": "erosion",
+          "marks": 1
+        },
+        {
+          "question": "A mountain formed when magma reaches the surface is a?",
+          "options": [
+            "volcano",
+            "fold mountain",
+            "block mountain"
+          ],
+          "answer": "volcano",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Define the terms weathering, erosion and mass wasting. (3 marks)",
+        "2. State two differences between a fold mountain and a block mountain. (2 marks)",
+        "3. Using the map in the diagram, state the direction of the river flow. (3 marks)",
+        "4. Name three types of rainfall. (3 marks)",
+        "5. State two factors that influence the rate of weathering. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}
