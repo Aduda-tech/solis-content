@@ -1,0 +1,68 @@
+{
+  "id": "exam-business-studies-grade10-t1",
+  "name": "Grade 10 Business Studies Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Business Studies",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The reward for labour is?",
+          "options": [
+            "interest",
+            "wages",
+            "profit"
+          ],
+          "answer": "wages",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a source of short-term finance?",
+          "options": [
+            "debentures",
+            "trade credit",
+            "shares"
+          ],
+          "answer": "trade credit",
+          "marks": 1
+        },
+        {
+          "question": "A person who uses goods and services is a?",
+          "options": [
+            "producer",
+            "consumer",
+            "distributor"
+          ],
+          "answer": "consumer",
+          "marks": 1
+        },
+        {
+          "question": "The book of original entry for recording all cash transactions is the?",
+          "options": [
+            "ledger",
+            "cash book",
+            "journal"
+          ],
+          "answer": "cash book",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Define the terms goods, services and production. (3 marks)",
+        "2. State three differences between a partnership and a cooperative society. (3 marks)",
+        "3. Name four factors of production and the reward for each. (8 marks)",
+        "4. Record the following transactions in a two-column cash book: Started business with Ksh 60,000 cash; bought goods for Ksh 25,000 cash; sold goods for Ksh 40,000 cash. (6 marks)",
+        "5. State two functions of commercial banks. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

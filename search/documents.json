@@ -1,6 +1,6 @@
 {
-  "count": 2120,
-  "generated": "2026-09-04T06:24:53Z",
+  "count": 2145,
+  "generated": "2026-09-04T08:25:20Z",
   "documents": [
     {
       "id": "4bc794fc9ae91494",
@@ -3363,6 +3363,21 @@
       "imageCount": 0
     },
     {
+      "id": "675ad86aed2eb4c9",
+      "path": "exams/Form 3/Agriculture/Term 1/exam-paper-51.json",
+      "title": "Form 3 Agriculture Term 1 Exam",
+      "area": "exams",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 179,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "0ee0dc64c0750183",
       "path": "exams/Form 3/Biology Paper 1 Marking Scheme — Form 3 (Term Exam).docx",
       "title": "Biology Paper 1 Marking Scheme — Form 3 (Term Exam)",
@@ -3733,6 +3748,21 @@
       "quality": "text",
       "scanned": false,
       "words": 313,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "9f716c1ae0a0ab11",
+      "path": "exams/Form 3/Business Studies/Term 1/exam-paper-52.json",
+      "title": "Form 3 Business Studies Term 1 Exam",
+      "area": "exams",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 191,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -4398,6 +4428,21 @@
       "imageCount": 0
     },
     {
+      "id": "e77da8c08638f38a",
+      "path": "exams/Form 3/English/Term 1/exam-paper-49.json",
+      "title": "Form 3 English Term 1 Exam",
+      "area": "exams",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 205,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "10c4de52ebc9f1f4",
       "path": "exams/Form 3/Geography Paper 1 Marking Scheme — Form 3 (Term Exam).docx",
       "title": "Geography Paper 1 Marking Scheme — Form 3 (Term Exam)",
@@ -4818,6 +4863,21 @@
       "imageCount": 0
     },
     {
+      "id": "e9bb14705df3b2ba",
+      "path": "exams/Form 3/Kiswahili/Term 1/exam-paper-50.json",
+      "title": "Form 3 Kiswahili Term 1 Exam",
+      "area": "exams",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 156,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "4c868d813c6029a6",
       "path": "exams/Form 3/Mathematics Paper 1 Marking Scheme — Form 3 (Term Exam).docx",
       "title": "Mathematics Paper 1 Marking Scheme — Form 3 (Term Exam)",
@@ -5188,6 +5248,21 @@
       "quality": "text",
       "scanned": false,
       "words": 495,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "bf98a3df9696718c",
+      "path": "exams/Form 4/Agriculture/Term 1/exam-paper-55.json",
+      "title": "Form 4 Agriculture Term 1 Exam",
+      "area": "exams",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 181,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -5943,6 +6018,21 @@
       "imageCount": 0
     },
     {
+      "id": "7c5a34c9451460b1",
+      "path": "exams/Form 4/English/Term 1/exam-paper-53.json",
+      "title": "Form 4 English Term 1 Exam",
+      "area": "exams",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 202,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "afb0267a0d8618f1",
       "path": "exams/Form 4/French Paper 1 — Form 4.docx",
       "title": "French Paper 1 — Form 4",
@@ -6148,6 +6238,21 @@
       "quality": "text",
       "scanned": false,
       "words": 180,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "b86eb740d65444d0",
+      "path": "exams/Form 4/History - Government/Term 1/exam-paper-56.json",
+      "title": "Form 4 History & Government Term 1 Exam",
+      "area": "exams",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 201,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -6378,6 +6483,21 @@
       "imageCount": 0
     },
     {
+      "id": "aa9fac78c0cefe79",
+      "path": "exams/Form 4/Kiswahili/Term 1/exam-paper-54.json",
+      "title": "Form 4 Kiswahili Term 1 Exam",
+      "area": "exams",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 145,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "9e731556d456474e",
       "path": "exams/Form 4/Mathematics Paper 1 Marking Scheme — Form 4 (Term Exam).docx",
       "title": "Mathematics Paper 1 Marking Scheme — Form 4 (Term Exam)",
@@ -6508,6 +6628,21 @@
       "quality": "text",
       "scanned": false,
       "words": 259,
+      "hasOcr": false,
+      "hasImages": true,
+      "imageCount": 1
+    },
+    {
+      "id": "6746f8f818587525",
+      "path": "exams/Form 4/Mathematics/Term 2/exam-paper-59.json",
+      "title": "Form 4 Mathematics Term 2 Exam",
+      "area": "exams",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 214,
       "hasOcr": false,
       "hasImages": true,
       "imageCount": 1
@@ -6793,6 +6928,21 @@
       "quality": "none",
       "scanned": false,
       "words": 0,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "56f41335cf180874",
+      "path": "exams/Grade 10/Agriculture/Term 1/exam-paper-48.json",
+      "title": "Grade 10 Agriculture Term 1 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 184,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -7198,6 +7348,21 @@
       "quality": "none",
       "scanned": false,
       "words": 0,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "1c751ada0dcedea1",
+      "path": "exams/Grade 10/Business Studies/Term 1/exam-paper-47.json",
+      "title": "Grade 10 Business Studies Term 1 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 196,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -7968,6 +8133,21 @@
       "imageCount": 0
     },
     {
+      "id": "77732ba493c3bc1e",
+      "path": "exams/Grade 10/English/Term 1/exam-paper-43.json",
+      "title": "Grade 10 English Term 1 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 245,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "49a30c70f87c4131",
       "path": "exams/Grade 10/Essential Mathematics Exam — Grade 10 Term 1.docx",
       "title": "Essential Mathematics Exam — Grade 10 Term 1",
@@ -8343,6 +8523,21 @@
       "imageCount": 0
     },
     {
+      "id": "f5f7e56e4023e2c1",
+      "path": "exams/Grade 10/Geography/Term 1/exam-paper-45.json",
+      "title": "Grade 10 Geography Term 1 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 175,
+      "hasOcr": false,
+      "hasImages": true,
+      "imageCount": 1
+    },
+    {
       "id": "5f0aa846d814d7cc",
       "path": "exams/Grade 10/German Exam — Grade 10 Term 1.docx",
       "title": "German Exam — Grade 10 Term 1",
@@ -8488,6 +8683,21 @@
       "quality": "none",
       "scanned": false,
       "words": 0,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "0c4d68447428b8b3",
+      "path": "exams/Grade 10/History - Government/Term 1/exam-paper-46.json",
+      "title": "Grade 10 History & Government Term 1 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 185,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -9093,6 +9303,21 @@
       "imageCount": 0
     },
     {
+      "id": "343f9fadfb765892",
+      "path": "exams/Grade 10/Kiswahili/Term 1/exam-paper-44.json",
+      "title": "Grade 10 Kiswahili Term 1 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 166,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "8b3a35ccdf5045d9",
       "path": "exams/Grade 10/Mandarin Exam — Grade 10 Term 2.docx",
       "title": "Mandarin Exam — Grade 10 Term 2",
@@ -9196,6 +9421,21 @@
       "hasOcr": false,
       "hasImages": true,
       "imageCount": 2
+    },
+    {
+      "id": "b93e69fa9335130e",
+      "path": "exams/Grade 10/Mathematics/Term 2/exam-paper-57.json",
+      "title": "Grade 10 Mathematics Term 2 Exam",
+      "area": "exams",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 226,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
     },
     {
       "id": "31a987132777e4b9",
@@ -10801,6 +11041,21 @@
       "hasOcr": false,
       "hasImages": true,
       "imageCount": 1
+    },
+    {
+      "id": "938fff65d36ae3ee",
+      "path": "exams/Grade 8/Mathematics/Term 2/exam-paper-58.json",
+      "title": "Grade 8 Mathematics Term 2 Exam",
+      "area": "exams",
+      "level": "Grade 8",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 203,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
     },
     {
       "id": "8837fde36c19ff93",
@@ -20013,6 +20268,21 @@
       "imageCount": 0
     },
     {
+      "id": "5567783bb6cc18f6",
+      "path": "lesson-notes/Form 3/Business Studies/Term 1/lesson-notes-21.json",
+      "title": "Form 3 Business Studies: The Ledger",
+      "area": "lesson-notes",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 164,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "442ed962ed7686c5",
       "path": "lesson-notes/Form 3/C.R.E NOTES.docx",
       "title": "C.R.E NOTES",
@@ -20118,6 +20388,21 @@
       "imageCount": 0
     },
     {
+      "id": "c32e41a671804319",
+      "path": "lesson-notes/Form 3/English/Term 1/lesson-notes-22.json",
+      "title": "Form 3 English: Reported Speech",
+      "area": "lesson-notes",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 163,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "b15cc4424e1a3c7f",
       "path": "lesson-notes/Form 3/Geography Notes — Form 3.docx",
       "title": "Geography Notes — Form 3",
@@ -20143,6 +20428,21 @@
       "quality": "none",
       "scanned": false,
       "words": 0,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "ab0be2b5c2b6cce3",
+      "path": "lesson-notes/Form 3/Geography/Term 1/lesson-notes-20.json",
+      "title": "Form 3 Geography: Types of Weathering",
+      "area": "lesson-notes",
+      "level": "Form 3",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 163,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -20358,6 +20658,21 @@
       "imageCount": 0
     },
     {
+      "id": "37a44686c50eaa10",
+      "path": "lesson-notes/Form 4/Agriculture/Term 1/lesson-notes-24.json",
+      "title": "Form 4 Agriculture: Artificial Insemination",
+      "area": "lesson-notes",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 167,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "d26012f25a37718a",
       "path": "lesson-notes/Form 4/Biology Notes — Form 4.docx",
       "title": "Biology Notes — Form 4",
@@ -20568,6 +20883,21 @@
       "imageCount": 0
     },
     {
+      "id": "812c99d4cbc62ac1",
+      "path": "lesson-notes/Form 4/History - Government/Term 1/lesson-notes-23.json",
+      "title": "Form 4 History & Government: The Constitution of Kenya 2010",
+      "area": "lesson-notes",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 189,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "bff74ba6ce48e7dc",
       "path": "lesson-notes/Form 4/History Notes (2).pdf",
       "title": "History Notes",
@@ -20698,6 +21028,21 @@
       "quality": "text",
       "scanned": false,
       "words": 154,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "4729d351014e8470",
+      "path": "lesson-notes/Form 4/Mathematics/Term 2/lesson-notes-25.json",
+      "title": "Form 4 Mathematics: Integration",
+      "area": "lesson-notes",
+      "level": "Form 4",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 153,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0
@@ -21273,6 +21618,21 @@
       "imageCount": 0
     },
     {
+      "id": "d03e2f86389ed2ed",
+      "path": "lesson-notes/Grade 10/Biology/Term 1/lesson-notes-18.json",
+      "title": "Grade 10 Biology: Photosynthesis",
+      "area": "lesson-notes",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 181,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
       "id": "c6c86dd6eb048c05",
       "path": "lesson-notes/Grade 10/Business Studies Notes — Grade 10.pdf",
       "title": "Business Studies Notes — Grade 10",
@@ -21433,6 +21793,21 @@
       "quality": "none",
       "scanned": false,
       "words": 0,
+      "hasOcr": false,
+      "hasImages": false,
+      "imageCount": 0
+    },
+    {
+      "id": "9f2678128d805c91",
+      "path": "lesson-notes/Grade 10/Geography/Term 1/lesson-notes-19.json",
+      "title": "Grade 10 Geography: Factors Influencing Climate",
+      "area": "lesson-notes",
+      "level": "Grade 10",
+      "format": "json",
+      "pages": null,
+      "quality": "text",
+      "scanned": false,
+      "words": 174,
       "hasOcr": false,
       "hasImages": false,
       "imageCount": 0

@@ -1,0 +1,68 @@
+{
+  "id": "exam-english-form3-t1",
+  "name": "Form 3 English Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The antonym of 'expand' is?",
+          "options": [
+            "extend",
+            "contract",
+            "enlarge"
+          ],
+          "answer": "contract",
+          "marks": 1
+        },
+        {
+          "question": "Which of these sentences is in the past perfect tense?",
+          "options": [
+            "She finishes her work",
+            "She had finished her work",
+            "She is finishing her work"
+          ],
+          "answer": "She had finished her work",
+          "marks": 1
+        },
+        {
+          "question": "A person who writes plays is a?",
+          "options": [
+            "poet",
+            "playwright",
+            "novelist"
+          ],
+          "answer": "playwright",
+          "marks": 1
+        },
+        {
+          "question": "'Bite the bullet' means?",
+          "options": [
+            "to eat quickly",
+            "to face a difficult situation bravely",
+            "to run away"
+          ],
+          "answer": "to face a difficult situation bravely",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Read the passage and answer the questions that follow. (5 marks)",
+        "2. Rewrite the following sentence in reported speech: 'I have completed my homework,' said Jane. (3 marks)",
+        "3. Use each of the following words in a sentence: advice, advise. (2 marks)",
+        "4. Write the plural of: phenomenon, criterion, thesis. (3 marks)",
+        "5. Write an essay of about 300 words on 'The role of technology in education'. (20 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

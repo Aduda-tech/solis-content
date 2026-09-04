@@ -1,6 +1,6 @@
 {
   "version": "1.4",
-  "lastUpdated": "2026-09-04T06:24:53Z",
+  "lastUpdated": "2026-09-04T08:25:20Z",
   "curriculum": {
     "Grade 7": [
       "Mathematics",
@@ -956,6 +956,15 @@
             "questions": 12,
             "marks": 60
           }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade8-t2",
+            "name": "Grade 8 Mathematics Term 2 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 2/exam-paper-58.json",
+            "questions": 9,
+            "marks": 60
+          }
         ]
       },
       "MAT": {
@@ -965,6 +974,15 @@
             "name": "Grade 8 Mathematics Term 1 Exam",
             "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-22.json",
             "questions": 12,
+            "marks": 60
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade8-t2",
+            "name": "Grade 8 Mathematics Term 2 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 2/exam-paper-58.json",
+            "questions": 9,
             "marks": 60
           }
         ]
@@ -978,6 +996,15 @@
             "questions": 12,
             "marks": 60
           }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade8-t2",
+            "name": "Grade 8 Mathematics Term 2 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 2/exam-paper-58.json",
+            "questions": 9,
+            "marks": 60
+          }
         ]
       },
       "Math": {
@@ -987,6 +1014,15 @@
             "name": "Grade 8 Mathematics Term 1 Exam",
             "path": "exams/Grade 8/Mathematics/Term 1/exam-paper-22.json",
             "questions": 12,
+            "marks": 60
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade8-t2",
+            "name": "Grade 8 Mathematics Term 2 Exam",
+            "path": "exams/Grade 8/Mathematics/Term 2/exam-paper-58.json",
+            "questions": 9,
             "marks": 60
           }
         ]
@@ -1136,6 +1172,15 @@
             "questions": 13,
             "marks": 80
           }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade10-t2",
+            "name": "Grade 10 Mathematics Term 2 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 2/exam-paper-57.json",
+            "questions": 10,
+            "marks": 80
+          }
         ]
       },
       "MAT": {
@@ -1145,6 +1190,15 @@
             "name": "Grade 10 Mathematics Term 1 Exam",
             "path": "exams/Grade 10/Mathematics/Term 1/exam-paper-27.json",
             "questions": 13,
+            "marks": 80
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade10-t2",
+            "name": "Grade 10 Mathematics Term 2 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 2/exam-paper-57.json",
+            "questions": 10,
             "marks": 80
           }
         ]
@@ -1158,6 +1212,15 @@
             "questions": 13,
             "marks": 80
           }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade10-t2",
+            "name": "Grade 10 Mathematics Term 2 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 2/exam-paper-57.json",
+            "questions": 10,
+            "marks": 80
+          }
         ]
       },
       "Math": {
@@ -1167,6 +1230,15 @@
             "name": "Grade 10 Mathematics Term 1 Exam",
             "path": "exams/Grade 10/Mathematics/Term 1/exam-paper-27.json",
             "questions": 13,
+            "marks": 80
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-grade10-t2",
+            "name": "Grade 10 Mathematics Term 2 Exam",
+            "path": "exams/Grade 10/Mathematics/Term 2/exam-paper-57.json",
+            "questions": 10,
             "marks": 80
           }
         ]
@@ -1233,6 +1305,160 @@
             "name": "Grade 10 Biology Term 1 Exam",
             "path": "exams/Grade 10/Biology/Term 1/exam-paper-30.json",
             "questions": 11,
+            "marks": 80
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade10-t1",
+            "name": "Grade 10 English Term 1 Exam",
+            "path": "exams/Grade 10/English/Term 1/exam-paper-43.json",
+            "questions": 10,
+            "marks": 80
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-grade10-t1",
+            "name": "Grade 10 English Term 1 Exam",
+            "path": "exams/Grade 10/English/Term 1/exam-paper-43.json",
+            "questions": 10,
+            "marks": 80
+          }
+        ]
+      },
+      "Kiswahili": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-grade10-t1",
+            "name": "Grade 10 Kiswahili Term 1 Exam",
+            "path": "exams/Grade 10/Kiswahili/Term 1/exam-paper-44.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "KIS": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-grade10-t1",
+            "name": "Grade 10 Kiswahili Term 1 Exam",
+            "path": "exams/Grade 10/Kiswahili/Term 1/exam-paper-44.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Geography": {
+        "Term 1": [
+          {
+            "id": "exam-geography-grade10-t1",
+            "name": "Grade 10 Geography Term 1 Exam",
+            "path": "exams/Grade 10/Geography/Term 1/exam-paper-45.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "GEO": {
+        "Term 1": [
+          {
+            "id": "exam-geography-grade10-t1",
+            "name": "Grade 10 Geography Term 1 Exam",
+            "path": "exams/Grade 10/Geography/Term 1/exam-paper-45.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "History & Government": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-grade10-t1",
+            "name": "Grade 10 History & Government Term 1 Exam",
+            "path": "exams/Grade 10/History - Government/Term 1/exam-paper-46.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "HIS": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-grade10-t1",
+            "name": "Grade 10 History & Government Term 1 Exam",
+            "path": "exams/Grade 10/History - Government/Term 1/exam-paper-46.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "History and Government": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-grade10-t1",
+            "name": "Grade 10 History & Government Term 1 Exam",
+            "path": "exams/Grade 10/History - Government/Term 1/exam-paper-46.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "History": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-grade10-t1",
+            "name": "Grade 10 History & Government Term 1 Exam",
+            "path": "exams/Grade 10/History - Government/Term 1/exam-paper-46.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Business Studies": {
+        "Term 1": [
+          {
+            "id": "exam-business-studies-grade10-t1",
+            "name": "Grade 10 Business Studies Term 1 Exam",
+            "path": "exams/Grade 10/Business Studies/Term 1/exam-paper-47.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "BST": {
+        "Term 1": [
+          {
+            "id": "exam-business-studies-grade10-t1",
+            "name": "Grade 10 Business Studies Term 1 Exam",
+            "path": "exams/Grade 10/Business Studies/Term 1/exam-paper-47.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Agriculture": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-grade10-t1",
+            "name": "Grade 10 Agriculture Term 1 Exam",
+            "path": "exams/Grade 10/Agriculture/Term 1/exam-paper-48.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "AGR": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-grade10-t1",
+            "name": "Grade 10 Agriculture Term 1 Exam",
+            "path": "exams/Grade 10/Agriculture/Term 1/exam-paper-48.json",
+            "questions": 9,
             "marks": 80
           }
         ]
@@ -1414,6 +1640,94 @@
             "marks": 80
           }
         ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-form3-t1",
+            "name": "Form 3 English Term 1 Exam",
+            "path": "exams/Form 3/English/Term 1/exam-paper-49.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-form3-t1",
+            "name": "Form 3 English Term 1 Exam",
+            "path": "exams/Form 3/English/Term 1/exam-paper-49.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Kiswahili": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-form3-t1",
+            "name": "Form 3 Kiswahili Term 1 Exam",
+            "path": "exams/Form 3/Kiswahili/Term 1/exam-paper-50.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "KIS": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-form3-t1",
+            "name": "Form 3 Kiswahili Term 1 Exam",
+            "path": "exams/Form 3/Kiswahili/Term 1/exam-paper-50.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Agriculture": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-form3-t1",
+            "name": "Form 3 Agriculture Term 1 Exam",
+            "path": "exams/Form 3/Agriculture/Term 1/exam-paper-51.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "AGR": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-form3-t1",
+            "name": "Form 3 Agriculture Term 1 Exam",
+            "path": "exams/Form 3/Agriculture/Term 1/exam-paper-51.json",
+            "questions": 9,
+            "marks": 80
+          }
+        ]
+      },
+      "Business Studies": {
+        "Term 1": [
+          {
+            "id": "exam-business-studies-form3-t1",
+            "name": "Form 3 Business Studies Term 1 Exam",
+            "path": "exams/Form 3/Business Studies/Term 1/exam-paper-52.json",
+            "questions": 8,
+            "marks": 80
+          }
+        ]
+      },
+      "BST": {
+        "Term 1": [
+          {
+            "id": "exam-business-studies-form3-t1",
+            "name": "Form 3 Business Studies Term 1 Exam",
+            "path": "exams/Form 3/Business Studies/Term 1/exam-paper-52.json",
+            "questions": 8,
+            "marks": 80
+          }
+        ]
       }
     },
     "Form 4": {
@@ -1424,6 +1738,15 @@
             "name": "Form 4 Mathematics Term 1 Exam",
             "path": "exams/Form 4/Mathematics/Term 1/exam-paper-37.json",
             "questions": 11,
+            "marks": 100
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-form4-t2",
+            "name": "Form 4 Mathematics Term 2 Exam",
+            "path": "exams/Form 4/Mathematics/Term 2/exam-paper-59.json",
+            "questions": 9,
             "marks": 100
           }
         ]
@@ -1437,6 +1760,15 @@
             "questions": 11,
             "marks": 100
           }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-form4-t2",
+            "name": "Form 4 Mathematics Term 2 Exam",
+            "path": "exams/Form 4/Mathematics/Term 2/exam-paper-59.json",
+            "questions": 9,
+            "marks": 100
+          }
         ]
       },
       "Maths": {
@@ -1448,6 +1780,15 @@
             "questions": 11,
             "marks": 100
           }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-form4-t2",
+            "name": "Form 4 Mathematics Term 2 Exam",
+            "path": "exams/Form 4/Mathematics/Term 2/exam-paper-59.json",
+            "questions": 9,
+            "marks": 100
+          }
         ]
       },
       "Math": {
@@ -1457,6 +1798,15 @@
             "name": "Form 4 Mathematics Term 1 Exam",
             "path": "exams/Form 4/Mathematics/Term 1/exam-paper-37.json",
             "questions": 11,
+            "marks": 100
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "exam-mathematics-form4-t2",
+            "name": "Form 4 Mathematics Term 2 Exam",
+            "path": "exams/Form 4/Mathematics/Term 2/exam-paper-59.json",
+            "questions": 9,
             "marks": 100
           }
         ]
@@ -1566,6 +1916,116 @@
             "id": "exam-business-studies-form4-t1",
             "name": "Form 4 Business Studies Term 1 Exam",
             "path": "exams/Form 4/Business Studies/Term 1/exam-paper-42.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "exam-english-form4-t1",
+            "name": "Form 4 English Term 1 Exam",
+            "path": "exams/Form 4/English/Term 1/exam-paper-53.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "exam-english-form4-t1",
+            "name": "Form 4 English Term 1 Exam",
+            "path": "exams/Form 4/English/Term 1/exam-paper-53.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "Kiswahili": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-form4-t1",
+            "name": "Form 4 Kiswahili Term 1 Exam",
+            "path": "exams/Form 4/Kiswahili/Term 1/exam-paper-54.json",
+            "questions": 8,
+            "marks": 100
+          }
+        ]
+      },
+      "KIS": {
+        "Term 1": [
+          {
+            "id": "exam-kiswahili-form4-t1",
+            "name": "Form 4 Kiswahili Term 1 Exam",
+            "path": "exams/Form 4/Kiswahili/Term 1/exam-paper-54.json",
+            "questions": 8,
+            "marks": 100
+          }
+        ]
+      },
+      "Agriculture": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-form4-t1",
+            "name": "Form 4 Agriculture Term 1 Exam",
+            "path": "exams/Form 4/Agriculture/Term 1/exam-paper-55.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "AGR": {
+        "Term 1": [
+          {
+            "id": "exam-agriculture-form4-t1",
+            "name": "Form 4 Agriculture Term 1 Exam",
+            "path": "exams/Form 4/Agriculture/Term 1/exam-paper-55.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "History & Government": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form4-t1",
+            "name": "Form 4 History & Government Term 1 Exam",
+            "path": "exams/Form 4/History - Government/Term 1/exam-paper-56.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "HIS": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form4-t1",
+            "name": "Form 4 History & Government Term 1 Exam",
+            "path": "exams/Form 4/History - Government/Term 1/exam-paper-56.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "History and Government": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form4-t1",
+            "name": "Form 4 History & Government Term 1 Exam",
+            "path": "exams/Form 4/History - Government/Term 1/exam-paper-56.json",
+            "questions": 9,
+            "marks": 100
+          }
+        ]
+      },
+      "History": {
+        "Term 1": [
+          {
+            "id": "exam-history---government-form4-t1",
+            "name": "Form 4 History & Government Term 1 Exam",
+            "path": "exams/Form 4/History - Government/Term 1/exam-paper-56.json",
             "questions": 9,
             "marks": 100
           }
@@ -2032,6 +2492,50 @@
             "marks": 0
           }
         ]
+      },
+      "Biology": {
+        "Term 1": [
+          {
+            "id": "ln-biology-grade10-18",
+            "name": "Grade 10 Biology: Photosynthesis",
+            "path": "lesson-notes/Grade 10/Biology/Term 1/lesson-notes-18.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "BIO": {
+        "Term 1": [
+          {
+            "id": "ln-biology-grade10-18",
+            "name": "Grade 10 Biology: Photosynthesis",
+            "path": "lesson-notes/Grade 10/Biology/Term 1/lesson-notes-18.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Geography": {
+        "Term 1": [
+          {
+            "id": "ln-geography-grade10-19",
+            "name": "Grade 10 Geography: Factors Influencing Climate",
+            "path": "lesson-notes/Grade 10/Geography/Term 1/lesson-notes-19.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "GEO": {
+        "Term 1": [
+          {
+            "id": "ln-geography-grade10-19",
+            "name": "Grade 10 Geography: Factors Influencing Climate",
+            "path": "lesson-notes/Grade 10/Geography/Term 1/lesson-notes-19.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
       }
     },
     "Form 3": {
@@ -2122,6 +2626,72 @@
             "marks": 0
           }
         ]
+      },
+      "Geography": {
+        "Term 1": [
+          {
+            "id": "ln-geography-form3-20",
+            "name": "Form 3 Geography: Types of Weathering",
+            "path": "lesson-notes/Form 3/Geography/Term 1/lesson-notes-20.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "GEO": {
+        "Term 1": [
+          {
+            "id": "ln-geography-form3-20",
+            "name": "Form 3 Geography: Types of Weathering",
+            "path": "lesson-notes/Form 3/Geography/Term 1/lesson-notes-20.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Business Studies": {
+        "Term 1": [
+          {
+            "id": "ln-business-studies-form3-21",
+            "name": "Form 3 Business Studies: The Ledger",
+            "path": "lesson-notes/Form 3/Business Studies/Term 1/lesson-notes-21.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "BST": {
+        "Term 1": [
+          {
+            "id": "ln-business-studies-form3-21",
+            "name": "Form 3 Business Studies: The Ledger",
+            "path": "lesson-notes/Form 3/Business Studies/Term 1/lesson-notes-21.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "English": {
+        "Term 1": [
+          {
+            "id": "ln-english-form3-22",
+            "name": "Form 3 English: Reported Speech",
+            "path": "lesson-notes/Form 3/English/Term 1/lesson-notes-22.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "ENG": {
+        "Term 1": [
+          {
+            "id": "ln-english-form3-22",
+            "name": "Form 3 English: Reported Speech",
+            "path": "lesson-notes/Form 3/English/Term 1/lesson-notes-22.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
       }
     },
     "Form 4": {
@@ -2131,6 +2701,15 @@
             "id": "ln-mathematics-form4-16",
             "name": "Form 4 Mathematics: Differentiation",
             "path": "lesson-notes/Form 4/Mathematics/Term 1/lesson-notes-16.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "ln-mathematics-form4-25",
+            "name": "Form 4 Mathematics: Integration",
+            "path": "lesson-notes/Form 4/Mathematics/Term 2/lesson-notes-25.json",
             "questions": 0,
             "marks": 0
           }
@@ -2145,6 +2724,15 @@
             "questions": 0,
             "marks": 0
           }
+        ],
+        "Term 2": [
+          {
+            "id": "ln-mathematics-form4-25",
+            "name": "Form 4 Mathematics: Integration",
+            "path": "lesson-notes/Form 4/Mathematics/Term 2/lesson-notes-25.json",
+            "questions": 0,
+            "marks": 0
+          }
         ]
       },
       "Maths": {
@@ -2156,6 +2744,15 @@
             "questions": 0,
             "marks": 0
           }
+        ],
+        "Term 2": [
+          {
+            "id": "ln-mathematics-form4-25",
+            "name": "Form 4 Mathematics: Integration",
+            "path": "lesson-notes/Form 4/Mathematics/Term 2/lesson-notes-25.json",
+            "questions": 0,
+            "marks": 0
+          }
         ]
       },
       "Math": {
@@ -2164,6 +2761,15 @@
             "id": "ln-mathematics-form4-16",
             "name": "Form 4 Mathematics: Differentiation",
             "path": "lesson-notes/Form 4/Mathematics/Term 1/lesson-notes-16.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ],
+        "Term 2": [
+          {
+            "id": "ln-mathematics-form4-25",
+            "name": "Form 4 Mathematics: Integration",
+            "path": "lesson-notes/Form 4/Mathematics/Term 2/lesson-notes-25.json",
             "questions": 0,
             "marks": 0
           }
@@ -2190,6 +2796,72 @@
             "marks": 0
           }
         ]
+      },
+      "History & Government": {
+        "Term 1": [
+          {
+            "id": "ln-history---government-form4-23",
+            "name": "Form 4 History & Government: The Constitution of Kenya 2010",
+            "path": "lesson-notes/Form 4/History - Government/Term 1/lesson-notes-23.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "HIS": {
+        "Term 1": [
+          {
+            "id": "ln-history---government-form4-23",
+            "name": "Form 4 History & Government: The Constitution of Kenya 2010",
+            "path": "lesson-notes/Form 4/History - Government/Term 1/lesson-notes-23.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "History and Government": {
+        "Term 1": [
+          {
+            "id": "ln-history---government-form4-23",
+            "name": "Form 4 History & Government: The Constitution of Kenya 2010",
+            "path": "lesson-notes/Form 4/History - Government/Term 1/lesson-notes-23.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "History": {
+        "Term 1": [
+          {
+            "id": "ln-history---government-form4-23",
+            "name": "Form 4 History & Government: The Constitution of Kenya 2010",
+            "path": "lesson-notes/Form 4/History - Government/Term 1/lesson-notes-23.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "Agriculture": {
+        "Term 1": [
+          {
+            "id": "ln-agriculture-form4-24",
+            "name": "Form 4 Agriculture: Artificial Insemination",
+            "path": "lesson-notes/Form 4/Agriculture/Term 1/lesson-notes-24.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
+      },
+      "AGR": {
+        "Term 1": [
+          {
+            "id": "ln-agriculture-form4-24",
+            "name": "Form 4 Agriculture: Artificial Insemination",
+            "path": "lesson-notes/Form 4/Agriculture/Term 1/lesson-notes-24.json",
+            "questions": 0,
+            "marks": 0
+          }
+        ]
       }
     }
   },
@@ -2210,11 +2882,11 @@
   },
   "indexedMaterials": {
     "source": "JSON corpus on disk (post-flush)",
-    "convertedOn": "2026-09-04T06:24:53Z",
-    "totalDocuments": 2120,
-    "totalTextChars": 44666735,
+    "convertedOn": "2026-09-04T08:25:20Z",
+    "totalDocuments": 2145,
+    "totalTextChars": 44701199,
     "byQuality": {
-      "text": 1982,
+      "text": 2007,
       "sparse": 18,
       "none": 120
     },

@@ -1,0 +1,69 @@
+{
+  "id": "exam-english-grade10-t1",
+  "name": "Grade 10 English Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions. Read the passage and answer the questions that follow.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which of these is a synonym of 'commence'?",
+          "options": [
+            "begin",
+            "end",
+            "pause"
+          ],
+          "answer": "begin",
+          "marks": 1
+        },
+        {
+          "question": "Identify the figure of speech in 'the wind whistled through the trees'.",
+          "options": [
+            "simile",
+            "personification",
+            "metaphor"
+          ],
+          "answer": "personification",
+          "marks": 1
+        },
+        {
+          "question": "The word 'meticulous' means?",
+          "options": [
+            "careless",
+            "very careful and precise",
+            "hurried"
+          ],
+          "answer": "very careful and precise",
+          "marks": 1
+        },
+        {
+          "question": "Which sentence is correctly punctuated?",
+          "options": [
+            "Its a fine day isn't it",
+            "It's a fine day, isn't it?",
+            "It's a fine day, isn't it."
+          ],
+          "answer": "It's a fine day, isn't it?",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Read the passage and state the main idea in one sentence. (4 marks)",
+        "2. Identify two figures of speech used in the passage and give an example of each. (4 marks)",
+        "3. Write a synonym for each of the following words as used in the passage: remote, abundant, reluctant. (3 marks)",
+        "4. Rewrite the following sentence in the passive voice: 'The teacher praised the students.' (2 marks)",
+        "5. Complete the following sentences using the correct form of the word in brackets. (3 marks)",
+        "6. Write a composition of about 250 words on 'The importance of conserving the environment'. (20 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

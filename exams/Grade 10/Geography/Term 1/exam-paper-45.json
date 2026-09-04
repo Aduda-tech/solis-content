@@ -1,0 +1,68 @@
+{
+  "id": "exam-geography-grade10-t1",
+  "name": "Grade 10 Geography Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Geography",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The process of wearing away of the earth's surface is called?",
+          "options": [
+            "erosion",
+            "faulting",
+            "vulcanicity"
+          ],
+          "answer": "erosion",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a form of precipitation?",
+          "options": [
+            "snow",
+            "evaporation",
+            "condensation"
+          ],
+          "answer": "snow",
+          "marks": 1
+        },
+        {
+          "question": "The instrument used to measure atmospheric pressure is a?",
+          "options": [
+            "thermometer",
+            "barometer",
+            "anemometer"
+          ],
+          "answer": "barometer",
+          "marks": 1
+        },
+        {
+          "question": "Which type of rock is formed from cooled magma?",
+          "options": [
+            "sedimentary",
+            "igneous",
+            "metamorphic"
+          ],
+          "answer": "igneous",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Define the terms climate and weather. (2 marks)",
+        "2. Using the graph in the diagram, name the month with the highest rainfall. (3 marks)",
+        "3. State three factors that influence climate. (3 marks)",
+        "4. Name the three types of rocks and give one example of each. (6 marks)",
+        "5. Explain two effects of global warming. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

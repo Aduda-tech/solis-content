@@ -1,0 +1,68 @@
+{
+  "id": "exam-history---government-form4-t1",
+  "name": "Form 4 History & Government Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "History & Government",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The first president of Kenya served from?",
+          "options": [
+            "1953 to 1963",
+            "1963 to 1978",
+            "1978 to 2002"
+          ],
+          "answer": "1963 to 1978",
+          "marks": 1
+        },
+        {
+          "question": "The Lancaster House Conference led to?",
+          "options": [
+            "the Mau Mau uprising",
+            "Kenya's independence constitution",
+            "the 2010 constitution"
+          ],
+          "answer": "Kenya's independence constitution",
+          "marks": 1
+        },
+        {
+          "question": "The Mau Mau movement was mainly active in?",
+          "options": [
+            "northern Kenya",
+            "central Kenya",
+            "coastal Kenya"
+          ],
+          "answer": "central Kenya",
+          "marks": 1
+        },
+        {
+          "question": "Which Kenyan leader founded the Green Belt Movement?",
+          "options": [
+            "Wangari Maathai",
+            "Jomo Kenyatta",
+            "Tom Mboya"
+          ],
+          "answer": "Wangari Maathai",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. State three reasons why the British established colonial rule in Kenya. (3 marks)",
+        "2. Explain two roles of women in the struggle for independence. (2 marks)",
+        "3. State three achievements of the 2010 constitution. (3 marks)",
+        "4. Name two political parties that participated in the first general elections in 1963. (2 marks)",
+        "5. Explain the significance of the Harambee movement. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

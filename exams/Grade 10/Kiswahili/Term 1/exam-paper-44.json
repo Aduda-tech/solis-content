@@ -1,0 +1,68 @@
+{
+  "id": "exam-kiswahili-grade10-t1",
+  "name": "Grade 10 Kiswahili Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Kiswahili",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Jibu maswali YOTE. Soma kifungu kisha ujibu maswali.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Kinyume cha neno 'safari' ni?",
+          "options": [
+            "kwenda",
+            "kusimama",
+            "kuondoka"
+          ],
+          "answer": "kusimama",
+          "marks": 1
+        },
+        {
+          "question": "'Mwalimu anafundisha darasani.' Neno 'anafundisha' liko katika nafsi gani?",
+          "options": [
+            "kwanza umoja",
+            "pili wingi",
+            "tatu umoja"
+          ],
+          "answer": "tatu umoja",
+          "marks": 1
+        },
+        {
+          "question": "Wingi wa 'jani' ni?",
+          "options": [
+            "jani",
+            "majani",
+            "vijani"
+          ],
+          "answer": "majani",
+          "marks": 1
+        },
+        {
+          "question": "Neno 'haraka' lina maana ya?",
+          "options": [
+            "polepole",
+            "upesi",
+            "baadaye"
+          ],
+          "answer": "upesi",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Andika kinyume cha maneno haya: mrefu, ndani, uvivu. (3 marks)",
+        "2. Tunga sentensi moja kwa kila neno: kilimo, afya, usafiri. (3 marks)",
+        "3. Kamilisha methali: 'Asiyekubali kushindwa ____'. (2 marks)",
+        "4. Andika nambari hizi kwa maneno: 250, 1,300. (4 marks)",
+        "5. Insha: Andika insha ya maneno 200 kuhusu 'Umuhimu wa elimu'. (20 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

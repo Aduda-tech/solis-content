@@ -1,0 +1,69 @@
+{
+  "id": "exam-mathematics-grade10-t2",
+  "name": "Grade 10 Mathematics Term 2 Exam",
+  "grade": "Grade 10",
+  "subject": "Mathematics",
+  "term": "Term 2",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions. Show all working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The value of sin(45 degrees) is?",
+          "options": [
+            "0.5",
+            "0.7071",
+            "1"
+          ],
+          "answer": "0.7071",
+          "marks": 1
+        },
+        {
+          "question": "The inverse of the matrix [[1,2],[3,4]] has determinant?",
+          "options": [
+            "-2",
+            "10",
+            "2"
+          ],
+          "answer": "-2",
+          "marks": 1
+        },
+        {
+          "question": "The solution of 2^(x) = 8 is x = ?",
+          "options": [
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "3",
+          "marks": 1
+        },
+        {
+          "question": "The equation of a circle with centre (0,0) and radius 5 is?",
+          "options": [
+            "x^2 + y^2 = 5",
+            "x^2 + y^2 = 25",
+            "x + y = 25"
+          ],
+          "answer": "x^2 + y^2 = 25",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Find the determinant of the matrix [[3, 4], [1, 2]]. (3 marks)",
+        "2. Solve the equation: 3^(x) = 81 (3 marks)",
+        "3. Given sin A = 0.6, find the value of cos A. (3 marks)",
+        "4. Find the length of the arc of a circle of radius 7 cm subtending an angle of 60 degrees at the centre. (4 marks)",
+        "5. Expand and simplify: (x + 2)(x^2 - 3x + 1) (4 marks)",
+        "6. A sum of money doubles in 5 years at simple interest. Find the rate. (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

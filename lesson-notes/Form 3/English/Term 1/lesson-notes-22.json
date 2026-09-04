@@ -1,0 +1,37 @@
+{
+  "id": "ln-english-form3-22",
+  "name": "Form 3 English: Reported Speech",
+  "grade": "Form 3",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Grammar",
+  "subStrand": "Reported Speech",
+  "lessonNumber": 21,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to change direct speech to reported speech",
+    "By the end of the lesson, the learner should be able to apply correct tense changes in reported speech"
+  ],
+  "learningActivities": [
+    "Revision: learners identify direct and reported speech",
+    "Demonstration: teacher shows how tenses change in reported speech",
+    "Guided practice: learners convert sentences to reported speech",
+    "Application: learners report conversations from a short dialogue"
+  ],
+  "keyPoints": [
+    "Direct speech quotes the exact words spoken",
+    "In reported speech, the tense usually moves one step back",
+    "'I am happy,' said Mary -> Mary said that she was happy"
+  ],
+  "commonMisconceptions": [
+    "Forgetting to change pronouns",
+    "Not changing the tense of the verb"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Exercise books",
+    "Dialogue cards"
+  ],
+  "lessonEvaluation": "Learners convert sentences to reported speech and report a dialogue.",
+  "teacherReflection": "Good progress. Emphasise pronoun changes next lesson."
+}

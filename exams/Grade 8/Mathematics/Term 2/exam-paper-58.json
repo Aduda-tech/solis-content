@@ -1,0 +1,68 @@
+{
+  "id": "exam-mathematics-grade8-t2",
+  "name": "Grade 8 Mathematics Term 2 Exam",
+  "grade": "Grade 8",
+  "subject": "Mathematics",
+  "term": "Term 2",
+  "durationMinutes": 100,
+  "totalMarks": 60,
+  "instructions": "Answer ALL questions. Show your working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "What is 25% of 200?",
+          "options": [
+            "25",
+            "50",
+            "75"
+          ],
+          "answer": "50",
+          "marks": 1
+        },
+        {
+          "question": "The value of 3/4 + 1/8 is?",
+          "options": [
+            "1/2",
+            "7/8",
+            "4/8"
+          ],
+          "answer": "7/8",
+          "marks": 1
+        },
+        {
+          "question": "A triangle with two equal sides is called?",
+          "options": [
+            "equilateral",
+            "isosceles",
+            "scalene"
+          ],
+          "answer": "isosceles",
+          "marks": 1
+        },
+        {
+          "question": "The next term of the sequence 2, 6, 18, 54 is?",
+          "options": [
+            "108",
+            "162",
+            "216"
+          ],
+          "answer": "162",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (56 marks)",
+      "items": [
+        "1. Solve for x: 5x - 3 = 2x + 9 (3 marks)",
+        "2. Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 5 cm. (4 marks)",
+        "3. Simplify: 4(2a + 3b) - 2(3a - b) (3 marks)",
+        "4. A shopkeeper buys a shirt at Ksh 500 and sells it at Ksh 650. Find the percentage profit. (4 marks)",
+        "5. Draw the graph of y = 2x + 1 for x = 0, 1, 2, 3 and state its gradient. (4 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ln-geography-form3-20",
+  "name": "Form 3 Geography: Types of Weathering",
+  "grade": "Form 3",
+  "subject": "Geography",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Weathering",
+  "subStrand": "Types of Weathering",
+  "lessonNumber": 19,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to describe the three types of weathering",
+    "By the end of the lesson, the learner should be able to give examples of physical weathering"
+  ],
+  "learningActivities": [
+    "Discussion: learners observe weathered rocks in the school compound",
+    "Explanation: teacher explains physical, chemical and biological weathering",
+    "Group work: learners classify examples of weathering",
+    "Application: learners explain how weathering affects rocks"
+  ],
+  "keyPoints": [
+    "Weathering is the breakdown of rocks in situ",
+    "Physical weathering involves the breakdown of rocks without change in composition",
+    "Chemical weathering involves changes in the chemical composition of rocks"
+  ],
+  "commonMisconceptions": [
+    "Confusing weathering with erosion",
+    "Thinking weathering involves movement of rock materials"
+  ],
+  "resourcesRequired": [
+    "Rock samples",
+    "Diagrams",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners describe the three types of weathering and give examples.",
+  "teacherReflection": "Clear understanding. Emphasise that weathering occurs in situ."
+}

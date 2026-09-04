@@ -1,0 +1,68 @@
+{
+  "id": "exam-mathematics-form4-t2",
+  "name": "Form 4 Mathematics Term 2 Exam",
+  "grade": "Form 4",
+  "subject": "Mathematics",
+  "term": "Term 2",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions. Show all working.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The derivative of sin x is?",
+          "options": [
+            "cos x",
+            "-cos x",
+            "-sin x"
+          ],
+          "answer": "cos x",
+          "marks": 1
+        },
+        {
+          "question": "The integral of 3x^2 dx is?",
+          "options": [
+            "x^3 + c",
+            "3x^3 + c",
+            "x^2 + c"
+          ],
+          "answer": "x^3 + c",
+          "marks": 1
+        },
+        {
+          "question": "The gradient of the tangent to y = x^2 at x = 3 is?",
+          "options": [
+            "3",
+            "6",
+            "9"
+          ],
+          "answer": "6",
+          "marks": 1
+        },
+        {
+          "question": "The mean of 4, 8, 12, 16 is?",
+          "options": [
+            "8",
+            "10",
+            "12"
+          ],
+          "answer": "10",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Differentiate y = 4x^3 - 6x + 2 with respect to x. (4 marks)",
+        "2. Using the graph in the diagram, estimate the gradient of the curve at x = 2. (4 marks)",
+        "3. Find the area under the curve y = 2x between x = 0 and x = 3. (5 marks)",
+        "4. Solve the equation: 2sin x - 1 = 0 for 0 <= x <= 180. (4 marks)",
+        "5. Calculate the standard deviation of 2, 4, 6, 8, 10. (6 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

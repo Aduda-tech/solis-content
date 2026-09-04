@@ -1,0 +1,68 @@
+{
+  "id": "exam-agriculture-grade10-t1",
+  "name": "Grade 10 Agriculture Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "Agriculture",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "Which of these is a leguminous crop?",
+          "options": [
+            "maize",
+            "beans",
+            "wheat"
+          ],
+          "answer": "beans",
+          "marks": 1
+        },
+        {
+          "question": "The removal of excess water from the soil is called?",
+          "options": [
+            "irrigation",
+            "drainage",
+            "mulching"
+          ],
+          "answer": "drainage",
+          "marks": 1
+        },
+        {
+          "question": "Which farm tool is used for tilling the land?",
+          "options": [
+            "panga",
+            "plough",
+            "slasher"
+          ],
+          "answer": "plough",
+          "marks": 1
+        },
+        {
+          "question": "A mature female cow that has given birth is a?",
+          "options": [
+            "heifer",
+            "cow",
+            "bull"
+          ],
+          "answer": "cow",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State three importance of agriculture to the economy of Kenya. (3 marks)",
+        "2. Name the types of soil and state one crop suited to each. (6 marks)",
+        "3. State two methods of controlling weeds in a maize field. (2 marks)",
+        "4. Explain the difference between organic and inorganic fertilisers. (2 marks)",
+        "5. State two factors to consider when selecting a site for a poultry house. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "exam-business-studies-form3-t1",
+  "name": "Form 3 Business Studies Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Business Studies",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The money paid to the owner of capital is?",
+          "options": [
+            "rent",
+            "interest",
+            "wages"
+          ],
+          "answer": "interest",
+          "marks": 1
+        },
+        {
+          "question": "A document showing the transfer of money from one bank account to another is a?",
+          "options": [
+            "cheque",
+            "receipt",
+            "voucher"
+          ],
+          "answer": "cheque",
+          "marks": 1
+        },
+        {
+          "question": "The capital of a business is the?",
+          "options": [
+            "total liabilities",
+            "amount invested by the owner",
+            "total sales"
+          ],
+          "answer": "amount invested by the owner",
+          "marks": 1
+        },
+        {
+          "question": "Which of these is a liability?",
+          "options": [
+            "stock",
+            "debtors",
+            "bank loan"
+          ],
+          "answer": "bank loan",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State the accounting equation and explain each element. (3 marks)",
+        "2. Record the following transactions in the ledger: Started business with cash Ksh 100,000; bought furniture Ksh 30,000 cash. (6 marks)",
+        "3. State three differences between a sole proprietorship and a partnership. (3 marks)",
+        "4. Name four types of business documents and state the use of each. (8 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

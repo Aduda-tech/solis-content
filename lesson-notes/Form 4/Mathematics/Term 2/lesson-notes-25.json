@@ -1,0 +1,37 @@
+{
+  "id": "ln-mathematics-form4-25",
+  "name": "Form 4 Mathematics: Integration",
+  "grade": "Form 4",
+  "subject": "Mathematics",
+  "term": "Term 2",
+  "durationMinutes": 40,
+  "strand": "Calculus",
+  "subStrand": "Integration",
+  "lessonNumber": 24,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to integrate polynomial functions",
+    "By the end of the lesson, the learner should be able to find the area under a curve using integration"
+  ],
+  "learningActivities": [
+    "Revision: differentiation",
+    "Demonstration: teacher integrates 2x and 3x^2 using the reverse of the power rule",
+    "Guided practice: learners integrate various polynomials",
+    "Application: learners find areas under curves"
+  ],
+  "keyPoints": [
+    "Integration is the reverse of differentiation",
+    "The integral of x^n is x^(n+1)/(n+1) + c",
+    "The area under a curve between two points is found by definite integration"
+  ],
+  "commonMisconceptions": [
+    "Forgetting the constant of integration",
+    "Confusing integration with differentiation"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Graph paper",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners integrate five functions and find one area under a curve.",
+  "teacherReflection": "Good progress. Emphasise the constant of integration next lesson."
+}

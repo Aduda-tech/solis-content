@@ -1,0 +1,68 @@
+{
+  "id": "exam-english-form4-t1",
+  "name": "Form 4 English Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "English",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "A word that joins two clauses is a?",
+          "options": [
+            "preposition",
+            "conjunction",
+            "interjection"
+          ],
+          "answer": "conjunction",
+          "marks": 1
+        },
+        {
+          "question": "The superlative of 'little' is?",
+          "options": [
+            "less",
+            "least",
+            "littlest"
+          ],
+          "answer": "least",
+          "marks": 1
+        },
+        {
+          "question": "'Once in a blue moon' means?",
+          "options": [
+            "very often",
+            "very rarely",
+            "never"
+          ],
+          "answer": "very rarely",
+          "marks": 1
+        },
+        {
+          "question": "Which sentence is in the active voice?",
+          "options": [
+            "The boy was bitten by the dog",
+            "The dog bit the boy",
+            "The boy is bitten"
+          ],
+          "answer": "The dog bit the boy",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Read the passage and answer the comprehension questions. (10 marks)",
+        "2. Rewrite the following sentences correcting the errors: 'He don't like rice.' 'The committee have made its decision.' (4 marks)",
+        "3. Write the comparative and superlative of: many, ill, far. (3 marks)",
+        "4. Explain the difference between a metaphor and a simile, giving an example of each. (4 marks)",
+        "5. Write an essay of about 350 words on 'The value of hard work'. (25 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ln-agriculture-form4-24",
+  "name": "Form 4 Agriculture: Artificial Insemination",
+  "grade": "Form 4",
+  "subject": "Agriculture",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Livestock Production",
+  "subStrand": "Artificial Insemination",
+  "lessonNumber": 23,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to explain the meaning of artificial insemination",
+    "By the end of the lesson, the learner should be able to state the advantages of artificial insemination"
+  ],
+  "learningActivities": [
+    "Discussion: how do farmers improve their dairy herds?",
+    "Explanation: teacher explains the process of artificial insemination",
+    "Group work: learners list the advantages of artificial insemination",
+    "Application: learners discuss its role in livestock improvement"
+  ],
+  "keyPoints": [
+    "Artificial insemination is the introduction of semen into the female reproductive tract without natural mating",
+    "It allows the use of superior bulls to improve herds",
+    "It controls the spread of breeding diseases"
+  ],
+  "commonMisconceptions": [
+    "Thinking artificial insemination is natural mating",
+    "Confusing artificial insemination with cross-breeding"
+  ],
+  "resourcesRequired": [
+    "Charts",
+    "Videos (where available)",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners explain artificial insemination and state its advantages.",
+  "teacherReflection": "Clear understanding. Extend to embryo transfer next lesson."
+}

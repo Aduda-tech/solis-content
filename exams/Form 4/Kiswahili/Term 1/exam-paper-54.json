@@ -1,0 +1,67 @@
+{
+  "id": "exam-kiswahili-form4-t1",
+  "name": "Form 4 Kiswahili Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Kiswahili",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Jibu maswali YOTE.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "'Kila mwanafunzi alipewa kitabu chake.' Neno 'chake' ni?",
+          "options": [
+            "kiulizi",
+            "kimilikishi",
+            "kionyeshi"
+          ],
+          "answer": "kimilikishi",
+          "marks": 1
+        },
+        {
+          "question": "Kinyume cha 'karibu' ni?",
+          "options": [
+            "karibu",
+            "mbali",
+            "kando"
+          ],
+          "answer": "mbali",
+          "marks": 1
+        },
+        {
+          "question": "'Mnyama' ni neno la ngeli gani?",
+          "options": [
+            "KI-VI",
+            "A-WA",
+            "LI-YA"
+          ],
+          "answer": "A-WA",
+          "marks": 1
+        },
+        {
+          "question": "Neno 'harambee' lina maana ya?",
+          "options": [
+            "kushindana",
+            "kushirikiana",
+            "kuachana"
+          ],
+          "answer": "kushirikiana",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. Andika kinyume cha: fupi, dhiki, ukarimu. (3 marks)",
+        "2. Kamilisha methali: 'Chema chajiuza ____'. (2 marks)",
+        "3. Andika insha ya maneno 300 kuhusu 'Umuhimu wa teknolojia katika elimu'. (25 marks)",
+        "4. Tambua ngeli ya maneno haya: mkono, kikombe, ubao. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

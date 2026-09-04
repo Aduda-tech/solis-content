@@ -1,0 +1,68 @@
+{
+  "id": "exam-agriculture-form3-t1",
+  "name": "Form 3 Agriculture Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Agriculture",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The gestation period of a cow is about?",
+          "options": [
+            "6 months",
+            "9 months",
+            "12 months"
+          ],
+          "answer": "9 months",
+          "marks": 1
+        },
+        {
+          "question": "Which fertiliser supplies nitrogen?",
+          "options": [
+            "CAN",
+            "DSP",
+            "muriate of potash"
+          ],
+          "answer": "CAN",
+          "marks": 1
+        },
+        {
+          "question": "The removal of the growing tip of a plant to encourage branching is called?",
+          "options": [
+            "pruning",
+            "pinching",
+            "grafting"
+          ],
+          "answer": "pinching",
+          "marks": 1
+        },
+        {
+          "question": "A castrated male cattle is a?",
+          "options": [
+            "bullock",
+            "bull",
+            "heifer"
+          ],
+          "answer": "bullock",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State three factors to consider when selecting a breed of dairy cattle. (3 marks)",
+        "2. Explain two methods of controlling soil erosion. (2 marks)",
+        "3. Name three pests that attack maize and state one control measure for each. (6 marks)",
+        "4. Describe the process of making compost manure. (4 marks)",
+        "5. State two signs of a healthy calf. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

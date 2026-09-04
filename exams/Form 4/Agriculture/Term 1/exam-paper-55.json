@@ -1,0 +1,68 @@
+{
+  "id": "exam-agriculture-form4-t1",
+  "name": "Form 4 Agriculture Term 1 Exam",
+  "grade": "Form 4",
+  "subject": "Agriculture",
+  "term": "Term 1",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The milk-producing breed of cattle is?",
+          "options": [
+            "Boran",
+            "Friesian",
+            "Zebu"
+          ],
+          "answer": "Friesian",
+          "marks": 1
+        },
+        {
+          "question": "Crop rotation helps to?",
+          "options": [
+            "increase weeds",
+            "control pests and maintain soil fertility",
+            "reduce yield"
+          ],
+          "answer": "control pests and maintain soil fertility",
+          "marks": 1
+        },
+        {
+          "question": "The process of removing weak seedlings to leave healthy ones is?",
+          "options": [
+            "thinning",
+            "pruning",
+            "gapping"
+          ],
+          "answer": "thinning",
+          "marks": 1
+        },
+        {
+          "question": "Silage is made by?",
+          "options": [
+            "drying grain",
+            "fermenting green fodder",
+            "roasting maize"
+          ],
+          "answer": "fermenting green fodder",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (96 marks)",
+      "items": [
+        "1. State three advantages of artificial insemination in cattle. (3 marks)",
+        "2. Explain the difference between gapping and thinning. (2 marks)",
+        "3. Name three diseases that affect poultry and state one symptom of each. (6 marks)",
+        "4. Describe the procedure of transplanting seedlings. (4 marks)",
+        "5. State two ways of improving milk production in dairy cattle. (2 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

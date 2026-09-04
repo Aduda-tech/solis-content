@@ -1,0 +1,68 @@
+{
+  "id": "exam-kiswahili-form3-t1",
+  "name": "Form 3 Kiswahili Term 1 Exam",
+  "grade": "Form 3",
+  "subject": "Kiswahili",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Jibu maswali YOTE.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "'Mtoto mdogo analia.' Neno 'analia' liko katika wakati gani?",
+          "options": [
+            "uliopita",
+            "uliopo",
+            "ujao"
+          ],
+          "answer": "uliopo",
+          "marks": 1
+        },
+        {
+          "question": "Kinyume cha 'tajiri' ni?",
+          "options": [
+            "tajiri",
+            "maskini",
+            "mwenye"
+          ],
+          "answer": "maskini",
+          "marks": 1
+        },
+        {
+          "question": "'Kula' ni kitenzi cha?",
+          "options": [
+            "kutenda",
+            "kutendwa",
+            "kutendeka"
+          ],
+          "answer": "kutenda",
+          "marks": 1
+        },
+        {
+          "question": "Sauti ya kwanza katika neno 'baba' ni?",
+          "options": [
+            "b",
+            "a",
+            "ba"
+          ],
+          "answer": "b",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. Andika nambari hizi kwa maneno: 45, 1,000, 2,500. (6 marks)",
+        "2. Kamilisha methali: 'Mvumilivu hula ____'. (2 marks)",
+        "3. Andika wingi wa: ubao, ufunguo, wimbo. (3 marks)",
+        "4. Tunga sentensi ukitumia: lakini, ingawa, kwa sababu. (3 marks)",
+        "5. Insha: Andika insha ya maneno 250 kuhusu 'Umuhimu wa michezo shuleni'. (20 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

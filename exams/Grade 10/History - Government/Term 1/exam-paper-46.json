@@ -1,0 +1,68 @@
+{
+  "id": "exam-history---government-grade10-t1",
+  "name": "Grade 10 History & Government Term 1 Exam",
+  "grade": "Grade 10",
+  "subject": "History & Government",
+  "term": "Term 1",
+  "durationMinutes": 120,
+  "totalMarks": 80,
+  "instructions": "Answer ALL questions.",
+  "sections": [
+    {
+      "heading": "Section A: Objective Questions (4 marks)",
+      "items": [
+        {
+          "question": "The Kenyan constitution was promulgated in the year?",
+          "options": [
+            "2007",
+            "2010",
+            "2013"
+          ],
+          "answer": "2010",
+          "marks": 1
+        },
+        {
+          "question": "The first African to become President of Kenya was?",
+          "options": [
+            "Jomo Kenyatta",
+            "Oginga Odinga",
+            "Tom Mboya"
+          ],
+          "answer": "Jomo Kenyatta",
+          "marks": 1
+        },
+        {
+          "question": "The 'Mau Mau' uprising took place during which period?",
+          "options": [
+            "1945-1950",
+            "1952-1960",
+            "1963-1970"
+          ],
+          "answer": "1952-1960",
+          "marks": 1
+        },
+        {
+          "question": "Which document governs the conduct of citizens and the state?",
+          "options": [
+            "the constitution",
+            "the budget",
+            "the manifesto"
+          ],
+          "answer": "the constitution",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "heading": "Section B: Written Questions (76 marks)",
+      "items": [
+        "1. State three functions of the Kenyan constitution. (3 marks)",
+        "2. Name the three arms of government and state the role of each. (6 marks)",
+        "3. State two contributions of trade unions to the struggle for independence. (2 marks)",
+        "4. Name two national philosophies of Kenya. (2 marks)",
+        "5. Explain the importance of national unity. (3 marks)"
+      ]
+    }
+  ],
+  "markingScheme": null
+}

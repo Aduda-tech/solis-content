@@ -1,11 +1,11 @@
 {
-  "processed": 2061,
+  "processed": 2145,
   "byQuality": {
-    "text": 1923,
+    "text": 2007,
     "sparse": 18,
     "none": 120
   },
-  "totalTextChars": 44584757,
-  "generated": "2026-09-03T15:19:12Z",
+  "totalTextChars": 44701199,
+  "generated": "2026-09-04T08:25:20Z",
   "note": "JSON corpus index. Includes scanned (no-text) docs."
 }

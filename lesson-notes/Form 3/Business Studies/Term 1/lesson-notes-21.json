@@ -1,0 +1,37 @@
+{
+  "id": "ln-business-studies-form3-21",
+  "name": "Form 3 Business Studies: The Ledger",
+  "grade": "Form 3",
+  "subject": "Business Studies",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Bookkeeping",
+  "subStrand": "The Ledger",
+  "lessonNumber": 20,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to post transactions to the ledger",
+    "By the end of the lesson, the learner should be able to balance a ledger account"
+  ],
+  "learningActivities": [
+    "Revision: learners recall the accounting equation",
+    "Demonstration: teacher posts transactions to ledger accounts",
+    "Guided practice: learners post simple transactions",
+    "Independent work: learners balance ledger accounts"
+  ],
+  "keyPoints": [
+    "The ledger is the main book of account",
+    "Every transaction affects at least two accounts (double entry)",
+    "The difference between the debit and credit sides is the balance"
+  ],
+  "commonMisconceptions": [
+    "Posting to the wrong side of the account",
+    "Forgetting that every debit must have a corresponding credit"
+  ],
+  "resourcesRequired": [
+    "Chalkboard",
+    "Exercise books",
+    "Sample ledger accounts"
+  ],
+  "lessonEvaluation": "Learners post transactions and balance a ledger account. Teacher checks work.",
+  "teacherReflection": "Most learners posted correctly. More practice on balancing next lesson."
+}

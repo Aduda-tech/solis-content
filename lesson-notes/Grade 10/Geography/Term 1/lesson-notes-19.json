@@ -1,0 +1,37 @@
+{
+  "id": "ln-geography-grade10-19",
+  "name": "Grade 10 Geography: Factors Influencing Climate",
+  "grade": "Grade 10",
+  "subject": "Geography",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Climate",
+  "subStrand": "Factors Influencing Climate",
+  "lessonNumber": 18,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to state the factors that influence climate",
+    "By the end of the lesson, the learner should be able to explain how altitude affects temperature"
+  ],
+  "learningActivities": [
+    "Discussion: why is it colder on Mount Kenya than in Nairobi?",
+    "Explanation: teacher explains factors using diagrams",
+    "Group work: learners list and explain factors influencing climate",
+    "Application: learners relate factors to Kenya's climate"
+  ],
+  "keyPoints": [
+    "Climate is the average weather conditions of a place over a long period",
+    "Factors influencing climate include latitude, altitude, distance from the sea, and ocean currents",
+    "Temperature decreases with increase in altitude"
+  ],
+  "commonMisconceptions": [
+    "Confusing climate with weather",
+    "Thinking latitude and altitude have the same effect on temperature"
+  ],
+  "resourcesRequired": [
+    "Atlas",
+    "Climate charts",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners state and explain factors influencing climate. Teacher assesses through group presentations.",
+  "teacherReflection": "Good participation. Reinforce the difference between weather and climate."
+}

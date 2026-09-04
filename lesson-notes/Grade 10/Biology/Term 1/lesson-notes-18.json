@@ -1,0 +1,37 @@
+{
+  "id": "ln-biology-grade10-18",
+  "name": "Grade 10 Biology: Photosynthesis",
+  "grade": "Grade 10",
+  "subject": "Biology",
+  "term": "Term 1",
+  "durationMinutes": 40,
+  "strand": "Respiration",
+  "subStrand": "Photosynthesis",
+  "lessonNumber": 17,
+  "learningObjectives": [
+    "By the end of the lesson, the learner should be able to write the word equation for photosynthesis",
+    "By the end of the lesson, the learner should be able to state the conditions necessary for photosynthesis"
+  ],
+  "learningActivities": [
+    "Discussion: where do plants get their food?",
+    "Demonstration: teacher uses a leaf diagram to explain photosynthesis",
+    "Group work: learners write the word equation and list the conditions",
+    "Application: learners explain why photosynthesis is important to life"
+  ],
+  "keyPoints": [
+    "Photosynthesis is the process by which green plants make their own food",
+    "Word equation: carbon dioxide + water -> glucose + oxygen (in the presence of light and chlorophyll)",
+    "Conditions: sunlight, chlorophyll, carbon dioxide, water"
+  ],
+  "commonMisconceptions": [
+    "Thinking plants get food from the soil",
+    "Forgetting that light and chlorophyll are necessary for photosynthesis"
+  ],
+  "resourcesRequired": [
+    "Leaf diagram",
+    "Charts",
+    "Exercise books"
+  ],
+  "lessonEvaluation": "Learners write the word equation and state the conditions for photosynthesis.",
+  "teacherReflection": "Good grasp of the process. Practical on testing for starch next lesson."
+}
