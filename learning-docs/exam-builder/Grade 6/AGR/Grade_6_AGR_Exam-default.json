@@ -1,0 +1,259 @@
+{
+  "kind": "exam-builder",
+  "grade": "Grade 6",
+  "subject": "AGR",
+  "topic": "Grade 6 AGR Exam",
+  "approved": {
+    "title": "Grade 6 AGR Exam",
+    "subtitle": "Term 1 Assessment",
+    "sections": [
+      {
+        "heading": "Section A: Multiple Choice (20 marks)",
+        "questions": [
+          {
+            "number": 1,
+            "question": "Which type of soil erosion is characterized by small, well-defined channels created by running water?",
+            "options": [
+              "A) Splash erosion",
+              "B) Rill erosion",
+              "C) Sheet erosion",
+              "D) Gully erosion"
+            ],
+            "answer": "B) Rill erosion",
+            "marks": 2
+          },
+          {
+            "number": 2,
+            "question": "Which of the following farm practices helps in conserving soil moisture?",
+            "options": [
+              "A) Weeding",
+              "B) Mulching",
+              "C) Pruning",
+              "D) Harvesting"
+            ],
+            "answer": "B) Mulching",
+            "marks": 2
+          },
+          {
+            "number": 3,
+            "question": "Which crop vegetable is commonly established in a nursery bed before transplanting?",
+            "options": [
+              "A) Maize",
+              "B) Tomatoes",
+              "C) Beans",
+              "D) Groundnuts"
+            ],
+            "answer": "B) Tomatoes",
+            "marks": 2
+          },
+          {
+            "number": 4,
+            "question": "Which small domestic animal is mainly kept for wool and meat?",
+            "options": [
+              "A) Goat",
+              "B) Sheep",
+              "C) Rabbit",
+              "D) Poultry"
+            ],
+            "answer": "B) Sheep",
+            "marks": 2
+          },
+          {
+            "number": 5,
+            "question": "What is the primary function of a rake on the farm?",
+            "options": [
+              "A) Digging deep soil",
+              "B) Cutting tall trees",
+              "C) Leveling soil and collecting trash",
+              "D) Watering young seedlings"
+            ],
+            "answer": "C) Leveling soil and collecting trash",
+            "marks": 2
+          },
+          {
+            "number": 6,
+            "question": "An external parasite that attaches to the skin of livestock and sucks blood is a:",
+            "options": [
+              "A) Tapeworm",
+              "B) Roundworm",
+              "C) Tick",
+              "D) Liver fluke"
+            ],
+            "answer": "C) Tick",
+            "marks": 2
+          },
+          {
+            "number": 7,
+            "question": "Which simple method can be used to scare away birds from field crops?",
+            "options": [
+              "A) Using a scarecrow",
+              "B) Spraying fungicides",
+              "C) Applying fertilizer",
+              "D) Digging trenches"
+            ],
+            "answer": "A) Using a scarecrow",
+            "marks": 2
+          },
+          {
+            "number": 8,
+            "question": "Why is it important to keep farm inventory records?",
+            "options": [
+              "A) To make the farm look neat",
+              "B) To keep track of farm assets and equipment",
+              "C) To increase rainfall on the farm",
+              "D) To stop weeds from growing"
+            ],
+            "answer": "B) To keep track of farm assets and equipment",
+            "marks": 2
+          },
+          {
+            "number": 9,
+            "question": "Which practice involves removing excess seedlings from a seedbed to allow proper spacing?",
+            "options": [
+              "A) Gapping",
+              "B) Thinning",
+              "C) Grafting",
+              "D) Layering"
+            ],
+            "answer": "B) Thinning",
+            "marks": 2
+          },
+          {
+            "number": 10,
+            "question": "Which water conservation structure collects and stores rainwater from rooftop gutters?",
+            "options": [
+              "A) Water tank",
+              "B) Retention ditch",
+              "C) Earth dam",
+              "D) Terracing"
+            ],
+            "answer": "A) Water tank",
+            "marks": 2
+          }
+        ]
+      },
+      {
+        "heading": "Section B: Open-Ended Questions (30 marks)",
+        "questions": [
+          {
+            "number": 11,
+            "question": "Define soil erosion and state two human activities that lead to soil erosion.",
+            "answer": "Soil erosion is the washing away or removal of topsoil by wind or water. Human activities causing erosion include overgrazing, deforestation, and improper cultivation practices.",
+            "marks": 3,
+            "markingPoints": [
+              "Correct definition of soil erosion (1 mark)",
+              "First human activity that causes erosion (1 mark)",
+              "Second human activity that causes erosion (1 mark)"
+            ]
+          },
+          {
+            "number": 12,
+            "question": "Give three reasons why farmers establish crop nursery beds.",
+            "answer": "1. To care for tiny seeds that need close attention. 2. To protect young seedlings from harsh weather. 3. To select healthy seedlings for transplanting.",
+            "marks": 3,
+            "markingPoints": [
+              "Care for tiny seeds (1 mark)",
+              "Protection from harsh environmental conditions (1 mark)",
+              "Selection of strong and healthy seedlings (1 mark)"
+            ]
+          },
+          {
+            "number": 13,
+            "question": "State three safety precautions to observe when handling small livestock such as rabbits.",
+            "answer": "1. Hold rabbits gently supporting the body and hind legs. 2. Never lift a rabbit by its ears. 3. Wear protective gloves or clothing to avoid scratches.",
+            "marks": 3,
+            "markingPoints": [
+              "Proper handling/support of hind legs (1 mark)",
+              "Avoid lifting by ears (1 mark)",
+              "Wear protective clothing/gloves (1 mark)"
+            ]
+          },
+          {
+            "number": 14,
+            "question": "List three types of farm records that a poultry farmer should maintain.",
+            "answer": "1. Egg production record. 2. Feed consumption record. 3. Health/vaccination record.",
+            "marks": 3,
+            "markingPoints": [
+              "Production/Egg record (1 mark)",
+              "Feeding record (1 mark)",
+              "Health or sales record (1 mark)"
+            ]
+          },
+          {
+            "number": 15,
+            "question": "Explain three methods used to conserve water in a school garden.",
+            "answer": "1. Mulching: Covering soil with dry grass to reduce evaporation. 2. Drip irrigation: Delivering water directly to plant roots using pipes/bottles. 3. Shading: Constructing shade to reduce direct heat on plants.",
+            "marks": 3,
+            "markingPoints": [
+              "Mulching explanation (1 mark)",
+              "Drip irrigation or efficient watering (1 mark)",
+              "Shading or rainwater harvesting (1 mark)"
+            ]
+          },
+          {
+            "number": 16,
+            "question": "Identify three management practices carried out to care for growing crops in the field.",
+            "answer": "1. Weeding to remove unwanted plants. 2. Watering during dry periods. 3. Pest and disease control.",
+            "marks": 3,
+            "markingPoints": [
+              "Weeding (1 mark)",
+              "Watering/Irrigation (1 mark)",
+              "Pest/disease control or mulching (1 mark)"
+            ]
+          },
+          {
+            "number": 17,
+            "question": "State three observable signs of ill-health in farm animals.",
+            "answer": "1. Loss of appetite (refusing to eat). 2. Rough or dull coat/feathers. 3. Lethargy or weakness.",
+            "marks": 3,
+            "markingPoints": [
+              "Loss of appetite (1 mark)",
+              "Dull/rough coat or skin changes (1 mark)",
+              "Lethargy, inactivity, or abnormal discharge (1 mark)"
+            ]
+          },
+          {
+            "number": 18,
+            "question": "Outline three ways of maintaining hand tools used on the farm.",
+            "answer": "1. Cleaning tools after use. 2. Oiling/greasing metal parts to prevent rusting. 3. Sharpening cutting edges regularly.",
+            "marks": 3,
+            "markingPoints": [
+              "Cleaning/washing after use (1 mark)",
+              "Oiling/greasing metal parts (1 mark)",
+              "Sharpening or proper storage (1 mark)"
+            ]
+          },
+          {
+            "number": 19,
+            "question": "Name two common crop pests and state one method of controlling them organically.",
+            "answer": "Pests: Caterpillars, Aphids. Organic control method: Handpicking pests or spraying with neem extract/soapy water solution.",
+            "marks": 3,
+            "markingPoints": [
+              "First crop pest named (1 mark)",
+              "Second crop pest named (1 mark)",
+              "Valid organic control method stated (1 mark)"
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Mention three organic materials that can be used for mulching in crop production.",
+            "answer": "1. Dry grass. 2. Wood shavings/sawdust. 3. Crop residues (e.g., maize stalks).",
+            "marks": 3,
+            "markingPoints": [
+              "Dry grass/straw (1 mark)",
+              "Sawdust/wood shavings (1 mark)",
+              "Dry leaves or crop residues (1 mark)"
+            ]
+          }
+        ]
+      }
+    ],
+    "totalMarks": 50,
+    "totalTime": "1 hour 30 minutes",
+    "generatedFrom": []
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-09-06T19:20:13.116Z",
+  "source": "teacher-approved"
+}
