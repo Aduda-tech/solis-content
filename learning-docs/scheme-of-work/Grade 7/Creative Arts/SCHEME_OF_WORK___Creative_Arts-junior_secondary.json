@@ -1,0 +1,532 @@
+{
+  "kind": "scheme-of-work",
+  "grade": "Grade 7",
+  "subject": "Creative Arts",
+  "level": "junior_secondary",
+  "topic": "SCHEME OF WORK — Creative Arts",
+  "approved": {
+    "kind": "scheme-of-work",
+    "title": "SCHEME OF WORK — Creative Arts",
+    "subtitle": "Grade 7 · Term 3 · KICD Competency-Based Curriculum",
+    "offline": false,
+    "source": "kicd-design",
+    "grade": "Grade 7",
+    "subject": "Creative Arts",
+    "level": "junior_secondary",
+    "sections": [
+      {
+        "heading": "ADMINISTRATIVE DETAILS",
+        "table": {
+          "headers": [
+            "Field",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "School",
+              "Solis School"
+            ],
+            [
+              "Teacher",
+              ""
+            ],
+            [
+              "Learning Area",
+              "Creative Arts"
+            ],
+            [
+              "Grade",
+              "Grade 7"
+            ],
+            [
+              "Term",
+              "Term 3"
+            ],
+            [
+              "Curriculum",
+              "Competency-Based Curriculum (KICD)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "WEEKLY TEACHING SCHEDULE",
+        "table": {
+          "headers": [
+            "Week",
+            "Lesson",
+            "Strand",
+            "Sub-Strand",
+            "Specific Learning Outcomes",
+            "Key Inquiry Question(s)",
+            "Learning Experiences",
+            "Learning Resources",
+            "Assessment Methods",
+            "Reflection"
+          ],
+          "rows": [
+            [
+              "Week 1",
+              "Lesson 1",
+              "Creating and Performing in Creative Arts and Sports",
+              "Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first)",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in demonstrating a pencil dive (feet first); b) demonstrate a pencil dive (feet first) with guidance and explain the method or choices used; c) appreciate your own and others’ effort in executing backstroke skill.",
+              "How can drawing be used to enhance water safety awareness?",
+              "The learner is guided to: demonstrate a pencil dive (feet first); demonstrate a pencil dive (feet first) with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 1",
+              "Lesson 2",
+              "Creating and Performing in Creative Arts and Sports",
+              "Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating flutter kicks, arm action and breathing while in supine position",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in demonstrating flutter kicks, arm action and breathing while in supine position; b) demonstrate flutter kicks, arm action and breathing while in supine position with guidance and explain the method or choices used; c) appreciate your own and others’ effort in executing backstroke skill.",
+              "Why are water safety skills important?",
+              "The learner is guided to: demonstrate flutter kicks, arm action and breathing while in supine position; demonstrate flutter kicks, arm action and breathing while in supine position with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 1",
+              "Lesson 3",
+              "Creating and Performing in Creative Arts and Sports",
+              "Swimming; Painting a human form; Pencil dive; Backstroke: Practising drills for backstroke focusing on coordination",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in practising drills for backstroke focusing on coordination; b) practise drills for backstroke focusing on coordination with guidance and explain the method or choices used; c) appreciate your own and others’ effort in executing backstroke skill.",
+              "How do we practise drills for backstroke focusing on coordination?",
+              "The learner is guided to: practise drills for backstroke focusing on coordination; practise drills for backstroke focusing on coordination with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 1",
+              "Lesson 4",
+              "Creating and Performing in Creative Arts and Sports",
+              "Swimming; Painting a human form; Pencil dive; Backstroke: Observing others and give feedback on the execution of the backstroke skill",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in observing others and give feedback on the execution of the backstroke skill; b) observe others and give feedback on the execution of the backstroke skill with guidance and explain the method or choices used; c) appreciate your own and others’ effort in executing backstroke skill.",
+              "How do we observe others and give feedback on the execution of the backstroke skill?",
+              "The learner is guided to: Observe others and give feedback on the execution of the backstroke skill; observe others and give feedback on the execution of the backstroke skill with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 2",
+              "Lesson 1",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Classifying folk songs in Kenyan communities",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in classifying folk songs in Kenyan communities; b) classify folk songs in Kenyan communities with guidance and explain the method or choices used; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "What is the role of folk songs in Kenyan society?",
+              "The learner is guided to: watch actual or virtual performances of folk songs, to describe components of folk songs from Kenyan communities; classify folk songs in Kenyan communities with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 2",
+              "Lesson 2",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Improvise materials for a folk song performance",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in improvise materials for a folk song performance; b) explore examples of improvise materials for a folk song performance and discuss their expressive features; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "How can performances of Kenyan folk songs be made interesting?",
+              "The learner is guided to: visit an actual or virtual cultural centre to watch and select a solo or group folk song from any Kenyan community for performance; explore examples of improvise materials for a folk song performance and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 2",
+              "Lesson 3",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Decorate a costume using the block printing technique",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in decorate a costume using the block printing technique; b) explore examples of decorate a costume using the block printing technique and discuss their expressive features; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "What do we learn from decorate a costume using the block printing technique?",
+              "The learner is guided to: explore examples of decorate a costume using the block printing technique and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 2",
+              "Lesson 4",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in performing a folksong from a Kenyan community; b) perform a folksong from a Kenyan community with guidance and explain the method or choices used; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "How do we perform a folksong from a Kenyan community?",
+              "The learner is guided to: visit an actual or virtual cultural centre to watch and select a solo or group folk song from any Kenyan community for performance; perform a folksong from a Kenyan community with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 3",
+              "Lesson 1",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: To classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes)",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in to classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes); b) explore examples of to classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes) and discuss their expressive features using locally available materials; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "What do we learn from to classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes)?",
+              "The learner is guided to: brainstorm to classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes); explore examples of to classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes) and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 3",
+              "Lesson 2",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Collecting costumes ornaments",
+              "By the end of the lesson, the learner should be able to: a) identify the materials, tools and safety points for collecting costumes ornaments; b) collect costumes ornaments with guidance and explain the method or choices used; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "How do we collect costumes ornaments?",
+              "The learner is guided to: collect found materials (costumes, props, make-up, and ornaments) for a folksong performance; collect costumes ornaments with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 3",
+              "Lesson 3",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Collecting props ornaments",
+              "By the end of the lesson, the learner should be able to: a) identify the materials, tools and safety points for collecting props ornaments; b) collect props ornaments with guidance and explain the method or choices used; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "How do we collect props ornaments?",
+              "The learner is guided to: collect found materials (costumes, props, make-up, and ornaments) for a folksong performance; collect props ornaments with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 3",
+              "Lesson 4",
+              "Creating and Performing in Creative Arts and Sports",
+              "Kenyan Folk songs; Decorating a costume; Classification; Performing: Collecting make-up ornaments",
+              "By the end of the lesson, the learner should be able to: a) identify the materials, tools and safety points for collecting make-up ornaments; b) collect make-up ornaments with guidance and explain the method or choices used; c) appreciate folk songs performance as means of cultural preservation in school and the community.",
+              "How do we collect make-up ornaments?",
+              "The learner is guided to: collect found materials (costumes, props, make-up, and ornaments) for a folksong performance; collect make-up ornaments with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 4",
+              "Lesson 1",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Analysing a football game for skill development",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in analysing a football game for skill development; b) analyse a football game for skill development with guidance and explain the method or choices used; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "Why is analysis an important skill in Creative Arts and Sports?",
+              "The learner is guided to: Play football game and analyse it football paying attention to trapping and dribbling while observing safety; analyse a football game for skill development with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 4",
+              "Lesson 2",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Analysing a folk song from a Kenyan community",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in analysing a folk song from a Kenyan community; b) analyse a folk song from a Kenyan community with guidance and explain the method or choices used; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "How do we analyse a folk song from a Kenyan community?",
+              "The learner is guided to: analyse a given folk song paying attention to: media of performance, structure, community of origin, participants, singing, messages, role of props, body movements, purpose, costumes, accompaniment and mood; analyse a folk song from a Kenyan community with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 4",
+              "Lesson 3",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in evaluate a storytelling performance; b) explore examples of evaluate a storytelling performance and discuss their expressive features in different situations; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "What do we learn from evaluate a storytelling performance?",
+              "The learner is guided to: analyse a given storytelling performance to evaluate elements such as theme, plot, confidence of the; explore examples of evaluate a storytelling performance and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 4",
+              "Lesson 4",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a 2D art work",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in evaluate a 2D art work; b) explore examples of evaluate a 2D art work and discuss their expressive features in learning situations; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "What do we learn from evaluate a 2D art work?",
+              "The learner is guided to: analyse a given storytelling performance to evaluate elements such as theme, plot, confidence of the; explore examples of evaluate a 2D art work and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 5",
+              "Lesson 1",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Watch, listen to, read or observe selected Creative Arts or football performances",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in watch, listen to, read or observe selected Creative Arts or football performances; b) explore examples of watch, listen to, read or observe selected Creative Arts or football performances and discuss their expressive features in real life situations; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "What do we learn from watch, listen to, read or observe selected Creative Arts or football performances?",
+              "The learner is guided to: watch, listen to, read or observe selected Creative Arts or football performances; explore examples of watch, listen to, read or observe selected Creative Arts or football performances and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 5",
+              "Lesson 2",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Playing football game and analyse it football paying attention to trapping and dribbling while observing safety",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in playing football game and analyse it football paying attention to trapping and dribbling while observing safety; b) play football game and analyse it football paying attention to trapping and dribbling while observing safety with guidance and explain the method or choices used; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "How do we play football game and analyse it football paying attention to trapping and dribbling while observing safety?",
+              "The learner is guided to: Play football game and analyse it football paying attention to trapping and dribbling while observing safety; play football game and analyse it football paying attention to trapping and dribbling while observing safety with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 5",
+              "Lesson 3",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Analysing a theme the elements",
+              "By the end of the lesson, the learner should be able to: a) identify the materials, tools and safety points for analysing a theme the elements; b) analyse a theme the elements with guidance and explain the method or choices used; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "How do we analyse a theme the elements?",
+              "The learner is guided to: analyse a given storytelling performance to evaluate elements such as theme, plot, confidence of the; analyse a theme the elements with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 5",
+              "Lesson 4",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Analysing a plot the elements",
+              "By the end of the lesson, the learner should be able to: a) identify the materials, tools and safety points for analysing a plot the elements; b) analyse a plot the elements with guidance and explain the method or choices used; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "How do we analyse a plot the elements?",
+              "The learner is guided to: analyse a given storytelling performance to evaluate elements such as theme, plot, confidence of the; analyse a plot the elements with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 6",
+              "Lesson 1",
+              "Appreciation in Creative Arts and Sports",
+              "Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Analysing a confidence of the elements",
+              "By the end of the lesson, the learner should be able to: a) identify the materials, tools and safety points for analysing a confidence of the elements; b) analyse a confidence of the elements with guidance and explain the method or choices used; c) appreciate the role of analysis in Creative Arts and Sports.",
+              "How do we analyse a confidence of the elements?",
+              "The learner is guided to: analyse a given storytelling performance to evaluate elements such as theme, plot, confidence of the; analyse a confidence of the elements with guidance and explain the method or choices used.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Task performance checklist; explanation of method or choices",
+              ""
+            ],
+            [
+              "Week 6",
+              "Lesson 2",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) explore examples of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts and discuss their expressive features using locally available materials; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "What do we learn from group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts?",
+              "The learner is guided to: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; explore examples of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts and discuss their expressive features.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Observation; oral response",
+              ""
+            ],
+            [
+              "Week 6",
+              "Lesson 3",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts — Guided rehearsal",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) rehearse or practise group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts with supportive teacher feedback; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "What steps do we follow when working with group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts?",
+              "The learner is guided to: rehearse or practise group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts with supportive teacher feedback.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Rehearsal checklist",
+              ""
+            ],
+            [
+              "Week 6",
+              "Lesson 4",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts — Creating a response",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) create an age-appropriate response to group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts using available materials or performance; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "How well can I work with group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts on my own?",
+              "The learner is guided to: create an age-appropriate response to group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts using available materials or performance.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Creative-work rubric",
+              ""
+            ],
+            [
+              "Week 7",
+              "Lesson 1",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts — Comparing interpretations",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) compare interpretations of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts and explain artistic choices in learning situations; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "How can we explain group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts?",
+              "The learner is guided to: compare interpretations of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts and explain artistic choices.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Interpretation discussion",
+              ""
+            ],
+            [
+              "Week 7",
+              "Lesson 2",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts — Refining technique",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) use feedback to refine technique in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "How do I check and improve my work on group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts?",
+              "The learner is guided to: use feedback to refine technique in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Process portfolio",
+              ""
+            ],
+            [
+              "Week 7",
+              "Lesson 3",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts — Community expression",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) connect group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts to an appropriate community or cultural setting in real life situations; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "Where do we meet group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts at home or in the community?",
+              "The learner is guided to: connect group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts to an appropriate community or cultural setting.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Contextual creative task",
+              ""
+            ],
+            [
+              "Week 7",
+              "Lesson 4",
+              "Foundations of Creative Arts and Sports",
+              "Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts — Sharing work",
+              "By the end of the lesson, the learner should be able to: a) identify the key ideas in group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) share work on group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts with peers and respond respectfully to feedback; c) appreciate the importance of group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts in day to day life.",
+              "How can I explain group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts to others?",
+              "The learner is guided to: share work on group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts with peers and respond respectfully to feedback.",
+              "Creative Arts Learner's Book, Grade 7; Teacher's Guide; charts and locally available materials",
+              "Presentation or performance rubric",
+              ""
+            ],
+            [
+              "Week 8",
+              "Lesson 1",
+              "REVISION",
+              "Revision: Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first)",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first); b) apply the learning in a revision task; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first)?",
+              "Work through revision examples with a partner on Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first); the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Revision exercise; oral explanation",
+              ""
+            ],
+            [
+              "Week 8",
+              "Lesson 2",
+              "REVISION",
+              "Revision: Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community; b) apply the learning in a revision task; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community?",
+              "Work through revision examples with a partner on Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community; the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Revision exercise; oral explanation",
+              ""
+            ],
+            [
+              "Week 8",
+              "Lesson 3",
+              "REVISION",
+              "Revision: Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance; b) apply the learning in a revision task; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance?",
+              "Work through revision examples with a partner on Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance; the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Revision exercise; oral explanation",
+              ""
+            ],
+            [
+              "Week 8",
+              "Lesson 4",
+              "REVISION",
+              "Revision: Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) apply the learning in a revision task; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts?",
+              "Work through revision examples with a partner on Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Revision exercise; oral explanation",
+              ""
+            ],
+            [
+              "Week 9",
+              "Lesson 1",
+              "ASSESSMENT",
+              "End of Term 3 Assessment: Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first)",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first); b) apply the learning in a targeted assessment; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first)?",
+              "Complete an individual assessment task on Swimming; Painting a human form; Pencil dive; Backstroke: Demonstrating a pencil dive (feet first); the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Targeted assessment; progress record",
+              ""
+            ],
+            [
+              "Week 9",
+              "Lesson 2",
+              "ASSESSMENT",
+              "End of Term 3 Assessment: Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community; b) apply the learning in a targeted assessment; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community?",
+              "Complete an individual assessment task on Kenyan Folk songs; Decorating a costume; Classification; Performing: Performing a folksong from a Kenyan community; the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Targeted assessment; progress record",
+              ""
+            ],
+            [
+              "Week 9",
+              "Lesson 3",
+              "ASSESSMENT",
+              "End of Term 3 Assessment: Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance; b) apply the learning in a targeted assessment; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance?",
+              "Complete an individual assessment task on Analysis of Creative Arts and Sports; Criteria for evaluation; Analysis for each category: Evaluate a storytelling performance; the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Targeted assessment; progress record",
+              ""
+            ],
+            [
+              "Week 9",
+              "Lesson 4",
+              "ASSESSMENT",
+              "End of Term 3 Assessment: Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts",
+              "By the end of the lesson, the learner should be able to: a) explain the key ideas in Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; b) apply the learning in a targeted assessment; c) take responsibility for checking and improving their work.",
+              "How can I demonstrate and check my understanding of Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts?",
+              "Complete an individual assessment task on Introduction to Creative Arts and Sports: Group Presentation and Panel Discussion: Comprehensive understanding and ability to articulate concepts; the teacher records understanding and identifies the next support needed.",
+              "Creative Arts Learner's Book, Grade 7; completed work; assessment tasks",
+              "Targeted assessment; progress record",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "CORE COMPETENCIES, VALUES AND PERTINENT ISSUES",
+        "items": [
+          "Core competencies: Citizenship; Learning to learn; Communication and collaboration",
+          "Values: Integrity; Love",
+          "Pertinent and contemporary issues: Financial literacy; Environmental awareness and conservation"
+        ]
+      },
+      {
+        "heading": "HOW THIS SCHEME WAS PREPARED",
+        "body": "Derived from the curriculum design. Official strands and sub-strands remain the reference anchors; lesson-specific focuses and teaching steps are deduced from the content, not additional official KICD sub-strands. Review and adapt to your class before use.",
+        "items": [
+          "Quality pass: 23 key inquiry question(s) made lesson-specific where the source repeated one question across a sub-strand.",
+          "Harvested KICD curriculum design for Grade 7 Creative Arts (23 sub-strands)",
+          "Term 3 covers 4 sub-strand(s), weighted by KICD's own lesson allocations",
+          "Kenya school calendar: Term 3 has 9 weeks at 4 lessons/week",
+          "Solis scheme builder format v7; lesson focuses are deduced from outcomes and activities, with staged practice instead of repeated headings",
+          "Resource/assessment-only duplicate rows with already defined strand/unit codes were omitted; they are not additional teaching units."
+        ]
+      }
+    ],
+    "generatedAt": "2026-09-09T14:11:15.749Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-09-09T14:12:55.959Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-09-09T14:12:56.564Z",
+  "source": "teacher-approved"
+}
