@@ -1,0 +1,118 @@
+{
+  "kind": "lesson-notes",
+  "grade": "Grade 7",
+  "subject": "Integrated Science",
+  "level": "junior_secondary",
+  "topic": "Electrical Energy",
+  "approved": {
+    "kind": "lesson-notes",
+    "title": "GRADE 7 INTEGRATED SCIENCE LESSON NOTES: ELECTRICAL ENERGY",
+    "subtitle": "Designed for Solis School — Competency-Based Curriculum (CBC) Standard",
+    "offline": false,
+    "source": "server",
+    "grade": "Grade 7",
+    "subject": "Integrated Science",
+    "level": "junior_secondary",
+    "sections": [
+      {
+        "heading": "Lesson Administrative Details",
+        "body": "This lesson is structured for Grade 7 JSS learners at Solis School under the Integrated Science Learning Area, focusing on practical science applications, safety, and foundational physics principles.",
+        "items": [
+          "Learning Area: Integrated Science",
+          "Strand: Force and Energy",
+          "Sub-strand: Electrical Energy",
+          "Grade: Grade 7",
+          "Duration: 80 Minutes (Double Lesson)"
+        ]
+      },
+      {
+        "heading": "Specific Learning Outcomes",
+        "body": "By the end of the lesson, the learner should be able to:",
+        "items": [
+          "Set up simple electrical circuits in series and parallel using dry cells, bulbs, ammeters, and voltmeters.",
+          "Identify and categorize various electrical appliances used in their school and home locality.",
+          "Demonstrate safe practices and observe safety measures when handling electrical appliances.",
+          "Appreciate the value and use of electrical energy in everyday daily life."
+        ]
+      },
+      {
+        "heading": "Key Inquiry Questions",
+        "items": [
+          "What are the primary sources of electricity in our country?",
+          "What are the differences between conductors and non-conductors of electricity?",
+          "How do series and parallel circuit arrangements affect the brightness of bulbs?"
+        ]
+      },
+      {
+        "heading": "Core Competencies and Values",
+        "body": "The lesson integrates core competencies and citizenship values to foster holistic development in learners.",
+        "items": [
+          "Core Competency - Communication and Collaboration: Developed during group discussions and when setting up circuits collectively.",
+          "Core Competency - Critical Thinking and Problem Solving: Cultivated when troubleshooting open circuits or evaluating brightness differences.",
+          "Core Competency - Digital Literacy: Achieved by searching for and observing interactive virtual simulations of circuits.",
+          "Value - Responsibility: Practiced through the careful handling of science equipment and strict adherence to electrical safety rules.",
+          "Value - Unity and Respect: Demonstrated through active listening and equitable division of labor during group experiments."
+        ]
+      },
+      {
+        "heading": "Key Points and Subject Content",
+        "body": "This section outlines the factual scientific concepts of Electrical Energy appropriate for Grade 7 learners:",
+        "items": [
+          "Sources of Electricity: Electricity is generated from various sources including chemical cells (dry cells, lead-acid accumulators), solar photovoltaic panels, hydroelectric power stations (HEP), geothermal power plants, and wind turbines.",
+          "Electric Circuit: A complete, continuous path through which electric current flows. It consists of a source (cell), conducting path (wires), load (bulb), and control device (switch).",
+          "Series Circuit: An arrangement where components are connected end-to-end in a single pathway. The current flowing through each component is the same, but the voltage is shared. If one bulb blows, the entire circuit is broken.",
+          "Parallel Circuit: An arrangement where components are connected across multiple branches. Each component receives the full source voltage. If one bulb blows, others continue to shine.",
+          "Ammeters and Voltmeters: An ammeter measures electric current in Amperes (A) and must always be connected in series. A voltmeter measures potential difference (voltage) in Volts (V) and must always be connected in parallel across the component.",
+          "Conductors vs. Non-Conductors: Conductors are materials that allow electricity to pass through easily (e.g., copper, iron, graphite). Non-conductors (insulators) do not allow electricity to pass (e.g., rubber, plastic, dry wood).",
+          "Electrical Safety: Water conducts electricity; never touch appliances with wet hands. Do not overload electrical outlets. Avoid inserting metallic objects into sockets. Switch off main power during maintenance."
+        ]
+      },
+      {
+        "heading": "Learning Activities",
+        "body": "Active learner-centered activities to be executed during the lesson:",
+        "items": [
+          "Activity 1 (Group Work): Setting up simple series circuits using two dry cells, copper wires, a switch, and a bulb. Observing the brightness.",
+          "Activity 2 (Group Work): Restructuring the setup into a parallel circuit and comparing the brightness of the bulbs with the series setup.",
+          "Activity 3 (Practical Measurement): Inserting an ammeter in series to measure current, and a voltmeter in parallel across a bulb to measure voltage.",
+          "Activity 4 (Digital Exploration): Using digital tablets at Solis School to watch 5-minute animations on the flow of electrons in AC and DC circuits.",
+          "Activity 5 (Class Discussion): Brainstorming local electrical appliances (e.g., iron boxes, electric kettles, television sets) and classifying them by their functions (heating, lighting, sound, or motion)."
+        ]
+      },
+      {
+        "heading": "Learning Resources",
+        "body": "Suggested teaching aids and learning materials for effective delivery:",
+        "items": [
+          "Grade 7 Integrated Science Approved Pupil's Book.",
+          "Circuit kits: Dry cells (1.5V), connecting copper wires, miniature bulbs, bulb holders, and simple switches.",
+          "Measurement instruments: Analog/Digital Ammeters and Voltmeters.",
+          "Safety posters displaying rules for handling household electricity.",
+          "Solis School Computer Lab projector or student tablets for virtual circuit simulations."
+        ]
+      },
+      {
+        "heading": "Formative and Authentic Assessment",
+        "body": "Methods to measure and track the development of skills, knowledge, and values:",
+        "items": [
+          "Practical Demonstration: The teacher observes and rates each group's ability to successfully set up functioning series and parallel circuits without short-circuiting.",
+          "Observation & Checklists: Monitoring learners' collaboration, safe handling of instruments, and correct insertion of ammeters/voltmeters during the practical.",
+          "Written Assessment: A short five-question quiz at the end of the lesson requiring learners to identify circuit symbols and differentiate series from parallel circuits.",
+          "Portfolio: Learners sketch and label the diagrams of the series and parallel circuits they constructed, filing them in their physical science portfolios."
+        ]
+      },
+      {
+        "heading": "Extended Activity / Community Service Learning",
+        "body": "An out-of-class task to reinforce learning at home and in the community:",
+        "items": [
+          "Home Energy Audit: Learners, with the assistance of their parents or guardians at home, should identify at least five electrical appliances in their households. They will record the power rating (in Watts) of each appliance and list two safety practices observed in their homes to prevent electrical hazards. This information will be compiled into a simple table and presented in the next lesson."
+        ]
+      }
+    ],
+    "generatedAt": "2026-09-16T10:36:54.801Z",
+    "anonymized": true,
+    "anonymizedAt": "2026-09-16T10:43:23.868Z"
+  },
+  "edits": [],
+  "anonymized": true,
+  "pushedAt": "2026-09-16T10:43:24.927Z",
+  "source": "teacher-approved"
+}
