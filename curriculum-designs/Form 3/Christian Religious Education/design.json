@@ -1,293 +1,610 @@
 {
   "grade": "Form 3",
   "learningArea": "Christian Religious Education",
-  "strandCount": 31,
-  "totalLessons": 0,
+  "strandCount": 66,
+  "totalLessons": 66,
   "strands": [
     {
-      "strand": "JESUS’ MINISTRY IN JERUSALEM",
-      "subStrand": "28-40)",
+      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
+      "subStrand": "The last supper (Luke 22:1-38)",
       "code": "1.1",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 28-40); b) apply 28-40) in solving problems.",
-      "experiences": "The learner is guided to: discuss 28-40); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 28-40) in real life?"
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
+      "experiences": "The learner is guided to: discuss the last supper (luke 22:1-38); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the last supper (luke 22:1-38) in real life?"
     },
     {
-      "strand": "JESUS’ MINISTRY IN JERUSALEM",
-      "subStrand": "41-48)",
+      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
+      "subStrand": "Prayer on Mount Olives, betrayal and arrest (Luke 22:39-53)",
       "code": "1.2",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 41-48); b) apply 41-48) in solving problems.",
-      "experiences": "The learner is guided to: discuss 41-48); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 41-48) in real life?"
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
+      "experiences": "The learner is guided to: discuss prayer on mount olives, betrayal and arrest (luke 22:39-53); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply prayer on mount olives, betrayal and arrest (luke 22:39-53) in real life?"
     },
     {
-      "strand": "JESUS’ MINISTRY IN JERUSALEM",
-      "subStrand": "1 -24:1-4)",
+      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
+      "subStrand": "The denial by Peter, trial, crucifixion, death and burial (Luke 22:54-71; 23:1-56)",
       "code": "1.3",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 1 -24:1-4); b) apply 1 -24:1-4) in solving problems.",
-      "experiences": "The learner is guided to: discuss 1 -24:1-4); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 1 -24:1-4) in real life?"
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
+      "experiences": "The learner is guided to: discuss the denial by peter, trial, crucifixion, death and burial (luke 22:54-71; 23:1-56); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the denial by peter, trial, crucifixion, death and burial (luke 22:54-71; 23:1-56) in real life?"
     },
     {
-      "strand": "JESUS’ MINISTRY IN JERUSALEM",
-      "subStrand": "5-38)",
+      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
+      "subStrand": "The resurrection (Luke 24:1-53)",
       "code": "1.4",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 5-38); b) apply 5-38) in solving problems.",
-      "experiences": "The learner is guided to: discuss 5-38); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 5-38) in real life?"
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
+      "experiences": "The learner is guided to: discuss the resurrection (luke 24:1-53); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the resurrection (luke 24:1-53) in real life?"
     },
     {
       "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
-      "subStrand": "1-38)",
-      "code": "2.1",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 1-38); b) apply 1-38) in solving problems.",
-      "experiences": "The learner is guided to: discuss 1-38); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 1-38) in real life?"
+      "subStrand": "Witness to the risen Christ",
+      "code": "1.5",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
+      "experiences": "The learner is guided to: discuss witness to the risen christ; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply witness to the risen christ in real life?"
     },
     {
       "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
-      "subStrand": "39-53)",
-      "code": "2.2",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 39-53); b) apply 39-53) in solving problems.",
-      "experiences": "The learner is guided to: discuss 39-53); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 39-53) in real life?"
-    },
-    {
-      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
-      "subStrand": "54-71",
-      "code": "2.3",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 54-71; b) apply 54-71 in solving problems.",
-      "experiences": "The learner is guided to: discuss 54-71; work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 54-71 in real life?"
-    },
-    {
-      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
-      "subStrand": "23:1-56)",
-      "code": "2.4",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 23:1-56); b) apply 23:1-56) in solving problems.",
-      "experiences": "The learner is guided to: discuss 23:1-56); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 23:1-56) in real life?"
-    },
-    {
-      "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
-      "subStrand": "1-53)",
-      "code": "2.5",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 1-53); b) apply 1-53) in solving problems.",
-      "experiences": "The learner is guided to: discuss 1-53); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 1-53) in real life?"
+      "subStrand": "Jesus ascension to heaven",
+      "code": "1.6",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
+      "experiences": "The learner is guided to: discuss jesus ascension to heaven; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply jesus ascension to heaven in real life?"
     },
     {
       "strand": "JESUS ’ PASSION, DEATH AND RESURRECTION",
       "subStrand": "Significance of passion, death and the resurrection of Jesus to daily Christian life",
-      "code": "2.6",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain significance of passion, death and the resurrection of jesus to daily christian life; b) apply significance of passion, death and the resurrection of jesus to daily christian life in solving problems.",
+      "code": "1.7",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) discuss the Lord's supper and show its meaning to Christians today; b) describe the events that took place on Mount Olives; c) explain the events that took place between the arrest and the burial of Jesus; d) describe the resurrection of Jesus; e) explain and relate the significance of the teaching on the passion, death and; f) resurrection of Jesus to daily life.",
       "experiences": "The learner is guided to: discuss significance of passion, death and the resurrection of jesus to daily christian life; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply significance of passion, death and the resurrection of jesus to daily christian life in real life?"
     },
     {
       "strand": "THE GIFTS OF THE HOLY SPIRIT",
-      "subStrand": "1 -40)",
-      "code": "3.1",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 1 -40); b) apply 1 -40) in solving problems.",
-      "experiences": "The learner is guided to: discuss 1 -40); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 1 -40) in real life?"
+      "subStrand": "Peter’s message o n the Day of Pentecost (Acts 2:1 -40)",
+      "code": "2.1",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) relate the message of Peter on the Day of Pentecost; b) explain the teaching of Jesus on the role of the Holy Spirit; c) explain the gifts of the Holy Spirit and their manifestation as expressed by Paul; d) explain the criteria for discerning the gifts of the Holy Spirit in the New Testament; e) Discuss the manifestation of the Holy Spirit in the church today.",
+      "experiences": "The learner is guided to: discuss peter’s message o n the day of pentecost (acts 2:1 -40); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply peter’s message o n the day of pentecost (acts 2:1 -40) in real life?"
     },
     {
       "strand": "THE GIFTS OF THE HOLY SPIRIT",
-      "subStrand": "15-26",
-      "code": "3.2",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 15-26; b) apply 15-26 in solving problems.",
-      "experiences": "The learner is guided to: discuss 15-26; work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 15-26 in real life?"
-    },
-    {
-      "strand": "THE GIFTS OF THE HOLY SPIRIT",
-      "subStrand": "16:5-15",
-      "code": "3.3",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 16:5-15; b) apply 16:5-15 in solving problems.",
-      "experiences": "The learner is guided to: discuss 16:5-15; work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 16:5-15 in real life?"
-    },
-    {
-      "strand": "THE GIFTS OF THE HOLY SPIRIT",
-      "subStrand": "Acts 1:7-8)",
-      "code": "3.4",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain acts 1:7-8); b) apply acts 1:7-8) in solving problems.",
-      "experiences": "The learner is guided to: discuss acts 1:7-8); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply acts 1:7-8) in real life?"
+      "subStrand": "The teaching of Jesus on the role of the Holy Spirit (John 14:15-26; 16:5-15; Acts 1:7-8)",
+      "code": "2.2",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) relate the message of Peter on the Day of Pentecost; b) explain the teaching of Jesus on the role of the Holy Spirit; c) explain the gifts of the Holy Spirit and their manifestation as expressed by Paul; d) explain the criteria for discerning the gifts of the Holy Spirit in the New Testament; e) Discuss the manifestation of the Holy Spirit in the church today.",
+      "experiences": "The learner is guided to: discuss the teaching of jesus on the role of the holy spirit (john 14:15-26; 16:5-15; acts 1:7-8); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the teaching of jesus on the role of the holy spirit (john 14:15-26; 16:5-15; acts 1:7-8) in real life?"
     },
     {
       "strand": "THE GIFTS OF THE HOLY SPIRIT",
       "subStrand": "The gifts of the Holy Spirit (1 Corinthians 12, 13, 14)",
-      "code": "3.5",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the gifts of the holy spirit (1 corinthians 12, 13, 14); b) apply the gifts of the holy spirit (1 corinthians 12, 13, 14) in solving problems.",
+      "code": "2.3",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) relate the message of Peter on the Day of Pentecost; b) explain the teaching of Jesus on the role of the Holy Spirit; c) explain the gifts of the Holy Spirit and their manifestation as expressed by Paul; d) explain the criteria for discerning the gifts of the Holy Spirit in the New Testament; e) Discuss the manifestation of the Holy Spirit in the church today.",
       "experiences": "The learner is guided to: discuss the gifts of the holy spirit (1 corinthians 12, 13, 14); work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply the gifts of the holy spirit (1 corinthians 12, 13, 14) in real life?"
     },
     {
       "strand": "THE GIFTS OF THE HOLY SPIRIT",
-      "subStrand": "Matthew 7:15-20",
-      "code": "3.6",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain matthew 7:15-20; b) apply matthew 7:15-20 in solving problems.",
-      "experiences": "The learner is guided to: discuss matthew 7:15-20; work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply matthew 7:15-20 in real life?"
+      "subStrand": "The criteria for discerning the gifts of the Holy Spirit (1 Corinthians 12:1-3; Matthew 7:15-20; Galatians 5: 16-26)",
+      "code": "2.4",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) relate the message of Peter on the Day of Pentecost; b) explain the teaching of Jesus on the role of the Holy Spirit; c) explain the gifts of the Holy Spirit and their manifestation as expressed by Paul; d) explain the criteria for discerning the gifts of the Holy Spirit in the New Testament; e) Discuss the manifestation of the Holy Spirit in the church today.",
+      "experiences": "The learner is guided to: discuss the criteria for discerning the gifts of the holy spirit (1 corinthians 12:1-3; matthew 7:15-20; galatians 5: 16-26); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the criteria for discerning the gifts of the holy spirit (1 corinthians 12:1-3; matthew 7:15-20; galatians 5: 16-26) in real life?"
     },
     {
       "strand": "THE GIFTS OF THE HOLY SPIRIT",
-      "subStrand": "16-26)",
-      "code": "3.7",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain 16-26); b) apply 16-26) in solving problems.",
-      "experiences": "The learner is guided to: discuss 16-26); work through examples; attempt exercises in pairs.",
-      "inquiryQuestions": "How do we apply 16-26) in real life?"
+      "subStrand": "Manifestations of the gifts of the Holy Spirit in the church today (Galatians 5: 16-26)",
+      "code": "2.5",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) relate the message of Peter on the Day of Pentecost; b) explain the teaching of Jesus on the role of the Holy Spirit; c) explain the gifts of the Holy Spirit and their manifestation as expressed by Paul; d) explain the criteria for discerning the gifts of the Holy Spirit in the New Testament; e) Discuss the manifestation of the Holy Spirit in the church today.",
+      "experiences": "The learner is guided to: discuss manifestations of the gifts of the holy spirit in the church today (galatians 5: 16-26); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply manifestations of the gifts of the holy spirit in the church today (galatians 5: 16-26) in real life?"
+    },
+    {
+      "strand": "THE GIFTS OF THE HOLY SPIRIT",
+      "subStrand": "The fruits of the Holy Spirit (Galatians 5:16-26)",
+      "code": "2.6",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) relate the message of Peter on the Day of Pentecost; b) explain the teaching of Jesus on the role of the Holy Spirit; c) explain the gifts of the Holy Spirit and their manifestation as expressed by Paul; d) explain the criteria for discerning the gifts of the Holy Spirit in the New Testament; e) Discuss the manifestation of the Holy Spirit in the church today.",
+      "experiences": "The learner is guided to: discuss the fruits of the holy spirit (galatians 5:16-26); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the fruits of the holy spirit (galatians 5:16-26) in real life?"
     },
     {
       "strand": "UNITY OF BELIEVERS",
       "subStrand": "Teaching on the unity of believers in selected New Testament texts",
-      "code": "4.1",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain teaching on the unity of believers in selected new testament texts; b) apply teaching on the unity of believers in selected new testament texts in solving problems.",
+      "code": "3.1",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
       "experiences": "The learner is guided to: discuss teaching on the unity of believers in selected new testament texts; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply teaching on the unity of believers in selected new testament texts in real life?"
     },
     {
       "strand": "UNITY OF BELIEVERS",
+      "subStrand": "The people of God (1 Peter 2:9-10)",
+      "code": "3.2",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss the people of god (1 peter 2:9-10); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the people of god (1 peter 2:9-10) in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "The body of Christ (1 Corinthians 12:12-27); Ephesians 4:1-12)",
+      "code": "3.3",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss the body of christ (1 corinthians 12:12-27); ephesians 4:1-12); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the body of christ (1 corinthians 12:12-27); ephesians 4:1-12) in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "The vine and the branches (John 15:1-10)",
+      "code": "3.4",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss the vine and the branches (john 15:1-10); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the vine and the branches (john 15:1-10) in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "The church (Ephesians 5:21-32)",
+      "code": "3.5",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss the church (ephesians 5:21-32); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the church (ephesians 5:21-32) in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "The bride (Revelation 21:1-12;2 Corinthians 11:2)",
+      "code": "3.6",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss the bride (revelation 21:1-12;2 corinthians 11:2); work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the bride (revelation 21:1-12;2 corinthians 11:2) in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
       "subStrand": "African concept of God, spirits and ancestors",
-      "code": "4.2",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain african concept of god, spirits and ancestors; b) apply african concept of god, spirits and ancestors in solving problems.",
+      "code": "3.7",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
       "experiences": "The learner is guided to: discuss african concept of god, spirits and ancestors; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply african concept of god, spirits and ancestors in real life?"
     },
     {
       "strand": "UNITY OF BELIEVERS",
       "subStrand": "African understanding of the hierarchy of beings",
-      "code": "4.3",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain african understanding of the hierarchy of beings; b) apply african understanding of the hierarchy of beings in solving problems.",
+      "code": "3.8",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
       "experiences": "The learner is guided to: discuss african understanding of the hierarchy of beings; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply african understanding of the hierarchy of beings in real life?"
     },
     {
       "strand": "UNITY OF BELIEVERS",
       "subStrand": "The role of God, spirits and ancestors",
-      "code": "4.4",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the role of god, spirits and ancestors; b) apply the role of god, spirits and ancestors in solving problems.",
+      "code": "3.9",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
       "experiences": "The learner is guided to: discuss the role of god, spirits and ancestors; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply the role of god, spirits and ancestors in real life?"
     },
     {
       "strand": "UNITY OF BELIEVERS",
       "subStrand": "Responsibility of the living towards God, spirits and ancestors",
-      "code": "4.5",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain responsibility of the living towards god, spirits and ancestors; b) apply responsibility of the living towards god, spirits and ancestors in solving problems.",
+      "code": "3.10",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
       "experiences": "The learner is guided to: discuss responsibility of the living towards god, spirits and ancestors; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply responsibility of the living towards god, spirits and ancestors in real life?"
     },
     {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "Traditional African ways of",
+      "code": "3.11",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss traditional african ways of; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african ways of in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "worshipping God;",
+      "code": "3.12",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss worshipping god;; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply worshipping god; in real life?"
+    },
+    {
+      "strand": "UNITY OF BELIEVERS",
+      "subStrand": "venerating and communicating with spirits and ancestors",
+      "code": "3.13",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the unity of believers as taught in selected New Testament texts; b) show how unity of believers in the Christian community and the nation is promoted; c) explain the African concept of God, spirits and ancestors; d) explain the African understanding of the hierarchy of beings; e) describe the role of God, spirits, and ancestors; f) explain the responsibilities of the living towards God, spirits and ancestors; g) describe the traditional African way of worshipping God, venerating and communicating with the; h) ancestors and spirits.",
+      "experiences": "The learner is guided to: discuss venerating and communicating with spirits and ancestors; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply venerating and communicating with spirits and ancestors in real life?"
+    },
+    {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "Meaning of life and its wholeness in the traditional African society",
-      "code": "5.1",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of life and its wholeness in the traditional african society; b) apply meaning of life and its wholeness in the traditional african society in solving problems.",
+      "code": "4.1",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss meaning of life and its wholeness in the traditional african society; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply meaning of life and its wholeness in the traditional african society in real life?"
     },
     {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "The African concept of community and kinship system",
-      "code": "5.2",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the african concept of community and kinship system; b) apply the african concept of community and kinship system in solving problems.",
+      "code": "4.2",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss the african concept of community and kinship system; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply the african concept of community and kinship system in real life?"
     },
     {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "Factors contributing to harmony and mutual responsibility in the African communities",
-      "code": "5.3",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain factors contributing to harmony and mutual responsibility in the african communities; b) apply factors contributing to harmony and mutual responsibility in the african communities in solving problems.",
+      "code": "4.3",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss factors contributing to harmony and mutual responsibility in the african communities; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply factors contributing to harmony and mutual responsibility in the african communities in real life?"
     },
     {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "a) Rites of passage",
-      "code": "5.4",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain a) rites of passage; b) apply a) rites of passage in solving problems.",
+      "code": "4.4",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss a) rites of passage; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply a) rites of passage in real life?"
     },
     {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
+      "subStrand": "Birth and naming",
+      "code": "4.5",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
+      "experiences": "The learner is guided to: discuss birth and naming; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply birth and naming in real life?"
+    },
+    {
+      "strand": "AFRICAN MORAL AND CULTURAL VALUES",
+      "subStrand": "The role of each in inculcating moral values",
+      "code": "4.6",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
+      "experiences": "The learner is guided to: discuss the role of each in inculcating moral values; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the role of each in inculcating moral values in real life?"
+    },
+    {
+      "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "The role of religious specialists in the African communities and their relevance today",
-      "code": "5.5",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain the role of religious specialists in the african communities and their relevance today; b) apply the role of religious specialists in the african communities and their relevance today in solving problems.",
+      "code": "4.7",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss the role of religious specialists in the african communities and their relevance today; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply the role of religious specialists in the african communities and their relevance today in real life?"
     },
     {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "African moral values hospitality, honesty, courtesy, integrity tolerance/perseverance",
-      "code": "5.6",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain african moral values hospitality, honesty, courtesy, integrity tolerance/perseverance; b) apply african moral values hospitality, honesty, courtesy, integrity tolerance/perseverance in solving problems.",
+      "code": "4.8",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss african moral values hospitality, honesty, courtesy, integrity tolerance/perseverance; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply african moral values hospitality, honesty, courtesy, integrity tolerance/perseverance in real life?"
     },
     {
       "strand": "AFRICAN MORAL AND CULTURAL VALUES",
       "subStrand": "Continuity and change in the African understanding of community old age, land, the aged, property",
-      "code": "5.7",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain continuity and change in the african understanding of community old age, land, the aged, property; b) apply continuity and change in the african understanding of community old age, land, the aged, property in solving problems.",
+      "code": "4.9",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of life and its wholeness in the traditional African society; b) explain the African concept of community and kinship system; c) outline and explain factors contributing to harmony and mutual responsibility in the African community; d) describe the rites of passage and their role in inculcating moral values in the traditional African; e) community; f) explain the role of religious specialists in the African communities and evaluate their relevance in; g) modern society; h) explain the African moral values; i) discuss and evaluate continuity and change in the African understanding of leisure, dress, old age, the; j) aged, widows, orphans, dowry, community, land, medicine, worship and property.",
       "experiences": "The learner is guided to: discuss continuity and change in the african understanding of community old age, land, the aged, property; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply continuity and change in the african understanding of community old age, land, the aged, property in real life?"
     },
     {
       "strand": "INTRODUCTION TO CHRISTIAN ETHICS",
       "subStrand": "Meaning of Christian ethics",
-      "code": "6.1",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain meaning of christian ethics; b) apply meaning of christian ethics in solving problems.",
+      "code": "5.1",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of Christian ethics; b) explain the basis of Christian ethics.",
       "experiences": "The learner is guided to: discuss meaning of christian ethics; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply meaning of christian ethics in real life?"
     },
     {
       "strand": "INTRODUCTION TO CHRISTIAN ETHICS",
       "subStrand": "Basis of Christian ethics",
-      "code": "6.2",
-      "lessons": null,
-      "outcomes": "By the end of the lesson, the learner should be able to: a) explain basis of christian ethics; b) apply basis of christian ethics in solving problems.",
+      "code": "5.2",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) explain the meaning of Christian ethics; b) explain the basis of Christian ethics.",
       "experiences": "The learner is guided to: discuss basis of christian ethics; work through examples; attempt exercises in pairs.",
       "inquiryQuestions": "How do we apply basis of christian ethics in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Definitions of human sexuality, marriage and family",
+      "code": "6.1",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss definitions of human sexuality, marriage and family; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definitions of human sexuality, marriage and family in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African understanding of human sexuality",
+      "code": "6.2",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss traditional african understanding of human sexuality; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african understanding of human sexuality in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on human Sexuality",
+      "code": "6.3",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss christian teaching on human sexuality; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on human sexuality in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African practices related to male/female relationships at various levels",
+      "code": "6.4",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss traditional african practices related to male/female relationships at various levels; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african practices related to male/female relationships at various levels in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on male/female relationships at various levels",
+      "code": "6.5",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss christian teaching on male/female relationships at various levels; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on male/female relationships at various levels in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on responsible sexual behaviour",
+      "code": "6.6",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss christian teaching on responsible sexual behaviour; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on responsible sexual behaviour in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on",
+      "code": "6.7",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss christian teaching on; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Irresponsible sexual behaviour; Incest, rape, fornication adultery, homosexuality",
+      "code": "6.8",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss irresponsible sexual behaviour; incest, rape, fornication adultery, homosexuality; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply irresponsible sexual behaviour; incest, rape, fornication adultery, homosexuality in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Effects of irresponsible sexual behaviour; H IV /A ID S , S T I’s, abortion, divorce,",
+      "code": "6.9",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss effects of irresponsible sexual behaviour; h iv /a id s , s t i’s, abortion, divorce,; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply effects of irresponsible sexual behaviour; h iv /a id s , s t i’s, abortion, divorce, in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African understanding of marriage",
+      "code": "6.10",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss traditional african understanding of marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african understanding of marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on marriage",
+      "code": "6.11",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss christian teaching on marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Preparation for marriage in both the traditional African society and Christian practice;",
+      "code": "6.12",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss preparation for marriage in both the traditional african society and christian practice;; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply preparation for marriage in both the traditional african society and christian practice; in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African preparation for marriage",
+      "code": "6.13",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss traditional african preparation for marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african preparation for marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Christian teaching on preparation for marriage",
+      "code": "6.14",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss christian teaching on preparation for marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on preparation for marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Celibacy as an alternative to marriage",
+      "code": "6.15",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss celibacy as an alternative to marriage; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply celibacy as an alternative to marriage in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African and Christian understanding of the family",
+      "code": "6.16",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss traditional african and christian understanding of the family; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african and christian understanding of the family in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Value of responsible parenthood",
+      "code": "6.17",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss value of responsible parenthood; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply value of responsible parenthood in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Problems related to family life today",
+      "code": "6.18",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss problems related to family life today; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply problems related to family life today in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHES TO HUMAN SEXUALITY, MARRIAGE AND FAMILY",
+      "subStrand": "Traditional African and Christian approaches to problems related to family life today",
+      "code": "6.19",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define human sexuality, marriage and family; b) explain the traditional African understanding of human sexuality; c) explain Christian teaching on human sexuality; d) explain traditional African practices related to male/female relationships; e) explain Christian teaching on male/female relationship at various levels; f) explain Christian teaching on responsible sexual behaviour; g) explain Christian teaching on irresponsible sexual behaviour and their consequences; h) explain traditional African understanding of marriage; i) explain Christian teaching on marriage; j) discuss the traditional African and Christian approaches to marriage preparation; k) explain celibacy as an alternative to marriage; l) discuss Traditional and Christian understanding of the family; m) discuss the value of responsible parenthood; n) discuss problems related to family life today; o) explain and evaluate traditional African and Christian approaches to problems related to family life; p) today.",
+      "experiences": "The learner is guided to: discuss traditional african and christian approaches to problems related to family life today; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african and christian approaches to problems related to family life today in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Definition of the term s ‘work ’ and ‘vocation ’",
+      "code": "7.1",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss definition of the term s ‘work ’ and ‘vocation ’; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply definition of the term s ‘work ’ and ‘vocation ’ in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Traditional African attitude to work",
+      "code": "7.2",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss traditional african attitude to work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply traditional african attitude to work in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Christian teaching on work",
+      "code": "7.3",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss christian teaching on work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian teaching on work in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "The roles of professional ethos, ethics and codes in society",
+      "code": "7.4",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss the roles of professional ethos, ethics and codes in society; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply the roles of professional ethos, ethics and codes in society in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Some virtues related to various types of work",
+      "code": "7.5",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss some virtues related to various types of work; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply some virtues related to various types of work in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Moral duties and responsibilities of employers and employees",
+      "code": "7.6",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss moral duties and responsibilities of employers and employees; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply moral duties and responsibilities of employers and employees in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Christian approaches to issues related to employment",
+      "code": "7.7",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss christian approaches to issues related to employment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply christian approaches to issues related to employment in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Wages and industrial action",
+      "code": "7.8",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss wages and industrial action; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply wages and industrial action in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Child labour",
+      "code": "7.9",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss child labour; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply child labour in real life?"
+    },
+    {
+      "strand": "CHRISTIAN APPROACHED TO WORK",
+      "subStrand": "Unemployment and self-employment",
+      "code": "7.10",
+      "lessons": 1,
+      "outcomes": "By the end of the topic, the learner should be able to: a) define the term s ‘work ’ and ‘vocation ’; b) explain the traditional African attitude towards work; c) explain the role of professional ethos, ethics and code in society; d) explain virtues related to work; e) discuss the moral duties and responsibilities of employers and employees; f) discuss Christian approaches to issues related to employment.",
+      "experiences": "The learner is guided to: discuss unemployment and self-employment; work through examples; attempt exercises in pairs.",
+      "inquiryQuestions": "How do we apply unemployment and self-employment in real life?"
     }
   ],
   "driveId": "1AYQwPRx-WkMtQMUIhtTOGeJ35SsryLfa",
   "pages": 16,
-  "harvestedAt": "2026-09-03T06:57:26.936Z",
+  "harvestedAt": "2026-09-19T16:04:06.357Z",
   "source": "KNEC 8-4-4 secondary syllabus",
-  "outcomesDerived": true,
+  "outcomesDerived": false,
+  "allocationDerived": true,
+  "allocationNote": "KNEC syllabus states no per-topic lesson allocation; even pacing (1 lesson per sub-topic) assumed.",
   "formInferred": true
 }
