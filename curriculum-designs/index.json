@@ -6,17 +6,17 @@
       "grade": "Form 3",
       "learningArea": "Agriculture",
       "path": "curriculum-designs/Form 3/Agriculture/design.json",
-      "strandCount": 89,
-      "totalLessons": 0,
+      "strandCount": 99,
+      "totalLessons": 99,
       "curriculum": "8-4-4",
-      "outcomesDerived": true
+      "outcomesDerived": false
     },
     {
       "grade": "Form 3",
       "learningArea": "Biology",
       "path": "curriculum-designs/Form 3/Biology/design.json",
       "strandCount": 85,
-      "totalLessons": 0,
+      "totalLessons": 85,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -24,26 +24,26 @@
       "grade": "Form 3",
       "learningArea": "Business Studies",
       "path": "curriculum-designs/Form 3/Business Studies/design.json",
-      "strandCount": 48,
-      "totalLessons": 0,
+      "strandCount": 73,
+      "totalLessons": 73,
       "curriculum": "8-4-4",
-      "outcomesDerived": true
+      "outcomesDerived": false
     },
     {
       "grade": "Form 3",
       "learningArea": "Christian Religious Education",
       "path": "curriculum-designs/Form 3/Christian Religious Education/design.json",
-      "strandCount": 31,
-      "totalLessons": 0,
+      "strandCount": 66,
+      "totalLessons": 66,
       "curriculum": "8-4-4",
-      "outcomesDerived": true
+      "outcomesDerived": false
     },
     {
       "grade": "Form 3",
       "learningArea": "English",
       "path": "curriculum-designs/Form 3/English/design.json",
       "strandCount": 97,
-      "totalLessons": 0,
+      "totalLessons": 97,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -52,7 +52,7 @@
       "learningArea": "Kiswahili",
       "path": "curriculum-designs/Form 3/Kiswahili/design.json",
       "strandCount": 61,
-      "totalLessons": 0,
+      "totalLessons": 61,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -61,7 +61,7 @@
       "learningArea": "Mathematics",
       "path": "curriculum-designs/Form 3/Mathematics/design.json",
       "strandCount": 113,
-      "totalLessons": 0,
+      "totalLessons": 113,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -70,7 +70,7 @@
       "learningArea": "Physics",
       "path": "curriculum-designs/Form 3/Physics/design.json",
       "strandCount": 59,
-      "totalLessons": 0,
+      "totalLessons": 59,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -78,17 +78,17 @@
       "grade": "Form 4",
       "learningArea": "Agriculture",
       "path": "curriculum-designs/Form 4/Agriculture/design.json",
-      "strandCount": 37,
-      "totalLessons": 0,
+      "strandCount": 39,
+      "totalLessons": 39,
       "curriculum": "8-4-4",
-      "outcomesDerived": true
+      "outcomesDerived": false
     },
     {
       "grade": "Form 4",
       "learningArea": "Biology",
       "path": "curriculum-designs/Form 4/Biology/design.json",
       "strandCount": 58,
-      "totalLessons": 0,
+      "totalLessons": 58,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -96,26 +96,26 @@
       "grade": "Form 4",
       "learningArea": "Business Studies",
       "path": "curriculum-designs/Form 4/Business Studies/design.json",
-      "strandCount": 58,
-      "totalLessons": 0,
+      "strandCount": 62,
+      "totalLessons": 62,
       "curriculum": "8-4-4",
-      "outcomesDerived": true
+      "outcomesDerived": false
     },
     {
       "grade": "Form 4",
       "learningArea": "Christian Religious Education",
       "path": "curriculum-designs/Form 4/Christian Religious Education/design.json",
-      "strandCount": 44,
-      "totalLessons": 0,
+      "strandCount": 38,
+      "totalLessons": 38,
       "curriculum": "8-4-4",
-      "outcomesDerived": true
+      "outcomesDerived": false
     },
     {
       "grade": "Form 4",
       "learningArea": "English",
       "path": "curriculum-designs/Form 4/English/design.json",
       "strandCount": 81,
-      "totalLessons": 0,
+      "totalLessons": 81,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -124,7 +124,7 @@
       "learningArea": "Kiswahili",
       "path": "curriculum-designs/Form 4/Kiswahili/design.json",
       "strandCount": 54,
-      "totalLessons": 0,
+      "totalLessons": 54,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -133,7 +133,7 @@
       "learningArea": "Mathematics",
       "path": "curriculum-designs/Form 4/Mathematics/design.json",
       "strandCount": 86,
-      "totalLessons": 0,
+      "totalLessons": 86,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
@@ -142,7 +142,7 @@
       "learningArea": "Physics",
       "path": "curriculum-designs/Form 4/Physics/design.json",
       "strandCount": 90,
-      "totalLessons": 0,
+      "totalLessons": 90,
       "curriculum": "8-4-4",
       "outcomesDerived": true
     },
